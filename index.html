@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	Urban by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
 <html>
 
 <head>
@@ -12,25 +7,31 @@
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="assets/css/main.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+	<!-- FontAwesome -->
 </head>
 
 <body>
-
 	<!-- Header -->
 	<header id="header" class="alt">
 		<a href="#menu">Menu</a>
-	</header><!-- Nav -->
+	</header>
+
+	<!-- Nav -->
 	<nav id="menu">
 		<ul class="links">
 			<li><a href="index.html">About me</a></li>
-			<li><a href="innovation.html">Let's Innovate</a>
-			<li>
+			<li><a href="innovation.html">Let's Innovate</a></li>
 			<li><a href="#footer">Contacts</a></li>
 		</ul>
-	</nav><!-- Banner -->
+	</nav>
+
+	<!-- Banner -->
 	<section id="banner">
+		<!-- Particles.js container -->
+		<div id="particles-js"></div>
 		<div class="inner">
-			<header>
+			<header class="banner-content">
 				<h1>This is Firat</h1>
 				<p>"Welcome to my digital sphere! It's a pleasure to have you here, where innovation meets creativity
 					through the lens of a Software Developer. This space is not just my virtual home but a canvas where
@@ -40,63 +41,56 @@
 					content, your presence and curiosity make it all the more exciting. Let's embark on this adventure
 					of discovery and innovation together, shaping a future where technology bridges gaps and amplifies
 					potential. Welcome aboard!</p>
-
+			</header>
 		</div>
-	</section><!-- Main -->
+	</section>
 
-
-	</section><!-- Section -->
+	<!-- Main -->
 	<section class="wrapper style1">
 		<div class="inner">
 			<header class="align-center">
 				<h2></h2>
-
 				<p>Hey there! I’m Firat Selcuk. I work as a Software Development Engineer in Test, which means I
 					spend my days making sure the software we use is as good as it can be. I grew up in Antakya, Turkey,
 					a place with a lot of history, and I like to think that’s where I got my mix of being
-					detail-oriented and creative from.
-
+					detail-oriented and creative from.</p>
 				<p>My job is all about testing software to catch any issues before they reach the user. It’s a bit like
 					being a detective, but for code. I love diving into the nitty-gritty of software, finding out what
-					makes it tick, and figuring out how to make it even better.
-
+					makes it tick, and figuring out how to make it even better.</p>
 				<p>When I’m not knee-deep in code, you’ll probably find me in the kitchen trying out new recipes or
 					outdoors, soaking up nature. Cooking is my way of taking a break and experimenting with different
 					flavors and techniques. It’s a lot like coding, but with food! And there’s nothing like a good hike
 					or bike ride to clear my mind and get inspired.</p>
-
 				<p>I think being good at my job means bringing together the best of both worlds: the precision of
 					engineering and the creativity of exploring new ideas, whether that’s in tech, on a plate of food,
 					or somewhere out in the mountains.</p>
-
 				<p>I’d love to connect, whether it’s about work, the latest tech trends, or just to exchange a cool
 					recipe or two. Don’t hesitate to get in touch. Let’s see what we can create together!</p>
-
 			</header>
 		</div>
 	</section>
-	</div>
 
 	<!-- Footer -->
 	<footer id="footer">
 		<div class="copyright">
 			<ul class="icons">
-				<li><a href="https://twitter.com/firatsselcuk" class="icon fa-twitter" target="_blank"><span
-							class="label">Twitter</span></a>
-
-				<li><a href="https://www.linkedin.com/in/firat-selcuk-64b4b6231/" class="icon fa-linkedin"
+				<li><a href="https://twitter.com/firatsselcuk" class="icon fab fa-twitter" target="_blank"><span
+							class="label">Twitter</span></a></li>
+				<li><a href="https://www.linkedin.com/in/firat-selcuk-64b4b6231/" class="icon fab fa-linkedin"
 						target="_blank"><span class="label">Linkedin</span></a></li>
-				<li><a href="https://github.com/FiratSS" class="icon fa-github" target="_blank"><span
-							class="label">GitHub</span></a>
-				<li><a href="mailto:firatselcuk010@gmail.com" class="icon fa-envelope" target="_blank"><span
+				<li><a href="https://github.com/FiratSS" class="icon fab fa-github" target="_blank"><span
+							class="label">GitHub</span></a></li>
+				<li><a href="mailto:firatselcuk010@gmail.com" class="icon fas fa-envelope" target="_blank"><span
 							class="label">Email</span></a></li>
-				</li>
 			</ul>
+
 		</div>
 	</footer>
+
 	<div class="copyright">
 		<p>&copy; 2022 Firat Selcuk. All rights reserved.</p>
 	</div>
+
 	<!-- Scripts -->
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/jquery.scrolly.min.js"></script>
@@ -104,6 +98,17 @@
 	<script src="assets/js/skel.min.js"></script>
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
+
+	<!-- Include particles.js -->
+	<script src="assets/js/particles.min.js"></script> <!-- If downloaded -->
+	<!-- <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> --> <!-- If using CDN -->
+
+	<!-- Particles.js configuration -->
+	<script>
+		particlesJS.load('particles-js', 'assets/js/particles.json', function () {
+			console.log('particles.json loaded...');
+		});
+	</script>
 </body>
 
 </html>
