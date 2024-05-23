@@ -413,6 +413,13 @@ button:active,
 	visibility: visible;
 }
 
+#main .container p {
+	color: #f8f9fa;
+	/* Ensuring paragraphs in the main container are also bright white */
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);
+	/* Adding shadow to paragraph text */
+}
+
 /* Banner */
 #banner {
 	display: flex;
@@ -423,7 +430,7 @@ button:active,
 	/* Set a light background color */
 	color: #fff;
 	/* Retain the original color if needed */
-	background-image: url("../../images/Background.png");
+	/* background-image: url("../../images/Background.png"); */
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -441,6 +448,12 @@ button:active,
 	opacity: 1;
 	position: relative;
 	z-index: 1;
+	color: #f8f9fa;
+	/* Brighter white color for better visibility */
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);
+	/* Stronger shadow for better readability */
+	font-weight: bold;
+	/* Make the text thicker */
 }
 
 #banner h1 {
@@ -594,14 +607,20 @@ button:active,
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	z-index: 0;
-	top: 0;
-	left: 0;
+	background-color: #1a1a1a;
+	/* Darker background for better visibility of particles */
+	background-image: url("../../images/Background.png");
+	/* Ensure this is either removed or set to a valid image */
+	background-size: cover;
+	background-position: 50% 50%;
+	z-index: 1;
 }
 
-.banner-content {
+#banner .inner {
 	position: relative;
 	z-index: 2;
-	color: #333;
-
+	color: #ffffff;
+	/* Ensure text is visible on dark background */
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+	/* Add a slight shadow for readability */
 }
