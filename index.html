@@ -142,17 +142,173 @@
                         margin: 0 auto;
                     }
                 
+                /* Mobile Responsive Styles */
+                @media (max-width: 1200px) {
+                        .container {
+                                padding: 0 20px;
+                        }
+                        
+                        .hero-content h1 {
+                                font-size: 2.5rem;
+                        }
+                        
+                        .hero-content p {
+                                font-size: 1.1rem;
+                        }
+                }
+                
                 @media (max-width: 768px) {
-                        .skills-grid,
-                        .projects-grid,
-                        .resources-grid {
-                                grid-template-columns: 1fr;
+                        .container {
+                                padding: 0 15px;
+                        }
+                        
+                        /* Navigation */
+                        #menu {
+                                padding: 20px 15px;
+                        }
+                        
+                        #menu ul {
+                                flex-direction: column;
+                                gap: 15px;
+                        }
+                        
+                        #menu ul li {
+                                text-align: center;
+                        }
+                        
+                        #menu ul li a {
+                                font-size: 1.1rem;
+                                padding: 12px 20px;
+                                display: block;
+                                border-radius: 8px;
+                                background: rgba(255, 255, 255, 0.1);
+                                backdrop-filter: blur(10px);
+                        }
+                        
+                        /* Hero Section */
+                        .hero {
+                                padding: 80px 0 60px;
+                                min-height: 70vh;
+                        }
+                        
+                        .hero-content h1 {
+                                font-size: 2.2rem;
+                                line-height: 1.2;
+                                margin-bottom: 20px;
+                        }
+                        
+                        .hero-content p {
+                                font-size: 1rem;
+                                line-height: 1.6;
+                                margin-bottom: 30px;
+                        }
+                        
+                        .cta-buttons {
+                                flex-direction: column;
+                                gap: 15px;
+                                align-items: center;
+                        }
+                        
+                        .btn {
+                                width: 100%;
+                                max-width: 280px;
+                                padding: 15px 25px;
+                                font-size: 1rem;
+                        }
+                        
+                        /* Sections */
+                        .section {
+                                padding: 60px 0;
                         }
                         
                         .section-header h2 {
                                 font-size: 2rem;
+                                margin-bottom: 15px;
                         }
-                    }
+                        
+                        .section-header p {
+                                font-size: 1rem;
+                                line-height: 1.6;
+                        }
+                        
+                        /* Grids */
+                        .skills-grid,
+                        .projects-grid,
+                        .resources-grid {
+                                grid-template-columns: 1fr;
+                                gap: 20px;
+                        }
+                        
+                        .skill-card,
+                        .project-card,
+                        .resource-card {
+                                padding: 25px 20px;
+                        }
+                        
+                        .skill-card h3,
+                        .project-card h3,
+                        .resource-card h3 {
+                                font-size: 1.3rem;
+                                margin-bottom: 15px;
+                        }
+                        
+                        .skill-card p,
+                        .project-card p,
+                        .resource-card p {
+                                font-size: 0.95rem;
+                                line-height: 1.5;
+                        }
+                        
+                        /* Footer */
+                        .footer {
+                                padding: 40px 0;
+                        }
+                        
+                        .footer-content {
+                                flex-direction: column;
+                                text-align: center;
+                                gap: 20px;
+                        }
+                        
+                        .social-links {
+                                justify-content: center;
+                        }
+                        
+                        .social-links a {
+                                width: 45px;
+                                height: 45px;
+                                font-size: 1.1rem;
+                        }
+                }
+                
+                @media (max-width: 480px) {
+                        .container {
+                                padding: 0 10px;
+                        }
+                        
+                        .hero-content h1 {
+                                font-size: 1.8rem;
+                        }
+                        
+                        .hero-content p {
+                                font-size: 0.95rem;
+                        }
+                        
+                        .section-header h2 {
+                                font-size: 1.7rem;
+                        }
+                        
+                        .skill-card,
+                        .project-card,
+                        .resource-card {
+                                padding: 20px 15px;
+                        }
+                        
+                        .btn {
+                                padding: 12px 20px;
+                                font-size: 0.95rem;
+                        }
+                }
         </style>
 </head>
 
