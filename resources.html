@@ -1,0 +1,478 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+        <title>Resources & Books - Firat Selcuk</title>
+        <meta charset="utf-8">
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Download helpful e-books, resources, and read Firat Selcuk's own small books on software testing and development.">
+        <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        <style>
+                .books-grid {
+                        display: grid;
+                        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+                        gap: 2rem;
+                        margin: 2rem 0;
+                }
+                
+                .book-card {
+                        background: #fff;
+                        border: 1px solid #e9ecef;
+                        border-radius: 12px;
+                        padding: 2rem;
+                        transition: all 0.3s ease;
+                        box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+                        position: relative;
+                        overflow: hidden;
+                }
+                
+                .book-card::before {
+                        content: '';
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        right: 0;
+                        height: 4px;
+                        background: linear-gradient(90deg, #28a745, #20c997);
+                }
+                
+                .book-card:hover {
+                        transform: translateY(-8px);
+                        box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+                        border-color: #28a745;
+                }
+                
+                .book-card h3 {
+                        margin-top: 0;
+                        color: #333;
+                        display: flex;
+                        align-items: center;
+                        gap: 0.75rem;
+                        font-size: 1.3rem;
+                    }
+                
+                .book-meta {
+                        color: #666;
+                        font-size: 0.9rem;
+                        margin: 0.5rem 0;
+                    }
+                
+                .book-description {
+                        color: #555;
+                        line-height: 1.6;
+                        margin: 1rem 0;
+                    }
+                
+                .book-actions {
+                        margin-top: 1.5rem;
+                        display: flex;
+                        gap: 1rem;
+                        flex-wrap: wrap;
+                    }
+                
+                .download-btn {
+                        background: linear-gradient(135deg, #28a745, #20c997);
+                        color: white;
+                        padding: 0.75rem 1.5rem;
+                        border-radius: 25px;
+                        text-decoration: none;
+                        font-weight: 500;
+                        transition: all 0.3s ease;
+                        display: inline-flex;
+                        align-items: center;
+                        gap: 0.5rem;
+                    }
+                
+                .download-btn:hover {
+                        background: linear-gradient(135deg, #218838, #1ea085);
+                        transform: translateY(-2px);
+                        box-shadow: 0 5px 15px rgba(40, 167, 69, 0.3);
+                        color: white;
+                        text-decoration: none;
+                    }
+                
+                .external-btn {
+                        background: #6c757d;
+                        color: white;
+                        padding: 0.75rem 1.5rem;
+                        border-radius: 25px;
+                        text-decoration: none;
+                        font-weight: 500;
+                        transition: all 0.3s ease;
+                        display: inline-flex;
+                        align-items: center;
+                        gap: 0.5rem;
+                    }
+                
+                .external-btn:hover {
+                        background: #5a6268;
+                        transform: translateY(-2px);
+                        color: white;
+                        text-decoration: none;
+                    }
+                
+                .section-header {
+                        text-align: center;
+                        margin-bottom: 3rem;
+                    }
+                
+                .section-header h2 {
+                        font-size: 2.5rem;
+                        margin-bottom: 1rem;
+                        color: #333;
+                    }
+                
+                .section-header p {
+                        font-size: 1.2rem;
+                        color: #666;
+                        max-width: 600px;
+                        margin: 0 auto;
+                    }
+                
+                .coming-soon {
+                        background: linear-gradient(135deg, #ffc107, #fd7e14);
+                        color: white;
+                        padding: 1rem;
+                        border-radius: 8px;
+                        text-align: center;
+                        margin: 1rem 0;
+                        font-weight: 500;
+                    }
+                
+                .file-info {
+                        background: #f8f9fa;
+                        padding: 1rem;
+                        border-radius: 8px;
+                        margin: 1rem 0;
+                        border-left: 4px solid #007bff;
+                    }
+                
+                .file-info h4 {
+                        margin-top: 0;
+                        color: #333;
+                    }
+                
+                .file-info ul {
+                        margin: 0.5rem 0;
+                        padding-left: 1.5rem;
+                    }
+                
+                @media (max-width: 768px) {
+                        .books-grid {
+                                grid-template-columns: 1fr;
+                        }
+                        
+                        .section-header h2 {
+                                font-size: 2rem;
+                        }
+                        
+                        .book-actions {
+                                flex-direction: column;
+                        }
+                    }
+        </style>
+</head>
+
+<body>
+        <!-- Header -->
+        <header id="header" class="alt">
+                <div class="logo"><a href="index.html">Resources <span>by Firat</span></a></div>
+                <a href="#menu">Menu</a>
+        </header>
+
+        <!-- Nav -->
+        <nav id="menu">
+                <ul class="links">
+                        <li><a href="index.html">About me</a></li>
+                        <li><a href="innovation.html">Let's Innovate</a></li>
+                        <li><a href="projects.html">Projects</a></li>
+                        <li><a href="resources.html">Resources</a></li>
+                        <li><a href="index.html#footer">Contacts</a></li>
+                </ul>
+        </nav>
+
+        <!-- Banner -->
+        <section id="banner">
+                <div id="particles-js"></div>
+                <div class="inner">
+                        <header>
+                                <h1>Resources & Books</h1>
+                                <p>Download helpful e-books, resources, and read my own small books<br>
+                                on software testing, development, and continuous learning</p>
+                        </header>
+                        <a href="#main" class="button big scrolly">Browse Resources</a>
+                </div>
+        </section>
+
+        <div id="main" class="container">
+                <!-- My Books Section -->
+                <section class="wrapper style1">
+                        <div class="inner">
+                                <div class="section-header">
+                                        <h2>My Small Books</h2>
+                                        <p>Practical guides and insights from my experience in software testing and development</p>
+                                </div>
+                                
+                                <div class="books-grid">
+                                        <div class="book-card">
+                                                <h3><i class="fas fa-book"></i> Testing Fundamentals</h3>
+                                                <div class="book-meta">By Firat Selcuk • PDF • 45 pages</div>
+                                                <div class="book-description">
+                                                        <p>A comprehensive guide to software testing fundamentals, covering test planning, execution, and reporting. Perfect for beginners and those looking to refresh their testing knowledge.</p>
+                                                </div>
+                                                <div class="file-info">
+                                                        <h4>📁 File Information</h4>
+                                                        <ul>
+                                                                <li>Format: PDF</li>
+                                                                <li>Size: ~2.5 MB</li>
+                                                                <li>Pages: 45</li>
+                                                                <li>Language: English</li>
+                                                        </ul>
+                                                </div>
+                                                <div class="book-actions">
+                                                        <a href="assets/books/testing-fundamentals.pdf" class="download-btn" download>
+                                                                <i class="fas fa-download"></i> Download PDF
+                                                        </a>
+                                                </div>
+                                        </div>
+                                        
+                                        <div class="book-card">
+                                                <h3><i class="fas fa-code"></i> API Testing with RestAssured</h3>
+                                                <div class="book-meta">By Firat Selcuk • PDF • 32 pages</div>
+                                                <div class="book-description">
+                                                        <p>Hands-on guide to API testing using RestAssured framework. Includes practical examples, best practices, and common pitfalls to avoid.</p>
+                                                </div>
+                                                <div class="file-info">
+                                                        <h4>📁 File Information</h4>
+                                                        <ul>
+                                                                <li>Format: PDF</li>
+                                                                <li>Size: ~1.8 MB</li>
+                                                                <li>Pages: 32</li>
+                                                                <li>Language: English</li>
+                                                        </ul>
+                                                </div>
+                                                <div class="book-actions">
+                                                        <a href="assets/books/api-testing-restassured.pdf" class="download-btn" download>
+                                                                <i class="fas fa-download"></i> Download PDF
+                                                        </a>
+                                                </div>
+                                        </div>
+                                        
+                                        <div class="book-card">
+                                                <h3><i class="fas fa-lightbulb"></i> Career Growth in Testing</h3>
+                                                <div class="book-meta">By Firat Selcuk • PDF • Coming Soon</div>
+                                                <div class="book-description">
+                                                        <p>Insights and strategies for building a successful career in software testing. Covers skill development, networking, and career advancement tips.</p>
+                                                </div>
+                                                <div class="coming-soon">
+                                                        <i class="fas fa-clock"></i> Coming Soon - Currently in development
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </section>
+
+                <hr class="major">
+
+                <!-- Recommended Books Section -->
+                <section class="wrapper style2">
+                        <div class="inner">
+                                <div class="section-header">
+                                        <h2>Recommended Books</h2>
+                                        <p>Essential reading for software developers and testers</p>
+                                </div>
+                                
+                                <div class="books-grid">
+                                        <div class="book-card">
+                                                <h3><i class="fas fa-robot"></i> Machine Learning for Dummies</h3>
+                                                <div class="book-meta">By IBM • PDF • 384 pages</div>
+                                                <div class="book-description">
+                                                        <p>A comprehensive guide to understanding machine learning concepts, algorithms, and practical applications. Perfect for beginners and intermediate learners.</p>
+                                                </div>
+                                                <div class="file-info">
+                                                        <h4>📁 File Information</h4>
+                                                        <ul>
+                                                                <li>Format: PDF</li>
+                                                                <li>Size: ~15.2 MB</li>
+                                                                <li>Pages: 384</li>
+                                                                <li>Language: English</li>
+                                                        </ul>
+                                                </div>
+                                                <div class="book-actions">
+                                                        <a href="assets/books/machine-learning-for-dummies-ibm.pdf" class="download-btn" download>
+                                                                <i class="fas fa-download"></i> Download PDF
+                                                        </a>
+                                                        <a href="https://www.amazon.com/Machine-Learning-Dummies-IBM/dp/1119245516" class="external-btn" target="_blank">
+                                                                <i class="fas fa-external-link-alt"></i> Buy on Amazon
+                                                        </a>
+                                                </div>
+                                        </div>
+                                        
+                                        <div class="book-card">
+                                                <h3><i class="fas fa-code"></i> Clean Code</h3>
+                                                <div class="book-meta">By Robert C. Martin • PDF • 464 pages</div>
+                                                <div class="book-description">
+                                                        <p>Essential reading for any developer. Learn how to write clean, maintainable code that other developers can easily understand and modify.</p>
+                                                </div>
+                                                <div class="file-info">
+                                                        <h4>📁 File Information</h4>
+                                                        <ul>
+                                                                <li>Format: PDF</li>
+                                                                <li>Size: ~8.7 MB</li>
+                                                                <li>Pages: 464</li>
+                                                                <li>Language: English</li>
+                                                        </ul>
+                                                </div>
+                                                <div class="book-actions">
+                                                        <a href="assets/books/clean-code-robert-martin.pdf" class="download-btn" download>
+                                                                <i class="fas fa-download"></i> Download PDF
+                                                        </a>
+                                                        <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" class="external-btn" target="_blank">
+                                                                <i class="fas fa-external-link-alt"></i> Buy on Amazon
+                                                        </a>
+                                                </div>
+                                        </div>
+                                        
+                                        <div class="book-card">
+                                                <h3><i class="fas fa-bug"></i> The Art of Software Testing</h3>
+                                                <div class="book-meta">By Glenford Myers • PDF • 256 pages</div>
+                                                <div class="book-description">
+                                                        <p>A classic in software testing literature. Covers fundamental testing principles, strategies, and techniques that every tester should know.</p>
+                                                </div>
+                                                <div class="file-info">
+                                                        <h4>📁 File Information</h4>
+                                                        <ul>
+                                                                <li>Format: PDF</li>
+                                                                <li>Size: ~4.2 MB</li>
+                                                                <li>Pages: 256</li>
+                                                                <li>Language: English</li>
+                                                        </ul>
+                                                </div>
+                                                <div class="book-actions">
+                                                        <a href="assets/books/art-of-software-testing.pdf" class="download-btn" download>
+                                                                <i class="fas fa-download"></i> Download PDF
+                                                        </a>
+                                                        <a href="https://www.amazon.com/Art-Software-Testing-Glenford-Myers/dp/0471469122" class="external-btn" target="_blank">
+                                                                <i class="fas fa-external-link-alt"></i> Buy on Amazon
+                                                        </a>
+                                                </div>
+                                        </div>
+                                        
+                                        <div class="book-card">
+                                                <h3><i class="fas fa-cogs"></i> Effective Java</h3>
+                                                <div class="book-meta">By Joshua Bloch • PDF • 416 pages</div>
+                                                <div class="book-description">
+                                                        <p>The definitive guide to Java best practices. Learn how to write more effective, efficient, and maintainable Java code.</p>
+                                                </div>
+                                                <div class="file-info">
+                                                        <h4>📁 File Information</h4>
+                                                        <ul>
+                                                                <li>Format: PDF</li>
+                                                                <li>Size: ~6.8 MB</li>
+                                                                <li>Pages: 416</li>
+                                                                <li>Language: English</li>
+                                                        </ul>
+                                                </div>
+                                                <div class="book-actions">
+                                                        <a href="assets/books/effective-java-joshua-bloch.pdf" class="download-btn" download>
+                                                                <i class="fas fa-download"></i> Download PDF
+                                                        </a>
+                                                        <a href="https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997" class="external-btn" target="_blank">
+                                                                <i class="fas fa-external-link-alt"></i> Buy on Amazon
+                                                        </a>
+                                                </div>
+                                        </div>
+                                        
+                                        <div class="book-card">
+                                                <h3><i class="fas fa-rocket"></i> Agile Testing</h3>
+                                                <div class="book-meta">By Lisa Crispin & Janet Gregory • PDF • 533 pages</div>
+                                                <div class="book-description">
+                                                        <p>Learn how to integrate testing into agile development processes and become an effective agile tester.</p>
+                                                </div>
+                                                <div class="file-info">
+                                                        <h4>📁 File Information</h4>
+                                                        <ul>
+                                                                <li>Format: PDF</li>
+                                                                <li>Size: ~12.1 MB</li>
+                                                                <li>Pages: 533</li>
+                                                                <li>Language: English</li>
+                                                        </ul>
+                                                </div>
+                                                <div class="book-actions">
+                                                        <a href="assets/books/agile-testing-crispin-gregory.pdf" class="download-btn" download>
+                                                                <i class="fas fa-download"></i> Download PDF
+                                                        </a>
+                                                        <a href="https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468" class="external-btn" target="_blank">
+                                                                <i class="fas fa-external-link-alt"></i> Buy on Amazon
+                                                        </a>
+                                                </div>
+                                        </div>
+                                        
+                                        <div class="book-card">
+                                                <h3><i class="fas fa-database"></i> SQL for Dummies</h3>
+                                                <div class="book-meta">By Allen G. Taylor • PDF • 512 pages</div>
+                                                <div class="book-description">
+                                                        <p>Master SQL fundamentals with this comprehensive guide. Perfect for understanding database queries and data manipulation.</p>
+                                                </div>
+                                                <div class="file-info">
+                                                        <h4>📁 File Information</h4>
+                                                        <ul>
+                                                                <li>Format: PDF</li>
+                                                                <li>Size: ~9.3 MB</li>
+                                                                <li>Pages: 512</li>
+                                                                <li>Language: English</li>
+                                                        </ul>
+                                                </div>
+                                                <div class="book-actions">
+                                                        <a href="assets/books/sql-for-dummies-allen-taylor.pdf" class="download-btn" download>
+                                                                <i class="fas fa-download"></i> Download PDF
+                                                        </a>
+                                                        <a href="https://www.amazon.com/SQL-Dummies-Allen-G-Taylor/dp/1119527074" class="external-btn" target="_blank">
+                                                                <i class="fas fa-external-link-alt"></i> Buy on Amazon
+                                                        </a>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </section>
+
+                <!-- Footer -->
+                <footer id="footer">
+                        <div class="copyright">
+                                <ul class="icons">
+                                        <li><a href="https://twitter.com/firatsselcuk" class="icon fab fa-twitter" target="_blank"><span
+                                                        class="label">Twitter</span></a></li>
+                                        <li><a href="https://www.linkedin.com/in/firat-selcuk-64b4b6231/" class="icon fab fa-linkedin"
+                                                        target="_blank"><span class="label">Linkedin</span></a></li>
+                                        <li><a href="https://github.com/FiratSS" class="icon fab fa-github" target="_blank"><span
+                                                        class="label">GitHub</span></a></li>
+                                        <li><a href="mailto:firatselcuk010@gmail.com" class="icon fas fa-envelope" target="_blank"><span
+                                                        class="label">Email</span></a></li>
+                                </ul>
+                        </div>
+                </footer>
+                <div class="copyright">
+                        <p>&copy; 2025 Firat Selcuk. All rights reserved.</p>
+                </div>
+        </div>
+
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.scrolly.min.js"></script>
+        <script src="assets/js/jquery.scrollex.min.js"></script>
+        <script src="assets/js/skel.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script>
+        <script src="assets/js/particles.min.js"></script>
+
+        <!-- Particles.js configuration -->
+        <script>
+                particlesJS.load('particles-js', 'assets/js/particles.json', function () {
+                        console.log('particles.json loaded...');
+                });
+        </script>
+</body>
+
+</html>
