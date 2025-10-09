@@ -9,6 +9,182 @@
         <meta name="description" content="Explore Firat Selcuk's software development and testing projects, including API testing, web applications, and automation frameworks.">
         <link rel="stylesheet" href="assets/css/main.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        <style>
+                .projects-grid {
+                        display: grid;
+                        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+                        gap: 2rem;
+                        margin: 2rem 0;
+                }
+                
+                .project-card {
+                        background: #fff;
+                        border: 1px solid #e9ecef;
+                        border-radius: 12px;
+                        padding: 2rem;
+                        transition: all 0.3s ease;
+                        box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+                        position: relative;
+                        overflow: hidden;
+                }
+                
+                .project-card::before {
+                        content: '';
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        right: 0;
+                        height: 4px;
+                        background: linear-gradient(90deg, #007bff, #28a745);
+                }
+                
+                .project-card:hover {
+                        transform: translateY(-8px);
+                        box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+                        border-color: #007bff;
+                }
+                
+                .project-card h3 {
+                        margin-top: 0;
+                        color: #333;
+                        display: flex;
+                        align-items: center;
+                        gap: 0.75rem;
+                        font-size: 1.4rem;
+                    }
+                
+                .project-tech {
+                        background: linear-gradient(135deg, #007bff, #0056b3);
+                        color: white;
+                        padding: 0.4rem 0.8rem;
+                        border-radius: 20px;
+                        font-size: 0.85rem;
+                        margin: 0.25rem 0.25rem 0.25rem 0;
+                        display: inline-block;
+                        font-weight: 500;
+                    }
+                
+                .project-description {
+                        color: #666;
+                        line-height: 1.6;
+                        margin: 1rem 0;
+                    }
+                
+                .project-actions {
+                        margin-top: 1.5rem;
+                        display: flex;
+                        gap: 1rem;
+                        flex-wrap: wrap;
+                    }
+                
+                .section-header {
+                        text-align: center;
+                        margin-bottom: 3rem;
+                    }
+                
+                .section-header h2 {
+                        font-size: 2.5rem;
+                        margin-bottom: 1rem;
+                        color: #333;
+                    }
+                
+                .section-header p {
+                        font-size: 1.2rem;
+                        color: #666;
+                        max-width: 600px;
+                        margin: 0 auto;
+                    }
+                
+                .tech-grid {
+                        display: grid;
+                        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+                        gap: 2rem;
+                        margin: 3rem 0;
+                    }
+                
+                .tech-category {
+                        background: #f8f9fa;
+                        padding: 2rem;
+                        border-radius: 12px;
+                        border-left: 4px solid #007bff;
+                    }
+                
+                .tech-category h4 {
+                        margin-top: 0;
+                        color: #333;
+                        display: flex;
+                        align-items: center;
+                        gap: 0.5rem;
+                    }
+                
+                .tech-category ul {
+                        list-style: none;
+                        padding: 0;
+                    }
+                
+                .tech-category li {
+                        padding: 0.5rem 0;
+                        border-bottom: 1px solid #e9ecef;
+                    }
+                
+                .tech-category li:last-child {
+                        border-bottom: none;
+                    }
+                
+                .cta-section {
+                        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                        color: white;
+                        padding: 3rem 0;
+                        margin: 3rem 0;
+                        text-align: center;
+                        border-radius: 12px;
+                    }
+                
+                .cta-section h2 {
+                        color: white;
+                        margin-bottom: 1rem;
+                    }
+                
+                .cta-section p {
+                        color: rgba(255,255,255,0.9);
+                        font-size: 1.1rem;
+                        margin-bottom: 2rem;
+                    }
+                
+                .cta-buttons {
+                        display: flex;
+                        gap: 1rem;
+                        justify-content: center;
+                        flex-wrap: wrap;
+                    }
+                
+                .cta-buttons .button {
+                        background: rgba(255,255,255,0.2);
+                        border: 2px solid rgba(255,255,255,0.3);
+                        color: white;
+                    }
+                
+                .cta-buttons .button:hover {
+                        background: rgba(255,255,255,0.3);
+                        border-color: rgba(255,255,255,0.5);
+                    }
+                
+                @media (max-width: 768px) {
+                        .projects-grid,
+                        .tech-grid {
+                                grid-template-columns: 1fr;
+                        }
+                        
+                        .section-header h2 {
+                                font-size: 2rem;
+                        }
+                        
+                        .cta-buttons {
+                                flex-direction: column;
+                                align-items: center;
+                        }
+                    }
+        </style>
 </head>
 
 <body>
@@ -45,29 +221,40 @@
                 <!-- Featured Projects -->
                 <section class="wrapper style1">
                         <div class="inner">
-                                <header class="align-center">
+                                <div class="section-header">
                                         <h2>Featured Projects</h2>
                                         <p>My most recent and impactful projects</p>
-                                </header>
+                                </div>
                                 
-                                <div class="row">
-                                        <div class="6u 12u$(medium)">
+                                <div class="projects-grid">
+                                        <div class="project-card">
                                                 <h3><i class="fas fa-utensils"></i> RecipeApp</h3>
-                                                <p>A comprehensive recipe management application built with JavaScript. Features include recipe search, categorization, and user-friendly interface for discovering and managing favorite recipes.</p>
-                                                <p><strong>Technologies:</strong> JavaScript, HTML, CSS</p>
-                                                <p><strong>Features:</strong> Recipe search, categorization, responsive design</p>
-                                                <ul class="actions">
-                                                        <li><a href="https://github.com/FiratSS/RecipeApp" class="button" target="_blank">View on GitHub</a></li>
-                                                </ul>
+                                                <div class="project-description">
+                                                        <p>A comprehensive recipe management application built with JavaScript. Features include recipe search, categorization, and user-friendly interface for discovering and managing favorite recipes.</p>
+                                                </div>
+                                                <div>
+                                                        <span class="project-tech">JavaScript</span>
+                                                        <span class="project-tech">HTML</span>
+                                                        <span class="project-tech">CSS</span>
+                                                </div>
+                                                <div class="project-actions">
+                                                        <a href="https://github.com/FiratSS/RecipeApp" class="button" target="_blank">View on GitHub</a>
+                                                </div>
                                         </div>
-                                        <div class="6u$ 12u$(medium)">
+                                        <div class="project-card">
                                                 <h3><i class="fas fa-api"></i> API Testing Suite</h3>
-                                                <p>Comprehensive API testing framework using RestAssured. Includes automated testing for REST APIs, data validation, integration testing, and comprehensive test reporting.</p>
-                                                <p><strong>Technologies:</strong> Java, RestAssured, TestNG, Maven</p>
-                                                <p><strong>Features:</strong> Automated testing, data validation, reporting</p>
-                                                <ul class="actions">
-                                                        <li><a href="https://github.com/FiratSS/API-RestAssured-Java" class="button" target="_blank">View on GitHub</a></li>
-                                                </ul>
+                                                <div class="project-description">
+                                                        <p>Comprehensive API testing framework using RestAssured. Includes automated testing for REST APIs, data validation, integration testing, and comprehensive test reporting.</p>
+                                                </div>
+                                                <div>
+                                                        <span class="project-tech">Java</span>
+                                                        <span class="project-tech">RestAssured</span>
+                                                        <span class="project-tech">TestNG</span>
+                                                        <span class="project-tech">Maven</span>
+                                                </div>
+                                                <div class="project-actions">
+                                                        <a href="https://github.com/FiratSS/API-RestAssured-Java" class="button" target="_blank">View on GitHub</a>
+                                                </div>
                                         </div>
                                 </div>
                         </div>
@@ -78,36 +265,55 @@
                 <!-- All Projects -->
                 <section class="wrapper style2">
                         <div class="inner">
-                                <header class="align-center">
+                                <div class="section-header">
                                         <h2>All Projects</h2>
                                         <p>Complete portfolio of my development work</p>
-                                </header>
+                                </div>
 
-                                <div class="row">
-                                        <div class="4u 12u$(medium)">
+                                <div class="projects-grid">
+                                        <div class="project-card">
                                                 <h3><i class="fas fa-globe"></i> Personal Website</h3>
-                                                <p>My personal portfolio website showcasing my work and skills. Built with HTML, CSS, and JavaScript with particle animations.</p>
-                                                <p><strong>Technologies:</strong> HTML, CSS, JavaScript, Particles.js</p>
-                                                <ul class="actions">
-                                                        <li><a href="https://github.com/FiratSS/Firatss.github.io" class="button small" target="_blank">GitHub</a></li>
-                                                        <li><a href="https://www.firatselcuk.dev" class="button small" target="_blank">Live Site</a></li>
-                                                </ul>
+                                                <div class="project-description">
+                                                        <p>My personal portfolio website showcasing my work and skills. Built with HTML, CSS, and JavaScript with particle animations and responsive design.</p>
+                                                </div>
+                                                <div>
+                                                        <span class="project-tech">HTML</span>
+                                                        <span class="project-tech">CSS</span>
+                                                        <span class="project-tech">JavaScript</span>
+                                                        <span class="project-tech">Particles.js</span>
+                                                </div>
+                                                <div class="project-actions">
+                                                        <a href="https://github.com/FiratSS/Firatss.github.io" class="button small" target="_blank">GitHub</a>
+                                                        <a href="https://www.firatselcuk.dev" class="button small" target="_blank">Live Site</a>
+                                                </div>
                                         </div>
-                                        <div class="4u 12u$(medium)">
+                                        <div class="project-card">
                                                 <h3><i class="fas fa-test-tube"></i> Rest-Assured API</h3>
-                                                <p>Advanced API testing project focusing on RESTful services testing with comprehensive validation and error handling.</p>
-                                                <p><strong>Technologies:</strong> Java, RestAssured, Maven</p>
-                                                <ul class="actions">
-                                                        <li><a href="https://github.com/FiratSS/Rest-Assured-API" class="button small" target="_blank">GitHub</a></li>
-                                                </ul>
+                                                <div class="project-description">
+                                                        <p>Advanced API testing project focusing on RESTful services testing with comprehensive validation and error handling.</p>
+                                                </div>
+                                                <div>
+                                                        <span class="project-tech">Java</span>
+                                                        <span class="project-tech">RestAssured</span>
+                                                        <span class="project-tech">Maven</span>
+                                                </div>
+                                                <div class="project-actions">
+                                                        <a href="https://github.com/FiratSS/Rest-Assured-API" class="button small" target="_blank">GitHub</a>
+                                                </div>
                                         </div>
-                                        <div class="4u$ 12u$(medium)">
+                                        <div class="project-card">
                                                 <h3><i class="fas fa-car"></i> WebDriver Testing</h3>
-                                                <p>Automated web testing framework using Selenium WebDriver for comprehensive UI testing and validation.</p>
-                                                <p><strong>Technologies:</strong> Java, Selenium WebDriver, TestNG</p>
-                                                <ul class="actions">
-                                                        <li><a href="https://github.com/FiratSS/take-home-webdriver-test" class="button small" target="_blank">GitHub</a></li>
-                                                </ul>
+                                                <div class="project-description">
+                                                        <p>Automated web testing framework using Selenium WebDriver for comprehensive UI testing and validation.</p>
+                                                </div>
+                                                <div>
+                                                        <span class="project-tech">Java</span>
+                                                        <span class="project-tech">Selenium WebDriver</span>
+                                                        <span class="project-tech">TestNG</span>
+                                                </div>
+                                                <div class="project-actions">
+                                                        <a href="https://github.com/FiratSS/take-home-webdriver-test" class="button small" target="_blank">GitHub</a>
+                                                </div>
                                         </div>
                                 </div>
                         </div>
@@ -118,13 +324,13 @@
                 <!-- Skills & Technologies -->
                 <section class="wrapper style1">
                         <div class="inner">
-                                <header class="align-center">
+                                <div class="section-header">
                                         <h2>Technologies & Tools</h2>
                                         <p>Technologies I work with across my projects</p>
-                                </header>
+                                </div>
 
-                                <div class="row">
-                                        <div class="3u 12u$(small)">
+                                <div class="tech-grid">
+                                        <div class="tech-category">
                                                 <h4><i class="fas fa-code"></i> Programming</h4>
                                                 <ul>
                                                         <li>Java</li>
@@ -134,7 +340,7 @@
                                                         <li>SQL</li>
                                                 </ul>
                                         </div>
-                                        <div class="3u 12u$(small)">
+                                        <div class="tech-category">
                                                 <h4><i class="fas fa-bug"></i> Testing</h4>
                                                 <ul>
                                                         <li>RestAssured</li>
@@ -144,7 +350,7 @@
                                                         <li>Cucumber</li>
                                                 </ul>
                                         </div>
-                                        <div class="3u 12u$(small)">
+                                        <div class="tech-category">
                                                 <h4><i class="fas fa-tools"></i> Tools</h4>
                                                 <ul>
                                                         <li>Git & GitHub</li>
@@ -154,7 +360,7 @@
                                                         <li>Maven/Gradle</li>
                                                 </ul>
                                         </div>
-                                        <div class="3u$ 12u$(small)">
+                                        <div class="tech-category">
                                                 <h4><i class="fas fa-cloud"></i> Platforms</h4>
                                                 <ul>
                                                         <li>GitHub Pages</li>
@@ -169,13 +375,11 @@
                 </section>
 
                 <!-- Call to Action -->
-                <section class="wrapper style2">
+                <section class="cta-section">
                         <div class="inner">
-                                <header class="align-center">
-                                        <h2>Let's Work Together</h2>
-                                        <p>Interested in collaborating or have a project in mind?</p>
-                                </header>
-                                <div class="align-center">
+                                <h2>Let's Work Together</h2>
+                                <p>Interested in collaborating or have a project in mind?</p>
+                                <div class="cta-buttons">
                                         <a href="innovation.html" class="button big">Get In Touch</a>
                                         <a href="https://github.com/FiratSS" class="button big" target="_blank">View GitHub</a>
                                 </div>
