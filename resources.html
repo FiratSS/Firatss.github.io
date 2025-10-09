@@ -159,19 +159,183 @@
                         padding-left: 1.5rem;
                     }
                 
-                @media (max-width: 768px) {
+                /* Mobile Responsive Styles */
+                @media (max-width: 1200px) {
+                        .container {
+                                padding: 0 20px;
+                        }
+                        
                         .books-grid {
-                                grid-template-columns: 1fr;
+                                grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+                        }
+                }
+                
+                @media (max-width: 768px) {
+                        .container {
+                                padding: 0 15px;
+                        }
+                        
+                        /* Navigation */
+                        #menu {
+                                padding: 20px 15px;
+                        }
+                        
+                        #menu ul {
+                                flex-direction: column;
+                                gap: 15px;
+                        }
+                        
+                        #menu ul li {
+                                text-align: center;
+                        }
+                        
+                        #menu ul li a {
+                                font-size: 1.1rem;
+                                padding: 12px 20px;
+                                display: block;
+                                border-radius: 8px;
+                                background: rgba(255, 255, 255, 0.1);
+                                backdrop-filter: blur(10px);
+                        }
+                        
+                        /* Hero Section */
+                        .hero {
+                                padding: 80px 0 60px;
+                                min-height: 50vh;
+                        }
+                        
+                        .hero-content h1 {
+                                font-size: 2.2rem;
+                                line-height: 1.2;
+                                margin-bottom: 20px;
+                        }
+                        
+                        .hero-content p {
+                                font-size: 1rem;
+                                line-height: 1.6;
+                                margin-bottom: 30px;
+                        }
+                        
+                        /* Sections */
+                        .section {
+                                padding: 60px 0;
                         }
                         
                         .section-header h2 {
                                 font-size: 2rem;
+                                margin-bottom: 15px;
+                        }
+                        
+                        .section-header p {
+                                font-size: 1rem;
+                                line-height: 1.6;
+                        }
+                        
+                        /* Books Grid */
+                        .books-grid {
+                                grid-template-columns: 1fr;
+                                gap: 20px;
+                        }
+                        
+                        .book-card {
+                                padding: 25px 20px;
+                        }
+                        
+                        .book-card h3 {
+                                font-size: 1.3rem;
+                                margin-bottom: 15px;
+                        }
+                        
+                        .book-card .book-meta {
+                                font-size: 0.9rem;
+                                margin-bottom: 15px;
+                        }
+                        
+                        .book-card .book-description p {
+                                font-size: 0.95rem;
+                                line-height: 1.5;
+                                margin-bottom: 20px;
+                        }
+                        
+                        .file-info {
+                                margin: 20px 0;
+                        }
+                        
+                        .file-info h4 {
+                                font-size: 1rem;
+                                margin-bottom: 10px;
+                        }
+                        
+                        .file-info ul {
+                                font-size: 0.9rem;
                         }
                         
                         .book-actions {
                                 flex-direction: column;
+                                gap: 10px;
                         }
-                    }
+                        
+                        .download-btn,
+                        .external-btn {
+                                width: 100%;
+                                padding: 12px 20px;
+                                font-size: 0.95rem;
+                                text-align: center;
+                        }
+                        
+                        /* Footer */
+                        .footer {
+                                padding: 40px 0;
+                        }
+                        
+                        .footer-content {
+                                flex-direction: column;
+                                text-align: center;
+                                gap: 20px;
+                        }
+                        
+                        .social-links {
+                                justify-content: center;
+                        }
+                        
+                        .social-links a {
+                                width: 45px;
+                                height: 45px;
+                                font-size: 1.1rem;
+                        }
+                }
+                
+                @media (max-width: 480px) {
+                        .container {
+                                padding: 0 10px;
+                        }
+                        
+                        .hero-content h1 {
+                                font-size: 1.8rem;
+                        }
+                        
+                        .hero-content p {
+                                font-size: 0.95rem;
+                        }
+                        
+                        .section-header h2 {
+                                font-size: 1.7rem;
+                        }
+                        
+                        .book-card {
+                                padding: 20px 15px;
+                        }
+                        
+                        .book-card h3 {
+                                font-size: 1.2rem;
+                        }
+                        
+                        .download-btn,
+                        .external-btn {
+                                padding: 10px 15px;
+                                font-size: 0.9rem;
+                        }
+                }
         </style>
 </head>
 
@@ -286,23 +450,26 @@
                                 
                                 <div class="books-grid">
                                         <div class="book-card">
-                                                <h3><i class="fas fa-robot"></i> A Beginners Guide to Machine Learning</h3>
-                                                <div class="book-meta">By Firat Selcuk • PDF • 48 pages</div>
+                                                <h3><i class="fas fa-robot"></i> Machine Learning for Dummies</h3>
+                                                <div class="book-meta">By IBM • PDF • 384 pages</div>
                                                 <div class="book-description">
-                                                        <p>A comprehensive guide to understanding machine learning concepts, algorithms, and practical applications. Perfect for beginners and intermediate learners who want to start their journey in machine learning.</p>
+                                                        <p>A comprehensive guide to understanding machine learning concepts, algorithms, and practical applications. Perfect for beginners and intermediate learners.</p>
                                                 </div>
                                                 <div class="file-info">
                                                         <h4>📁 File Information</h4>
                                                         <ul>
                                                                 <li>Format: PDF</li>
-                                                                <li>Size: ~48.5 KB</li>
-                                                                <li>Pages: 48</li>
+                                                                <li>Size: ~15.2 MB</li>
+                                                                <li>Pages: 384</li>
                                                                 <li>Language: English</li>
                                                         </ul>
                                                 </div>
                                                 <div class="book-actions">
-                                                        <a href="assets/books/a-beginners-guide-to-machine-learning.pdf" class="download-btn" download>
+                                                        <a href="assets/books/machine-learning-for-dummies-ibm.pdf" class="download-btn" download>
                                                                 <i class="fas fa-download"></i> Download PDF
+                                                        </a>
+                                                        <a href="https://www.amazon.com/Machine-Learning-Dummies-IBM/dp/1119245516" class="external-btn" target="_blank">
+                                                                <i class="fas fa-external-link-alt"></i> Buy on Amazon
                                                         </a>
                                                 </div>
                                         </div>
