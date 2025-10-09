@@ -9,7 +9,151 @@
         <meta name="description" content="Firat Selcuk - Software Development Engineer in Test specializing in quality assurance, automation testing, and innovative software solutions.">
         <link rel="stylesheet" href="assets/css/main.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-        <!-- FontAwesome -->
+        <style>
+                /* Custom improvements for better design */
+                .skills-grid {
+                        display: grid;
+                        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+                        gap: 2rem;
+                        margin: 2rem 0;
+                }
+                
+                .skill-card {
+                        background: #f8f9fa;
+                        padding: 1.5rem;
+                        border-radius: 8px;
+                        border-left: 4px solid #007bff;
+                        transition: transform 0.3s ease;
+                }
+                
+                .skill-card:hover {
+                        transform: translateY(-5px);
+                        box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+                }
+                
+                .skill-card h3 {
+                        margin-top: 0;
+                        color: #333;
+                        display: flex;
+                        align-items: center;
+                        gap: 0.5rem;
+                    }
+                
+                .projects-grid {
+                        display: grid;
+                        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+                        gap: 2rem;
+                        margin: 2rem 0;
+                    }
+                
+                .project-card {
+                        background: #fff;
+                        border: 1px solid #e9ecef;
+                        border-radius: 12px;
+                        padding: 1.5rem;
+                        transition: all 0.3s ease;
+                        box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+                    }
+                
+                .project-card:hover {
+                        transform: translateY(-5px);
+                        box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+                        border-color: #007bff;
+                    }
+                
+                .project-card h3 {
+                        margin-top: 0;
+                        color: #333;
+                        display: flex;
+                        align-items: center;
+                        gap: 0.5rem;
+                    }
+                
+                .project-tech {
+                        background: #e9ecef;
+                        padding: 0.25rem 0.75rem;
+                        border-radius: 20px;
+                        font-size: 0.85rem;
+                        color: #495057;
+                        margin: 0.25rem 0.25rem 0.25rem 0;
+                        display: inline-block;
+                    }
+                
+                .resources-section {
+                        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                        color: white;
+                        padding: 3rem 0;
+                        margin: 3rem 0;
+                    }
+                
+                .resources-grid {
+                        display: grid;
+                        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+                        gap: 1.5rem;
+                        margin: 2rem 0;
+                    }
+                
+                .resource-card {
+                        background: rgba(255,255,255,0.1);
+                        backdrop-filter: blur(10px);
+                        border: 1px solid rgba(255,255,255,0.2);
+                        border-radius: 12px;
+                        padding: 1.5rem;
+                        transition: all 0.3s ease;
+                    }
+                
+                .resource-card:hover {
+                        background: rgba(255,255,255,0.2);
+                        transform: translateY(-5px);
+                    }
+                
+                .resource-card h4 {
+                        margin-top: 0;
+                        display: flex;
+                        align-items: center;
+                        gap: 0.5rem;
+                    }
+                
+                .resource-card a {
+                        color: #fff;
+                        text-decoration: none;
+                        font-weight: 500;
+                    }
+                
+                .resource-card a:hover {
+                        text-decoration: underline;
+                    }
+                
+                .section-header {
+                        text-align: center;
+                        margin-bottom: 3rem;
+                    }
+                
+                .section-header h2 {
+                        font-size: 2.5rem;
+                        margin-bottom: 1rem;
+                        color: #333;
+                    }
+                
+                .section-header p {
+                        font-size: 1.2rem;
+                        color: #666;
+                        max-width: 600px;
+                        margin: 0 auto;
+                    }
+                
+                @media (max-width: 768px) {
+                        .skills-grid,
+                        .projects-grid,
+                        .resources-grid {
+                                grid-template-columns: 1fr;
+                        }
+                        
+                        .section-header h2 {
+                                font-size: 2rem;
+                        }
+                    }
+        </style>
 </head>
 
 <body>
@@ -47,11 +191,14 @@
                 </div>
         </section>
 
-        <!-- Main -->
+        <!-- About Section -->
         <section class="wrapper style1">
                 <div class="inner">
-                        <header class="align-center">
+                        <div class="section-header">
                                 <h2>About Me</h2>
+                                <p>Passionate about quality software and continuous learning</p>
+                        </div>
+                        <div style="max-width: 800px; margin: 0 auto; text-align: center;">
                                 <p>Hey there! I'm Firat Selcuk. I work as a Software Development Engineer in Test, which means I
                                         spend my days making sure the software we use is as good as it can be. I grew up in Antakya, Turkey,
                                         a place with a lot of history, and I like to think that's where I got my mix of being
@@ -68,26 +215,27 @@
                                         or somewhere out in the mountains.</p>
                                 <p>I'd love to connect, whether it's about work, the latest tech trends, or just to exchange a cool
                                         recipe or two. Don't hesitate to get in touch. Let's see what we can create together!</p>
-                        </header>
+                        </div>
                 </div>
         </section>
 
         <!-- Skills Section -->
         <section class="wrapper style2">
                 <div class="inner">
-                        <header class="align-center">
+                        <div class="section-header">
                                 <h2>Technical Skills & Expertise</h2>
-                        </header>
-                        <div class="row">
-                                <div class="4u 12u$(medium)">
+                                <p>Technologies and tools I work with</p>
+                        </div>
+                        <div class="skills-grid">
+                                <div class="skill-card">
                                         <h3><i class="fas fa-code"></i> Programming Languages</h3>
                                         <p>Java, JavaScript, Python, HTML/CSS, SQL</p>
                                 </div>
-                                <div class="4u 12u$(medium)">
+                                <div class="skill-card">
                                         <h3><i class="fas fa-bug"></i> Testing Frameworks</h3>
                                         <p>RestAssured, Selenium WebDriver, JUnit, TestNG, Cucumber</p>
                                 </div>
-                                <div class="4u$ 12u$(medium)">
+                                <div class="skill-card">
                                         <h3><i class="fas fa-tools"></i> Tools & Technologies</h3>
                                         <p>Git, GitHub, Docker, Jenkins, Postman, Maven, Gradle</p>
                                 </div>
@@ -95,29 +243,86 @@
                 </div>
         </section>
 
-        <!-- Projects Preview Section -->
+        <!-- Featured Projects Section -->
         <section class="wrapper style1">
                 <div class="inner">
-                        <header class="align-center">
+                        <div class="section-header">
                                 <h2>Featured Projects</h2>
-                                <p>Here are some of my recent projects showcasing my skills in software testing and development</p>
-                        </header>
-                        <div class="row">
-                                <div class="6u 12u$(medium)">
+                                <p>Some of my recent work showcasing my skills</p>
+                        </div>
+                        <div class="projects-grid">
+                                <div class="project-card">
                                         <h3><i class="fas fa-utensils"></i> RecipeApp</h3>
-                                        <p>A JavaScript-based recipe application that helps users discover and manage their favorite recipes. Features include recipe search, categorization, and user-friendly interface.</p>
-                                        <p><strong>Technologies:</strong> JavaScript, HTML, CSS</p>
+                                        <p>A comprehensive recipe management application built with JavaScript. Features include recipe search, categorization, and user-friendly interface for discovering and managing favorite recipes.</p>
+                                        <div style="margin: 1rem 0;">
+                                                <span class="project-tech">JavaScript</span>
+                                                <span class="project-tech">HTML</span>
+                                                <span class="project-tech">CSS</span>
+                                        </div>
                                         <a href="https://github.com/FiratSS/RecipeApp" class="button" target="_blank">View on GitHub</a>
                                 </div>
-                                <div class="6u$ 12u$(medium)">
-                                        <h3><i class="fas fa-api"></i> API Testing Projects</h3>
-                                        <p>Comprehensive API testing suites using RestAssured framework. Includes automated testing for REST APIs, data validation, and integration testing.</p>
-                                        <p><strong>Technologies:</strong> Java, RestAssured, TestNG, Maven</p>
+                                <div class="project-card">
+                                        <h3><i class="fas fa-api"></i> API Testing Suite</h3>
+                                        <p>Comprehensive API testing framework using RestAssured. Includes automated testing for REST APIs, data validation, integration testing, and comprehensive test reporting.</p>
+                                        <div style="margin: 1rem 0;">
+                                                <span class="project-tech">Java</span>
+                                                <span class="project-tech">RestAssured</span>
+                                                <span class="project-tech">TestNG</span>
+                                                <span class="project-tech">Maven</span>
+                                        </div>
                                         <a href="https://github.com/FiratSS/API-RestAssured-Java" class="button" target="_blank">View on GitHub</a>
                                 </div>
                         </div>
-                        <div class="align-center" style="margin-top: 2em;">
+                        <div style="text-align: center; margin-top: 2rem;">
                                 <a href="projects.html" class="button big">View All Projects</a>
+                        </div>
+                </div>
+        </section>
+
+        <!-- Resources Section -->
+        <section class="resources-section">
+                <div class="inner">
+                        <div class="section-header">
+                                <h2 style="color: white;">Helpful Resources</h2>
+                                <p style="color: rgba(255,255,255,0.9);">Books and materials that have shaped my learning journey</p>
+                        </div>
+                        <div class="resources-grid">
+                                <div class="resource-card">
+                                        <h4><i class="fas fa-book"></i> Machine Learning for Dummies</h4>
+                                        <p><strong>By IBM</strong></p>
+                                        <p>A comprehensive guide to understanding machine learning concepts, algorithms, and practical applications. Perfect for beginners and intermediate learners.</p>
+                                        <a href="https://www.amazon.com/Machine-Learning-Dummies-IBM/dp/1119245516" target="_blank">View on Amazon</a>
+                                </div>
+                                <div class="resource-card">
+                                        <h4><i class="fas fa-code"></i> Clean Code</h4>
+                                        <p><strong>By Robert C. Martin</strong></p>
+                                        <p>Essential reading for any developer. Learn how to write clean, maintainable code that other developers can easily understand and modify.</p>
+                                        <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank">View on Amazon</a>
+                                </div>
+                                <div class="resource-card">
+                                        <h4><i class="fas fa-bug"></i> The Art of Software Testing</h4>
+                                        <p><strong>By Glenford Myers</strong></p>
+                                        <p>A classic in software testing literature. Covers fundamental testing principles, strategies, and techniques that every tester should know.</p>
+                                        <a href="https://www.amazon.com/Art-Software-Testing-Glenford-Myers/dp/0471469122" target="_blank">View on Amazon</a>
+                                </div>
+                                <div class="resource-card">
+                                        <h4><i class="fas fa-cogs"></i> Effective Java</h4>
+                                        <p><strong>By Joshua Bloch</strong></p>
+                                        <p>The definitive guide to Java best practices. Learn how to write more effective, efficient, and maintainable Java code.</p>
+                                        <a href="https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997" target="_blank">View on Amazon</a>
+                                </div>
+                                <div class="resource-card">
+                                        <h4><i class="fas fa-rocket"></i> Agile Testing</h4>
+                                        <p><strong>By Lisa Crispin & Janet Gregory</strong></p>
+                                        <p>Learn how to integrate testing into agile development processes and become an effective agile tester.</p>
+                                        <a href="https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468" target="_blank">View on Amazon</a>
+                                </div>
+                                <div class="resource-card">
+                                        <h4><i class="fas fa-database"></i> SQL for Dummies</h4>
+                                        <p><strong>By Allen G. Taylor</strong></p>
+                                        <p>Master SQL fundamentals with this comprehensive guide. Perfect for understanding database queries and data manipulation.</p>
+                                        <a href="https://www.amazon.com/SQL-Dummies-Allen-G-Taylor/dp/1119527074" target="_blank">View on Amazon</a>
+                                </div>
                         </div>
                 </div>
         </section>
@@ -151,8 +356,7 @@
         <script src="assets/js/main.js"></script>
 
         <!-- Include particles.js -->
-        <script src="assets/js/particles.min.js"></script> <!-- If downloaded -->
-        <!-- <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> --> <!-- If using CDN -->
+        <script src="assets/js/particles.min.js"></script>
 
         <!-- Particles.js configuration -->
         <script>
