@@ -1,263 +1,402 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE HTML>
+<html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daily News - Automated Feed</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        <title>Daily News - Firat Selcuk</title>
+        <meta charset="utf-8">
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Stay updated with the latest technology, business, and sports news - automatically curated daily.">
+        <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        <style>
+                .news-container {
+                        max-width: 1200px;
+                        margin: 0 auto;
+                        padding: 2em 0;
+                }
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
-        }
+                .news-header {
+                        text-align: center;
+                        margin-bottom: 3em;
+                }
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
+                .news-header h2 {
+                        font-size: 2.5em;
+                        margin-bottom: 0.5em;
+                        color: #333;
+                }
 
-        header {
-            text-align: center;
-            color: white;
-            margin-bottom: 40px;
-        }
+                .news-updated {
+                        color: #888;
+                        font-style: italic;
+                        font-size: 1.1em;
+                }
 
-        h1 {
-            font-size: 3rem;
-            margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
-        }
+                .news-category {
+                        margin-bottom: 4em;
+                }
 
-        .last-updated {
-            font-size: 1rem;
-            opacity: 0.9;
-        }
+                .category-title {
+                        font-size: 2em;
+                        margin-bottom: 1.5em;
+                        padding-bottom: 0.5em;
+                        border-bottom: 3px solid #667eea;
+                        text-transform: capitalize;
+                        color: #333;
+                }
 
-        .category-section {
-            margin-bottom: 40px;
-        }
+                .news-grid {
+                        display: grid;
+                        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+                        gap: 2em;
+                        margin-bottom: 2em;
+                }
 
-        .category-title {
-            color: white;
-            font-size: 2rem;
-            margin-bottom: 20px;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-        }
+                .news-card {
+                        background: #fff;
+                        border-radius: 12px;
+                        overflow: hidden;
+                        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+                        transition: transform 0.3s ease, box-shadow 0.3s ease;
+                        display: flex;
+                        flex-direction: column;
+                        border: 1px solid #e9ecef;
+                }
 
-        .news-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 20px;
-        }
+                .news-card:hover {
+                        transform: translateY(-8px);
+                        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+                        border-color: #667eea;
+                }
 
-        .news-card {
-            background: white;
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            cursor: pointer;
-        }
+                .news-image-container {
+                        width: 100%;
+                        height: 220px;
+                        overflow: hidden;
+                        position: relative;
+                        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                }
 
-        .news-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 40px rgba(0,0,0,0.4);
-        }
+                .news-image {
+                        width: 100%;
+                        height: 100%;
+                        object-fit: cover;
+                        transition: transform 0.3s ease;
+                }
 
-        .news-image {
-            width: 100%;
-            height: 200px;
-            object-fit: cover;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        }
+                .news-card:hover .news-image {
+                        transform: scale(1.1);
+                }
 
-        .news-content {
-            padding: 20px;
-        }
+                .news-image-placeholder {
+                        width: 100%;
+                        height: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        color: #fff;
+                        font-size: 4em;
+                }
 
-        .news-title {
-            font-size: 1.2rem;
-            font-weight: bold;
-            margin-bottom: 10px;
-            color: #333;
-            line-height: 1.4;
-        }
+                .news-content {
+                        padding: 1.75rem;
+                        flex: 1;
+                        display: flex;
+                        flex-direction: column;
+                }
 
-        .news-description {
-            color: #666;
-            margin-bottom: 15px;
-            line-height: 1.6;
-            font-size: 0.95rem;
-        }
+                .news-title {
+                        font-size: 1.2em;
+                        font-weight: bold;
+                        margin-bottom: 0.75em;
+                        color: #333;
+                        line-height: 1.4;
+                }
 
-        .news-meta {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 0.85rem;
-            color: #999;
-        }
+                .news-title a {
+                        color: #333;
+                        text-decoration: none;
+                        border-bottom: none;
+                        transition: color 0.3s ease;
+                }
 
-        .news-source {
-            font-weight: 600;
-            color: #667eea;
-        }
+                .news-title a:hover {
+                        color: #667eea;
+                }
 
-        .news-date {
-            font-size: 0.8rem;
-        }
+                .news-description {
+                        color: #666;
+                        margin-bottom: 1.25em;
+                        line-height: 1.6;
+                        flex: 1;
+                }
 
-        .loading {
-            text-align: center;
-            color: white;
-            font-size: 1.5rem;
-            padding: 50px;
-        }
+                .news-meta {
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center;
+                        font-size: 0.9em;
+                        color: #888;
+                        padding-top: 1em;
+                        border-top: 1px solid #eee;
+                }
 
-        .error {
-            background: #ff6b6b;
-            color: white;
-            padding: 20px;
-            border-radius: 8px;
-            text-align: center;
-            margin: 20px 0;
-        }
+                .news-source {
+                        font-weight: bold;
+                        color: #667eea;
+                        display: flex;
+                        align-items: center;
+                        gap: 0.5rem;
+                }
 
-        .no-news {
-            background: rgba(255,255,255,0.2);
-            color: white;
-            padding: 15px;
-            border-radius: 8px;
-            text-align: center;
-        }
+                .news-date {
+                        font-style: italic;
+                        display: flex;
+                        align-items: center;
+                        gap: 0.4rem;
+                }
 
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 2rem;
-            }
+                .no-news {
+                        text-align: center;
+                        padding: 3em;
+                        color: #888;
+                        font-style: italic;
+                        background: #f8f9fa;
+                        border-radius: 12px;
+                }
 
-            .category-title {
-                font-size: 1.5rem;
-            }
+                .loading {
+                        text-align: center;
+                        padding: 3em;
+                        font-size: 1.2em;
+                        color: #666;
+                }
 
-            .news-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
+                .loading i {
+                        font-size: 3rem;
+                        animation: spin 1s linear infinite;
+                        margin-bottom: 1rem;
+                        display: block;
+                        color: #667eea;
+                }
+
+                @keyframes spin {
+                        0% { transform: rotate(0deg); }
+                        100% { transform: rotate(360deg); }
+                }
+
+                @media screen and (max-width: 768px) {
+                        .news-grid {
+                                grid-template-columns: 1fr;
+                        }
+
+                        .news-header h2 {
+                                font-size: 2em;
+                        }
+
+                        .category-title {
+                                font-size: 1.5em;
+                        }
+                }
+        </style>
 </head>
+
 <body>
-    <div class="container">
-        <header>
-            <h1>📰 Daily News Feed</h1>
-            <p class="last-updated" id="lastUpdated">Loading...</p>
+
+        <!-- Header -->
+        <header id="header" class="alt">
+                <div class="logo"><a href="index.html">Daily News <span>by Firat</span></a></div>
+                <a href="#menu">Menu</a>
         </header>
 
-        <div id="newsContainer">
-            <div class="loading">Loading latest news...</div>
+        <!-- Nav -->
+        <nav id="menu">
+                <ul class="links">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="news.html">News</a></li>
+                        <li><a href="projects.html">Projects</a></li>
+                        <li><a href="resources.html">Resources</a></li>
+                        <li><a href="index.html#footer">Contacts</a></li>
+                </ul>
+        </nav>
+
+        <!-- Banner -->
+        <section id="banner">
+                <div id="particles-js"></div>
+                <div class="inner">
+                        <header>
+                                <h1><i class="fas fa-newspaper"></i> Daily News</h1>
+                                <p>Your daily dose of technology, business, and sports news<br>
+                                Automatically curated from trusted sources around the world</p>
+                        </header>
+                        <a href="#main" class="button big scrolly">Read Latest News</a>
+                </div>
+        </section>
+
+        <!-- Main -->
+        <div id="main" class="container">
+                <section class="wrapper style1">
+                        <div class="news-container">
+                                <div class="news-header">
+                                        <h2>Latest News</h2>
+                                        <p class="news-updated" id="lastUpdated">Loading...</p>
+                                </div>
+
+                                <div id="newsContent" class="loading">
+                                        <i class="fas fa-spinner"></i>
+                                        <p>Loading latest news...</p>
+                                </div>
+                        </div>
+                </section>
         </div>
-    </div>
 
-    <script>
-        const NEWS_API_URL = 'https://raw.githubusercontent.com/FiratSS/Firatss.github.io/main/data/daily-news.json';
+        <!-- Footer -->
+        <footer id="footer">
+                <div class="copyright">
+                        <ul class="icons">
+                                <li><a href="https://twitter.com/firatsselcuk" class="icon fab fa-twitter" target="_blank"><span
+                                                        class="label">Twitter</span></a></li>
+                                <li><a href="https://www.linkedin.com/in/firat-selcuk-64b4b6231/" class="icon fab fa-linkedin"
+                                                target="_blank"><span class="label">Linkedin</span></a></li>
+                                <li><a href="https://github.com/FiratSS" class="icon fab fa-github" target="_blank"><span
+                                                        class="label">GitHub</span></a></li>
+                                <li><a href="mailto:firatselcuk010@gmail.com" class="icon fas fa-envelope" target="_blank"><span
+                                                        class="label">Email</span></a></li>
+                        </ul>
+                </div>
+        </footer>
 
-        async function fetchNews() {
-            try {
-                const response = await fetch(NEWS_API_URL + '?t=' + new Date().getTime());
-                if (!response.ok) {
-                    throw new Error('Failed to fetch news');
+        <div class="copyright">
+                <p>&copy; 2025 Firat Selcuk. All rights reserved.</p>
+        </div>
+
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.scrolly.min.js"></script>
+        <script src="assets/js/jquery.scrollex.min.js"></script>
+        <script src="assets/js/skel.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script>
+
+        <!-- Include particles.js -->
+        <script src="assets/js/particles.min.js"></script>
+
+        <!-- Particles.js configuration -->
+        <script>
+                particlesJS.load('particles-js', 'assets/js/particles.json', function () {
+                        console.log('particles.json loaded...');
+                });
+        </script>
+
+        <!-- Fetch and display news -->
+        <script>
+                async function loadNews() {
+                        try {
+                                const response = await fetch('https://raw.githubusercontent.com/FiratSS/Firatss.github.io/main/data/daily-news.json');
+                                const data = await response.json();
+
+                                // Update last updated date
+                                document.getElementById('lastUpdated').textContent = `Last updated: ${formatDate(data.updated)}`;
+
+                                // Display news by category
+                                displayNews(data.categories);
+                        } catch (error) {
+                                console.error('Error loading news:', error);
+                                document.getElementById('newsContent').innerHTML = '<div class="no-news"><p><i class="fas fa-exclamation-circle" style="font-size: 2rem; margin-bottom: 1rem; display: block;"></i>Unable to load news at this time. Please try again later.</p></div>';
+                        }
                 }
-                const data = await response.json();
-                displayNews(data);
-            } catch (error) {
-                console.error('Error fetching news:', error);
-                document.getElementById('newsContainer').innerHTML = `
-                    <div class="error">
-                        <h2>😔 Oops! Unable to load news</h2>
-                        <p>${error.message}</p>
-                    </div>
-                `;
-            }
-        }
 
-        function displayNews(data) {
-            const container = document.getElementById('newsContainer');
-            document.getElementById('lastUpdated').textContent = `Last updated: ${data.updated}`;
+                function displayNews(categories) {
+                        const newsContent = document.getElementById('newsContent');
+                        let html = '';
 
-            let html = '';
+                        // Order of categories to display
+                        const categoryOrder = ['technology', 'business', 'sports'];
 
-            // Display each category
-            const categories = [
-                { key: 'technology', title: '💻 Technology', icon: '🔬' },
-                { key: 'business', title: '💼 Business', icon: '📈' },
-                { key: 'sports', title: '⚽ Sports', icon: '🏆' }
-            ];
+                        categoryOrder.forEach(categoryName => {
+                                const articles = categories[categoryName];
 
-            categories.forEach(category => {
-                const articles = data.categories[category.key] || [];
-                
-                if (articles.length > 0) {
-                    html += `
-                        <div class="category-section">
-                            <h2 class="category-title">${category.title}</h2>
-                            <div class="news-grid">
-                                ${articles.map(article => createNewsCard(article)).join('')}
-                            </div>
-                        </div>
-                    `;
-                } else {
-                    html += `
-                        <div class="category-section">
-                            <h2 class="category-title">${category.title}</h2>
-                            <div class="no-news">No news available in this category</div>
-                        </div>
-                    `;
+                                if (articles && articles.length > 0) {
+                                        html += `
+                                <div class="news-category">
+                                        <h2 class="category-title">${categoryName}</h2>
+                                        <div class="news-grid">
+                        `;
+
+                                        articles.forEach(article => {
+                                                html += createNewsCard(article);
+                                        });
+
+                                        html += `
+                                        </div>
+                                </div>
+                        `;
+                                } else {
+                                        html += `
+                                <div class="news-category">
+                                        <h2 class="category-title">${categoryName}</h2>
+                                        <div class="no-news">
+                                                <p>No ${categoryName} news available yet.</p>
+                                        </div>
+                                </div>
+                        `;
+                                }
+                        });
+
+                        newsContent.innerHTML = html;
                 }
-            });
 
-            container.innerHTML = html;
-        }
+                function createNewsCard(article) {
+                        const imageHtml = article.image
+                                ? `<img src="${article.image}" alt="${escapeHtml(article.title)}" class="news-image" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                   <div class="news-image-placeholder" style="display:none;"><i class="fas fa-newspaper"></i></div>`
+                                : `<div class="news-image-placeholder"><i class="fas fa-newspaper"></i></div>`;
 
-        function createNewsCard(article) {
-            const imageUrl = article.image || 'https://via.placeholder.com/400x200?text=No+Image';
-            const description = article.description || 'No description available';
-            const date = article.publishedAt ? new Date(article.publishedAt).toLocaleDateString() : '';
+                        const description = article.description
+                                ? `<p class="news-description">${escapeHtml(article.description)}</p>`
+                                : '';
 
-            return `
-                <div class="news-card" onclick="window.open('${article.url}', '_blank')">
-                    <img src="${imageUrl}" alt="${article.title}" class="news-image" onerror="this.src='https://via.placeholder.com/400x200?text=News'">
-                    <div class="news-content">
-                        <h3 class="news-title">${article.title}</h3>
-                        <p class="news-description">${truncateText(description, 120)}</p>
-                        <div class="news-meta">
-                            <span class="news-source">${article.source || 'Unknown Source'}</span>
-                            <span class="news-date">${date}</span>
+                        return `
+                <div class="news-card">
+                        <div class="news-image-container">
+                                ${imageHtml}
                         </div>
-                    </div>
+                        <div class="news-content">
+                                <h3 class="news-title">
+                                        <a href="${article.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a>
+                                </h3>
+                                ${description}
+                                <div class="news-meta">
+                                        <span class="news-source">
+                                                <i class="fas fa-globe"></i>
+                                                ${escapeHtml(article.source)}
+                                        </span>
+                                        <span class="news-date">
+                                                <i class="far fa-clock"></i>
+                                                ${formatDate(article.publishedAt)}
+                                        </span>
+                                </div>
+                        </div>
                 </div>
             `;
-        }
+                }
 
-        function truncateText(text, maxLength) {
-            if (!text) return '';
-            if (text.length <= maxLength) return text;
-            return text.substr(0, maxLength) + '...';
-        }
+                function formatDate(dateString) {
+                        const date = new Date(dateString);
+                        const options = { year: 'numeric', month: 'long', day: 'numeric' };
+                        return date.toLocaleDateString('en-US', options);
+                }
 
-        // Fetch news on page load
-        fetchNews();
+                function escapeHtml(text) {
+                        const div = document.createElement('div');
+                        div.textContent = text;
+                        return div.innerHTML;
+                }
 
-        // Auto-refresh every 5 minutes
-        setInterval(fetchNews, 5 * 60 * 1000);
-    </script>
+                // Load news when page loads
+                document.addEventListener('DOMContentLoaded', loadNews);
+        </script>
 </body>
-</html>
 
+</html>
