@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily News - Automated Feed</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .last-updated {
+            font-size: 1rem;
+            opacity: 0.9;
+        }
+
+        .category-section {
+            margin-bottom: 40px;
+        }
+
+        .category-title {
+            color: white;
+            font-size: 2rem;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .news-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+
+        .news-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.4);
+        }
+
+        .news-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .news-content {
+            padding: 20px;
+        }
+
+        .news-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #333;
+            line-height: 1.4;
+        }
+
+        .news-description {
+            color: #666;
+            margin-bottom: 15px;
+            line-height: 1.6;
+            font-size: 0.95rem;
+        }
+
+        .news-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.85rem;
+            color: #999;
+        }
+
+        .news-source {
+            font-weight: 600;
+            color: #667eea;
+        }
+
+        .news-date {
+            font-size: 0.8rem;
+        }
+
+        .loading {
+            text-align: center;
+            color: white;
+            font-size: 1.5rem;
+            padding: 50px;
+        }
+
+        .error {
+            background: #ff6b6b;
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .no-news {
+            background: rgba(255,255,255,0.2);
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .category-title {
+                font-size: 1.5rem;
+            }
+
+            .news-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📰 Daily News Feed</h1>
+            <p class="last-updated" id="lastUpdated">Loading...</p>
+        </header>
+
+        <div id="newsContainer">
+            <div class="loading">Loading latest news...</div>
+        </div>
+    </div>
+
+    <script>
+        const NEWS_API_URL = 'https://raw.githubusercontent.com/FiratSS/Firatss.github.io/main/data/daily-news.json';
+
+        async function fetchNews() {
+            try {
+                const response = await fetch(NEWS_API_URL + '?t=' + new Date().getTime());
+                if (!response.ok) {
+                    throw new Error('Failed to fetch news');
+                }
+                const data = await response.json();
+                displayNews(data);
+            } catch (error) {
+                console.error('Error fetching news:', error);
+                document.getElementById('newsContainer').innerHTML = `
+                    <div class="error">
+                        <h2>😔 Oops! Unable to load news</h2>
+                        <p>${error.message}</p>
+                    </div>
+                `;
+            }
+        }
+
+        function displayNews(data) {
+            const container = document.getElementById('newsContainer');
+            document.getElementById('lastUpdated').textContent = `Last updated: ${data.updated}`;
+
+            let html = '';
+
+            // Display each category
+            const categories = [
+                { key: 'technology', title: '💻 Technology', icon: '🔬' },
+                { key: 'business', title: '💼 Business', icon: '📈' },
+                { key: 'sports', title: '⚽ Sports', icon: '🏆' }
+            ];
+
+            categories.forEach(category => {
+                const articles = data.categories[category.key] || [];
+                
+                if (articles.length > 0) {
+                    html += `
+                        <div class="category-section">
+                            <h2 class="category-title">${category.title}</h2>
+                            <div class="news-grid">
+                                ${articles.map(article => createNewsCard(article)).join('')}
+                            </div>
+                        </div>
+                    `;
+                } else {
+                    html += `
+                        <div class="category-section">
+                            <h2 class="category-title">${category.title}</h2>
+                            <div class="no-news">No news available in this category</div>
+                        </div>
+                    `;
+                }
+            });
+
+            container.innerHTML = html;
+        }
+
+        function createNewsCard(article) {
+            const imageUrl = article.image || 'https://via.placeholder.com/400x200?text=No+Image';
+            const description = article.description || 'No description available';
+            const date = article.publishedAt ? new Date(article.publishedAt).toLocaleDateString() : '';
+
+            return `
+                <div class="news-card" onclick="window.open('${article.url}', '_blank')">
+                    <img src="${imageUrl}" alt="${article.title}" class="news-image" onerror="this.src='https://via.placeholder.com/400x200?text=News'">
+                    <div class="news-content">
+                        <h3 class="news-title">${article.title}</h3>
+                        <p class="news-description">${truncateText(description, 120)}</p>
+                        <div class="news-meta">
+                            <span class="news-source">${article.source || 'Unknown Source'}</span>
+                            <span class="news-date">${date}</span>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function truncateText(text, maxLength) {
+            if (!text) return '';
+            if (text.length <= maxLength) return text;
+            return text.substr(0, maxLength) + '...';
+        }
+
+        // Fetch news on page load
+        fetchNews();
+
+        // Auto-refresh every 5 minutes
+        setInterval(fetchNews, 5 * 60 * 1000);
+    </script>
+</body>
+</html>
+
