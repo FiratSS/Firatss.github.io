@@ -806,14 +806,14 @@
                         const dateStr = formatNewsDate(article.publishedAt);
                         
                         return `
-                                <div class="news-card">
+                                <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="news-card" style="text-decoration: none; color: inherit; display: block;">
                                         <div class="news-image-container">
                                                 ${imageHtml}
                                         </div>
                                         <div class="news-content">
                                                 ${categoryBadge}
                                                 <h3 class="news-title">
-                                                        <a href="${article.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a>
+                                                        ${escapeHtml(article.title)}
                                                 </h3>
                                                 ${description}
                                                 <div class="news-meta">
@@ -827,7 +827,7 @@
                                                         </span>
                                                 </div>
                                         </div>
-                                </div>
+                                </a>
                         `;
                 }
 
