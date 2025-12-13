@@ -629,7 +629,7 @@
                         let html = '';
                         filteredCapsules.forEach(capsule => {
                                 html += `
-                                        <div class="capsule-card" onclick="event.preventDefault(); event.stopPropagation(); showCapsuleDetail('${capsule.id}'); return false;">
+                                        <div class="capsule-card" data-capsule-id="${capsule.id}">
                                                 <div class="capsule-header">
                                                         <h3 class="capsule-title">${escapeHtml(capsule.title)}</h3>
                                                         <span class="level-badge ${capsule.level}">${capsule.level}</span>
@@ -649,6 +649,19 @@
                                 `;
                         });
                         container.innerHTML = html;
+                        
+                        // Add click listeners after rendering
+                        container.querySelectorAll('.capsule-card').forEach(card => {
+                                card.addEventListener('click', function(e) {
+                                        e.preventDefault();
+                                        e.stopPropagation();
+                                        const capsuleId = this.getAttribute('data-capsule-id');
+                                        if (capsuleId) {
+                                                showCapsuleDetail(capsuleId);
+                                        }
+                                        return false;
+                                });
+                        });
                 }
 
                 let currentCapsule = null;
