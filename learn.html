@@ -119,6 +119,8 @@
                         cursor: pointer;
                         display: flex;
                         flex-direction: column;
+                        text-decoration: none;
+                        color: inherit;
                 }
 
                 .capsule-card::before {
@@ -627,7 +629,7 @@
                         let html = '';
                         filteredCapsules.forEach(capsule => {
                                 html += `
-                                        <div class="capsule-card" onclick="showCapsuleDetail('${capsule.id}')">
+                                        <div class="capsule-card" onclick="event.preventDefault(); event.stopPropagation(); showCapsuleDetail('${capsule.id}'); return false;">
                                                 <div class="capsule-header">
                                                         <h3 class="capsule-title">${escapeHtml(capsule.title)}</h3>
                                                         <span class="level-badge ${capsule.level}">${capsule.level}</span>
