@@ -1,0 +1,61 @@
+{
+  "updated": "2025-01-13",
+  "capsules": [
+    {
+      "id": "how-the-web-works",
+      "title": "How the Web Works in 7 Minutes",
+      "slug": "how-the-web-works",
+      "category": "web",
+      "tags": ["http", "web", "basics", "protocols"],
+      "readTime": 7,
+      "level": "beginner",
+      "file": "web/how-the-web-works.md",
+      "description": "Understanding HTTP request/response, status codes, headers, and latency"
+    },
+    {
+      "id": "apis-and-json",
+      "title": "APIs & JSON",
+      "slug": "apis-and-json",
+      "category": "apis",
+      "tags": ["rest", "json", "apis", "backend"],
+      "readTime": 6,
+      "level": "beginner",
+      "file": "apis/apis-and-json.md",
+      "description": "REST basics, request body vs query params, pagination"
+    },
+    {
+      "id": "cookies-vs-jwt",
+      "title": "Auth Basics: Cookies vs JWT",
+      "slug": "cookies-vs-jwt",
+      "category": "auth",
+      "tags": ["authentication", "cookies", "jwt", "security", "sessions"],
+      "readTime": 8,
+      "level": "beginner",
+      "file": "auth/cookies-vs-jwt.md",
+      "description": "Understanding sessions, tokens, and where security goes wrong"
+    },
+    {
+      "id": "tables-indexes-queries",
+      "title": "Databases: Tables, Indexes, and Why Queries Get Slow",
+      "slug": "tables-indexes-queries",
+      "category": "databases",
+      "tags": ["databases", "sql", "indexes", "performance"],
+      "readTime": 7,
+      "level": "beginner",
+      "file": "databases/tables-indexes-queries.md",
+      "description": "What an index really is and common 'slow query' causes"
+    },
+    {
+      "id": "kafka-plain-english",
+      "title": "Event Streaming: Kafka in Plain English",
+      "slug": "kafka-plain-english",
+      "category": "streaming",
+      "tags": ["kafka", "streaming", "backend", "events"],
+      "readTime": 6,
+      "level": "beginner",
+      "file": "streaming/kafka-plain-english.md",
+      "description": "Producers/consumers, topics/partitions, consumer groups, replay"
+    }
+  ]
+}
+
