@@ -393,26 +393,77 @@
                 }
 
                 @media print {
+                        * {
+                                margin: 0;
+                                padding: 0;
+                        }
+                        
+                        body {
+                                background: white;
+                        }
+                        
                         body * {
                                 visibility: hidden;
                         }
-                        .capsule-detail-content,
-                        .capsule-detail-content * {
+                        
+                        .capsule-detail-modal,
+                        .capsule-detail-modal * {
                                 visibility: visible;
                         }
-                        .capsule-detail-content {
-                                position: absolute;
-                                left: 0;
-                                top: 0;
-                                width: 100%;
+                        
+                        .capsule-detail-modal {
+                                display: block !important;
+                                position: static !important;
+                                background: white !important;
+                                padding: 0 !important;
+                                overflow: visible !important;
                         }
+                        
+                        .capsule-detail-content {
+                                position: static !important;
+                                max-width: 100% !important;
+                                width: 100% !important;
+                                max-height: none !important;
+                                height: auto !important;
+                                padding: 2rem !important;
+                                margin: 0 !important;
+                                box-shadow: none !important;
+                                border-radius: 0 !important;
+                                page-break-inside: avoid;
+                        }
+                        
+                        .capsule-content {
+                                page-break-inside: auto;
+                        }
+                        
+                        .capsule-content h2,
+                        .capsule-content h3 {
+                                page-break-after: avoid;
+                                page-break-inside: avoid;
+                        }
+                        
+                        .capsule-content p,
+                        .capsule-content li {
+                                page-break-inside: avoid;
+                        }
+                        
+                        .quiz-section {
+                                page-break-inside: avoid;
+                        }
+                        
                         .close-btn,
                         .pdf-download-btn,
                         .reveal-btn {
                                 display: none !important;
                         }
+                        
                         .quiz-answer {
                                 display: block !important;
+                        }
+                        
+                        @page {
+                                margin: 2cm;
+                                size: A4;
                         }
                 }
 
@@ -820,7 +871,16 @@
 
                 // Download PDF
                 function downloadPDF() {
-                        window.print();
+                        // Ensure modal is visible and content is ready
+                        const modal = document.getElementById('capsuleModal');
+                        if (!modal.classList.contains('active')) {
+                                return;
+                        }
+                        
+                        // Wait a moment for any animations to complete
+                        setTimeout(() => {
+                                window.print();
+                        }, 100);
                 }
 
                 // Close modal
