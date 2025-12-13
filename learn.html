@@ -682,13 +682,21 @@
                         document.body.style.overflow = 'hidden';
 
                         try {
-                                const filePath = `assets/learn/${currentCapsule.file}`;
+                                // Try relative path first
+                                let filePath = `assets/learn/${currentCapsule.file}`;
                                 console.log('Fetching:', filePath);
                                 
-                                const response = await fetch(filePath);
+                                let response = await fetch(filePath);
+                                
+                                // If relative path fails (404), try GitHub raw URL as fallback
+                                if (!response.ok && response.status === 404) {
+                                        const githubRawUrl = `https://raw.githubusercontent.com/FiratSS/Firatss.github.io/main/assets/learn/${currentCapsule.file}`;
+                                        console.log('Relative path failed (404), trying GitHub raw URL:', githubRawUrl);
+                                        response = await fetch(githubRawUrl);
+                                }
                                 
                                 if (!response.ok) {
-                                        throw new Error(`HTTP error! status: ${response.status}`);
+                                        throw new Error(`HTTP error! status: ${response.status}. File: ${currentCapsule.file}`);
                                 }
                                 
                                 const markdown = await response.text();
