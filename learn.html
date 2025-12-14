@@ -393,22 +393,26 @@
                 }
 
                 @media print {
-                        * {
-                                margin: 0;
-                                padding: 0;
+                        @page {
+                                margin: 2cm;
+                                size: A4;
                         }
                         
-                        body {
-                                background: white;
+                        html, body {
+                                margin: 0 !important;
+                                padding: 0 !important;
+                                background: white !important;
+                                height: auto !important;
+                                width: 100% !important;
                         }
                         
-                        body * {
-                                visibility: hidden;
-                        }
-                        
-                        .capsule-detail-modal,
-                        .capsule-detail-modal * {
-                                visibility: visible;
+                        /* Hide all page elements except modal */
+                        body > header,
+                        body > nav,
+                        body > section:not(.capsule-detail-modal),
+                        body > footer,
+                        body > div:not(.capsule-detail-modal) {
+                                display: none !important;
                         }
                         
                         .capsule-detail-modal {
@@ -416,7 +420,12 @@
                                 position: static !important;
                                 background: white !important;
                                 padding: 0 !important;
+                                margin: 0 !important;
                                 overflow: visible !important;
+                                height: auto !important;
+                                width: 100% !important;
+                                top: 0 !important;
+                                left: 0 !important;
                         }
                         
                         .capsule-detail-content {
@@ -429,11 +438,12 @@
                                 margin: 0 !important;
                                 box-shadow: none !important;
                                 border-radius: 0 !important;
-                                page-break-inside: avoid;
+                                page-break-inside: auto;
                         }
                         
-                        .capsule-content {
-                                page-break-inside: auto;
+                        .capsule-content h1 {
+                                margin-top: 0 !important;
+                                page-break-after: avoid;
                         }
                         
                         .capsule-content h2,
@@ -442,8 +452,13 @@
                                 page-break-inside: avoid;
                         }
                         
-                        .capsule-content p,
-                        .capsule-content li {
+                        .capsule-content p {
+                                orphans: 3;
+                                widows: 3;
+                        }
+                        
+                        .capsule-content pre,
+                        .capsule-content code {
                                 page-break-inside: avoid;
                         }
                         
@@ -459,11 +474,6 @@
                         
                         .quiz-answer {
                                 display: block !important;
-                        }
-                        
-                        @page {
-                                margin: 2cm;
-                                size: A4;
                         }
                 }
 
