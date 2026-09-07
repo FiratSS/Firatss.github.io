@@ -3,6 +3,22 @@
   "categories": {
     "technology": [
       {
+        "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026 and Nintendo Direct 9.9.2026 - Nintendo",
+        "description": "Tune in on Sept 8 at 7am PT for The Legend of Zelda 40th Anniversary Direct (Approx 30 mins) and on Sept 9 at 7am PT for Nintendo Direct 9.9.2026 (Approx 45 mins).",
+        "url": "https://www.nintendo.com/us/nintendo-direct/9-8-2026/",
+        "source": "Nintendo.com",
+        "publishedAt": "2026-09-06T08:27:24Z",
+        "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto/Nintendo Direct/2026/Ste6y52YPf2X3To8/dual_1920x1080_archive"
+      },
+      {
+        "title": "New DLSS 5 Swapper Tool Brings Neural Rendering to Games NVIDIA Never Supported - techpowerup.com",
+        "description": "A new tool called DLSS 5 Swapper, published on GitHub by developer rakanki911, automates installing DLSS 5's Neural Rendering into games, including ones that never officially got support for it. Users can drag and drop a game into the app, or let it scan the …",
+        "url": "https://www.techpowerup.com/352395/new-dlss-5-swapper-tool-brings-neural-rendering-to-games-nvidia-never-supported",
+        "source": "Techpowerup.com",
+        "publishedAt": "2026-09-06T06:46:54Z",
+        "image": "https://www.techpowerup.com/img/i82sw7EskBk1VuQS.jpg"
+      },
+      {
         "title": "Walmart is selling a 2-in-1 laptop and tablet for just $75 - thestreet.com",
         "description": null,
         "url": "https://www.thestreet.com/deals/aeezo-2-in-1-laptop-tablet-walmart-sale-september-2026",
@@ -11,39 +27,47 @@
         "image": null
       },
       {
-        "title": "Rumor: New Smash Bros. game on the way, Nintendogs returning, more - Nintendo Everything",
-        "description": "A number of Nintendo rumors have come to light from malo932, who is building up some credibility when it comes to leaks. Most recently, malo932 indicated that we’d be getting presentations next week for The Legend of Zelda and Nintendo in general days before …",
-        "url": "https://nintendoeverything.com/rumor-new-smash-bros-game-on-the-way-nintendogs-returning-more/",
-        "source": "Nintendoeverything.com",
-        "publishedAt": "2026-09-06T01:04:10Z",
-        "image": "https://nintendoeverything.com/wp-content/uploads/Smash-Bros-Nintendogs-rumor.jpeg"
+        "title": "Super Smash Bros. Ultimate Switch 2 sequel leaks before September Nintendo Direct - Notebookcheck",
+        "description": "After revealing the Ocarina of Time remake and upcoming Nintendo Directs, the same leaker has offered another revelation. Rather than a Super Smash Bros. Ultimate Switch 2 upgrade, a game with unique characters may be in development. Even so, the platform fig…",
+        "url": "https://www.notebookcheck.net/New-Super-Smash-Bros-Switch-2-game-leaks-before-September-Nintendo-Direct.1390056.0.html",
+        "source": "Notebookcheck.net",
+        "publishedAt": "2026-09-06T01:17:00Z",
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SuperSmashBrosSwitch2.jpg"
       },
       {
-        "title": "Acer's tiny RTX Spark PC takes aim at Mac Studio with Blackwell and 128GB unified memory - TweakTown",
-        "description": "Acer's new RTX Spark is a compact AI workstation pairing NVIDIA Blackwell graphics with a Grace CPU and up to 128GB of unified memory.",
-        "url": "https://www.tweaktown.com/news/113423/acers-tiny-rtx-spark-pc-takes-aim-at-mac-studio-with-blackwell-and-128gb-unified-memory/index.html",
-        "source": "TweakTown",
-        "publishedAt": "2026-09-05T22:36:12Z",
-        "image": "https://static.tweaktown.com/news/1/1/113423_1_acers-tiny-rtx-spark-pc-takes-aim-at-mac-studio-with-blackwell-and-128gb-unified-memory_full.png"
-      },
-      {
-        "title": "iPhone Handoff will seamlessly share one number between two phones - The Verge",
-        "description": "iPhone Handoff is expected to launch as part of iOS 27 later this month.",
-        "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-        "source": "The Verge",
-        "publishedAt": "2026-09-05T20:53:58Z",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vpavic_210916_4760_0240.webp?quality=90&strip=all&crop=0%2C10.742788791498%2C100%2C78.514422417005&w=1200"
-      },
-      {
-        "title": "Here’s how iPhone Ultra’s form factor could compare to other Apple products - 9to5Mac",
-        "description": "This month, Apple will be unveiling its first foldable iPhone – rumored to be called iPhone Ultra. It’s going to...",
-        "url": "https://9to5mac.com/2026/09/05/iphone-ultra-form-factor-comparison/",
-        "source": "9to5Mac",
-        "publishedAt": "2026-09-05T19:15:00Z",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&resize=1200,628"
+        "title": "The Blood of Dawnwalker Sells 1 Million Copies Days After Launch - techpowerup.com",
+        "description": "Rebel Wolves' debut game is certainly off to a strong start. The Blood of Dawnwalker has sold more than 1 million copies worldwide, the studio confirmed on social media, just two days after its September 3 launch on PC, PS5, and Xbox Series X/S. The game hit …",
+        "url": "https://www.techpowerup.com/352397/the-blood-of-dawnwalker-sells-1-million-copies-days-after-launch",
+        "source": "Techpowerup.com",
+        "publishedAt": "2026-09-05T23:20:28Z",
+        "image": "https://www.techpowerup.com/img/c0Erk6tYMw8eJ7ne.jpg"
       }
     ],
     "business": [
+      {
+        "title": "These bystanders lifted a car to save a woman who was trapped underneath - The Washington Post",
+        "description": "A group of people rescued a bike rider after she was hit by a Volkswagen Beetle at an intersection.",
+        "url": "https://www.washingtonpost.com/lifestyle/2026/09/06/pennsylvania-bystanders-lift-car-save-trapped-woman/",
+        "source": "The Washington Post",
+        "publishedAt": "2026-09-06T12:02:42Z",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XF4S2W3PXNE5HDUN5TZS4CCHYU.png&w=1440"
+      },
+      {
+        "title": "A Kentucky man with a meat allergy was craving a burger. So he got into ostrich farming - AP News",
+        "description": "U.S. ostrich farmers say they’re finding new customers who developed a red meat allergy triggered by tick bites. Ostrich meat is red when raw and has a taste similar to beef. Kentucky farmer Brent Williams was diagnosed about seven years ago with alpha-gal sy…",
+        "url": "https://apnews.com/article/kentucky-farm-alphagal-tick-ostrich-steak-allergy-15cedc20aac4f0650e0d24d05a577139",
+        "source": "Associated Press",
+        "publishedAt": "2026-09-06T11:26:00Z",
+        "image": "https://dims.apnews.com/dims4/default/76369bc/2147483647/strip/true/crop/4500x2998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F35%2F13%2F4a63e989df94377bfa12764cfb38%2F3da1c44719de47ed846337fee891ad3d"
+      },
+      {
+        "title": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine - wsj.com",
+        "description": null,
+        "url": "https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-09-06T09:30:00Z",
+        "image": null
+      },
       {
         "title": "Tucson real estate agent duct-taped to seat after becoming unruly on flight - Arizona Daily Star",
         "description": "A Tucson real estate agent, Layne Lundeen, was restrained with duct tape and zip ties on a flight after becoming unruly, causing the plane to be diverted to Baltimore. Lundeen was arrested by Maryland authorities.",
@@ -51,80 +75,40 @@
         "source": "Arizona Daily Star",
         "publishedAt": "2026-09-06T05:22:48Z",
         "image": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/0/f5/0f55582a-cfcb-11ef-9115-afde33a28df8/6307b369c267e.image.jpg?crop=1095%2C616%2C0%2C46"
-      },
-      {
-        "title": "39-year-old major bullet manufacturer files Chapter 11 bankruptcy - thestreet.com",
-        "description": null,
-        "url": "https://www.thestreet.com/retail/bullet-company-mead-industries-files-chapter-11-bankruptcy",
-        "source": "TheStreet",
-        "publishedAt": "2026-09-05T23:33:00Z",
-        "image": null
-      },
-      {
-        "title": "Americans fed up with fast-food prices are sending chains a clear message, CEO says - New York Post",
-        "description": "The chain is leaning on its $4 meal deal as consumers become increasingly price conscious.",
-        "url": "https://www.foxbusiness.com/lifestyle/checkers-rallys-ceo-says-americans-demand-fast-food-value-intensifying",
-        "source": "Fox Business",
-        "publishedAt": "2026-09-05T23:09:00Z",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/miami-florida-biscayne-boulevard-checkers-139796055.jpg?quality=75&strip=all&w=1200"
-      },
-      {
-        "title": "These industries will lead hiring in the next decade, with just one sector accounting for more than a third of all new jobs - fortune.com",
-        "description": "The healthcare and social assistance industry, which will expand employment by 2.2 million over the next decade.",
-        "url": "https://fortune.com/2026/09/05/top-industries-hiring-next-decade-ai-utilities-healthcare-jobs/",
-        "source": "Fortune",
-        "publishedAt": "2026-09-05T22:05:00Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1393129186-e1788640950766.jpg?resize=1200,600"
-      },
-      {
-        "title": "OpenAI’s GPT-6 Astra Spawns Armies Of Agents That Run On Local CPUs, Handing Intel And AMD A Demand Windfall - Wccftech",
-        "description": "OpenAI's GPT-6 Astra operates software like a human — spawning sub-agents to compile code and run test suites on local CPUs.",
-        "url": "https://wccftech.com/openais-gpt-6-astra-spawns-armies-of-agents-that-run-on-local-cpus-handing-intel-and-amd-a-demand-windfall/",
-        "source": "Wccftech",
-        "publishedAt": "2026-09-05T20:15:45Z",
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/OpenAI-GPT-6-Astra-1-1-1920x1081.jpg"
       }
     ],
     "sports": [
       {
-        "title": "Lane Kiffin's LSU era begins with easy victory over Clemson - ESPN",
-        "description": "Arizona State transfer quarterback Sam Leavitt and Wisconsin transfer running back Dilin Jones combined for four rushing touchdowns in their new uniforms, and LSU ended a week of off-the-field drama with an easy 51-10 victory over Clemson on Saturday.",
-        "url": "https://www.espn.com/college-football/story/_/id/49845288/lane-kiffin-lsu-era-begins-easy-victory-clemson",
-        "source": "ESPN",
-        "publishedAt": "2026-09-06T05:03:00Z",
-        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0906%2Fr1712172_1296x729_16%2D9.jpg"
+        "title": "LSU had a revival, Clemson was at a funeral: Lane Kiffin’s debut sends a loud message to college football - Fox News",
+        "description": "Lane Kiffin's LSU debut delivered a 28-3 halftime lead over Clemson as Death Valley crowds rivaled the 2019 season in a star-studded spectacle.",
+        "url": "https://www.foxnews.com/outkick-sports/lsu-revival-clemson-funeral-lane-kiffin-debut-sends-loud-message-college-football",
+        "source": "Fox News",
+        "publishedAt": "2026-09-06T11:35:04Z",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/lane-kiffin-dabo-swinney-lsu-clemson-fox-news_.jpg"
       },
       {
-        "title": "Lane Kiffin at halftime of 31-3 blowout: \"Imagine if we had pro players\" - NBC Sports",
-        "description": "Some regard LSU coach Lane Kiffin as an agent of chaos.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-kiffin-at-halftime-of-31-3-blowout-imagine-if-we-had-pro-players",
-        "source": "NBCSports.com",
-        "publishedAt": "2026-09-06T03:55:05Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/341cf0e/2147483647/strip/true/crop/6960x3915+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4e%2Fd5%2F154ccc6046c69ca6d8655f20d3e5%2F2293261219.jpg"
+        "title": "How Gasly and Alpine beat Mercedes, Ferrari, McLaren and Red Bull to Italian GP pole - Autosport",
+        "description": "Superior execution by both team and driver enabled Pierre Gasly to edge past cars that have been faster all season",
+        "url": "https://www.autosport.com/f1/news/how-gasly-and-alpine-beat-mercedes-ferrari-mclaren-and-red-bull-to-italian-gp-pole/10852889/",
+        "source": "autosport.com",
+        "publishedAt": "2026-09-06T10:34:20Z",
+        "image": "https://cdn-1.motorsport.com/images/amp/YE9EKeDY/s6/pierre-gasly-alpine.jpg"
       },
       {
-        "title": "3 takeaways from BYU’s dominant win over Utah Tech - Deseret News",
-        "description": "",
-        "url": "https://www.deseret.com/sports/2026/09/05/byu-football-defeats-utah-tech-2026-3-takeaways/",
-        "source": "Deseret News",
-        "publishedAt": "2026-09-06T03:47:00Z",
-        "image": "https://www.deseret.com/resizer/v2/MJ3JKM2UNNHTLILDIVWVLHOPVI.JPG?focal=0%2C0&auth=0e1f592524fbe4d480e3db6fad4d07851d204d619aa7add89a56c098a809f3a1&width=630&height=331"
+        "title": "Iva Jovic reacts to how the US Open crowd treated her during her match with Alex Eala - Tennishead",
+        "description": "Jovic: \"I don't care if they're cheering for me, against me, I don't care who they support...\"",
+        "url": "https://tennishead.net/iva-jovic-reacts-to-how-the-us-open-crowd-treated-her-during-her-match-with-alex-eala/",
+        "source": "Tennishead",
+        "publishedAt": "2026-09-06T07:00:00Z",
+        "image": "https://cdn1.tennishead.net/uploads/106/2026/09/GettyImages-2293279555-scaled.jpg"
       },
       {
-        "title": "Michigan football stuns WMU with miracle Hail Mary after game seemed over - Detroit Free Press",
-        "description": "Michigan football opened its 2026 season with a stunning Hail Mary to beat Western Michigan. Here's who stood out.",
-        "url": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/09/05/michigan-football-game-score-recap-wmu-upset-bryce-underwood/91631436007/",
-        "source": "Detroit Free Press",
-        "publishedAt": "2026-09-06T03:34:15Z",
-        "image": "https://www.freep.com/gcdn/authoring/authoring-images/2026/09/06/PDTF/91639603007-090526-um-2-h-068.jpg?crop=3863,2173,x0,y201&width=3200&height=1801&format=pjpg&auto=webp"
-      },
-      {
-        "title": "Five Observations from Bayern Munich’s dour 0-0 draw vs Schalke 04 - Bavarian Football Works",
-        "description": "Schalke managed to get a point from FC Bayern against all odds.",
-        "url": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/252630/five-observations-from-bayerns-dour-0-0-draw-vs-schalke-04",
-        "source": "Bavarian Football Works",
-        "publishedAt": "2026-09-06T02:21:00Z",
-        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/09/gettyimages-2293184269.jpg?quality=90&strip=all&crop=0%2C10.729085274655%2C100%2C78.541829450691&w=1200"
+        "title": "‘College GameDay’ forced indoors due to lightning at Baton Rouge - Awful Announcing",
+        "description": "ESPN celebrated the 500th road show for College GameDay in Baton Rouge, but Mother Nature spoiled the plans.",
+        "url": "https://awfulannouncing.com/espn/college-gameday-forced-indoors-due-to-lightning-at-baton-rouge.html",
+        "source": "Awful Announcing",
+        "publishedAt": "2026-09-06T06:56:48Z",
+        "image": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/09/gamedayindoors-1024x512.png"
       }
     ]
   }
