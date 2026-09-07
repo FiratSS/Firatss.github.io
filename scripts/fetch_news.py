@@ -24,3 +24,14 @@ def is_removed(article):
     if article.get("url") == "https://removed.com":
         return True
     return False
+
+
+def map_article(article):
+    return {
+        "title": article.get("title"),
+        "description": article.get("description"),
+        "url": article.get("url"),
+        "source": (article.get("source") or {}).get("name"),
+        "publishedAt": article.get("publishedAt"),
+        "image": article.get("urlToImage"),
+    }

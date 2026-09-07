@@ -28,5 +28,28 @@ class TestIsRemoved(unittest.TestCase):
         self.assertFalse(fetch_news.is_removed({"title": "Real headline"}))
 
 
+class TestMapArticle(unittest.TestCase):
+    def test_maps_expected_fields(self):
+        article = {
+            "title": "T",
+            "description": "D",
+            "url": "https://x.com",
+            "source": {"id": "bbc-news", "name": "BBC"},
+            "publishedAt": "2026-01-01T00:00:00Z",
+            "urlToImage": "https://x.com/img.jpg",
+        }
+        self.assertEqual(
+            fetch_news.map_article(article),
+            {
+                "title": "T",
+                "description": "D",
+                "url": "https://x.com",
+                "source": "BBC",
+                "publishedAt": "2026-01-01T00:00:00Z",
+                "image": "https://x.com/img.jpg",
+            },
+        )
+
+
 if __name__ == "__main__":
     unittest.main()
