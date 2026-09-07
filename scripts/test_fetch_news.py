@@ -104,6 +104,32 @@ class TestFetchCategory(unittest.TestCase):
         with self.assertRaises(RuntimeError):
             fetch_news.fetch_category("technology", "fake-key")
 
+    @patch("fetch_news.urllib.request.urlopen")
+    def test_sends_correct_request_shape(self, mock_urlopen):
+        body = {
+            "status": "ok",
+            "articles": [
+                {
+                    "title": "Real",
+                    "description": "d",
+                    "url": "https://x.com",
+                    "source": {"name": "BBC"},
+                    "publishedAt": "p",
+                    "urlToImage": "i",
+                }
+            ],
+        }
+        mock_urlopen.return_value = self._mock_response(body)
+
+        fetch_news.fetch_category("technology", "fake-key")
+
+        args, _ = mock_urlopen.call_args
+        request = args[0]
+        self.assertIn("category=technology", request.full_url)
+        self.assertIn("pageSize=5", request.full_url)
+        self.assertIn("country=us", request.full_url)
+        self.assertEqual(request.get_header("X-api-key"), "fake-key")
+
 
 class TestBuildPayload(unittest.TestCase):
     @patch("fetch_news.fetch_category")
@@ -132,34 +158,42 @@ class TestMain(unittest.TestCase):
     @patch("fetch_news.build_payload")
     def test_build_failure_returns_1_without_writing_file(self, mock_build):
         mock_build.side_effect = RuntimeError("boom")
+        tmp_path = os.path.join(tempfile.mkdtemp(), "out.json")
         with patch.dict(os.environ, {"NEWS_API_KEY": "fake-key"}):
-            with patch("fetch_news.OUTPUT_PATH", os.path.join(tempfile.mkdtemp(), "out.json")):
+            with patch("fetch_news.OUTPUT_PATH", tmp_path):
                 exit_code = fetch_news.main()
         self.assertEqual(exit_code, 1)
+        self.assertFalse(os.path.exists(tmp_path))
 
     @patch("fetch_news.build_payload")
     def test_url_error_returns_1(self, mock_build):
         mock_build.side_effect = urllib.error.URLError("network unreachable")
+        tmp_path = os.path.join(tempfile.mkdtemp(), "out.json")
         with patch.dict(os.environ, {"NEWS_API_KEY": "fake-key"}):
-            with patch("fetch_news.OUTPUT_PATH", os.path.join(tempfile.mkdtemp(), "out.json")):
+            with patch("fetch_news.OUTPUT_PATH", tmp_path):
                 exit_code = fetch_news.main()
         self.assertEqual(exit_code, 1)
+        self.assertFalse(os.path.exists(tmp_path))
 
     @patch("fetch_news.build_payload")
     def test_timeout_returns_1(self, mock_build):
         mock_build.side_effect = TimeoutError("timed out")
+        tmp_path = os.path.join(tempfile.mkdtemp(), "out.json")
         with patch.dict(os.environ, {"NEWS_API_KEY": "fake-key"}):
-            with patch("fetch_news.OUTPUT_PATH", os.path.join(tempfile.mkdtemp(), "out.json")):
+            with patch("fetch_news.OUTPUT_PATH", tmp_path):
                 exit_code = fetch_news.main()
         self.assertEqual(exit_code, 1)
+        self.assertFalse(os.path.exists(tmp_path))
 
     @patch("fetch_news.build_payload")
     def test_malformed_json_returns_1(self, mock_build):
         mock_build.side_effect = json.JSONDecodeError("bad json", "doc", 0)
+        tmp_path = os.path.join(tempfile.mkdtemp(), "out.json")
         with patch.dict(os.environ, {"NEWS_API_KEY": "fake-key"}):
-            with patch("fetch_news.OUTPUT_PATH", os.path.join(tempfile.mkdtemp(), "out.json")):
+            with patch("fetch_news.OUTPUT_PATH", tmp_path):
                 exit_code = fetch_news.main()
         self.assertEqual(exit_code, 1)
+        self.assertFalse(os.path.exists(tmp_path))
 
     @patch("fetch_news.build_payload")
     def test_success_writes_file_and_returns_0(self, mock_build):
