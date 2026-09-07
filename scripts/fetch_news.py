@@ -35,3 +35,19 @@ def map_article(article):
         "publishedAt": article.get("publishedAt"),
         "image": article.get("urlToImage"),
     }
+
+
+def fetch_category(category, api_key):
+    url = f"{API_URL}?country=us&category={category}&pageSize={PAGE_SIZE}"
+    req = urllib.request.Request(url, headers={"X-Api-Key": api_key})
+    with urllib.request.urlopen(req, timeout=15) as response:
+        body = json.loads(response.read().decode("utf-8"))
+
+    if body.get("status") != "ok":
+        raise RuntimeError(f"NewsAPI error for category '{category}': {body}")
+
+    articles = [a for a in body.get("articles", []) if not is_removed(a)]
+    if not articles:
+        raise RuntimeError(f"No usable articles returned for category '{category}'")
+
+    return [map_article(a) for a in articles]
