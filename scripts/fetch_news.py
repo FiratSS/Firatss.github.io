@@ -51,3 +51,35 @@ def fetch_category(category, api_key):
         raise RuntimeError(f"No usable articles returned for category '{category}'")
 
     return [map_article(a) for a in articles]
+
+
+def build_payload(api_key):
+    categories = {category: fetch_category(category, api_key) for category in CATEGORIES}
+    return {
+        "updated": datetime.now(timezone.utc).date().isoformat(),
+        "categories": categories,
+    }
+
+
+def main():
+    api_key = os.environ.get("NEWS_API_KEY")
+    if not api_key:
+        print("NEWS_API_KEY environment variable is not set", file=sys.stderr)
+        return 1
+
+    try:
+        payload = build_payload(api_key)
+    except (RuntimeError, urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
+        print(f"Failed to fetch daily news: {exc}", file=sys.stderr)
+        return 1
+
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+    print(f"Wrote {OUTPUT_PATH}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
