@@ -1,114 +1,122 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "categories": {
     "technology": [
       {
-        "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026 and Nintendo Direct 9.9.2026 - Nintendo",
-        "description": "Tune in on Sept 8 at 7am PT for The Legend of Zelda 40th Anniversary Direct (Approx 30 mins) and on Sept 9 at 7am PT for Nintendo Direct 9.9.2026 (Approx 45 mins).",
-        "url": "https://www.nintendo.com/us/nintendo-direct/9-8-2026/",
-        "source": "Nintendo.com",
-        "publishedAt": "2026-09-06T08:27:24Z",
-        "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto/Nintendo Direct/2026/Ste6y52YPf2X3To8/dual_1920x1080_archive"
-      },
-      {
-        "title": "New DLSS 5 Swapper Tool Brings Neural Rendering to Games NVIDIA Never Supported - techpowerup.com",
-        "description": "A new tool called DLSS 5 Swapper, published on GitHub by developer rakanki911, automates installing DLSS 5's Neural Rendering into games, including ones that never officially got support for it. Users can drag and drop a game into the app, or let it scan the …",
-        "url": "https://www.techpowerup.com/352395/new-dlss-5-swapper-tool-brings-neural-rendering-to-games-nvidia-never-supported",
+        "title": "This Week in Gaming (Week 37) - TechPowerUp",
+        "description": "As we enter the second week of September, there are a lot of new releases, but all the more popular games are being released at more or less the same days, so we're going to change things up a bit to cover the most popular new releases. We kick off with what'…",
+        "url": "https://www.techpowerup.com/352407/this-week-in-gaming-week-37",
         "source": "Techpowerup.com",
-        "publishedAt": "2026-09-06T06:46:54Z",
-        "image": "https://www.techpowerup.com/img/i82sw7EskBk1VuQS.jpg"
+        "publishedAt": "2026-09-07T09:01:03Z",
+        "image": "https://www.techpowerup.com/img/kPopr30TWfYmT2n6.jpg"
       },
       {
-        "title": "Walmart is selling a 2-in-1 laptop and tablet for just $75 - thestreet.com",
-        "description": null,
-        "url": "https://www.thestreet.com/deals/aeezo-2-in-1-laptop-tablet-walmart-sale-september-2026",
-        "source": "TheStreet",
-        "publishedAt": "2026-09-06T04:15:00Z",
-        "image": null
-      },
-      {
-        "title": "Super Smash Bros. Ultimate Switch 2 sequel leaks before September Nintendo Direct - Notebookcheck",
-        "description": "After revealing the Ocarina of Time remake and upcoming Nintendo Directs, the same leaker has offered another revelation. Rather than a Super Smash Bros. Ultimate Switch 2 upgrade, a game with unique characters may be in development. Even so, the platform fig…",
-        "url": "https://www.notebookcheck.net/New-Super-Smash-Bros-Switch-2-game-leaks-before-September-Nintendo-Direct.1390056.0.html",
+        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices - notebookcheck.net",
+        "description": "An investigation by Gamers Nexus found LG smart TVs sweep local networks to map phones and nearby devices. Tests also showed the sets can capture microphone audio with the screen off — they then upload data once reconnected to the internet.",
+        "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
         "source": "Notebookcheck.net",
-        "publishedAt": "2026-09-06T01:17:00Z",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SuperSmashBrosSwitch2.jpg"
+        "publishedAt": "2026-09-07T05:40:00Z",
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/LG-smart-TV-investigation.png"
       },
       {
-        "title": "The Blood of Dawnwalker Sells 1 Million Copies Days After Launch - techpowerup.com",
-        "description": "Rebel Wolves' debut game is certainly off to a strong start. The Blood of Dawnwalker has sold more than 1 million copies worldwide, the studio confirmed on social media, just two days after its September 3 launch on PC, PS5, and Xbox Series X/S. The game hit …",
-        "url": "https://www.techpowerup.com/352397/the-blood-of-dawnwalker-sells-1-million-copies-days-after-launch",
-        "source": "Techpowerup.com",
-        "publishedAt": "2026-09-05T23:20:28Z",
-        "image": "https://www.techpowerup.com/img/c0Erk6tYMw8eJ7ne.jpg"
+        "title": "Scientists find a way to slash computer memory energy use by orders of magnitude - Science Daily",
+        "description": "Scientists have devised a new way to switch magnetic computer memory while using far less energy than today&apos;s leading technologies. By mathematically optimizing the pulses used to flip digital bits, the method could reduce energy consumption by several o…",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
+        "source": "Science Daily",
+        "publishedAt": "2026-09-07T01:15:56Z",
+        "image": "https://www.sciencedaily.com/images/1920/magnetic-memory-technologies.webp"
+      },
+      {
+        "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus - Yahoo Finance",
+        "description": "CNBC and Reuters reported that Apple Inc. (NASDAQ:AAPL) will hold its next product launch event on September 9 at Apple Park in Cupertino, marking incoming C...",
+        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-sets-iphone-launch-221225248.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-09-06T22:12:25Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/f9d85d19c23057a7536a5babb10f61ad0dd1eda439d5fbe8852831f6d9809c4c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F410ac07c4c90786d8592963501a2ed84.jpg"
       }
     ],
     "business": [
       {
-        "title": "These bystanders lifted a car to save a woman who was trapped underneath - The Washington Post",
-        "description": "A group of people rescued a bike rider after she was hit by a Volkswagen Beetle at an intersection.",
-        "url": "https://www.washingtonpost.com/lifestyle/2026/09/06/pennsylvania-bystanders-lift-car-save-trapped-woman/",
-        "source": "The Washington Post",
-        "publishedAt": "2026-09-06T12:02:42Z",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XF4S2W3PXNE5HDUN5TZS4CCHYU.png&w=1440"
+        "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise - Crude Oil Prices Today | OilPrice.com",
+        "description": "Goldman Sachs says worsening attacks on Middle East shipping could push oil prices to $120 per barrel as tensions around the Strait of Hormuz escalate.",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-Oil-Could-Hit-120-as-Shipping-Risks-Rise.html",
+        "source": "OilPrice.com",
+        "publishedAt": "2026-09-07T09:30:00Z",
+        "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-07_fonzb9it4r.jpg"
       },
       {
-        "title": "A Kentucky man with a meat allergy was craving a burger. So he got into ostrich farming - AP News",
-        "description": "U.S. ostrich farmers say they’re finding new customers who developed a red meat allergy triggered by tick bites. Ostrich meat is red when raw and has a taste similar to beef. Kentucky farmer Brent Williams was diagnosed about seven years ago with alpha-gal sy…",
-        "url": "https://apnews.com/article/kentucky-farm-alphagal-tick-ostrich-steak-allergy-15cedc20aac4f0650e0d24d05a577139",
-        "source": "Associated Press",
-        "publishedAt": "2026-09-06T11:26:00Z",
-        "image": "https://dims.apnews.com/dims4/default/76369bc/2147483647/strip/true/crop/4500x2998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F35%2F13%2F4a63e989df94377bfa12764cfb38%2F3da1c44719de47ed846337fee891ad3d"
+        "title": "Some homeowners have been waiting years for mortgage relief. It keeps slipping away - Yahoo Finance UK",
+        "description": "Homebuyers who took out mortgages in the past few years may have expected rates to fall by now to refinance. Instead, mortgage rates are climbing higher agai...",
+        "url": "https://finance.yahoo.com/real-estate/articles/homeowners-waiting-years-mortgage-relief-160029210.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-09-07T09:25:51Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/60a45232b8cfecb0c9be0651174295f735162a7cd0b74bc61212c6568008c92d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_business_articles_218%2F18746e77f16c2c3c49fa75b288eaaa23.jpg"
       },
       {
-        "title": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine - wsj.com",
-        "description": null,
-        "url": "https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-09-06T09:30:00Z",
-        "image": null
+        "title": "Labor Day sales are live: Shop expert-approved deals from Amazon, Apple, Hoka, Patagonia and more up to 75% off - Yahoo",
+        "description": "We found the best bargains to scoop up this holiday weekend, from fall wardrobe essentials to back-to-school tech.",
+        "url": "https://shopping.yahoo.com/deals/breaking-news/live/labor-day-sales-are-live-shop-expert-approved-deals-from-amazon-apple-hoka-patagonia-and-more-up-to-75-off-204203986.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-09-07T09:02:40Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/4d3a39e12b60c3f83fc39d86df6a55a7f817e2a17efc51d4a5711a70244930f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flabor-day-sales_1156.png"
       },
       {
-        "title": "Tucson real estate agent duct-taped to seat after becoming unruly on flight - Arizona Daily Star",
-        "description": "A Tucson real estate agent, Layne Lundeen, was restrained with duct tape and zip ties on a flight after becoming unruly, causing the plane to be diverted to Baltimore. Lundeen was arrested by Maryland authorities.",
-        "url": "https://tucson.com/news/local/article_4a04a8f3-e534-4273-a294-049b12ab445f.html",
-        "source": "Arizona Daily Star",
-        "publishedAt": "2026-09-06T05:22:48Z",
-        "image": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/0/f5/0f55582a-cfcb-11ef-9115-afde33a28df8/6307b369c267e.image.jpg?crop=1095%2C616%2C0%2C46"
+        "title": "Jaguar Land Rover to layoff thousands of jobs in $2.3 billion cost-saving overhaul - CNBC",
+        "description": "The luxury carmaker is targeting £1.7 billion ($2.3 billion) in savings as it faces Chinese competition, a cyberattack and U.S. tariffs.",
+        "url": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-07T08:00:56Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108216565-1761311857878-gettyimages-2238334459-cf206585_4ahw7dtk.jpeg?v=1761311957&w=1920&h=1080"
+      },
+      {
+        "title": "‘Uncharted territory’: The $40 trillion U.S. national debt just got uglier as interest payments rise to $1.25 trillion a year - Fortune",
+        "description": "Last time the net interest payments were this high was 35 years ago. Analysts warn the U.S. is worse off now than it was then.",
+        "url": "https://fortune.com/2026/09/07/us-national-debt-interest-1-trillion-1991-bond-yields-scott-bessent/",
+        "source": "Fortune",
+        "publishedAt": "2026-09-07T07:00:00Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2291864969-e1788549932817.jpg?resize=1200,600"
       }
     ],
     "sports": [
       {
-        "title": "LSU had a revival, Clemson was at a funeral: Lane Kiffin’s debut sends a loud message to college football - Fox News",
-        "description": "Lane Kiffin's LSU debut delivered a 28-3 halftime lead over Clemson as Death Valley crowds rivaled the 2019 season in a star-studded spectacle.",
-        "url": "https://www.foxnews.com/outkick-sports/lsu-revival-clemson-funeral-lane-kiffin-debut-sends-loud-message-college-football",
-        "source": "Fox News",
-        "publishedAt": "2026-09-06T11:35:04Z",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/lane-kiffin-dabo-swinney-lsu-clemson-fox-news_.jpg"
+        "title": "49ers happy to be in Australia, call it 'a cool experience' - ESPN",
+        "description": "Having been here since early Friday morning, Kyle Shanahan's concerns about taking part in the NFL's first regular-season game in Australia have dissipated.",
+        "url": "https://www.espn.com/nfl/story/_/id/49856252/49ers-happy-australia-call-cool-experience",
+        "source": "ESPN",
+        "publishedAt": "2026-09-07T04:31:00Z",
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0907%2Fr1712668_1296x729_16%2D9.jpg"
       },
       {
-        "title": "How Gasly and Alpine beat Mercedes, Ferrari, McLaren and Red Bull to Italian GP pole - Autosport",
-        "description": "Superior execution by both team and driver enabled Pierre Gasly to edge past cars that have been faster all season",
-        "url": "https://www.autosport.com/f1/news/how-gasly-and-alpine-beat-mercedes-ferrari-mclaren-and-red-bull-to-italian-gp-pole/10852889/",
-        "source": "autosport.com",
-        "publishedAt": "2026-09-06T10:34:20Z",
-        "image": "https://cdn-1.motorsport.com/images/amp/YE9EKeDY/s6/pierre-gasly-alpine.jpg"
+        "title": "Court moisture, slipping ends Nebraska volleyball's Wrigley Field match experience - Omaha World-Herald",
+        "description": "Nebraska volleyball's Wrigley Field experience Sunday night ended after 18 points and two delays. The match with Missouri was suspended, but if it's replayed, it won't be at Wrigley.",
+        "url": "https://omaha.com/sports/huskers/volleyball/article_ffd7c8ae-3a98-4d95-b797-dd2a498abfc7.html",
+        "source": "Omaha World-Herald",
+        "publishedAt": "2026-09-07T03:43:00Z",
+        "image": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/fd/ffd7c8ae-3a98-4d95-b797-dd2a498abfc7/6a9e2ce9525af.preview.jpg?crop=1925%2C1011%2C0%2C33&resize=1200%2C630&order=crop%2Cresize"
       },
       {
-        "title": "Iva Jovic reacts to how the US Open crowd treated her during her match with Alex Eala - Tennishead",
-        "description": "Jovic: \"I don't care if they're cheering for me, against me, I don't care who they support...\"",
-        "url": "https://tennishead.net/iva-jovic-reacts-to-how-the-us-open-crowd-treated-her-during-her-match-with-alex-eala/",
-        "source": "Tennishead",
-        "publishedAt": "2026-09-06T07:00:00Z",
-        "image": "https://cdn1.tennishead.net/uploads/106/2026/09/GettyImages-2293279555-scaled.jpg"
+        "title": "Shohei Ohtani Not Likely To Pitch Again In 2026 - MLB Trade Rumors",
+        "description": "The two-way star will probably be sticking to his DH role throughout the rest of the regular season and postseason.",
+        "url": "https://www.mlbtraderumors.com/2026/09/shohei-ohtani-not-likely-to-pitch-again-in-2026.html",
+        "source": "MLB Trade Rumors",
+        "publishedAt": "2026-09-07T03:16:19Z",
+        "image": "https://cdn.mlbtraderumors.com/files/2026/07/ShoheiOhtani-1024x683.jpg"
       },
       {
-        "title": "‘College GameDay’ forced indoors due to lightning at Baton Rouge - Awful Announcing",
-        "description": "ESPN celebrated the 500th road show for College GameDay in Baton Rouge, but Mother Nature spoiled the plans.",
-        "url": "https://awfulannouncing.com/espn/college-gameday-forced-indoors-due-to-lightning-at-baton-rouge.html",
-        "source": "Awful Announcing",
-        "publishedAt": "2026-09-06T06:56:48Z",
-        "image": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/09/gamedayindoors-1024x512.png"
+        "title": "Western Michigan-Michigan outcome created chaos for Kalshi - NBC Sports",
+        "description": "Last night's chaotic outcome to the Western Michigan-Michigan game created true chaos for the prediction markets, which have learned a valuable lesson once taught by Yogi Berra.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/western-michigan-michigan-outcome-created-chaos-for-kalshi",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-09-07T03:08:15Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e8619f2/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb2%2F3c%2Fcdbea4c94c8bad4e95e86ed1034b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2265194915"
+      },
+      {
+        "title": "49ers HC Kyle Shanahan expects Rams' Aaron Donald to play Thu. - ESPN",
+        "description": "The Rams haven't made a decision on whether Aaron Donald will play in the season opener against the 49ers, but San Francisco coach Kyle Shanahan said he has no doubt the defensive tackle will be out there.",
+        "url": "https://www.espn.com/nfl/story/_/id/49855255/49ers-hc-kyle-shanahan-expects-rams-aaron-donald-play-thu",
+        "source": "ESPN",
+        "publishedAt": "2026-09-07T02:48:00Z",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0907%2Fr1712630_1296x729_16%2D9.jpg"
       }
     ]
   }
