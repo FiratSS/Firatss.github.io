@@ -1,122 +1,114 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "categories": {
     "technology": [
       {
-        "title": "This Week in Gaming (Week 37) - TechPowerUp",
-        "description": "As we enter the second week of September, there are a lot of new releases, but all the more popular games are being released at more or less the same days, so we're going to change things up a bit to cover the most popular new releases. We kick off with what'…",
-        "url": "https://www.techpowerup.com/352407/this-week-in-gaming-week-37",
+        "title": "Mod Revives Multi-GPU Gaming With Dedicated DLSS 5 GPU for Impressive FPS Gain - TechPowerUp",
+        "description": "If you were around during what many consider the golden age of PC gaming, back when SLI was still possible, and, going back even further, when gamers put dedicated PhysX cards into their PCs, the latest trick shown off by modder, Marcelo Guibout, on YouTube. …",
+        "url": "https://www.techpowerup.com/352459/mod-revives-multi-gpu-gaming-with-dedicated-dlss-5-gpu-for-impressive-fps-gain",
         "source": "Techpowerup.com",
-        "publishedAt": "2026-09-07T09:01:03Z",
-        "image": "https://www.techpowerup.com/img/kPopr30TWfYmT2n6.jpg"
+        "publishedAt": "2026-09-08T04:32:02Z",
+        "image": "https://www.techpowerup.com/img/GuOhGUs7B7mOf7iw.jpg"
       },
       {
-        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices - notebookcheck.net",
-        "description": "An investigation by Gamers Nexus found LG smart TVs sweep local networks to map phones and nearby devices. Tests also showed the sets can capture microphone audio with the screen off — they then upload data once reconnected to the internet.",
-        "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-        "source": "Notebookcheck.net",
-        "publishedAt": "2026-09-07T05:40:00Z",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/LG-smart-TV-investigation.png"
+        "title": "Walmart has a $200 2-in-1 laptop and tablet for 45% off - thestreet.com",
+        "description": null,
+        "url": "https://www.thestreet.com/deals/zonko-10-inch-2-in-1-laptop-and-tablet-walmart-flash-sale-september-2026",
+        "source": "TheStreet",
+        "publishedAt": "2026-09-08T04:15:00Z",
+        "image": null
       },
       {
-        "title": "Scientists find a way to slash computer memory energy use by orders of magnitude - Science Daily",
-        "description": "Scientists have devised a new way to switch magnetic computer memory while using far less energy than today&apos;s leading technologies. By mathematically optimizing the pulses used to flip digital bits, the method could reduce energy consumption by several o…",
-        "url": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
-        "source": "Science Daily",
-        "publishedAt": "2026-09-07T01:15:56Z",
-        "image": "https://www.sciencedaily.com/images/1920/magnetic-memory-technologies.webp"
+        "title": "Rockstar May Move GTA 6 PC Launch in Response to Expected Console Shortages - techpowerup.com",
+        "description": "It has long been thought that there would be a long delay between the console and PC launches of Grand Theft Auto VI—GTA V launched to consoles a whole two years ahead of the PC port—however, the unprecedented times facing the PC and console hardware markets …",
+        "url": "https://www.techpowerup.com/352453/rockstar-may-move-gta-6-pc-launch-in-response-to-expected-console-shortages",
+        "source": "Techpowerup.com",
+        "publishedAt": "2026-09-08T03:41:38Z",
+        "image": "https://www.techpowerup.com/img/R1Tbd8vOTH7Kz7h8.jpg"
       },
       {
-        "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus - Yahoo Finance",
-        "description": "CNBC and Reuters reported that Apple Inc. (NASDAQ:AAPL) will hold its next product launch event on September 9 at Apple Park in Cupertino, marking incoming C...",
-        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-sets-iphone-launch-221225248.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-09-06T22:12:25Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/f9d85d19c23057a7536a5babb10f61ad0dd1eda439d5fbe8852831f6d9809c4c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F410ac07c4c90786d8592963501a2ed84.jpg"
+        "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026 and Nintendo Direct 9.9.2026 - Nintendo",
+        "description": "Tune in on Sept 8 at 7am PT for The Legend of Zelda 40th Anniversary Direct (Approx 30 mins) and on Sept 9 at 7am PT for Nintendo Direct 9.9.2026 (Approx 45 mins).",
+        "url": "https://www.nintendo.com/us/nintendo-direct/9-8-2026/",
+        "source": "Nintendo.com",
+        "publishedAt": "2026-09-08T02:41:27Z",
+        "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto/Nintendo Direct/2026/Ste6y52YPf2X3To8/dual_1920x1080_archive"
       }
     ],
     "business": [
       {
-        "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise - Crude Oil Prices Today | OilPrice.com",
-        "description": "Goldman Sachs says worsening attacks on Middle East shipping could push oil prices to $120 per barrel as tensions around the Strait of Hormuz escalate.",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-Oil-Could-Hit-120-as-Shipping-Risks-Rise.html",
-        "source": "OilPrice.com",
-        "publishedAt": "2026-09-07T09:30:00Z",
-        "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-07_fonzb9it4r.jpg"
-      },
-      {
-        "title": "Some homeowners have been waiting years for mortgage relief. It keeps slipping away - Yahoo Finance UK",
-        "description": "Homebuyers who took out mortgages in the past few years may have expected rates to fall by now to refinance. Instead, mortgage rates are climbing higher agai...",
-        "url": "https://finance.yahoo.com/real-estate/articles/homeowners-waiting-years-mortgage-relief-160029210.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-09-07T09:25:51Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/60a45232b8cfecb0c9be0651174295f735162a7cd0b74bc61212c6568008c92d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_business_articles_218%2F18746e77f16c2c3c49fa75b288eaaa23.jpg"
-      },
-      {
-        "title": "Labor Day sales are live: Shop expert-approved deals from Amazon, Apple, Hoka, Patagonia and more up to 75% off - Yahoo",
-        "description": "We found the best bargains to scoop up this holiday weekend, from fall wardrobe essentials to back-to-school tech.",
-        "url": "https://shopping.yahoo.com/deals/breaking-news/live/labor-day-sales-are-live-shop-expert-approved-deals-from-amazon-apple-hoka-patagonia-and-more-up-to-75-off-204203986.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-09-07T09:02:40Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/4d3a39e12b60c3f83fc39d86df6a55a7f817e2a17efc51d4a5711a70244930f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flabor-day-sales_1156.png"
-      },
-      {
-        "title": "Jaguar Land Rover to layoff thousands of jobs in $2.3 billion cost-saving overhaul - CNBC",
-        "description": "The luxury carmaker is targeting £1.7 billion ($2.3 billion) in savings as it faces Chinese competition, a cyberattack and U.S. tariffs.",
-        "url": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html",
+        "title": "China's imports in August miss estimates as exports pick up pace amid calls for rebalancing trade - CNBC",
+        "description": "China's exports and imports gathered momentum in August, as the world's second-largest economy faces mounting pressure to rebalance trade.",
+        "url": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
         "source": "CNBC",
-        "publishedAt": "2026-09-07T08:00:56Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108216565-1761311857878-gettyimages-2238334459-cf206585_4ahw7dtk.jpeg?v=1761311957&w=1920&h=1080"
+        "publishedAt": "2026-09-08T02:49:00Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108304828-1778492689574-gettyimages-2274002556-img_4105.jpeg?v=1778492905&w=1920&h=1080"
       },
       {
-        "title": "‘Uncharted territory’: The $40 trillion U.S. national debt just got uglier as interest payments rise to $1.25 trillion a year - Fortune",
-        "description": "Last time the net interest payments were this high was 35 years ago. Analysts warn the U.S. is worse off now than it was then.",
-        "url": "https://fortune.com/2026/09/07/us-national-debt-interest-1-trillion-1991-bond-yields-scott-bessent/",
-        "source": "Fortune",
-        "publishedAt": "2026-09-07T07:00:00Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2291864969-e1788549932817.jpg?resize=1200,600"
+        "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator - NBC News",
+        "description": "President Donald Trump asserted Monday that the Canadian aerospace company Bombardier should no longer be allowed to sell its planes in the U.S., opening a new front in his trade war with Canada.",
+        "url": "https://www.nbcnews.com/politics/trump-administration/trump-calls-bombardier-plane-ban-drawing-pushback-gop-senator-rcna596525",
+        "source": "NBC News",
+        "publishedAt": "2026-09-08T02:34:00Z",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260827-donald-trump-ch-1352-715f3e.jpg"
+      },
+      {
+        "title": "Donald Trump, 80, Blows Up His Favorite Lie With One Post - The Daily Beast",
+        "description": "The president exposed dozens of his past statements as inoperative.",
+        "url": "https://www.thedailybeast.com/donald-trump-80-blows-up-his-favorite-lie-with-one-post/",
+        "source": "Daily Beast",
+        "publishedAt": "2026-09-08T02:26:00Z",
+        "image": "https://www.thedailybeast.com/resizer/v2/Y2GESGQL4FA37A3M4WAZXOPX4M.JPG?smart=true&auth=378bc550a2368064a28d0747616a0030d3dd094e27b6b2d53227505ccb9251a5&width=1200&height=630"
+      },
+      {
+        "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost - The Verge",
+        "description": "After five years of development, Arm now has a dedicated AI gaming graphics accelerator inside its GPU, the Arm Mali G2-Ultra NX.",
+        "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+        "source": "The Verge",
+        "publishedAt": "2026-09-08T02:00:00Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-3-1.webp?quality=90&strip=all&crop=0%2C28.875924057724%2C62.2%2C48.848255011163&w=1200"
       }
     ],
     "sports": [
       {
-        "title": "49ers happy to be in Australia, call it 'a cool experience' - ESPN",
-        "description": "Having been here since early Friday morning, Kyle Shanahan's concerns about taking part in the NFL's first regular-season game in Australia have dissipated.",
-        "url": "https://www.espn.com/nfl/story/_/id/49856252/49ers-happy-australia-call-cool-experience",
-        "source": "ESPN",
-        "publishedAt": "2026-09-07T04:31:00Z",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0907%2Fr1712668_1296x729_16%2D9.jpg"
-      },
-      {
-        "title": "Court moisture, slipping ends Nebraska volleyball's Wrigley Field match experience - Omaha World-Herald",
-        "description": "Nebraska volleyball's Wrigley Field experience Sunday night ended after 18 points and two delays. The match with Missouri was suspended, but if it's replayed, it won't be at Wrigley.",
-        "url": "https://omaha.com/sports/huskers/volleyball/article_ffd7c8ae-3a98-4d95-b797-dd2a498abfc7.html",
-        "source": "Omaha World-Herald",
-        "publishedAt": "2026-09-07T03:43:00Z",
-        "image": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/fd/ffd7c8ae-3a98-4d95-b797-dd2a498abfc7/6a9e2ce9525af.preview.jpg?crop=1925%2C1011%2C0%2C33&resize=1200%2C630&order=crop%2Cresize"
-      },
-      {
-        "title": "Shohei Ohtani Not Likely To Pitch Again In 2026 - MLB Trade Rumors",
-        "description": "The two-way star will probably be sticking to his DH role throughout the rest of the regular season and postseason.",
-        "url": "https://www.mlbtraderumors.com/2026/09/shohei-ohtani-not-likely-to-pitch-again-in-2026.html",
-        "source": "MLB Trade Rumors",
-        "publishedAt": "2026-09-07T03:16:19Z",
-        "image": "https://cdn.mlbtraderumors.com/files/2026/07/ShoheiOhtani-1024x683.jpg"
-      },
-      {
-        "title": "Western Michigan-Michigan outcome created chaos for Kalshi - NBC Sports",
-        "description": "Last night's chaotic outcome to the Western Michigan-Michigan game created true chaos for the prediction markets, which have learned a valuable lesson once taught by Yogi Berra.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/western-michigan-michigan-outcome-created-chaos-for-kalshi",
+        "title": "Christian Gonzalez, Patriots agree to four-year extension - NBC Sports",
+        "description": "Gonzalez has agreed to a deal that will make him the league's highest-paid corner, ending a contract dispute.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-patriots-agree-to-four-year-extension",
         "source": "NBCSports.com",
-        "publishedAt": "2026-09-07T03:08:15Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e8619f2/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb2%2F3c%2Fcdbea4c94c8bad4e95e86ed1034b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2265194915"
+        "publishedAt": "2026-09-08T05:12:49Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/57dc2e4/2147483647/strip/true/crop/6638x3734+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F03%2F18%2F73b773f34467ab4c77b80e0d7ec0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2257293316"
       },
       {
-        "title": "49ers HC Kyle Shanahan expects Rams' Aaron Donald to play Thu. - ESPN",
-        "description": "The Rams haven't made a decision on whether Aaron Donald will play in the season opener against the 49ers, but San Francisco coach Kyle Shanahan said he has no doubt the defensive tackle will be out there.",
-        "url": "https://www.espn.com/nfl/story/_/id/49855255/49ers-hc-kyle-shanahan-expects-rams-aaron-donald-play-thu",
-        "source": "ESPN",
-        "publishedAt": "2026-09-07T02:48:00Z",
-        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0907%2Fr1712630_1296x729_16%2D9.jpg"
+        "title": "Tomorrow's Top 25 Today: LSU crashes top 10 while Oregon, Michigan fall in new college football rankings - CBS Sports",
+        "description": "Projecting the new AP Top 25 rankings after Week 1 scores and results in college football",
+        "url": "https://www.cbssports.com/college-football/news/tomorrows-top-25-today-college-football-rankings-lsu-oregon-michigan/",
+        "source": "CBS Sports",
+        "publishedAt": "2026-09-08T04:41:00Z",
+        "image": "https://sportshub.cbsistatic.com/i/r/2026/09/08/7e7de12e-4978-4aba-9e00-cf8ecf544e04/thumbnail/1200x675/2685e38fe88f2e73d5a945332a49e457/lsu-projected-rankings.png"
+      },
+      {
+        "title": "College Football Rankings: Where Michigan Landed After Its Week 1 Hail Mary Win - FOX Sports",
+        "description": "FOX Sports' RJ Young shares his latest college football rankings after a long Week 1.",
+        "url": "https://www.foxsports.com/stories/college-football/college-football-rankings-michigan-oklahoma-texas-ohio-state",
+        "source": "Fox Sports",
+        "publishedAt": "2026-09-08T04:39:00Z",
+        "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/artboard-1-89.jpg?ve=1&tl=1"
+      },
+      {
+        "title": "Giants release Darius Slayton after seven seasons - NBC Sports",
+        "description": "Giants released WR Darius Slayton.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-07/giants-release-darius-slayton-after-seven-seasons",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-09-08T04:24:37Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b32dd5b/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F8a%2F0114df1844579ecaa87e1d345e4a%2Fslayton-darius-cropped.jpg"
+      },
+      {
+        "title": "Rybakina overpowers Osaka, will face Zheng in US Open quarterfinals with a chance to become No. 1 - AP News",
+        "description": "Elena Rybakina overpowered Naomi Osaka at the U.S. Open and is a win away from the No. 1 ranking in women’s tennis. She just has to beat Zheng Qinwen, which won’t be easy. Even when Zheng goes down — way, way down — she refuses to stay there. Rybakina advance…",
+        "url": "https://apnews.com/article/us-open-day-nine-results-8302b601db178083e7e4a655de6ed168",
+        "source": "Associated Press",
+        "publishedAt": "2026-09-08T03:59:00Z",
+        "image": "https://dims.apnews.com/dims4/default/9bde146/2147483647/strip/true/crop/8129x5417+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F0b%2F34a6529dd2f6140f9b2120d520dc%2F9013046bd29643c9a1c54900aabb9ad9"
       }
     ]
   }
