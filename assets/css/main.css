@@ -285,7 +285,7 @@ button,
 	text-align: center;
 	white-space: nowrap;
 	background-color: #3498db;
-	color: #fff !important;
+	color: #fff;
 }
 
 button:hover,
