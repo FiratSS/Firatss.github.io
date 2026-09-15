@@ -1,130 +1,114 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "categories": {
     "technology": [
       {
-        "title": "Here's When iOS 27 Rolls Out in Every Time Zone - MacRumors",
-        "description": "Apple is about to release iOS 27, which will finally deliver more advanced Siri AI capabilities as well as a variety of other refinements,...",
-        "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
+        "title": "Steelers’ home opener brings crowds — and NASA’s first NFL flyover - Pittsburgh Post-Gazette",
+        "description": "False",
+        "url": "https://www.post-gazette.com/local/2026/09/13/pittsburgh-steelers-tailgate-nasa-nfl-flyover/stories/202609130100",
+        "source": "Pittsburgh Post-Gazette",
+        "publishedAt": "2026-09-14T03:28:11Z",
+        "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202609130100/1140x_a10-7_cTC/20260913awTailgate04_1789326245.jpg"
+      },
+      {
+        "title": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed — but There's a Catch - IGN",
+        "description": "CD Projekt and Blizzard have released a first look at the Geralt-themed Barbarian skin for Diablo 4, but you'll need to preorder The Witcher 3 expansion Songs of the Past on Battle.net to get it.",
+        "url": "https://www.ign.com/articles/the-witcher-3-geralt-skin-for-diablo-4-barbarians-revealed-but-theres-a-catch",
+        "source": "IGN",
+        "publishedAt": "2026-09-14T02:00:06Z",
+        "image": "https://assets-prd.ignimgs.com/2026/09/13/geralt-1789330423902.png?width=1280&format=jpg&auto=webp&quality=80"
+      },
+      {
+        "title": "5 Budget Android Phones You Should Consider Instead Of The Google Pixel 11 - bgr.com",
+        "description": "Considering a Google Pixel 11 smartphone, but feeling put off by the $900 price tag? Why not consider these five much cheaper Android phone alternatives.",
+        "url": "https://www.bgr.com/2253813/budget-android-phones-google-pixel-11-alternatives/",
+        "source": "BGR",
+        "publishedAt": "2026-09-14T01:50:49Z",
+        "image": "https://www.bgr.com/img/gallery/5-budget-android-phones-you-should-consider-instead-of-the-google-pixel-11/l-intro-1788967014.jpg"
+      },
+      {
+        "title": "Sony Shuts Down The Last of Us 2 PC Multiplayer Fan Mod - Push Square",
+        "description": "Nine months of work down the drain",
+        "url": "https://www.pushsquare.com/news/2026/09/sony-shuts-down-the-last-of-us-2-pc-multiplayer-fan-mod",
+        "source": "Push Square",
+        "publishedAt": "2026-09-14T01:00:00Z",
+        "image": "https://images.pushsquare.com/1975023bd4c09/large.jpg"
+      },
+      {
+        "title": "iOS 27 Available Tomorrow With These 8 New Features - MacRumors",
+        "description": "During its iPhone 18 Pro and iPhone Duo event last week, Apple announced that iOS 27 will be released widely on Monday, September 14.   iOS 27 should...",
+        "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
         "source": "MacRumors",
-        "publishedAt": "2026-09-13T10:00:00Z",
-        "image": "https://images.macrumors.com/t/HOSHJ9nwEo_CtBL-8d0_XPs2J5c=/2500x/article-new/2026/06/iOS-27-Next-to-iPhone.jpg"
-      },
-      {
-        "title": "Fire Emblem: Fortune's Weave Estimated File Size Revealed - Nintendo Life",
-        "description": "Not long to go now",
-        "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-estimated-file-size-revealed",
-        "source": "Nintendo Life",
-        "publishedAt": "2026-09-13T08:30:00Z",
-        "image": "https://images.nintendolife.com/c582d0834c2d1/large.jpg"
-      },
-      {
-        "title": "GTA 6 Is About to Totally Reinvent One of the Best Experiences in Video Games - Polygon.com",
-        "description": null,
-        "url": "https://www.polygon.com/gta-6-stealing-cars/",
-        "source": "Polygon",
-        "publishedAt": "2026-09-13T05:00:14Z",
-        "image": null
-      },
-      {
-        "title": "Level 5 CEO Akihiro Hino Addresses Use of AI in Latest Presentation - Anime News Network",
-        "description": "Hino: “We incorporated cutting-edge AI that also served as an experiment, in our earnest desire to make a phenomenal presentation. We understand this may have offended some, and we sincerely apologize.”",
-        "url": "https://www.animenewsnetwork.com/interest/2026-09-12/level-5-ceo-akihiro-hino-addresses-use-of-ai-in-latest-presentation/.241710",
-        "source": "Anime News Network",
-        "publishedAt": "2026-09-13T03:59:00Z",
-        "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHP/cms/interest.3/241710/level-5-vision-2026-ii-dream-logo.jpeg"
-      },
-      {
-        "title": "Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way - MacRumors",
-        "description": "As noted by Nicolas Lellouche, who writes for the French tech website Numerama, Apple has updated its tech specs pages for the iPhone 18 Pro and...",
-        "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
-        "source": "MacRumors",
-        "publishedAt": "2026-09-12T22:27:16Z",
-        "image": "https://images.macrumors.com/t/g_6sXAxjP2QHbuX3GZAxETkTwMY=/1600x/article-new/2026/09/deep-black-iphone-18-pro.jpg"
+        "publishedAt": "2026-09-13T23:30:07Z",
+        "image": "https://images.macrumors.com/t/2wYn2nihwl9hafPlrrVkqxxPOls=/1672x/article-new/2026/09/iOS-27-Icon-iPhone.jpeg"
       }
     ],
     "business": [
       {
-        "title": "It’s the most common aviation accident. But how to stop it? - The Washington Post",
-        "description": "The crash in Miami highlights the unusual challenges of a runaway plane.",
-        "url": "https://www.washingtonpost.com/transportation/2026/09/13/why-stopping-plane-skidding-off-runway-is-challenge/",
-        "source": "The Washington Post",
-        "publishedAt": "2026-09-13T12:42:12Z",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5FYLDJF7VJKJ55SP6Y52HCT2N4.jpg&w=1440"
+        "title": "Teenager killed riding e-bike through Pacific Beach intersection Saturday night - 10News.com",
+        "description": "Friends gathered Sunday to mourn the death of a 14-year-old who was struck and killed riding his e-bike through a Pacific Beach intersection.",
+        "url": "https://www.10news.com/news/local-news/teenager-killed-riding-e-bike-through-pacific-beach-intersection-saturday-night",
+        "source": "10News",
+        "publishedAt": "2026-09-14T05:23:29Z",
+        "image": "https://ewscripps.brightspotcdn.com/dims4/default/c92fda6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fause1%2Fslices%2F74b%2F790551469ef2448fbb6dfa541303db12%2F74b767bce333435ba242ccd1c4e1f4f9%2Fposter_64ff64d44957416fab8a4104ba141aca.jpg"
       },
       {
-        "title": "The Fed Is Poised to Raise Interest Rates for the First Time in Years - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/economy/central-banking/the-fed-is-poised-to-raise-interest-rates-for-the-first-time-in-years-b9629772",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-09-13T11:18:28Z",
-        "image": null
+        "title": "China’s spy agency warns of AI risk to national security - Financial Times",
+        "description": "Beijing signals growing concern over how rapid advances in technology could be used against the country",
+        "url": "https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6\\\\u003d1",
+        "source": "Financial Times",
+        "publishedAt": "2026-09-14T05:16:31Z",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb6058f2-9993-422a-9b92-b9342ed37120.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
       },
       {
-        "title": "The tab is coming due for America's borrowing binge - Axios",
-        "description": "Energy-driven inflation combined with ballooning debt is making everything more expensive.",
-        "url": "https://www.axios.com/2026/09/13/national-debt-interest-rates-rising",
-        "source": "Axios",
-        "publishedAt": "2026-09-13T11:13:53Z",
-        "image": "https://images.axios.com/Uv19C8y5YtSeNCTox0qE3dOBfK8=/1366x768/smart/2021/04/09/150118-1617980478680.jpg"
-      },
-      {
-        "title": "Kroger loses $12 billion as customer behavior takes a turn - thestreet.com",
-        "description": null,
-        "url": "https://www.thestreet.com/retail/kroger-loses-12-billion-cpg-spending-to-rivals",
-        "source": "TheStreet",
-        "publishedAt": "2026-09-13T11:07:00Z",
-        "image": null
-      },
-      {
-        "title": "Say Goodbye To San Marzano Tomatoes — This Flavorful Alternative Has Home Cooks Saving Money - Tasting Table",
-        "description": "Redpack Whole Peeled Plum Tomatoes offer a flavorful, lower-cost alternative to San Marzano tomatoes, with a firm texture and balanced flavor.",
-        "url": "https://www.tastingtable.com/2252240/san-marzano-tomatoes-cheaper-alternative/",
-        "source": "Tastingtable.com",
-        "publishedAt": "2026-09-13T10:30:00Z",
-        "image": "https://www.tastingtable.com/img/gallery/say-goodbye-to-san-marzano-tomatoes-this-flavorful-alternative-has-home-cooks-saving-money/l-intro-1788803866.jpg"
+        "title": "Carney pitches Canada to global investors as Trump tries to pull investment south - AP News",
+        "description": "Canadian Prime Minister Mark Carney is courting some of the world’s biggest investors as he tries to reduce Canada’s economic dependence on the United States during an escalating trade war with President Donald Trump. About 300 CEOs and senior executives mana…",
+        "url": "https://apnews.com/article/canada-carney-investment-summit-toronto-trump-41a910eb2f0b6ddad5112e48746597e3",
+        "source": "Associated Press",
+        "publishedAt": "2026-09-14T04:24:00Z",
+        "image": "https://dims.apnews.com/dims4/default/49e1d37/2147483647/strip/true/crop/7824x5213+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff1%2F78%2F7011eecdf821f4f06c3ee697b7f7%2Fa6bbb74e8aeb4c83ac7776ab2782d02d"
       }
     ],
     "sports": [
       {
-        "title": "2026 NFL season predictions: Division winners, playoff teams and Super Bowl pick revealed - Fox News",
-        "description": "The Los Angeles Rams are a Super Bowl favorite, but bold 2026 NFL season predictions see them losing the opener and falling short of the title.",
-        "url": "https://www.foxnews.com/outkick-sports/2026-nfl-season-predictions-division-winners-playoff-teams-super-bowl-pick-revealed",
-        "source": "Fox News",
-        "publishedAt": "2026-09-13T11:55:20Z",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/joe-burrow-cincinnati-bengals-training-camp.jpg"
+        "title": "LA Clippers owner Steve Ballmer apologizes over team sanctions - CNBC",
+        "description": "Ballmer said that the team is complying with the penalties, has paid the fines, and is \"moving forward.\"",
+        "url": "https://www.cnbc.com/2026/09/14/la-clippers-steve-ballmer-apologizes-kawhi-leonard.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-14T04:58:46Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108358072-1788381479834-gettyimages-2253968374-km3_3102_0l3wn4ow.jpeg?v=1788381518&w=1920&h=1080"
       },
       {
-        "title": "Sources: Joey Porter Jr. unlikely to play amid uncertain Steelers future - ESPN",
-        "description": "Steelers CB Joey Porter Jr., who has been embroiled in a contract dispute all summer, is unlikely to play Sunday against the Falcons because of a back injury, sources told NFL Network and ESPN, and the possibility of a trade remains in play.",
-        "url": "https://www.espn.com/nfl/story/_/id/49920002/sources-joey-porter-jr-unlikely-play-amid-uncertain-steelers-future",
-        "source": "ESPN",
-        "publishedAt": "2026-09-13T11:30:00Z",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0912%2Fr1544507_1296x729_16%2D9.jpg"
-      },
-      {
-        "title": "After 18 years in Baltimore, John Harbaugh faces his biggest challenge yet: Turning around the New York Giants - CNN",
-        "description": "The start of the new NFL season always brings a few things that take getting used to. Perhaps one of the most head-turning sights will be walking the sidelines of MetLife Stadium during the final game on Sunday.",
-        "url": "https://www.cnn.com/2026/09/13/sport/john-harbaugh-new-york-giants",
-        "source": "CNN",
-        "publishedAt": "2026-09-13T11:00:29Z",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2291609771.jpg?c=16x9&q=w_800,c_fill"
-      },
-      {
-        "title": "5 factors that will dictate Madrid's first F1 race - The Race",
-        "description": "F1 heads into the unknown in its first Madring race today. That means there are some big questions about how the race will unfold, but with signposts to the potential answers",
-        "url": "https://www.the-race.com/formula-1/5-factors-that-will-dictate-madrids-first-f1-race/",
-        "source": "The-race.com",
-        "publishedAt": "2026-09-13T10:24:50Z",
-        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/09/XPB_1435544_HiRes--1-.jpg"
-      },
-      {
-        "title": "Arch Manning puts \"nightmares\" behind him as Texas beats Ohio State - NBC Sports",
-        "description": "\"I couldn't lose to them again. I had nightmares about that game last year,\" Manning said.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arch-manning-puts-nightmares-behind-him-as-texas-beats-ohio-state",
+        "title": "Stock Up, Stock Down — Week 1: Bear Returns - NBC Sports",
+        "description": "Rivers McCown looks at four players who saw their fantasy football stock go up and four players who saw their fantasy football stock decline from Week 1's early returns.",
+        "url": "https://www.nbcsports.com/fantasy/football/news/stock-up-stock-down-week-1-bear-returns",
         "source": "NBCSports.com",
-        "publishedAt": "2026-09-13T09:00:51Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7f1bd14/2147483647/strip/true/crop/4943x2780+0+258/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2F8a%2F12efc1494b2b8a3f9d962551ece6%2F2294979051.jpg"
+        "publishedAt": "2026-09-14T04:10:17Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ecacb79/2147483647/strip/true/crop/4784x2691+0+249/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2F51%2Fc4e1d72b4275afbb199b20b028d2%2F2026-09-13t212953z-1973885889-mt1usatoday29814494-rtrmadp-3-nfl-chicago-bears-at-carolina-panthers.jpg"
+      },
+      {
+        "title": "NFL Week 1 grades for all 32 teams: Ravens roll to an 'A-,' Bills earn high mark for win over Texans - CBS Sports",
+        "description": "Here are the Week 1 grades for every team so far",
+        "url": "https://www.cbssports.com/nfl/news/nfl-week-1-grades-for-all-32-teams-ravens-roll-bills-earn-high-mark/",
+        "source": "CBS Sports",
+        "publishedAt": "2026-09-14T03:45:00Z",
+        "image": "https://sportshub.cbsistatic.com/i/r/2026/09/13/de845ee6-6e6f-4d23-9d82-6daa55fed96e/thumbnail/1200x675/9b94e586497e29ef351d298b824f65af/gettyimages-2295076443.jpg"
+      },
+      {
+        "title": "Sunday Night Football: Jaxson Dart throws three TDs, Giants beat Cowboys 28-20 - NBC Sports",
+        "description": "New York won its first game under new head coach John Harbaugh by controlling the ball and the clock.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jaxson-dart-throws-three-tds-giants-beat-cowboys-28-20",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-09-14T03:41:04Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/094c523/2147483647/strip/true/crop/4938x2778+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc5%2F00%2F2c4ce4f94d63a152d605cbf077de%2F2026-09-14t031654z-112645859-mt1usatoday29817576-rtrmadp-3-nfl-dallas-cowboys-at-new-york-giants.jpg"
+      },
+      {
+        "title": "Deshaun Watson’s debut makes matters worse in Cleveland - Andscape",
+        "description": "If Deshaun Watson is the right answer for the Browns at QB, he didn't look it Week 1 vs. the Jaguars. Is it time for Shedeur Sanders?",
+        "url": "https://andscape.com/features/deshaun-watson-browns-week-1-jaguars-stats-shedeur-sanders/",
+        "source": "Andscape.com",
+        "publishedAt": "2026-09-14T01:30:53Z",
+        "image": "https://andscape.com/wp-content/uploads/2026/09/GettyImages-2294617030-e1789333262695.jpg"
       }
     ]
   }
