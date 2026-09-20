@@ -1,130 +1,122 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "categories": {
     "technology": [
       {
-        "title": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail - Video Games Chronicle",
-        "description": "Final Fantasy 7 Revelation’s director isn’t concerned it’s too big…",
-        "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
-        "source": "Video Games Chronicle",
-        "publishedAt": "2026-09-18T03:51:43Z",
-        "image": "https://www.videogameschronicle.com/files/2026/09/HMnzJDLbUAAOVKq.jpeg"
-      },
-      {
-        "title": "Apple CEO John Ternus Teases iPhone 18 Pro Launch Day - MacRumors",
-        "description": "Apple Fifth Avenue in New York is ready for iPhone 18 Pro launch day.  The store's iconic glass cube entrance has received a colorful makeover...",
-        "url": "https://www.macrumors.com/2026/09/17/john-ternus-teases-iphone-18-pro-launch/",
+        "title": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease - MacRumors",
+        "description": "Apple hardware engineering VP Tom Marieb spoke with TechRadar and shared some candid thoughts about Apple's upcoming iPhone Duo.   The iPhone Duo...",
+        "url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
         "source": "MacRumors",
-        "publishedAt": "2026-09-18T03:10:00Z",
-        "image": "https://images.macrumors.com/t/QGJUJMgYfZFzVJd9Kz5QaE4eEvc=/1600x/article-new/2026/09/Apple-Fifth-Avenue-iPhone-18-Pro.jpeg"
+        "publishedAt": "2026-09-19T04:51:00Z",
+        "image": "https://images.macrumors.com/t/NuDa84z4PV4wgt5FllkUNv14Guw=/1600x/article-new/2026/09/iphone-duo-weather.jpg"
       },
       {
-        "title": "The iPhones 18 Pro - Daring Fireball",
-        "description": "It’s the best version of the most successful product ever made. And yet by nature of *how* the iPhone 18 Pro improved in the last year, it’s not exciting at all.",
-        "url": "https://daringfireball.net/2026/09/the_iphones_18_pro",
-        "source": "Daringfireball.net",
-        "publishedAt": "2026-09-18T02:08:33Z",
-        "image": "https://daringfireball.net/graphics/df-wide-card.png"
+        "title": "Nintendo Appears To Have Updated The Super Mario Logo - Nintendo Life",
+        "description": "40 years and counting",
+        "url": "https://www.nintendolife.com/news/2026/09/nintendo-appears-to-have-updated-the-super-mario-logo",
+        "source": "Nintendo Life",
+        "publishedAt": "2026-09-19T03:30:00Z",
+        "image": "https://images.nintendolife.com/6726189978453/large.jpg"
       },
       {
-        "title": "WhatsApp starts rolling out new in-chat search button on iOS - 9to5Mac",
-        "description": "Following a few weeks of beta testing, WhatsApp is now rolling out its new in-chat search button to iPhone users. Here are the details.",
-        "url": "https://9to5mac.com/2026/09/17/whatsapp-starts-rolling-out-new-in-chat-search-button-on-ios/",
+        "title": "‘Lollipop Chainsaw’: Cult Japanese Video Game Getting The Live Action Feature Treatment - Deadline",
+        "description": "'Lollipop Chainsaw', the cult Japanese video game, is becoming a feature film, just announced at the Tokyo Game Show.",
+        "url": "http://deadline.com/2026/09/lollipop-chainsaw-cult-japanese-video-game-feature-film-1237107425/",
+        "source": "Deadline",
+        "publishedAt": "2026-09-19T01:30:00Z",
+        "image": "https://deadline.com/wp-content/uploads/2026/09/Lollipop-Chainsaw.jpeg?w=1024"
+      },
+      {
+        "title": "iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping - MacRumors",
+        "description": "The iPhone 18 Pro Max has a battery capacity over 20 watt-hours, which means there are additional shipping requirements. If an iPhone 18 Pro Max...",
+        "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-shipping-restriction/",
+        "source": "MacRumors",
+        "publishedAt": "2026-09-18T23:27:55Z",
+        "image": "https://images.macrumors.com/t/FmoaYQ8VcSW4GR0OMegaPN7GuWM=/1769x/article-new/2026/09/iphone-18-pro-max-prepare.jpg"
+      },
+      {
+        "title": "The Quantified Scientist tests the Apple Watch Series 12’s new heart rate sensor - 9to5Mac",
+        "description": "In a new video, The Quantified Scientist’s Rob ter Horst compares the new Apple Watch Series 12’s heart rate sensor against a Polar H10 ECG chest strap.",
+        "url": "https://9to5mac.com/2026/09/18/the-quantified-scientist-tests-the-apple-watch-series-12s-new-heart-rate-sensor/",
         "source": "9to5Mac",
-        "publishedAt": "2026-09-18T01:41:00Z",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/whatsapp-ios27.jpg?quality=82&strip=all&resize=1200,628"
-      },
-      {
-        "title": "Diablo 5 Has Officially Been Confirmed For PC - Kotaku",
-        "description": "Why is Blizzard being so weird about this?",
-        "url": "https://kotaku.com/diablo-5-pc-starcraft-xbox-confirmed-2000735382",
-        "source": "Kotaku",
-        "publishedAt": "2026-09-17T22:30:18Z",
-        "image": "https://kotaku.com/app/uploads/2026/09/diablo-5.jpg"
+        "publishedAt": "2026-09-18T23:08:00Z",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-heart.webp?resize=1200,628"
       }
     ],
     "business": [
       {
-        "title": "OpenAI breached by researchers using Anthropic models - Financial Times",
-        "description": "Security company hacked into AI lab using tools from its rival",
-        "url": "https://www.ft.com/content/c4aa118e-a258-48bc-b50e-28e453a95db8?syn-25a6b1a6\\\\u003d1",
-        "source": "Financial Times",
-        "publishedAt": "2026-09-18T05:02:07Z",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F43a832ba-e3e3-4593-8b1b-0ddb560f277a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
-      },
-      {
-        "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation - CNBC",
-        "description": "The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike.",
-        "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-18T03:16:00Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108364205-1789623066424-gettyimages-2295400558-dsc02989_rz4zdho6.jpeg?v=1789623129&w=1920&h=1080"
-      },
-      {
-        "title": "Market Rebounds, But What Comes Next? SpaceX, AMD Flash Buy Signals - Investor's Business Daily",
-        "description": "Treasury yields fall in a positive day-two reaction to the Fed meeting.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-moderna-amd-spacex-buy-signals/",
-        "source": "Investor's Business Daily",
-        "publishedAt": "2026-09-18T03:09:00Z",
-        "image": "https://www.investors.com/wp-content/uploads/2018/07/Stock-SpaceXfalcon9-10-company.jpg"
-      },
-      {
-        "title": "Microsoft exec called AI the ‘largest theft of labor’ in history, court records show - washingtonpost.com",
-        "description": "The quote headlined an unsealed document in the New York Times’s copyright case against Microsoft and OpenAI.",
-        "url": "https://www.washingtonpost.com/business/2026/09/17/microsoft-exec-called-ai-largest-theft-labor-history-court-records-show/",
-        "source": "The Washington Post",
-        "publishedAt": "2026-09-18T02:19:08Z",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2ZF3CXVO7QI65GRSLSPGVIULHM.jpg&w=1440"
-      },
-      {
-        "title": "Anthropic says its model Claude is helping to build the next version of itself - apnews.com",
-        "description": "Anthropic has announced that its AI model, Claude, is significantly aiding in the development of building its successor. Claude is handling 26% of the model research and development for Anthropic, completing tasks under human supervision. Although Claude isn'…",
-        "url": "https://apnews.com/article/anthropic-claude-ai-model-self-improvement-4d3a7430f57cbc7c39e1c5f2b7d7e132",
+        "title": "Oil prices are high but could be much worse. Trump has China’s Xi to thank for that - AP News",
+        "description": "President Donald Trump’s conflict with Iran has not led to the doomsday oil price spike many feared at the start of the war. Energy analysts credit China’s oil strategy for this stability. China weathered the energy crunch by building a massive oil reserve an…",
+        "url": "https://apnews.com/article/trump-xi-iran-oil-china-78b8ccd21cbc4bc0ab19a79f68372ec0",
         "source": "Associated Press",
-        "publishedAt": "2026-09-18T01:55:00Z",
-        "image": "https://dims.apnews.com/dims4/default/cc34ed2/2147483647/strip/true/crop/5000x3332+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2F20%2F785616a9d6cd43fad6538dac7906%2F2ae6211ac40c4c759949e06d6698571b"
+        "publishedAt": "2026-09-19T04:08:00Z",
+        "image": "https://dims.apnews.com/dims4/default/7ac9f47/2147483647/strip/true/crop/3330x2219+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2F66%2Fccba78d2d8f1aeacdcbd78339386%2F11f59cc28deb4f7ba605be5ff72b11f3"
+      },
+      {
+        "title": "Investors weigh whether Anthropic can sustain surging revenues post-IPO - Financial Times",
+        "description": "OpenAI’s resurgence, cheap rivals and safety fears test faith in durability of business model",
+        "url": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6\\\\u003d1",
+        "source": "Financial Times",
+        "publishedAt": "2026-09-19T04:00:24Z",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F84e31127-9df1-437a-8ed4-cfb4dcd9a852.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
+      },
+      {
+        "title": "Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents - The Washington Post",
+        "description": "The incursions came during tests of its cybersecurity skills — similar to other incidents disclosed by OpenAI, Anthropic and Meta.",
+        "url": "https://www.washingtonpost.com/technology/2026/09/18/google-gemini-ai-hacked-into-other-companies-during-internal-testing/",
+        "source": "The Washington Post",
+        "publishedAt": "2026-09-19T03:12:00Z",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TWGZKRMAWHNZOXRD3RCS35UN74.JPG&w=1440"
+      },
+      {
+        "title": "A New Buffett Takes On the Task of Preserving Berkshire Hathaway’s Culture - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/finance/a-new-buffett-takes-on-the-task-of-preserving-berkshire-hathaways-culture-bdb9cc30",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-09-19T00:34:00Z",
+        "image": null
+      },
+      {
+        "title": "Citing Trump, GOP regulators reject gas plant for Amazon data center - Politico",
+        "description": "GOP officials in North Carolina said Duke Energy’s plans for powering the Amazon facility ran counter to the president’s Ratepayer Protection Pledge.",
+        "url": "https://www.politico.com/news/2026/09/18/amazon-data-center-north-carolina-energy-trump-01084934",
+        "source": "Politico",
+        "publishedAt": "2026-09-19T00:09:00Z",
+        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F36%2F03%2Fcd05dc164cb986c93fd5f9bd942c%2Ftrump-08392.jpg"
       }
     ],
     "sports": [
       {
-        "title": "Emmitt Smith thinks Derrick Henry can break all-time rushing record - NBC Sports",
-        "description": "Derrick Henry, at age 32, is playing like he did at age 22.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/emmitt-smith-thinks-derrick-henry-can-break-all-time-rushing-record",
+        "title": "Jerry Jones: The Giants were better than we thought they were - NBC Sports",
+        "description": "Jones seemingly tries to temper expectations for the 2026 Cowboys.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-the-giants-were-better-than-we-thought-they-were",
         "source": "NBCSports.com",
-        "publishedAt": "2026-09-18T04:01:51Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d66ba17/2147483647/strip/true/crop/7200x4050+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2F8a%2F346f5e614cec9d04e9c5b83bc89c%2F2294902347.jpg"
+        "publishedAt": "2026-09-19T04:01:06Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b80c931/2147483647/strip/true/crop/4505x2534+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F79%2F75%2F5532746547c88241ebee0b2a4333%2F2295124947.jpg"
       },
       {
-        "title": "NFL Week 2 picks: Our experts face off on Giants at Rams, Bengals vs. Texans and more - CBS Sports",
-        "description": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-        "url": "https://www.cbssports.com/nfl/news/nfl-week-2-picks-lions-bills-bengals-texans/",
-        "source": "CBS Sports",
-        "publishedAt": "2026-09-18T04:00:00Z",
-        "image": "https://sportshub.cbsistatic.com/i/r/2026/09/16/4f00701d-79e2-4c63-8060-0e916baf8081/thumbnail/1200x675/29f0f225cfe91801ca529fbf6271d5cf/lions.jpg"
+        "title": "Colby Covington makes quick work of Belal Muhammad with shutout victory in RAF 13 main event - MMA Fighting",
+        "description": "Colby Covington scored a technical fall over rival Belal Muhammad to cap off RAF 13 on Friday in Miami.",
+        "url": "https://www.mmafighting.com/ufc/511006/colby-covington-makes-quick-work-of-belal-muhammad-with-shutout-victory-in-raf-13-main-event",
+        "source": "MMA Fighting",
+        "publishedAt": "2026-09-19T03:37:00Z",
+        "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/IMG_5605.jpg?quality=90&strip=all&crop=0%2C2.8865762300797%2C100%2C69.248444533045&w=1200"
       },
       {
-        "title": "Mets' Jared Young stretchered off field after taking Nolan McLean knee to head at first base - SNY",
-        "description": "Mets first baseman Jared Young was taken off the field on a stretcher after being kneed in the head by Nolan McLean on a play at first base in the sixth inning on Thursday night at Citi Field.",
-        "url": "https://sny.tv/articles/mets-jared-young-carted-off-field",
-        "source": "SNY.tv",
-        "publishedAt": "2026-09-18T03:44:38Z",
-        "image": "https://images.contentstack.io/v3/assets/bltf7a82b39b0908da4/bltf8e62f54e5f1344c/6aac91bc35eddca3b511e9a3/Young.JPG?format=jpg&quality=75&fit=bounds&width=1296&height=729"
+        "title": "Fever's Kelsey Mitchell breaks A'ja Wilson's WNBA single-season points record - USA Today",
+        "description": "Kelsey Mitchell continued her stellar WNBA season, claiming another record that was previously held by the league's perennial MVP, A'ja Wilson.",
+        "url": "https://www.usatoday.com/story/sports/wnba/fever/2026/09/18/kelsey-mitchell-breaks-wnba-single-season-points-record/91831608007/",
+        "source": "USA Today",
+        "publishedAt": "2026-09-19T03:13:00Z",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/18/USAT/91833351007-getty-images-2291753712.jpg?crop=2713,1526,x0,y141&width=2713&height=1526&format=pjpg&auto=webp"
       },
       {
-        "title": "NFL Week 2 Recap: Immediate fantasy football takeaways from Lions-Bills - PFF",
-        "description": "Dalton Kincaid and Sam LaPorta shining were among the chief fantasy football takeaways from the Buffalo Bills' Week 2 win over the Detroit Lions.",
-        "url": "https://www.pff.com/news/nfl-week-2-recap-immediate-fantasy-football-takeaways-from-lions-bills",
-        "source": "Pff.com",
-        "publishedAt": "2026-09-18T03:28:00Z",
-        "image": "https://media.pff.com/2026/09/Dalton-Kincaid-2026-scaled.jpg?w=1200&h=675"
-      },
-      {
-        "title": "Sean McVay hopes the Rams never play in Australia again - NBC Sports",
-        "description": "One week ago, the Rams made their debut in Australia.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-hopes-the-rams-never-play-in-australia-again",
-        "source": "NBCSports.com",
-        "publishedAt": "2026-09-18T03:15:21Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7d19ecb/2147483647/strip/true/crop/5472x3078+0+285/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F35%2F71%2F4c2bea0845408d2c227d03f40780%2F2295448424.jpg"
+        "title": "Yankees To Place Aaron Judge On IL With Calf Strain - mlbtraderumors.com",
+        "description": "Judge is going back on the IL again.",
+        "url": "https://www.mlbtraderumors.com/2026/09/yankees-to-place-aaron-judge-on-il-with-calf-strain.html",
+        "source": "MLB Trade Rumors",
+        "publishedAt": "2026-09-19T00:03:12Z",
+        "image": "https://cdn.mlbtraderumors.com/files/2026/06/USATSI_29296753-1024x683.jpg"
       }
     ]
   }
