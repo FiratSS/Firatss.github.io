@@ -1,0 +1,61 @@
+{
+  "updated": "2026-09-21",
+  "fields": [
+    {
+      "id": "robotics",
+      "title": "Robotics",
+      "icon": "fas fa-robot",
+      "intro": "DRAFT: Placeholder intro — replace with your own words on why robotics interests you (2-3 sentences).",
+      "advancedTopics": [
+        "DRAFT: Placeholder topic — e.g. a specific sub-area of robotics you're curious about",
+        "DRAFT: Placeholder topic — e.g. a specific robotics technique or platform",
+        "DRAFT: Placeholder topic — e.g. how robotics connects to your testing background"
+      ],
+      "links": [
+        { "label": "DRAFT: Placeholder course/article title", "url": "https://example.com", "type": "course" }
+      ]
+    },
+    {
+      "id": "ml",
+      "title": "Machine Learning",
+      "icon": "fas fa-brain",
+      "intro": "DRAFT: Placeholder intro — replace with your own words on why machine learning interests you (2-3 sentences).",
+      "advancedTopics": [
+        "DRAFT: Placeholder topic — e.g. a specific ML technique you're exploring",
+        "DRAFT: Placeholder topic — e.g. an ML application area",
+        "DRAFT: Placeholder topic — e.g. how ML connects to testing/QA"
+      ],
+      "links": [
+        { "label": "DRAFT: Placeholder course/article title", "url": "https://example.com", "type": "course" }
+      ]
+    },
+    {
+      "id": "blockchain",
+      "title": "Blockchain",
+      "icon": "fas fa-cubes",
+      "intro": "DRAFT: Placeholder intro — replace with your own words on why blockchain interests you (2-3 sentences).",
+      "advancedTopics": [
+        "DRAFT: Placeholder topic — e.g. a specific blockchain concept",
+        "DRAFT: Placeholder topic — e.g. a blockchain platform or protocol",
+        "DRAFT: Placeholder topic — e.g. how blockchain connects to software testing"
+      ],
+      "links": [
+        { "label": "DRAFT: Placeholder course/article title", "url": "https://example.com", "type": "course" }
+      ]
+    },
+    {
+      "id": "iot",
+      "title": "IoT",
+      "icon": "fas fa-microchip",
+      "intro": "DRAFT: Placeholder intro — replace with your own words on why IoT interests you (2-3 sentences).",
+      "advancedTopics": [
+        "DRAFT: Placeholder topic — e.g. a specific IoT protocol or platform",
+        "DRAFT: Placeholder topic — e.g. an IoT application area",
+        "DRAFT: Placeholder topic — e.g. how IoT connects to your testing background"
+      ],
+      "links": [
+        { "label": "DRAFT: Placeholder course/article title", "url": "https://example.com", "type": "course" }
+      ]
+    }
+  ]
+}
