@@ -36,7 +36,7 @@ In `innovation.html`, the existing section:
 </section>
 ```
 
-is replaced in place by a new section, same position in the page (between "Areas of Innovation" and the innovation-idea form), with a heading such as "Fields I'm Exploring" (exact copy TBD with site owner during content review).
+is replaced in place by a new section, same position in the page (between "Areas of Innovation" and the innovation-idea form). Section heading copy (e.g. "Fields I'm Exploring") is decided during the content review step below, alongside the field intros/topics/links — not shipped as a default without the site owner's sign-off.
 
 ### Data
 
@@ -61,7 +61,7 @@ New file: `assets/interests/index.json`
 }
 ```
 
-`type` on a link is one of `course`, "paper", or `article` — used only to pick an icon in the modal (e.g. `fa-graduation-cap` for course, `fa-file-alt` for paper), no other behavioral difference.
+`type` on a link is one of `course`, `paper`, or `article` — used only to pick an icon in the modal (`fa-graduation-cap` for course, `fa-file-alt` for paper, `fa-newspaper` for article), no other behavioral difference.
 
 This mirrors the existing `assets/learn/index.json` convention (a single JSON index, fetched client-side) but with a simpler, fixed record shape — no separate per-item file, since there's no long-form markdown body here.
 
@@ -71,9 +71,9 @@ A 4-card grid, `id="interestsGrid"`, styled like the existing `.book-card` (`.in
 
 - Icon + title
 - The `intro` text (draft or, once reviewed, final)
-- A "Learn More" button (matches the visual weight of `.download-btn`/`.pdf-download-btn` — gold gradient pill), `onclick` opens the modal for that field's `id`
+- A "Learn More" button (matches the visual weight of `.download-btn`/`.pdf-download-btn` — gold gradient pill)
 
-Populated client-side by fetching `assets/interests/index.json` on `DOMContentLoaded`, same pattern as `loadCapsules()` in `learn.html`. A fetch failure shows the same kind of inline error state already used elsewhere on the site (see `learn.html`'s `.no-results` / `index.html`'s news-load error block) — no separate design needed, reuse that convention.
+Populated client-side by fetching `assets/interests/index.json` on `DOMContentLoaded`, same pattern as `loadCapsules()` in `learn.html`. Card click wiring follows Learn's actual pattern exactly (not a simplified version of it): render cards with a `data-field-id` attribute, attach `addEventListener('click', ...)` to each card after render (no inline `onclick`), and pass all JSON-sourced text (`title`, `intro`, `advancedTopics` entries, link `label`s) through the same `escapeHtml()` helper before injecting into `innerHTML` — matching `displayCapsules()` in `learn.html`. A fetch failure shows the same kind of inline error state already used elsewhere on the site (see `learn.html`'s `.no-results` / `index.html`'s news-load error block) — no separate design needed, reuse that convention.
 
 ### Modal (on "Learn More")
 
@@ -88,11 +88,11 @@ Modal content, built directly from the JSON record (no markdown rendering needed
 
 ### Content
 
-This spec ships with the 4 JSON records containing clearly-marked placeholder intros/topics/links (drafted from general knowledge) so the mechanism can be built and reviewed end-to-end. Before merge, the site owner replaces every placeholder field with their actual interests and real links. The implementation plan should call this out as an explicit review step, not silently ship placeholder copy to production.
+This spec ships with the 4 JSON records containing clearly-marked placeholder intros/topics/links (drafted from general knowledge) so the mechanism can be built and reviewed end-to-end, plus a placeholder section heading. Before merge, the site owner replaces every placeholder field (intros, advanced topics, links) *and* signs off on the section heading copy with their actual interests, real links, and final wording. The implementation plan should call this out as one explicit review step covering both the JSON content and the heading, not silently ship placeholder copy to production.
 
 ## Testing
 
 - Manually load `innovation.html` in a browser: confirm the 4 cards render, "Learn More" opens the correct field's modal, `Escape` and outside-click close it, and this matches the Learn page's existing modal behavior.
 - Confirm the replaced section no longer references any of the old "Current Innovation Projects" copy.
 - Confirm mobile layout (grid collapses to 1 column under 768px, matching the existing `@media (max-width: 768px)` pattern already used for `.capsules-grid`/`.projects-grid`/`.books-grid` on other pages).
-- Confirm no placeholder/draft content ships without the site owner's explicit sign-off in review.
+- Confirm no placeholder/draft content — including the section heading text — ships without the site owner's explicit sign-off in review.
