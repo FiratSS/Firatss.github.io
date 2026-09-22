@@ -1,46 +1,38 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "categories": {
     "technology": [
       {
-        "title": "Hideo Kojima explains the surprise split with Sony - The Washington Post",
-        "description": "Celebrated game director Hideo Kojima wrestled with Sony’s surprise cancellation months before it went public, he said in an interview, fearing “our studio could collapse.”",
-        "url": "https://www.washingtonpost.com/style/2026/09/20/hideo-kojima-explains-surprise-physint-split-with-sony/",
-        "source": "The Washington Post",
-        "publishedAt": "2026-09-20T11:21:36Z",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EH2X75DW66CW3YPGB54D2V6EYU_size-normalized.jpg&w=1440"
+        "title": "This Week’s Japanese Game Releases: Silent Hill: Townfall, GOBBLE, more - Gematsu",
+        "description": "Silent Hill: Townfall for PlayStation 5 and PC, and GOBBLE for PlayStation 5, Switch 2, Switch, and PC are the highlights of this week’s Japanese video game releases.",
+        "url": "https://www.gematsu.com/2026/09/this-weeks-japanese-game-releases-silent-hill-townfall-gobble-more",
+        "source": "Gematsu",
+        "publishedAt": "2026-09-21T04:42:39Z",
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/09/Weekly-Japanese-Game-Releases_09-21-26.jpg"
       },
       {
-        "title": "I spent 30 minutes with the iPhone Duo — 3 things you just don’t get from the pictures - Tom's Guide",
-        "description": "This thing hits different when you hold it",
-        "url": "https://www.tomsguide.com/phones/iphones/i-spent-30-minutes-with-the-iphone-duo-3-things-you-just-dont-get-from-the-pictures",
-        "source": "Tom's Guide",
-        "publishedAt": "2026-09-20T09:45:00Z",
-        "image": "https://cdn.mos.cms.futurecdn.net/GTrSzbvbSigPgscpMS3JsU-2560-80.jpg"
+        "title": "OnePlus 16 officially revealed with up to 1TB storage and three colorways - Notebookcheck",
+        "description": "The OnePlus 16 is set to launch in China, succeeding last year's OnePlus 15. The company has now revealed the phone’s design, color options, and memory configurations.",
+        "url": "https://www.notebookcheck.net/OnePlus-16-officially-revealed-with-up-to-1TB-storage-and-three-colorways.1404372.0.html",
+        "source": "Notebookcheck.net",
+        "publishedAt": "2026-09-21T03:44:00Z",
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/oneplus-16-official-news.png"
       },
       {
-        "title": "Insomniac denies AI made Marvel's Wolverine's weird bathroom sign - blames a \"UV map bug\" instead - Eurogamer.net",
-        "description": "Insomniac denies using generative AI on Marvel's Wolverine after fans spotted a strange bathroom sign, blaming a \"UV map bug\" instead.",
-        "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
-        "source": "Eurogamer.net",
-        "publishedAt": "2026-09-20T09:20:36Z",
-        "image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-20-at-10.09.46.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        "title": "Hideo Kojima Says Sony Dropped PHYSINT During a Zoom Call and Gave No Reason - TechPowerUp",
+        "description": "In a new interview with IGN, Hideo Kojima says PlayStation ended its involvement in PHYSINT during a Zoom call in June. He says Sony gave no reason, though he also admits he didn't ask many questions during the meeting, and that Sony hasn't been in touch sinc…",
+        "url": "https://www.techpowerup.com/352884/hideo-kojima-says-sony-dropped-physint-during-a-zoom-call-and-gave-no-reason",
+        "source": "Techpowerup.com",
+        "publishedAt": "2026-09-21T00:47:15Z",
+        "image": "https://www.techpowerup.com/img/4nB4DP5PozkxmkiY.jpg"
       },
       {
-        "title": "Xbox gets 48 new games next week, including two Game Pass additions - TrueAchievements",
-        "description": "Next week, Control Resonant, Dune: Awakening, EA Sports FC 27, Graveyard Keeper 2, and 44 more new games launch across Xbox consoles and Xbox PC.",
-        "url": "https://www.trueachievements.com/news/new-xbox-games-september-21",
-        "source": "TrueAchievements",
-        "publishedAt": "2026-09-20T09:01:34Z",
-        "image": "https://www.trueachievements.com/imgs/178563/xbox-gets-48-new-games-next-week-including-one-game-pass-addition.jpg"
-      },
-      {
-        "title": "Laser Your Way Into Debug Mode On The RP2350 - Hackaday",
-        "description": "The RP2350 is actually a pretty secure chip, all things considered. It has secure boot, ARMv8’s TrustZone to split secure and non-secure execution, and you can permanently disable debug — the…",
-        "url": "https://hackaday.com/2026/09/19/laser-your-way-into-debug-mode-on-the-rp2350/",
-        "source": "Hackaday",
-        "publishedAt": "2026-09-20T02:00:00Z",
-        "image": "https://hackaday.com/wp-content/uploads/2026/09/backside_decap_RP2350.jpg"
+        "title": "iFixit tears down iPhone 18 Pro, explores variable aperture, finds concerning repair issue - 9to5Mac",
+        "description": "iFixit has published its traditional teardown of the iPhone 18 Pro, which shows the variable aperture mechanism up close and explores a potential issue involving display repairs.",
+        "url": "https://9to5mac.com/2026/09/20/ifixit-tears-down-iphone-18-pro-explores-variable-aperture-finds-concerning-repair-issue/",
+        "source": "9to5Mac",
+        "publishedAt": "2026-09-20T22:02:00Z",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ifixit-18-pro-teardown.jpg?quality=82&strip=all&resize=1200,628"
       }
     ],
     "business": [
@@ -49,82 +41,82 @@
         "description": null,
         "url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
         "source": "The Wall Street Journal",
-        "publishedAt": "2026-09-20T10:44:08Z",
+        "publishedAt": "2026-09-21T08:31:09Z",
         "image": null
       },
       {
-        "title": "‘Crisis even bigger than Covid’: American business owners are barely getting by - CNN",
-        "description": "The historic supply chain struggles that America’s business owners face show why resurgent inflation will not be easily resolved – even if the war ended.",
-        "url": "https://www.cnn.com/2026/09/20/economy/covid-diesel-supply-chain",
-        "source": "CNN",
-        "publishedAt": "2026-09-20T10:00:29Z",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2290741663.jpg?c=16x9&q=w_800,c_fill"
+        "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting - Yahoo Finance",
+        "description": "Asian shares advanced Monday ahead of the expected meeting between U.S. President Donald Trump and Chinese leader Xi Jinping this week in Washington, which c...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-advance-bessent-says-talks-051936845.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-09-21T05:19:00Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/19988618923bf9f241fe72a165c61ef39345c0ee9fe3ab799f1da5cf670afcd2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F61c0acbb8e48d982119f8aff7530dbac.jpg"
       },
       {
-        "title": "How Trump 2.0's stock market stacks up with predecessors - Axios",
-        "description": "Trump 2.0 stock market easily topped Biden, but remains behind Obama and Trump 1.0.",
-        "url": "https://www.axios.com/2026/09/20/trump-stock-market-predecessors",
-        "source": "Axios",
-        "publishedAt": "2026-09-20T09:59:43Z",
-        "image": "https://images.axios.com/-87oNUMDa_R0Lp0TqtC7Bajf00w=/0x0:1600x900/1366x768/2026/09/19/1789831417233.png"
+        "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals - CNBC",
+        "description": "Chinese biopharma stocks rose on Monday after a report that the U.S. may continue to allow most drug licensing deals with Chinese firms.",
+        "url": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
+        "source": "CNBC",
+        "publishedAt": "2026-09-21T04:20:33Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108249930-1767883114856-gettyimages-1457781967-_x3m2814.jpeg?v=1776772295&w=1920&h=1080"
       },
       {
-        "title": "Meet a 71-year-old who retired as a radiologist and professor, and now runs a banana-skewer business - Fortune",
-        "description": "Richard Brown’s career has taken him from the exam room to the classroom and boardroom. At 71, he’s still working—and is now focused on entrepreneurship.",
-        "url": "https://fortune.com/2026/09/20/retired-professor-radiologist-richard-brown-turning-to-entreprenuership-career-success-starting-over-poka-snack/",
-        "source": "Fortune",
-        "publishedAt": "2026-09-20T09:34:00Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/RichardBrown.jpg?resize=1200,600"
+        "title": "Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities — And Wall Street Isn’t Looking: ‘When The Music’s Over…’ - Yahoo Finance",
+        "description": "Burry says the liabilities are growing more than the companies themselves.",
+        "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-warns-hyperscalers-are-hiding-3-trillion-in-ai-liabilities-and-wall-street-isn-t-looking-when-the-music-s-over/cZMRbsvRB4I",
+        "source": "Stocktwits.com",
+        "publishedAt": "2026-09-21T02:46:00Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/0c04433eb3cc99b6a8a7beae79c70e0794bc36047d1572d61eb8e497244b80fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F1ee149676711629c546bb8f14d17a4a8"
       },
       {
-        "title": "Fast food from the US and China catches on in both countries - AP News",
-        "description": "China and the United States are divided on many issues, from tariffs to Taiwan. But fast food is one thing tying the two superpowers together as their leaders prepare to meet in Washington. American restaurant and beverage chains are expanding rapidly in Chin…",
-        "url": "https://apnews.com/article/fast-food-chains-china-kfc-tea-trump-9bd3cf5e539f51791d346b97432293ba",
-        "source": "Associated Press",
-        "publishedAt": "2026-09-20T09:06:00Z",
-        "image": "https://dims.apnews.com/dims4/default/6deab8c/2147483647/strip/true/crop/6825x4548+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F05%2F637529c576d1ad68efb30d44dc73%2F0608e0f4e3344399b28e841ac01c894e"
+        "title": "Fast-food giant cancels breakfast at hundreds of locations - thestreet.com",
+        "description": null,
+        "url": "https://www.thestreet.com/restaurants/more-wendys-drop-breakfast-menu-after-partners-chapter-11",
+        "source": "TheStreet",
+        "publishedAt": "2026-09-21T02:22:00Z",
+        "image": null
       }
     ],
     "sports": [
       {
-        "title": "Daniel Cormier, Joe Rogan criticize ‘ungrateful loser’ Gable Steveson for behavior after knockout loss at UFC 331 - mmafighting.com",
-        "description": "Daniel Cormier and Joe Rogan agree that Gable Steveson still has a lot to learn and he showed that with his reaction to his knockout loss at UFC 331.",
-        "url": "https://www.mmafighting.com/ufc/511539/daniel-cormier-joe-rogan-criticize-ungrateful-loser-gable-steveson-for-behavior-after-knockout-loss-at-ufc-331",
-        "source": "MMA Fighting",
-        "publishedAt": "2026-09-20T12:00:00Z",
-        "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2296152717.jpg?quality=90&strip=all&crop=0%2C13.207791319257%2C100%2C78.534031413613&w=1200"
+        "title": "TBD: What loss No. 1 means for South Carolina in 2026 - 247Sports",
+        "description": "Shane Beamer went to bat for his team after their first loss of the season",
+        "url": "https://247sports.com/college/south-carolina/article/tbd-what-loss-no-1-means-for-south-carolina-in-2026-290208836/",
+        "source": "247Sports",
+        "publishedAt": "2026-09-21T07:22:36Z",
+        "image": "https://s3media.247sports.com/Uploads/Assets/745/403/14403745.png?width=1200&height=628&crop=1.91:1&fit=cover"
       },
       {
-        "title": "Sources: Steelers eye Week 3 return for CB Joey Porter Jr. - ESPN",
-        "description": "The Steelers are planning for Joey Porter Jr. to potentially return for their Week 3 game against the Bengals, sources told ESPN.",
-        "url": "https://www.espn.com/nfl/story/_/id/49982020/sources-steelers-eye-potential-week-3-joey-porter-jr",
+        "title": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games - ESPN",
+        "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
+        "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026",
         "source": "ESPN",
-        "publishedAt": "2026-09-20T11:33:41Z",
-        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0914%2Fr1716700_1296x729_16%2D9.jpg"
+        "publishedAt": "2026-09-21T04:55:00Z",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0921%2Fr1719896_2_1296x729_16%2D9.jpg"
       },
       {
-        "title": "Browns expected to evaluate QB situation ahead of Week 3 - ESPN",
-        "description": "The Browns are expected to evaluate their quarterback situation after their Week 2 game against the Buccaneers.",
-        "url": "https://www.espn.com/nfl/story/_/id/49985301/browns-expected-evaluate-qb-situation-ahead-week-3",
-        "source": "ESPN",
-        "publishedAt": "2026-09-20T10:32:46Z",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705605_1296x729_16%2D9.jpg"
+        "title": "Jayden Daniels’s dislocated elbow overshadows Commanders’ loss to Cowboys - The Washington Post",
+        "description": "The quarterback faces more time on the sidelines after exiting the 37-20 defeat. He injured the same elbow last year.",
+        "url": "https://www.washingtonpost.com/sports/2026/09/20/jayden-daniels-exits-commanders-game-vs-cowboys-with-elbow-injury/",
+        "source": "The Washington Post",
+        "publishedAt": "2026-09-21T04:22:27Z",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BK66EE2WO4CIQWHE3BJT2MVFMU_size-normalized.jpg&w=1440"
       },
       {
-        "title": "Sources: Falcons QB Michael Penix Jr. could play in Week 3 - ESPN",
-        "description": "Falcons quarterback Michael Penix Jr. is nearing a return and could make his 2026 debut Thursday night against the Packers, sources told ESPN.",
-        "url": "https://www.espn.com/nfl/story/_/id/49985117/sources-falcons-qb-michael-penix-jr-play-week-3",
-        "source": "ESPN",
-        "publishedAt": "2026-09-20T10:00:00Z",
-        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0820%2Fr1704524_1296x729_16%2D9.jpg"
-      },
-      {
-        "title": "Trinidad Chambliss shows NFL talent in leading Ole Miss to win over LSU - NBC Sports",
-        "description": "Once a zero-star prospect, Chambliss is currently sixth in the betting odds to go first overall in the 2027 NFL draft.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trinidad-chambliss-shows-nfl-talent-in-leading-ole-miss-to-win-over-lsu",
+        "title": "Sunday Night Football: Patrick Mahomes throws for 382 yards, 3 TDs in 33-30 OT win - NBC Sports",
+        "description": "The Chiefs are now 2-0 after the club used every second of regulation and OT to defeat the Colts.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-patrick-mahomes-throws-for-382-yards-3-tds-in-33-30-ot-win",
         "source": "NBCSports.com",
-        "publishedAt": "2026-09-20T09:07:08Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b928aac/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2F54%2F6dbb32ea4fefa1c3d922122fd510%2F2296160972.jpg"
+        "publishedAt": "2026-09-21T04:04:33Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f646fc4/2147483647/strip/true/crop/3327x1871+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2F28%2F753669b342e781c3e4b4a0c2fae3%2F2296318993.jpg"
+      },
+      {
+        "title": "Harbaugh 'not deterred' as loss drops Chargers to unexpected 0-2 - ESPN",
+        "description": "The Chargers remain adamant that their struggles this season don't reflect who they really are.",
+        "url": "https://www.espn.com/nfl/story/_/id/49995835/harbaugh-not-deterred-loss-drops-chargers-unexpected-0-2",
+        "source": "ESPN",
+        "publishedAt": "2026-09-21T03:00:00Z",
+        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0921%2Fr1719879_1296x729_16%2D9.jpg"
       }
     ]
   }
