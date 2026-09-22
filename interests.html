@@ -269,6 +269,14 @@
                 </section>
         </div>
 
+        <!-- Interest Detail Modal -->
+        <div id="interestModal" class="interest-detail-modal">
+                <div class="interest-detail-content">
+                        <button class="close-btn" onclick="closeInterestModal()">&times;</button>
+                        <div id="interestDetailContent"></div>
+                </div>
+        </div>
+
         <!-- Footer -->
         <footer id="footer">
                 <div class="copyright">
@@ -293,6 +301,112 @@
         <script src="assets/js/skel.min.js"></script>
         <script src="assets/js/util.js"></script>
         <script src="assets/js/main.js"></script>
+
+        <!-- Interests data and interaction -->
+        <script>
+                let allFields = [];
+
+                async function loadFields() {
+                        try {
+                                const response = await fetch('assets/interests/index.json');
+                                const data = await response.json();
+                                allFields = data.fields;
+                                displayFields();
+                        } catch (error) {
+                                console.error('Error loading interests:', error);
+                                document.getElementById('interestsGrid').innerHTML =
+                                        '<div class="no-results"><i class="fas fa-exclamation-circle" style="font-size: 2rem; margin-bottom: 1rem; display: block;"></i><p>Unable to load interests. Please try again later.</p></div>';
+                        }
+                }
+
+                function displayFields() {
+                        const container = document.getElementById('interestsGrid');
+
+                        if (allFields.length === 0) {
+                                container.innerHTML = '<div class="no-results"><p>No interests to show yet.</p></div>';
+                                return;
+                        }
+
+                        let html = '';
+                        allFields.forEach(field => {
+                                html += `
+                                        <div class="interest-card" data-field-id="${field.id}">
+                                                <h3><i class="${field.icon}"></i> ${escapeHtml(field.title)}</h3>
+                                                <p class="interest-intro">${escapeHtml(field.intro)}</p>
+                                                <span class="learn-more-btn">Learn More <i class="fas fa-arrow-right"></i></span>
+                                        </div>
+                                `;
+                        });
+                        container.innerHTML = html;
+
+                        container.querySelectorAll('.interest-card').forEach(card => {
+                                card.addEventListener('click', function() {
+                                        const fieldId = this.getAttribute('data-field-id');
+                                        showFieldDetail(fieldId);
+                                });
+                        });
+                }
+
+                function iconForLinkType(type) {
+                        switch (type) {
+                                case 'course': return 'fas fa-graduation-cap';
+                                case 'paper': return 'fas fa-file-alt';
+                                case 'article': return 'fas fa-newspaper';
+                                default: return 'fas fa-link';
+                        }
+                }
+
+                function showFieldDetail(fieldId) {
+                        const field = allFields.find(f => f.id === fieldId);
+                        if (!field) {
+                                console.error('Field not found:', fieldId);
+                                return;
+                        }
+
+                        const topicsHtml = field.advancedTopics.map(topic => `<li>${escapeHtml(topic)}</li>`).join('');
+                        const linksHtml = field.links.map(link => `
+                                <li><a href="${link.url}" target="_blank" rel="noopener noreferrer"><i class="${iconForLinkType(link.type)}"></i> ${escapeHtml(link.label)}</a></li>
+                        `).join('');
+
+                        document.getElementById('interestDetailContent').innerHTML = `
+                                <h1><i class="${field.icon}"></i> ${escapeHtml(field.title)}</h1>
+                                <p>${escapeHtml(field.intro)}</p>
+                                <h2>Advanced & Applied Topics</h2>
+                                <ul>${topicsHtml}</ul>
+                                <h2>Go Deeper</h2>
+                                <ul class="interest-links">${linksHtml}</ul>
+                        `;
+
+                        const modal = document.getElementById('interestModal');
+                        modal.classList.add('active');
+                        document.body.style.overflow = 'hidden';
+                }
+
+                function closeInterestModal() {
+                        document.getElementById('interestModal').classList.remove('active');
+                        document.body.style.overflow = '';
+                }
+
+                document.getElementById('interestModal').addEventListener('click', (e) => {
+                        if (e.target.id === 'interestModal') {
+                                closeInterestModal();
+                        }
+                });
+
+                document.addEventListener('keydown', (e) => {
+                        if (e.key === 'Escape') {
+                                closeInterestModal();
+                        }
+                });
+
+                function escapeHtml(text) {
+                        const div = document.createElement('div');
+                        div.textContent = text;
+                        return div.innerHTML;
+                }
+
+                document.addEventListener('DOMContentLoaded', loadFields);
+        </script>
 
 </body>
 
