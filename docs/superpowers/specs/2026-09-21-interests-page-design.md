@@ -16,7 +16,7 @@ The site owner has genuine personal interest in four fields — Robotics, Machin
 
 - Not claiming or implying shipped projects, published research, or professional experience in these fields.
 - Not building a markdown/quiz content pipeline like Learn capsules — no quiz, no multi-page long-form content. Each field's detail is a fixed shape: intro, advanced topics list, curated external links.
-- **Not touching `innovation.html` at all** — "Areas of Innovation," "Current Innovation Projects," and the "Share Your Innovation Ideas" form all stay exactly as they are today. This spec adds a new page; it does not modify the Innovation page.
+- **Not modifying `innovation.html`'s content** — "Areas of Innovation," "Current Innovation Projects," and the "Share Your Innovation Ideas" form all stay exactly as they are today. The only change to `innovation.html` is the one-line nav addition described below (identical to the same addition on the other 5 existing pages) — this spec adds a new page and links to it; it does not otherwise modify the Innovation page.
 
 ## Design
 
@@ -66,7 +66,7 @@ New file: `assets/interests/index.json`
         { "label": "Draft course/article title", "url": "https://example.com", "type": "course" }
       ]
     }
-    // ... "ml", "blockchain", "iot" — same shape
+    // ... "ml", "blockchain", "iot" — same shape, all 4 records ship in the initial file, none deferred
   ]
 }
 ```
@@ -104,6 +104,6 @@ This spec ships with the 4 JSON records containing clearly-marked placeholder in
 
 - Manually load `interests.html` in a browser: confirm the 4 cards render, "Learn More" opens the correct field's modal, `Escape` and outside-click close it, and this matches the Learn page's existing modal behavior.
 - Confirm all 6 existing pages' nav now includes a working "Interests" link, and `interests.html`'s own nav links back out correctly.
-- Confirm `innovation.html` is byte-for-byte unchanged by this work.
+- Confirm `innovation.html`'s only diff is the new nav `<li>` (same one-line addition as the other 5 pages) — diff the rest of the file to confirm "Areas of Innovation," "Current Innovation Projects," and the "Share Your Innovation Ideas" form are unchanged.
 - Confirm mobile layout (grid collapses to 1 column under 768px, matching the existing `@media (max-width: 768px)` pattern already used for `.capsules-grid`/`.projects-grid`/`.books-grid` on other pages).
 - Confirm no placeholder/draft content — including the page's banner/intro text — ships without the site owner's explicit sign-off in review.
