@@ -9,7 +9,7 @@ The site owner has genuine personal interest in four fields — Robotics, Machin
 - Give Robotics/ML/Blockchain/IoT an honest, dedicated home: a new page, `interests.html`, clearly separate from work-related content.
 - Reuse the site's existing visual language (card + gold top-accent, per `.book-card`/`.project-card`) rather than introducing a new style system.
 - Reuse the existing "detail modal" interaction pattern already proven on the Learn page, rather than inventing a new UI pattern.
-- Add "Interests" as a new nav item, consistent with the site's existing single-word nav labels (Home, News, Let's Innovate, Projects, Resources, Learn).
+- Add "Interests" as a new nav item, consistent with the site's existing short nav labels (Home, News, Let's Innovate, Projects, Resources, Learn).
 - Content (intros, advanced topics, links) is clearly staged as an editable draft; nothing ships as "final" without the site owner reviewing and replacing placeholder text with their actual interests and real links.
 
 ## Non-goals
@@ -66,12 +66,12 @@ New file: `assets/interests/index.json`
         { "label": "Draft course/article title", "url": "https://example.com", "type": "course" }
       ]
     }
-    // ... "ml", "blockchain", "iot" — same shape, all 4 records ship in the initial file, none deferred
+    // ^ elided for brevity, not literal JSON — "ml", "blockchain", "iot" follow with the same shape; all 4 records ship in the initial file, none deferred
   ]
 }
 ```
 
-`type` on a link is one of `course`, `paper`, or `article` — used only to pick an icon in the modal (`fa-graduation-cap` for course, `fa-file-alt` for paper, `fa-newspaper` for article), no other behavioral difference.
+`type` on a link is one of `course`, `paper`, or `article` — used only to pick an icon in the modal (`fa-graduation-cap` for course, `fa-file-alt` for paper, `fa-newspaper` for article), no other behavioral difference. Since all link records are authored and reviewed pre-merge (not user-submitted), an unrecognized/missing `type` isn't a runtime case to design for — falling back to a generic `fa-link` icon if one ever appears is a reasonable implementation default, not a spec requirement.
 
 This mirrors the existing `assets/learn/index.json` convention (a single JSON index, fetched client-side) but with a simpler, fixed record shape — no separate per-item file, since there's no long-form markdown body here.
 
@@ -92,7 +92,7 @@ Reuses the existing `.capsule-detail-modal` / `.capsule-detail-content` / `.clos
 Modal content, built directly from the JSON record (no markdown rendering needed):
 
 1. `<h1>` field title
-2. Intro paragraph (same text as the card, or a slightly longer version if the site owner wants more room here — left to content review)
+2. Intro paragraph — renders the same `intro` field used on the card (the schema has one `intro` field, not separate short/long variants); if the site owner wants more room in the modal specifically, that's a content-review decision about what to write into `intro`, not a schema change
 3. `<h2>Advanced & Applied Topics</h2>` + `<ul>` of `advancedTopics`
 4. `<h2>Go Deeper</h2>` + list of `links`, each opening in a new tab (`target="_blank" rel="noopener noreferrer"`) with an icon per `type`
 
