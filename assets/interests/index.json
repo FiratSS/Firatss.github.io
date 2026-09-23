@@ -1,60 +1,71 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "fields": [
     {
       "id": "robotics",
       "title": "Robotics",
       "icon": "fas fa-robot",
-      "intro": "DRAFT: Placeholder intro — replace with your own words on why robotics interests you (2-3 sentences).",
-      "advancedTopics": [
-        "DRAFT: Placeholder topic — e.g. a specific sub-area of robotics you're curious about",
-        "DRAFT: Placeholder topic — e.g. a specific robotics technique or platform",
-        "DRAFT: Placeholder topic — e.g. how robotics connects to your testing background"
+      "intro": "Robotics is moving beyond highly controlled environments toward systems that can perceive, reason, and operate alongside people. Over the next decade, progress will depend not only on better hardware, but also on advances in machine learning, simulation, motion planning, and safety validation.\n\nI am interested in understanding how these disciplines come together—and what it takes to build robotic systems that remain dependable when real-world conditions do not match the assumptions made during development.",
+      "questions": [
+        "How do robots interpret noisy and incomplete sensor data?",
+        "How do perception, motion planning, and control work together?",
+        "How can simulation and automated testing expose unsafe behavior before deployment?",
+        "What is required for robots to operate reliably in unfamiliar environments?"
       ],
       "links": [
-        { "label": "DRAFT: Placeholder course/article title", "url": "https://example.com", "type": "course" }
+        { "group": "Learning resources", "type": "course", "label": "MIT — Underactuated Robotics", "url": "https://underactuated.mit.edu/", "description": "Course notes and lectures covering dynamics, control, motion planning, optimization, and learning-based robotics." },
+        { "group": "Learning resources", "type": "paper", "label": "Robotics: Science and Systems", "url": "https://roboticsconference.org/", "description": "Research papers, workshops, and presentations from the international robotics research community." }
       ]
     },
     {
       "id": "ml",
       "title": "Machine Learning",
       "icon": "fas fa-brain",
-      "intro": "DRAFT: Placeholder intro — replace with your own words on why machine learning interests you (2-3 sentences).",
-      "advancedTopics": [
-        "DRAFT: Placeholder topic — e.g. a specific ML technique you're exploring",
-        "DRAFT: Placeholder topic — e.g. an ML application area",
-        "DRAFT: Placeholder topic — e.g. how ML connects to testing/QA"
+      "intro": "Machine learning is becoming a foundational part of modern software. The important questions are no longer limited to whether a model can produce an accurate prediction, but whether its behavior can be evaluated, explained, monitored, and trusted when conditions change.\n\nI am building a stronger understanding of the principles behind machine learning while studying how model quality differs from traditional software quality. My goal is to better understand what these systems can do, where they fail, and how they can be introduced into real products responsibly.",
+      "questions": [
+        "How do supervised and unsupervised learning systems discover patterns?",
+        "What causes overfitting, poor generalization, and unexpected model behavior?",
+        "How should machine-learning systems be tested when outputs are probabilistic?",
+        "How will foundation models and AI agents change software development and testing?"
       ],
       "links": [
-        { "label": "DRAFT: Placeholder course/article title", "url": "https://example.com", "type": "course" }
+        { "group": "Currently studying", "type": "course", "label": "Andrew Ng's Machine Learning Specialization — DeepLearning.AI", "url": "https://www.deeplearning.ai/specializations/machine-learning", "description": "A foundational program covering regression, classification, neural networks, decision trees, clustering, recommender systems, and reinforcement learning." },
+        { "group": "Additional resources", "type": "course", "label": "Google Machine Learning Crash Course", "url": "https://developers.google.com/machine-learning/crash-course", "description": "" },
+        { "group": "Additional resources", "type": "article", "label": "DeepLearning.AI Learning Resources", "url": "https://www.deeplearning.ai/resources", "description": "" }
       ]
     },
     {
       "id": "blockchain",
       "title": "Blockchain",
       "icon": "fas fa-cubes",
-      "intro": "DRAFT: Placeholder intro — replace with your own words on why blockchain interests you (2-3 sentences).",
-      "advancedTopics": [
-        "DRAFT: Placeholder topic — e.g. a specific blockchain concept",
-        "DRAFT: Placeholder topic — e.g. a blockchain platform or protocol",
-        "DRAFT: Placeholder topic — e.g. how blockchain connects to software testing"
+      "intro": "Blockchain is most interesting when considered as a distributed-systems architecture rather than only through cryptocurrency or market cycles. It introduces a different approach to establishing trust, recording ownership, and executing agreements among participants who may not share a central authority.\n\nOver the next five to ten years, the important question will be where decentralization provides a measurable advantage—and where a conventional database or centralized service remains the better engineering decision. I am studying the technology from both perspectives.",
+      "questions": [
+        "How do distributed ledgers, cryptographic hashes, and consensus mechanisms work?",
+        "What makes smart contracts useful, and what makes them difficult to secure?",
+        "Which real-world problems genuinely benefit from decentralization?",
+        "How will scalability, interoperability, regulation, and security affect adoption?"
       ],
       "links": [
-        { "label": "DRAFT: Placeholder course/article title", "url": "https://example.com", "type": "course" }
+        { "group": "Currently studying", "type": "course", "label": "Introduction to Blockchain: Industry Applications — Udemy", "url": "https://www.udemy.com/course/blockchain-introduction/", "description": "An introduction to blockchain fundamentals, cryptography, peer-to-peer networks, Bitcoin, and industry applications." },
+        { "group": "Additional resources", "type": "article", "label": "Ethereum Developer Documentation", "url": "https://ethereum.org/developers/docs/", "description": "" },
+        { "group": "Additional resources", "type": "course", "label": "MIT OpenCourseWare — Blockchain and Money", "url": "https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/", "description": "" }
       ]
     },
     {
       "id": "iot",
       "title": "IoT",
       "icon": "fas fa-microchip",
-      "intro": "DRAFT: Placeholder intro — replace with your own words on why IoT interests you (2-3 sentences).",
-      "advancedTopics": [
-        "DRAFT: Placeholder topic — e.g. a specific IoT protocol or platform",
-        "DRAFT: Placeholder topic — e.g. an IoT application area",
-        "DRAFT: Placeholder topic — e.g. how IoT connects to your testing background"
+      "intro": "The Internet of Things is evolving from isolated connected devices into large networks of sensors, edge systems, cloud services, and increasingly intelligent software. During the next decade, IoT will likely play a larger role in manufacturing, transportation, healthcare, energy, agriculture, and connected cities.\n\nUnderstanding that future requires more than knowing how to connect a sensor to the internet. It requires examining the complete system: how devices communicate, where data is processed, how software is updated, and how security and reliability are maintained across thousands—or millions—of endpoints.",
+      "questions": [
+        "Which decisions should happen on the device, at the edge, or in the cloud?",
+        "How do devices communicate reliably across different networks and protocols?",
+        "How can connected devices be tested, monitored, and updated at scale?",
+        "How will edge AI change the capabilities of IoT systems?",
+        "How can security be maintained throughout a device's operational lifetime?"
       ],
       "links": [
-        { "label": "DRAFT: Placeholder course/article title", "url": "https://example.com", "type": "course" }
+        { "group": "Learning resources", "type": "course", "label": "Microsoft — IoT for Beginners", "url": "https://github.com/microsoft/IoT-For-Beginners", "description": "A project-based curriculum covering devices, sensors, communication, cloud integration, and edge computing." },
+        { "group": "Learning resources", "type": "article", "label": "NIST Cybersecurity for IoT Program", "url": "https://www.nist.gov/itl/applied-cybersecurity/nist-cybersecurity-iot-program", "description": "Standards, publications, and guidance concerning the security of connected devices and IoT ecosystems." }
       ]
     }
   ]
