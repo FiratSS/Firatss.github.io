@@ -72,27 +72,6 @@
                         flex-wrap: wrap;
                     }
                 
-                .download-btn {
-                        background: linear-gradient(135deg, #B9852B, #96691C);
-                        color: white;
-                        padding: 0.75rem 1.5rem;
-                        border-radius: 25px;
-                        text-decoration: none;
-                        font-weight: 500;
-                        transition: all 0.3s ease;
-                        display: inline-flex;
-                        align-items: center;
-                        gap: 0.5rem;
-                    }
-                
-                .download-btn:hover {
-                        background: linear-gradient(135deg, #218838, #1ea085);
-                        transform: translateY(-2px);
-                        box-shadow: 0 5px 15px rgba(40, 167, 69, 0.3);
-                        color: white;
-                        text-decoration: none;
-                    }
-                
                 .external-btn {
                         background: #6c757d;
                         color: white;
@@ -129,24 +108,6 @@
                         color: #666;
                         max-width: 600px;
                         margin: 0 auto;
-                    }
-                
-                .file-info {
-                        background: #f8f9fa;
-                        padding: 1rem;
-                        border-radius: 8px;
-                        margin: 1rem 0;
-                        border: 1px solid #E1E4EA;
-                    }
-                
-                .file-info h4 {
-                        margin-top: 0;
-                        color: #333;
-                    }
-                
-                .file-info ul {
-                        margin: 0.5rem 0;
-                        padding-left: 1.5rem;
                     }
                 
                 /* Mobile Responsive Styles */
@@ -247,25 +208,11 @@
                                 margin-bottom: 20px;
                         }
                         
-                        .file-info {
-                                margin: 20px 0;
-                        }
-                        
-                        .file-info h4 {
-                                font-size: 1rem;
-                                margin-bottom: 10px;
-                        }
-                        
-                        .file-info ul {
-                                font-size: 0.9rem;
-                        }
-                        
                         .book-actions {
                                 flex-direction: column;
                                 gap: 10px;
                         }
                         
-                        .download-btn,
                         .external-btn {
                                 width: 100%;
                                 padding: 12px 20px;
@@ -320,7 +267,6 @@
                                 font-size: 1.2rem;
                         }
                         
-                        .download-btn,
                         .external-btn {
                                 padding: 10px 15px;
                                 font-size: 0.9rem;
@@ -374,18 +320,9 @@
                                 <div class="books-grid">
                                         <div class="book-card">
                                                 <h3><i class="fas fa-robot"></i> Machine Learning for Dummies</h3>
-                                                <div class="book-meta">By IBM • PDF • 384 pages</div>
+                                                <div class="book-meta">By IBM • 384 pages</div>
                                                 <div class="book-description">
                                                         <p>A comprehensive guide to understanding machine learning concepts, algorithms, and practical applications. Perfect for beginners and intermediate learners.</p>
-                                                </div>
-                                                <div class="file-info">
-                                                        <h4>📁 File Information</h4>
-                                                        <ul>
-                                                                <li>Format: PDF</li>
-                                                                <li>Size: ~15.2 MB</li>
-                                                                <li>Pages: 384</li>
-                                                                <li>Language: English</li>
-                                                        </ul>
                                                 </div>
                                                 <div class="book-actions">
                                                         <a href="https://www.amazon.com/Machine-Learning-Dummies-IBM/dp/1119245516" class="external-btn" target="_blank">
@@ -396,18 +333,9 @@
                                         
                                         <div class="book-card">
                                                 <h3><i class="fas fa-code"></i> Clean Code</h3>
-                                                <div class="book-meta">By Robert C. Martin • PDF • 464 pages</div>
+                                                <div class="book-meta">By Robert C. Martin • 464 pages</div>
                                                 <div class="book-description">
                                                         <p>Essential reading for any developer. Learn how to write clean, maintainable code that other developers can easily understand and modify.</p>
-                                                </div>
-                                                <div class="file-info">
-                                                        <h4>📁 File Information</h4>
-                                                        <ul>
-                                                                <li>Format: PDF</li>
-                                                                <li>Size: ~8.7 MB</li>
-                                                                <li>Pages: 464</li>
-                                                                <li>Language: English</li>
-                                                        </ul>
                                                 </div>
                                                 <div class="book-actions">
                                                         <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" class="external-btn" target="_blank">
@@ -418,18 +346,9 @@
                                         
                                         <div class="book-card">
                                                 <h3><i class="fas fa-bug"></i> The Art of Software Testing</h3>
-                                                <div class="book-meta">By Glenford Myers • PDF • 256 pages</div>
+                                                <div class="book-meta">By Glenford Myers • 256 pages</div>
                                                 <div class="book-description">
                                                         <p>A classic in software testing literature. Covers fundamental testing principles, strategies, and techniques that every tester should know.</p>
-                                                </div>
-                                                <div class="file-info">
-                                                        <h4>📁 File Information</h4>
-                                                        <ul>
-                                                                <li>Format: PDF</li>
-                                                                <li>Size: ~4.2 MB</li>
-                                                                <li>Pages: 256</li>
-                                                                <li>Language: English</li>
-                                                        </ul>
                                                 </div>
                                                 <div class="book-actions">
                                                         <a href="https://www.amazon.com/Art-Software-Testing-Glenford-Myers/dp/0471469122" class="external-btn" target="_blank">
@@ -440,18 +359,9 @@
                                         
                                         <div class="book-card">
                                                 <h3><i class="fas fa-cogs"></i> Effective Java</h3>
-                                                <div class="book-meta">By Joshua Bloch • PDF • 416 pages</div>
+                                                <div class="book-meta">By Joshua Bloch • 416 pages</div>
                                                 <div class="book-description">
                                                         <p>The definitive guide to Java best practices. Learn how to write more effective, efficient, and maintainable Java code.</p>
-                                                </div>
-                                                <div class="file-info">
-                                                        <h4>📁 File Information</h4>
-                                                        <ul>
-                                                                <li>Format: PDF</li>
-                                                                <li>Size: ~6.8 MB</li>
-                                                                <li>Pages: 416</li>
-                                                                <li>Language: English</li>
-                                                        </ul>
                                                 </div>
                                                 <div class="book-actions">
                                                         <a href="https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997" class="external-btn" target="_blank">
@@ -462,18 +372,9 @@
                                         
                                         <div class="book-card">
                                                 <h3><i class="fas fa-rocket"></i> Agile Testing</h3>
-                                                <div class="book-meta">By Lisa Crispin & Janet Gregory • PDF • 533 pages</div>
+                                                <div class="book-meta">By Lisa Crispin & Janet Gregory • 533 pages</div>
                                                 <div class="book-description">
                                                         <p>Learn how to integrate testing into agile development processes and become an effective agile tester.</p>
-                                                </div>
-                                                <div class="file-info">
-                                                        <h4>📁 File Information</h4>
-                                                        <ul>
-                                                                <li>Format: PDF</li>
-                                                                <li>Size: ~12.1 MB</li>
-                                                                <li>Pages: 533</li>
-                                                                <li>Language: English</li>
-                                                        </ul>
                                                 </div>
                                                 <div class="book-actions">
                                                         <a href="https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468" class="external-btn" target="_blank">
@@ -484,18 +385,9 @@
                                         
                                         <div class="book-card">
                                                 <h3><i class="fas fa-database"></i> SQL for Dummies</h3>
-                                                <div class="book-meta">By Allen G. Taylor • PDF • 512 pages</div>
+                                                <div class="book-meta">By Allen G. Taylor • 512 pages</div>
                                                 <div class="book-description">
                                                         <p>Master SQL fundamentals with this comprehensive guide. Perfect for understanding database queries and data manipulation.</p>
-                                                </div>
-                                                <div class="file-info">
-                                                        <h4>📁 File Information</h4>
-                                                        <ul>
-                                                                <li>Format: PDF</li>
-                                                                <li>Size: ~9.3 MB</li>
-                                                                <li>Pages: 512</li>
-                                                                <li>Language: English</li>
-                                                        </ul>
                                                 </div>
                                                 <div class="book-actions">
                                                         <a href="https://www.amazon.com/SQL-Dummies-Allen-G-Taylor/dp/1119527074" class="external-btn" target="_blank">
