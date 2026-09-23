@@ -1,122 +1,122 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "categories": {
     "technology": [
       {
-        "title": "This Week’s Japanese Game Releases: Silent Hill: Townfall, GOBBLE, more - Gematsu",
-        "description": "Silent Hill: Townfall for PlayStation 5 and PC, and GOBBLE for PlayStation 5, Switch 2, Switch, and PC are the highlights of this week’s Japanese video game releases.",
-        "url": "https://www.gematsu.com/2026/09/this-weeks-japanese-game-releases-silent-hill-townfall-gobble-more",
-        "source": "Gematsu",
-        "publishedAt": "2026-09-21T04:42:39Z",
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/09/Weekly-Japanese-Game-Releases_09-21-26.jpg"
+        "title": "Xbox reportedly set to announce second round of layoffs this week - GamesIndustry.biz",
+        "description": null,
+        "url": "https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week",
+        "source": "GamesIndustry.biz",
+        "publishedAt": "2026-09-22T07:55:38Z",
+        "image": null
       },
       {
-        "title": "OnePlus 16 officially revealed with up to 1TB storage and three colorways - Notebookcheck",
-        "description": "The OnePlus 16 is set to launch in China, succeeding last year's OnePlus 15. The company has now revealed the phone’s design, color options, and memory configurations.",
-        "url": "https://www.notebookcheck.net/OnePlus-16-officially-revealed-with-up-to-1TB-storage-and-three-colorways.1404372.0.html",
-        "source": "Notebookcheck.net",
-        "publishedAt": "2026-09-21T03:44:00Z",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/oneplus-16-official-news.png"
-      },
-      {
-        "title": "Hideo Kojima Says Sony Dropped PHYSINT During a Zoom Call and Gave No Reason - TechPowerUp",
-        "description": "In a new interview with IGN, Hideo Kojima says PlayStation ended its involvement in PHYSINT during a Zoom call in June. He says Sony gave no reason, though he also admits he didn't ask many questions during the meeting, and that Sony hasn't been in touch sinc…",
-        "url": "https://www.techpowerup.com/352884/hideo-kojima-says-sony-dropped-physint-during-a-zoom-call-and-gave-no-reason",
-        "source": "Techpowerup.com",
-        "publishedAt": "2026-09-21T00:47:15Z",
-        "image": "https://www.techpowerup.com/img/4nB4DP5PozkxmkiY.jpg"
-      },
-      {
-        "title": "iFixit tears down iPhone 18 Pro, explores variable aperture, finds concerning repair issue - 9to5Mac",
-        "description": "iFixit has published its traditional teardown of the iPhone 18 Pro, which shows the variable aperture mechanism up close and explores a potential issue involving display repairs.",
-        "url": "https://9to5mac.com/2026/09/20/ifixit-tears-down-iphone-18-pro-explores-variable-aperture-finds-concerning-repair-issue/",
+        "title": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture - 9to5Mac",
+        "description": "If you’ve been missing the double-click of the Digital Crown that used to bring up the App Switcher on the Apple Watch before watchOS 27, it looks like the feature is making a comeback as of watchOS 27.2 beta 2.",
+        "url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
         "source": "9to5Mac",
-        "publishedAt": "2026-09-20T22:02:00Z",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ifixit-18-pro-teardown.jpg?quality=82&strip=all&resize=1200,628"
+        "publishedAt": "2026-09-22T02:07:00Z",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-b2.jpg?quality=82&strip=all&resize=1200,628"
+      },
+      {
+        "title": "Nintendo Shares First Look At Zelda: Ocarina Of Time Switch 2 World Map - Nintendo Life",
+        "description": "See how it compares to the original game",
+        "url": "https://www.nintendolife.com/news/2026/09/nintendo-shares-first-look-at-zelda-ocarina-of-time-switch-2-world-map",
+        "source": "Nintendo Life",
+        "publishedAt": "2026-09-22T00:55:00Z",
+        "image": "https://images.nintendolife.com/fd1de3618e775/large.jpg"
+      },
+      {
+        "title": "RatHat is a new Android malware that records your screen touches to steal passwords - Mashable",
+        "description": "This malicious software also weaponizes AI to infect the device.",
+        "url": "https://mashable.com/tech/rathat-android-malware-records-screen-touches",
+        "source": "Mashable",
+        "publishedAt": "2026-09-21T22:58:51Z",
+        "image": "https://helios-i.mashable.com/imagery/articles/01NCEX5U7f1U5WofEMb9kYZ/hero-image.fill.size_1200x675.v1790030639.jpg"
+      },
+      {
+        "title": "iPhone 20 display leak teases massive upgrade over iPhone 18 Pro - Mashable",
+        "description": "Remember: We're pretty sure Apple is skipping iPhone 19.",
+        "url": "https://mashable.com/tech/apple-iphone-20-display-upgrade-leak",
+        "source": "Mashable",
+        "publishedAt": "2026-09-21T22:54:36Z",
+        "image": "https://helios-i.mashable.com/imagery/articles/02kX3jzzgq74Zfrivh0guf2/hero-image.fill.size_1200x675.v1790003069.jpg"
       }
     ],
     "business": [
       {
-        "title": "Polymarket’s Rush to Grow Left a Door Wide Open For Fraudsters - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-09-21T08:31:09Z",
-        "image": null
-      },
-      {
-        "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting - Yahoo Finance",
-        "description": "Asian shares advanced Monday ahead of the expected meeting between U.S. President Donald Trump and Chinese leader Xi Jinping this week in Washington, which c...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-advance-bessent-says-talks-051936845.html",
+        "title": "Why Muse really just added billions to Meta's market cap and to Mark Zuckerberg's net worth - Yahoo Finance",
+        "description": "Why Muse is the new darling of Meta investors.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/why-muse-really-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
         "source": "Yahoo Entertainment",
-        "publishedAt": "2026-09-21T05:19:00Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/19988618923bf9f241fe72a165c61ef39345c0ee9fe3ab799f1da5cf670afcd2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F61c0acbb8e48d982119f8aff7530dbac.jpg"
+        "publishedAt": "2026-09-22T09:48:53Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/e06dde2f9c8ff37a2f59d9e8ec8ba6f9e0cda50b7bb64ea1dbe330fe990e4840/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8b5b46fc-ecfd-4dfe-bcfd-d0126495f1f7"
       },
       {
-        "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals - CNBC",
-        "description": "Chinese biopharma stocks rose on Monday after a report that the U.S. may continue to allow most drug licensing deals with Chinese firms.",
-        "url": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-09-21T04:20:33Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108249930-1767883114856-gettyimages-1457781967-_x3m2814.jpeg?v=1776772295&w=1920&h=1080"
+        "title": "AI solved one of math's hardest problems. Humanity learned nothing (so far) - NPR",
+        "description": "OpenAI beat humans to solving the Navier-Stokes problem, but mathematicians say the AI's solution isn't telling them much.",
+        "url": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little",
+        "source": "NPR",
+        "publishedAt": "2026-09-22T09:01:00Z",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6200x3488+0+581/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F6b%2F4d5113474763a720386f439bd345%2Fgettyimages-2294331667.jpg"
       },
       {
-        "title": "Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities — And Wall Street Isn’t Looking: ‘When The Music’s Over…’ - Yahoo Finance",
-        "description": "Burry says the liabilities are growing more than the companies themselves.",
-        "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-warns-hyperscalers-are-hiding-3-trillion-in-ai-liabilities-and-wall-street-isn-t-looking-when-the-music-s-over/cZMRbsvRB4I",
-        "source": "Stocktwits.com",
-        "publishedAt": "2026-09-21T02:46:00Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/0c04433eb3cc99b6a8a7beae79c70e0794bc36047d1572d61eb8e497244b80fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F1ee149676711629c546bb8f14d17a4a8"
+        "title": "Alibaba Unveils AI Chip to Drive Global Data Center Buildout - Bloomberg.com",
+        "description": "Alibaba Group Holding Ltd. is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming years.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032",
+        "source": "Bloomberg",
+        "publishedAt": "2026-09-22T07:51:21Z",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR9hDiuafBdI/v0/1200x800.jpg"
       },
       {
-        "title": "Fast-food giant cancels breakfast at hundreds of locations - thestreet.com",
+        "title": "Flights halted at several major airports in Northeast due to tech problems - The Washington Post",
+        "description": "LaGuardia, JFK and Philadelphia appeared to be hardest hit.",
+        "url": "https://www.washingtonpost.com/transportation/2026/09/21/flights-halted-several-major-airports-northeast-due-tech-problems/",
+        "source": "The Washington Post",
+        "publishedAt": "2026-09-22T06:55:51Z",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/UO6DSFAF5C5TMHVZAUHO3AT3FI.JPG&w=1440"
+      },
+      {
+        "title": "Oil Prices Gain as Hopes Fade for U.S.-Iran Talks - WSJ",
         "description": null,
-        "url": "https://www.thestreet.com/restaurants/more-wendys-drop-breakfast-menu-after-partners-chapter-11",
-        "source": "TheStreet",
-        "publishedAt": "2026-09-21T02:22:00Z",
+        "url": "https://www.wsj.com/finance/stocks/oil-prices-gain-as-hopes-fade-for-u-s-iran-talks-42bc5a49",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-09-22T06:37:00Z",
         "image": null
       }
     ],
     "sports": [
       {
-        "title": "TBD: What loss No. 1 means for South Carolina in 2026 - 247Sports",
-        "description": "Shane Beamer went to bat for his team after their first loss of the season",
-        "url": "https://247sports.com/college/south-carolina/article/tbd-what-loss-no-1-means-for-south-carolina-in-2026-290208836/",
-        "source": "247Sports",
-        "publishedAt": "2026-09-21T07:22:36Z",
-        "image": "https://s3media.247sports.com/Uploads/Assets/745/403/14403745.png?width=1200&height=628&crop=1.91:1&fit=cover"
-      },
-      {
-        "title": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games - ESPN",
-        "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
-        "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026",
-        "source": "ESPN",
-        "publishedAt": "2026-09-21T04:55:00Z",
-        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0921%2Fr1719896_2_1296x729_16%2D9.jpg"
-      },
-      {
-        "title": "Jayden Daniels’s dislocated elbow overshadows Commanders’ loss to Cowboys - The Washington Post",
-        "description": "The quarterback faces more time on the sidelines after exiting the 37-20 defeat. He injured the same elbow last year.",
-        "url": "https://www.washingtonpost.com/sports/2026/09/20/jayden-daniels-exits-commanders-game-vs-cowboys-with-elbow-injury/",
-        "source": "The Washington Post",
-        "publishedAt": "2026-09-21T04:22:27Z",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BK66EE2WO4CIQWHE3BJT2MVFMU_size-normalized.jpg&w=1440"
-      },
-      {
-        "title": "Sunday Night Football: Patrick Mahomes throws for 382 yards, 3 TDs in 33-30 OT win - NBC Sports",
-        "description": "The Chiefs are now 2-0 after the club used every second of regulation and OT to defeat the Colts.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-patrick-mahomes-throws-for-382-yards-3-tds-in-33-30-ot-win",
+        "title": "Jaxson Dart is believed to have a sprained MCL - NBC Sports",
+        "description": "MRI is coming on Monday.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-is-believed-to-have-a-sprained-mcl",
         "source": "NBCSports.com",
-        "publishedAt": "2026-09-21T04:04:33Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f646fc4/2147483647/strip/true/crop/3327x1871+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2F28%2F753669b342e781c3e4b4a0c2fae3%2F2296318993.jpg"
+        "publishedAt": "2026-09-22T09:52:56Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7459eff/2147483647/strip/true/crop/5568x3132+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2Fa1%2F6f7545ea45ed80840efd9822c720%2F2026-09-22t033421z-2075806672-mt1usatoday29883898-rtrmadp-3-nfl-new-york-giants-at-los-angeles-rams.jpg"
       },
       {
-        "title": "Harbaugh 'not deterred' as loss drops Chargers to unexpected 0-2 - ESPN",
-        "description": "The Chargers remain adamant that their struggles this season don't reflect who they really are.",
-        "url": "https://www.espn.com/nfl/story/_/id/49995835/harbaugh-not-deterred-loss-drops-chargers-unexpected-0-2",
+        "title": "Aaron Donald's return fires up Rams in rout of Giants - ESPN",
+        "description": "Aaron Donald -- and the SoFi Stadium crowd's response to him -- sparked the Rams in his first game since the end of the 2023 season.",
+        "url": "https://www.espn.com/nfl/story/_/id/50002943/aaron-donald-return-fires-rams-rout-giants",
         "source": "ESPN",
-        "publishedAt": "2026-09-21T03:00:00Z",
-        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0921%2Fr1719879_1296x729_16%2D9.jpg"
+        "publishedAt": "2026-09-22T05:34:00Z",
+        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0922%2Fr1720269_1296x729_16%2D9.jpg"
+      },
+      {
+        "title": "Puka Nacua officially inactive for Week 2 vs. NYG - NBC Sports",
+        "description": "Rams WR Puka Nacua (groin) is inactive for Week 2 against the Giants.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-21/puka-nacua-officially-inactive-for-week-2-vs-nyg",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-09-22T03:33:13Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4f81fad/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2F13%2F4e06873d46af9d85e3e40c5e04e7%2Fnacua-puka-800-1080-aa56d212d0027e84.jpg"
+      },
+      {
+        "title": "Rapsheet: Alec Pierce will attempt to rehab injury - NBC Sports",
+        "description": "NFL Network's Ian Rapoport reports Colts WR Alec Pierce (heel) will \"attempt to rehab his injury rather than have surgery.\"",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-21/rapsheet-alec-pierce-will-attempt-to-rehab-injury",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-09-22T03:22:36Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38679f4/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2Fcf%2F82f04c20444f85e0ca1ec0ec801e%2Fpierce-alec-800-1080-0a5014a9e800b6cd.jpg"
       }
     ]
   }
