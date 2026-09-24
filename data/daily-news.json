@@ -1,122 +1,130 @@
 {
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "categories": {
     "technology": [
       {
-        "title": "Xbox reportedly set to announce second round of layoffs this week - GamesIndustry.biz",
-        "description": null,
-        "url": "https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week",
-        "source": "GamesIndustry.biz",
-        "publishedAt": "2026-09-22T07:55:38Z",
-        "image": null
+        "title": "Discord’s age verification era is upon us, despite community backlash - TechCrunch",
+        "description": "According to Discord, 90% of users will not have to verify their age.",
+        "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-09-23T03:31:12Z",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800"
       },
       {
-        "title": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture - 9to5Mac",
-        "description": "If you’ve been missing the double-click of the Digital Crown that used to bring up the App Switcher on the Apple Watch before watchOS 27, it looks like the feature is making a comeback as of watchOS 27.2 beta 2.",
-        "url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
-        "source": "9to5Mac",
-        "publishedAt": "2026-09-22T02:07:00Z",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-b2.jpg?quality=82&strip=all&resize=1200,628"
+        "title": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD - macrumors.com",
+        "description": "As confirmed by the website \"Expand Mac mini,\" NAND storage in the new Mac mini models with the M6 and M5 Pro chips is soldered to the logic...",
+        "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/",
+        "source": "MacRumors",
+        "publishedAt": "2026-09-23T03:23:00Z",
+        "image": "https://images.macrumors.com/t/Nn9fuxpIL2pwS6UfLUvYVmlrILE=/2500x/article-new/2026/01/mac-mini-blue.jpeg"
       },
       {
-        "title": "Nintendo Shares First Look At Zelda: Ocarina Of Time Switch 2 World Map - Nintendo Life",
-        "description": "See how it compares to the original game",
-        "url": "https://www.nintendolife.com/news/2026/09/nintendo-shares-first-look-at-zelda-ocarina-of-time-switch-2-world-map",
-        "source": "Nintendo Life",
-        "publishedAt": "2026-09-22T00:55:00Z",
-        "image": "https://images.nintendolife.com/fd1de3618e775/large.jpg"
+        "title": "New Adtech From Microsoft Would Interrupt Your Game at 'Promoted Content Trigger Events' - Gizmodo",
+        "description": "Fantastic news for everyone who loves ads in their video games.",
+        "url": "https://gizmodo.com/new-adtech-from-microsoft-would-interrupt-your-game-at-promoted-content-trigger-events-2000815772",
+        "source": "Gizmodo.com",
+        "publishedAt": "2026-09-23T02:19:45Z",
+        "image": "https://gizmodo.com/app/uploads/2026/08/Xbox-Gamescom-1-e1787757563766-1200x675.jpg"
       },
       {
-        "title": "RatHat is a new Android malware that records your screen touches to steal passwords - Mashable",
-        "description": "This malicious software also weaponizes AI to infect the device.",
-        "url": "https://mashable.com/tech/rathat-android-malware-records-screen-touches",
-        "source": "Mashable",
-        "publishedAt": "2026-09-21T22:58:51Z",
-        "image": "https://helios-i.mashable.com/imagery/articles/01NCEX5U7f1U5WofEMb9kYZ/hero-image.fill.size_1200x675.v1790030639.jpg"
+        "title": "Gears of War: E-Day's Story Director Gets Unceremoniously Laid Off Just Days Ahead of Game's Release - IGN",
+        "description": "Gears of War: E-Day's story director has been laid off, just one week before the game's early access launch.",
+        "url": "https://www.ign.com/articles/gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-access-launch",
+        "source": "IGN",
+        "publishedAt": "2026-09-23T00:22:00Z",
+        "image": "https://assets-prd.ignimgs.com/2026/06/17/gears-thumb-1781708355267.jpg?width=1280&format=jpg&auto=webp&quality=80"
       },
       {
-        "title": "iPhone 20 display leak teases massive upgrade over iPhone 18 Pro - Mashable",
-        "description": "Remember: We're pretty sure Apple is skipping iPhone 19.",
-        "url": "https://mashable.com/tech/apple-iphone-20-display-upgrade-leak",
-        "source": "Mashable",
-        "publishedAt": "2026-09-21T22:54:36Z",
-        "image": "https://helios-i.mashable.com/imagery/articles/02kX3jzzgq74Zfrivh0guf2/hero-image.fill.size_1200x675.v1790003069.jpg"
+        "title": "Zelda: Ocarina of Time Nintendo Switch 2 pre-order bonus guide - Nintendo Everything",
+        "description": "New guide covers every pre-order bonus available for The Legend of Zelda: Ocarina of Time remake on Switch 2 worldwide.",
+        "url": "https://nintendoeverything.com/zelda-ocarina-of-time-nintendo-switch-2-pre-order-bonus-guide/",
+        "source": "Nintendoeverything.com",
+        "publishedAt": "2026-09-23T00:11:21Z",
+        "image": "https://nintendoeverything.com/wp-content/uploads/Zelda-Ocarina-of-Time-pre-order-bonus-guide.jpg"
       }
     ],
     "business": [
       {
-        "title": "Why Muse really just added billions to Meta's market cap and to Mark Zuckerberg's net worth - Yahoo Finance",
-        "description": "Why Muse is the new darling of Meta investors.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/why-muse-really-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-09-22T09:48:53Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/e06dde2f9c8ff37a2f59d9e8ec8ba6f9e0cda50b7bb64ea1dbe330fe990e4840/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8b5b46fc-ecfd-4dfe-bcfd-d0126495f1f7"
-      },
-      {
-        "title": "AI solved one of math's hardest problems. Humanity learned nothing (so far) - NPR",
-        "description": "OpenAI beat humans to solving the Navier-Stokes problem, but mathematicians say the AI's solution isn't telling them much.",
-        "url": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little",
-        "source": "NPR",
-        "publishedAt": "2026-09-22T09:01:00Z",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6200x3488+0+581/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F6b%2F4d5113474763a720386f439bd345%2Fgettyimages-2294331667.jpg"
-      },
-      {
-        "title": "Alibaba Unveils AI Chip to Drive Global Data Center Buildout - Bloomberg.com",
-        "description": "Alibaba Group Holding Ltd. is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming years.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032",
+        "title": "SoftBank Starts Jumbo High-Yield Bond Sale to Finance AI Push - Bloomberg.com",
+        "description": "Billionaire Masayoshi Son’s SoftBank Group Corp. kicked off what’s set to be one of the largest corporate junk bond sales ever as the Japanese conglomerate offers record yields to entice investors into helping fund its unprecedented investments in artificial …",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push",
         "source": "Bloomberg",
-        "publishedAt": "2026-09-22T07:51:21Z",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR9hDiuafBdI/v0/1200x800.jpg"
+        "publishedAt": "2026-09-23T09:26:19Z",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMLZ8FLRX.5w/v0/1200x800.jpg"
       },
       {
-        "title": "Flights halted at several major airports in Northeast due to tech problems - The Washington Post",
-        "description": "LaGuardia, JFK and Philadelphia appeared to be hardest hit.",
-        "url": "https://www.washingtonpost.com/transportation/2026/09/21/flights-halted-several-major-airports-northeast-due-tech-problems/",
-        "source": "The Washington Post",
-        "publishedAt": "2026-09-22T06:55:51Z",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/UO6DSFAF5C5TMHVZAUHO3AT3FI.JPG&w=1440"
+        "title": "Massachusetts lesbian bar ignites fury after easing mask rules for one night a week - Fox News",
+        "description": "Last Ditch Bar in Greenfield, Massachusetts, faces a boycott and accusations of ableism after lifting its mask mandate on Saturdays to stay afloat.",
+        "url": "https://www.foxnews.com/us/massachusetts-lesbian-bar-ignites-fury-after-easing-mask-rules-for-one-night-a-week",
+        "source": "Fox News",
+        "publishedAt": "2026-09-23T06:59:37Z",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/lesbian-bar-backlash-customers.png"
       },
       {
-        "title": "Oil Prices Gain as Hopes Fade for U.S.-Iran Talks - WSJ",
+        "title": "Bitcoin news: The last time this happened to BTC, it was 2012 - CoinDesk",
         "description": null,
-        "url": "https://www.wsj.com/finance/stocks/oil-prices-gain-as-hopes-fade-for-u-s-iran-talks-42bc5a49",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-09-22T06:37:00Z",
+        "url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-23T05:20:30Z",
         "image": null
+      },
+      {
+        "title": "Worries about an AI internet takeover gain new urgency among doomsday scenarios - AP News",
+        "description": "In a summer filled with revelations about artificial intelligence’s rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another. Anthropic CEO Da…",
+        "url": "https://apnews.com/article/ai-hugging-face-swarm-internet-takeover-amodei-0053ba1b6c8144b2927d2501be9eb919",
+        "source": "Associated Press",
+        "publishedAt": "2026-09-23T04:00:00Z",
+        "image": "https://dims.apnews.com/dims4/default/d6d1741/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9f%2F98%2F1db598694cda8dc49af891cce144%2Fai-doomsday-promo.png"
+      },
+      {
+        "title": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace - Al Jazeera",
+        "description": "Investors shrug off AI safety concerns and Iran war, sending market to a new peak.",
+        "url": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-09-23T02:59:46Z",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-15T095842Z_665351690_RC2LJNACQ7C4_RTRMADP_3_USA-STOCKS-MIDTERM-1790124313_656288-1790128507.jpg?resize=1200%2C630&quality=80"
       }
     ],
     "sports": [
       {
-        "title": "Jaxson Dart is believed to have a sprained MCL - NBC Sports",
-        "description": "MRI is coming on Monday.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-is-believed-to-have-a-sprained-mcl",
-        "source": "NBCSports.com",
-        "publishedAt": "2026-09-22T09:52:56Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7459eff/2147483647/strip/true/crop/5568x3132+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2Fa1%2F6f7545ea45ed80840efd9822c720%2F2026-09-22t033421z-2075806672-mt1usatoday29883898-rtrmadp-3-nfl-new-york-giants-at-los-angeles-rams.jpg"
+        "title": "Chris Spatola, college basketball analyst and son-in-law of Coach K, dies at 47 - WRAL",
+        "description": "WRAL News has learned that Chris Spatola, a basketball analyst and the son-in-law of former Duke University head coach Mike Krzyzewski, has passed away.",
+        "url": "https://www.wral.com/sports/chris-spatola-dies-at-47-college-basketball-analyst-son-in-law-coach-k-september-2026/",
+        "source": "WRAL.com",
+        "publishedAt": "2026-09-23T03:25:20Z",
+        "image": "https://images.wral.com/92919ef9-7493-5b80-ba8e-429d045735dc?w=1200&h=630&height=630"
       },
       {
-        "title": "Aaron Donald's return fires up Rams in rout of Giants - ESPN",
-        "description": "Aaron Donald -- and the SoFi Stadium crowd's response to him -- sparked the Rams in his first game since the end of the 2023 season.",
-        "url": "https://www.espn.com/nfl/story/_/id/50002943/aaron-donald-return-fires-rams-rout-giants",
-        "source": "ESPN",
-        "publishedAt": "2026-09-22T05:34:00Z",
-        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0922%2Fr1720269_1296x729_16%2D9.jpg"
+        "title": "FAAB Waiver Wire Advice: Week 3 Fantasy Pickups (2026) - RotoBaller",
+        "description": "Nick Mariano's fantasy football waiver wire FAAB bidding guide for Week 3 (2026) -- how many FAAB dollars (free agent acquisition budget) to spend on waivers.",
+        "url": "https://www.rotoballer.com/faab-waiver-wire-advice-week-3-fantasy-pickups-2026/1946185",
+        "source": "RotoBaller",
+        "publishedAt": "2026-09-23T03:18:00Z",
+        "image": "https://www.rotoballer.com/wp-content/uploads/2026/07/Terrance-Ferguson-fantasy-football-rankings-tight-end-streamers-icon-rotoballer-1220x813.jpg"
       },
       {
-        "title": "Puka Nacua officially inactive for Week 2 vs. NYG - NBC Sports",
-        "description": "Rams WR Puka Nacua (groin) is inactive for Week 2 against the Giants.",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-21/puka-nacua-officially-inactive-for-week-2-vs-nyg",
+        "title": "Report: Jaxson Dart’s injury could be season-ending - NBC Sports",
+        "description": "MRI brings bad news for the Giants.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jaxson-darts-injury-could-be-season-ending",
         "source": "NBCSports.com",
-        "publishedAt": "2026-09-22T03:33:13Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4f81fad/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2F13%2F4e06873d46af9d85e3e40c5e04e7%2Fnacua-puka-800-1080-aa56d212d0027e84.jpg"
+        "publishedAt": "2026-09-23T03:16:56Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd002c3/2147483647/strip/true/crop/5539x3116+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8c%2Fcd%2F4192f1314243bb4aaef1087c3778%2F2296490913.jpg"
       },
       {
-        "title": "Rapsheet: Alec Pierce will attempt to rehab injury - NBC Sports",
-        "description": "NFL Network's Ian Rapoport reports Colts WR Alec Pierce (heel) will \"attempt to rehab his injury rather than have surgery.\"",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-21/rapsheet-alec-pierce-will-attempt-to-rehab-injury",
-        "source": "NBCSports.com",
-        "publishedAt": "2026-09-22T03:22:36Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38679f4/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2Fcf%2F82f04c20444f85e0ca1ec0ec801e%2Fpierce-alec-800-1080-0a5014a9e800b6cd.jpg"
+        "title": "Andy Green to stay on as Mets manager, signs 3-year contract - MLB.com",
+        "description": "ARLINGTON -- About three weeks ago, Andy Green placed a call to Mets president of baseball operations David Stearns. Green, the Mets’ interim manager, had succeeded Carlos Mendoza out of a sense of obligation to his employer, despite it contradicting his sens…",
+        "url": "https://www.mlb.com/news/andy-green-named-mets-manager-on-3-year-contract",
+        "source": "MLB.com",
+        "publishedAt": "2026-09-23T02:35:04Z",
+        "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/to4l9uxmrzuu7olgn3ij.jpg"
+      },
+      {
+        "title": "Gordon turns heads in debut despite Brewers’ loss - Brew Crew Ball",
+        "description": "Colton Gordon shines in tonight’s loss, making an interesting case for himself to make the postseason roster",
+        "url": "https://www.brewcrewball.com/milwaukee-brewers-scores-standings/90301/gordon-turns-heads-in-debut-despite-brewers-loss",
+        "source": "Brew Crew Ball",
+        "publishedAt": "2026-09-23T01:55:00Z",
+        "image": "https://platform.brewcrewball.com/wp-content/uploads/sites/43/2026/09/gettyimages-2296658657.jpg?quality=90&strip=all&crop=0%2C10.738067402023%2C100%2C78.523865195954&w=1200"
       }
     ]
   }
