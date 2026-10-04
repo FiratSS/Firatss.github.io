@@ -1,130 +1,130 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "categories": {
     "technology": [
       {
-        "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately' - MacRumors",
-        "description": "In a text message sent to customers today, AT&T acknowledged that some iPhone 18 Pro Max devices on its network are experiencing cellular issues....",
-        "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
-        "source": "MacRumors",
-        "publishedAt": "2026-10-02T03:42:00Z",
-        "image": "https://images.macrumors.com/t/rg8EDzX_tTUcquU3LV5ww4-P3Fc=/1600x/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg"
-      },
-      {
-        "title": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered - Nintendo Life",
-        "description": "But Switch 2 owners might have to wait a little longer",
-        "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
-        "source": "Nintendo Life",
-        "publishedAt": "2026-10-02T01:55:00Z",
-        "image": "https://images.nintendolife.com/27d45a82d575d/1280x720.jpg"
-      },
-      {
-        "title": "Amazon redesigns Kindle lineup and announces new accessories - 12newsnow.com",
-        "description": null,
-        "url": "https://www.12newsnow.com/article/news/nation-world/amazon-redesign-kindle-lineup-new-accessories/507-c904947e-ef0f-4735-93c9-3dbed6bb059a",
-        "source": "12newsnow.com KBMT-KJAC",
-        "publishedAt": "2026-10-02T00:13:00Z",
-        "image": null
-      },
-      {
-        "title": "Apple’s reportedly developing a smart home camera that doesn’t record video - The Verge",
-        "description": "A smart home camera Apple’s working on would give users text descriptions of events instead of recordings, according to Bloomberg’s Mark Gurman.",
-        "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
-        "source": "The Verge",
-        "publishedAt": "2026-10-01T22:51:36Z",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-      },
-      {
-        "title": "Blizzard Cracks Down on Gold Selling in World of Warcraft Forever — and Streamers Are in the Firing Line - IGN",
-        "description": "World of Warcraft: Classic has had a gold selling problem for its entire existence, but with Forever, Blizzard seems hard-set on reversing that trend, and some streamers are getting caught in the act.",
-        "url": "https://www.ign.com/articles/blizzard-cracks-down-on-gold-selling-in-world-of-warcraft-forever-and-streamers-are-in-the-firing-line",
+        "title": "‘A Future Where We Create Games Together With AI’ — Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine - IGN",
+        "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
+        "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
         "source": "IGN",
-        "publishedAt": "2026-10-01T21:22:45Z",
-        "image": "https://assets-prd.ignimgs.com/2026/09/15/wowoo-1789495563832.png?width=1280&format=jpg&auto=webp&quality=80"
+        "publishedAt": "2026-10-03T01:33:00Z",
+        "image": "https://assets-prd.ignimgs.com/2026/10/03/capcom-re-engine-ai-game-development-1790991062381.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      },
+      {
+        "title": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month - Nintendo Life",
+        "description": "But the race isn't over yet...",
+        "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
+        "source": "Nintendo Life",
+        "publishedAt": "2026-10-03T00:30:00Z",
+        "image": "https://images.nintendolife.com/cc53314210756/1280x720.jpg"
+      },
+      {
+        "title": "Apple Confirms AT&T iPhone 18 Pro Max Problems. You Might Need a New Phone - PCMag",
+        "description": "This week's iOS update is intended to prevent this from happening to other phones. If your iPhone 18 Max Pro has already lost service, you'll need to return it for a new one.",
+        "url": "https://www.pcmag.com/news/apple-confirms-att-iphone-18-pro-max-problems-you-might-need-new-phone",
+        "source": "PCMag.com",
+        "publishedAt": "2026-10-02T23:59:18Z",
+        "image": "https://i.pcmag.com/imagery/articles/06h6NJK0d4qbfsrUHWcCPVN-1.fit_lim.size_1200x630.v1790931853.jpg"
+      },
+      {
+        "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
+        "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+        "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+        "source": "Ars Technica",
+        "publishedAt": "2026-10-02T23:03:16Z",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
+      },
+      {
+        "title": "Contest-Winning Microscope Video Is Full of AI Confabulations, Scientists Say - Gizmodo",
+        "description": "The winner of Nikon's 2026 Small World In Motion contest said he used AI to post-process real video.",
+        "url": "https://gizmodo.com/contest-winning-microscope-video-is-full-of-ai-confabulations-scientists-say-2000820652",
+        "source": "Gizmodo.com",
+        "publishedAt": "2026-10-02T23:00:33Z",
+        "image": "https://gizmodo.com/app/uploads/2026/10/nikon-1200x675.jpg"
       }
     ],
     "business": [
       {
-        "title": "Nike shares plummet 10% after weak revenue outlook and layoff plans underway - CNBC",
-        "description": "Nike's shares plummeted in premarket trading, continuing a second straight day of declines after it reported falling revenue and plans to lay off staff.",
-        "url": "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-02T10:00:31Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108368266-1790359794492-gettyimages-2279041096-img_9363.jpeg?v=1790359907&w=1920&h=1080"
+        "title": "FDA concludes investigation into Cyclospora outbreak tied to recalled Taylor Farms iceberg lettuce - Fox Business",
+        "description": "The FDA concluded its Cyclospora outbreak investigation, finding strong evidence linking recalled iceberg lettuce from Taylor Farms de Mexico to over 12,800 cases.",
+        "url": "https://www.foxbusiness.com/lifestyle/fda-concludes-investigation-cyclospora-outbreak-tied-recalled-taylor-farms-iceberg-lettuce",
+        "source": "Fox Business",
+        "publishedAt": "2026-10-03T06:22:00Z",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/taylor-farms-002.jpg?ve=1&tl=1"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of key jobs report as oil steadies - Yahoo Finance",
-        "description": "The Labor Department's September jobs report, oil prices, and bond yields were the key things to watch on Friday in markets.",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-10-02T10:00:21Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/341a2f6c005d395e8f6451d03048ec2bc5a5ddbad907e8060f8ccb347a0efaee/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F4004e7c9-570a-4238-b1a8-5ef5b9cf2b7c"
+        "title": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally - apnews.com",
+        "description": "President Donald Trump is trying to rally voters in the Dayton, Ohio, area on Saturday. But days ago, 1,400 workers were laid off from a truck factory there. The November midterms are a test for the working-class coalition that lifted Trump into the White Hou…",
+        "url": "https://apnews.com/article/trump-ohio-midterms-factory-workers-7c8dc7901de15a22a909bcd9c8b78a3e",
+        "source": "Associated Press",
+        "publishedAt": "2026-10-03T04:02:00Z",
+        "image": "https://dims.apnews.com/dims4/default/c90b94b/2147483647/strip/true/crop/5325x3548+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2Fda%2F782bfa29106ad7de0359d12bf3b4%2F14cdfd5af72a4d5e93a1e6671fb5e7d0"
       },
       {
-        "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721% - CNBC",
-        "description": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-        "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-02T10:00:01Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108266487-1771358653704-gettyimages-2262167514-emaz-1_em21067.jpeg?v=1790895472&w=1920&h=1080"
+        "title": "Ozempic Rival Delivers 25% Weight Loss at Highest Dose in Phase 3 Trial - ScienceAlert",
+        "description": "A flight of stairs can become a challenge for aching knees.",
+        "url": "https://www.sciencealert.com/ozempic-rival-delivers-25-weight-loss-at-highest-dose-in-phase-3-trial",
+        "source": "ScienceAlert",
+        "publishedAt": "2026-10-03T01:02:30Z",
+        "image": "https://www.sciencealert.com/images/2026/10/Person-Stepping-onto-a-Weighing-Scale.jpg"
       },
       {
-        "title": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
-        "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-        "url": "https://www.bbc.com/news/articles/c6y9z9r4ejzwo",
-        "source": "BBC News",
-        "publishedAt": "2026-10-02T08:20:32Z",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg"
+        "title": "Philadelphia City Council becomes 1st city to officially back the Starbucks Workers United boycott - 6abc Philadelphia",
+        "description": "The union says it is no longer possible to be both a Starbucks customer and support workers.",
+        "url": "https://6abc.com/post/philadelphia-city-council-becomes-1st-officially-back-starbucks-workers-united-boycott/19900326/",
+        "source": "WPVI-TV",
+        "publishedAt": "2026-10-03T00:22:30Z",
+        "image": "https://cdn.abcotvs.com/dip/images/19900331_100226-wpvi-phila-starbucks-5avo-video-vid.jpg?w=1600"
       },
       {
-        "title": "Broadcom Starts Amassing $60 Billion to Fund Chips for Anthropic - bloomberg.com",
-        "description": "Broadcom Inc.’s Wall Street syndicate is starting to gather $60 billion of fresh AI chip financing to benefit Anthropic PBC and other companies, according to people with knowledge of the matter.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic",
-        "source": "Bloomberg",
-        "publishedAt": "2026-10-02T04:12:00Z",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1vmxDaePyhE/v0/1200x800.jpg"
+        "title": "OpenAI safety leader David Robinson resigns as the team's upheaval mounts - Business Insider",
+        "description": "David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company, a spokesperson told Business Insider.",
+        "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10#article",
+        "source": "Business Insider",
+        "publishedAt": "2026-10-02T23:15:00Z",
+        "image": "https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&format=jpeg"
       }
     ],
     "sports": [
       {
-        "title": "Jalen Duren-Detroit Pistons contract updates as center signs - Detroit Free Press",
-        "description": "Decision Day has arrived for Detroit Pistons center Jalen Duren, as the deadline for him to take the qualifying offer is today, Oct. 1.",
-        "url": "https://www.freep.com/story/sports/nba/pistons/2026/10/01/jalen-duren-detroit-pistons-contract-updates-trade-rumors-tracker--live/92033067007/",
-        "source": "Detroit Free Press",
-        "publishedAt": "2026-10-02T10:30:00Z",
-        "image": "https://www.freep.com/gcdn/authoring/authoring-images/2026/10/01/PDTF/92033901007-screenshot-20260930-225003.png?crop=582,327,x1,y7&width=582&height=327&format=pjpg&auto=webp"
+        "title": "South Korean golfer Tom Kim receives a military exemption with a gold medal at the Asian Games - AP News",
+        "description": "South Korean golfer Tom Kim got what he came for by winning men’s singles at the Asian Games: a gold medal and an exemption from military service back home. He shot a 6-under 64 in Saturday’s final round for a four-day total of 18-under 262. Most able-bodied …",
+        "url": "https://apnews.com/article/south-korea-asian-games-golf-tom-tim-b3f6af7cc3d114c88c9941e38d8b003a",
+        "source": "Associated Press",
+        "publishedAt": "2026-10-03T11:23:00Z",
+        "image": "https://dims.apnews.com/dims4/default/b8da5f3/2147483647/strip/true/crop/3168x2111+0+71/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2F15%2Faa4fa6632ed93cec4af0599e1c33%2F385a7d346053459391ab2a25716a9232"
       },
       {
-        "title": "Nola's command issues lead to short start in Game 3 - MLB.com",
-        "description": "ATLANTA -- Aaron Nola was given the start in attempt to get the Phillies back to Los Angeles for a rematch with the Dodgers in the National League Division Series.\nNola started the Phillies' 6-2 loss to the Braves in Game 3 of the NL Wild Card Series Thursday…",
-        "url": "https://www.mlb.com/news/phillies-discuss-pitching-plans-for-game-3-of-nl-wild-card-series",
-        "source": "MLB.com",
-        "publishedAt": "2026-10-02T06:59:57Z",
-        "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/tvccvmchgch8b4lxpm7v.jpg"
+        "title": "F1 Bahrain GP in Malaysia: Verstappen dominates for first pole of 2026 from Hamilton - Autosport",
+        "description": "The Red Bull driver topped all three sessions and is joined on the front row by old rival Lewis Hamilton",
+        "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-qualifying-report/10861364/",
+        "source": "autosport.com",
+        "publishedAt": "2026-10-03T09:18:49Z",
+        "image": "https://cdn-9.motorsport.com/images/amp/6n7bpAo0/s6/max-verstappen-red-bull-racing-3.jpg"
       },
       {
-        "title": "Philadelphia Phillies vs. Atlanta Braves Results, Stats, and Recap - October 1, 2026 Gametracker - CBS Sports",
-        "description": "CBS Sports brings you live coverage, scoring, expert picks and stats for the MLB matchup between Philadelphia Phillies and Atlanta Braves on October 1, 2026",
-        "url": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20261001_PHI@ATL/",
-        "source": "CBS Sports",
-        "publishedAt": "2026-10-02T06:00:22Z",
-        "image": "https://sportsfly.cbsistatic.com/fly-817/bundles/sportsmediacss/images/fantasy/default-article-image-large.png"
+        "title": "F1 Qualifying Results: Full Starting Grid for the Bahrain Grand Prix in Malaysia - athlonsports.com",
+        "description": null,
+        "url": "https://athlonsports.com/racing/f1/f1-qualifying-results-full-starting-grid-for-the-bahrain-grand-prix-in-malaysia-2026",
+        "source": "Athlon Sports",
+        "publishedAt": "2026-10-03T08:22:15Z",
+        "image": null
       },
       {
-        "title": "Aaron Rodgers, Mike McCarthy exchange F-bombs early in Steelers loss to Browns - Yahoo Sports",
-        "description": "Aaron Rodgers and Mike McCarthy had a tense exchange in the middle of a drive. Then the Steelers scored a TD.",
-        "url": "https://sports.yahoo.com/nfl/article/aaron-rodgers-mike-mccarthy-exchange-f-bombs-early-in-steelers-loss-to-browns-005033259.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-10-02T04:24:00Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/4b8e2dd9488890d86ed02a335b4bf77156a0d75f8baf33bf6795231e5f0524f2/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F508102c8-1b38-4f2d-8c4c-f87691a52e9d"
+        "title": "What happened to Natalie Nakase? What we know after Valkyries coach falls to court - usatoday.com",
+        "description": "Golden State Valkyries head coach Natalie Nakase fell to the court in a scary moment late in a WNBA playoff game. Here's what we know.",
+        "url": "https://www.usatoday.com/story/sports/wnba/2026/10/02/natalie-nakase-update-collapse-valkyries-wings-wnba-playoffs/92070137007/",
+        "source": "USA Today",
+        "publishedAt": "2026-10-03T05:01:00Z",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/03/USAT/92070749007-20261002-t-231104-z-1062683577-mt-1-usatoday-29977661-rtrmadp-3-wnbaplayoffsdallaswingsatgoldenstatevalkyries.JPG?crop=4898,2755,x0,y255&width=3200&height=1800&format=pjpg&auto=webp"
       },
       {
-        "title": "Season's over: Caitlin Clark leaves it all on court with bloody mouth as Fever fall in Game 3 - Fox News",
-        "description": "Caitlin Clark scored 18 points but the Indiana Fever fell 94-83 to A'ja Wilson's 36-point explosion in a decisive Game 3 elimination in Las Vegas.",
-        "url": "https://www.foxnews.com/outkick-sports/seasons-over-caitlin-clark-leaves-all-court-bloody-mouth-fever-fall-game-3",
-        "source": "Fox News",
-        "publishedAt": "2026-10-02T04:20:40Z",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/aces-fever-aja-wilson-1.jpg"
+        "title": "J.J. McCarthy is ready for what’s ahead of him following ‘shock’ Giants trade - New York Post",
+        "description": "“I didn’t anticipate it,” McCarthy said, “but it’s an opportunity to take advantage of.”",
+        "url": "https://nypost.com/2026/10/02/sports/j-j-mccarthy-ready-for-whats-ahead-of-him-after-giants-trade/",
+        "source": "New York Post",
+        "publishedAt": "2026-10-03T04:25:22Z",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41110822.jpg?quality=75&strip=all&w=1200"
       }
     ]
   }
