@@ -1,130 +1,114 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "categories": {
     "technology": [
       {
-        "title": "‘A Future Where We Create Games Together With AI’ — Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine - IGN",
-        "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
-        "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
-        "source": "IGN",
-        "publishedAt": "2026-10-03T01:33:00Z",
-        "image": "https://assets-prd.ignimgs.com/2026/10/03/capcom-re-engine-ai-game-development-1790991062381.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        "title": "Three 'Day One' Xbox Game Pass Titles Are Confirmed For The Next Few Days (October 6-8) - Pure Xbox",
+        "description": "With potentially more to come",
+        "url": "https://www.purexbox.com/news/2026/10/three-day-one-xbox-game-pass-titles-are-confirmed-for-the-next-few-days-october-6-8",
+        "source": "Pure Xbox",
+        "publishedAt": "2026-10-04T11:00:00Z",
+        "image": "https://images.purexbox.com/29d86cf93f8d9/1280x720.jpg"
       },
       {
-        "title": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month - Nintendo Life",
-        "description": "But the race isn't over yet...",
-        "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
+        "title": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2 - Nintendo Life",
+        "description": "\"easy to recommend\"",
+        "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
         "source": "Nintendo Life",
-        "publishedAt": "2026-10-03T00:30:00Z",
-        "image": "https://images.nintendolife.com/cc53314210756/1280x720.jpg"
+        "publishedAt": "2026-10-04T10:30:00Z",
+        "image": "https://images.nintendolife.com/d7c190aa5d3ae/1280x720.jpg"
       },
       {
-        "title": "Apple Confirms AT&T iPhone 18 Pro Max Problems. You Might Need a New Phone - PCMag",
-        "description": "This week's iOS update is intended to prevent this from happening to other phones. If your iPhone 18 Max Pro has already lost service, you'll need to return it for a new one.",
-        "url": "https://www.pcmag.com/news/apple-confirms-att-iphone-18-pro-max-problems-you-might-need-new-phone",
-        "source": "PCMag.com",
-        "publishedAt": "2026-10-02T23:59:18Z",
-        "image": "https://i.pcmag.com/imagery/articles/06h6NJK0d4qbfsrUHWcCPVN-1.fit_lim.size_1200x630.v1790931853.jpg"
+        "title": "Jagex Announces RuneScape 4, a New MMO Built in Unreal Engine - TechPowerUp",
+        "description": "Jagex has announced a fourth RuneScape MMO at RuneFest 2026. It currently goes by the working title RS4, though most people are already calling it RuneScape 4. The game is being built in Unreal Engine, and Jagex hasn't said which version. It's the first numbe…",
+        "url": "https://www.techpowerup.com/353372/jagex-announces-runescape-4-a-new-mmo-built-in-unreal-engine",
+        "source": "Techpowerup.com",
+        "publishedAt": "2026-10-04T00:52:53Z",
+        "image": "https://www.techpowerup.com/img/wxjJUoXsPqiUdLQy.jpg"
       },
       {
-        "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
-        "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-        "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-        "source": "Ars Technica",
-        "publishedAt": "2026-10-02T23:03:16Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
+        "title": "Motorola's wide foldable could be my next phone if the price is right - Android Police",
+        "description": "A wide screen I can pocket matters more than a bigger one",
+        "url": "https://www.androidpolice.com/motorolas-wide-foldable-could-be-my-next-phone-if-price-is-right/",
+        "source": "Android Police",
+        "publishedAt": "2026-10-03T22:00:10Z",
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/motorola-razr-flex-shown-partially-unfolded.png?w=1600&h=900&fit=crop"
       },
       {
-        "title": "Contest-Winning Microscope Video Is Full of AI Confabulations, Scientists Say - Gizmodo",
-        "description": "The winner of Nikon's 2026 Small World In Motion contest said he used AI to post-process real video.",
-        "url": "https://gizmodo.com/contest-winning-microscope-video-is-full-of-ai-confabulations-scientists-say-2000820652",
-        "source": "Gizmodo.com",
-        "publishedAt": "2026-10-02T23:00:33Z",
-        "image": "https://gizmodo.com/app/uploads/2026/10/nikon-1200x675.jpg"
+        "title": "AI Made StarCraft Bot Swaps In Human Made Bot In Tournament - Kotaku",
+        "description": "In a showdown between AI generated Brood War bots and human made ones, OpenAI’s champion resorted to its natural playbook: lie, cheat and steal",
+        "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+        "source": "Kotaku",
+        "publishedAt": "2026-10-03T21:26:58Z",
+        "image": "https://kotaku.com/app/uploads/2026/10/starcraftAI.jpg"
       }
     ],
     "business": [
       {
-        "title": "FDA concludes investigation into Cyclospora outbreak tied to recalled Taylor Farms iceberg lettuce - Fox Business",
-        "description": "The FDA concluded its Cyclospora outbreak investigation, finding strong evidence linking recalled iceberg lettuce from Taylor Farms de Mexico to over 12,800 cases.",
-        "url": "https://www.foxbusiness.com/lifestyle/fda-concludes-investigation-cyclospora-outbreak-tied-recalled-taylor-farms-iceberg-lettuce",
+        "title": "Kroger and Publix have a Costco problem they can’t fix - thestreet.com",
+        "description": null,
+        "url": "https://www.thestreet.com/retail/costco-is-coming-for-kroger-publix-and-other-grocery-chains",
+        "source": "TheStreet",
+        "publishedAt": "2026-10-04T14:00:21Z",
+        "image": null
+      },
+      {
+        "title": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks - Financial Times",
+        "description": "Cyber security incidents involving company’s AI tools leave ChatGPT maker vulnerable to wave of lawsuits",
+        "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6\\\\u003d1",
+        "source": "Financial Times",
+        "publishedAt": "2026-10-04T11:00:08Z",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2375ab2c-e5af-425e-89b9-4dcc0a0d6d31.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
+      },
+      {
+        "title": "The ’90s Are Back in Style. Levi’s Is Cashing In. - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/style/fashion/the-90s-are-back-in-style-levis-is-cashing-in-642ae89b",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-10-04T11:00:00Z",
+        "image": null
+      },
+      {
+        "title": "Popular eye drops sold at Walgreens recalled over sterility concerns - Fox Business",
+        "description": "Walgreens-branded eye drops are among nearly 750,000 eye-care products recalled after the manufacturer cited a lack of assurance of sterility",
+        "url": "https://www.foxbusiness.com/lifestyle/popular-eye-drops-sold-walgreens-recalled-sterility-concerns",
         "source": "Fox Business",
-        "publishedAt": "2026-10-03T06:22:00Z",
-        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/taylor-farms-002.jpg?ve=1&tl=1"
-      },
-      {
-        "title": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally - apnews.com",
-        "description": "President Donald Trump is trying to rally voters in the Dayton, Ohio, area on Saturday. But days ago, 1,400 workers were laid off from a truck factory there. The November midterms are a test for the working-class coalition that lifted Trump into the White Hou…",
-        "url": "https://apnews.com/article/trump-ohio-midterms-factory-workers-7c8dc7901de15a22a909bcd9c8b78a3e",
-        "source": "Associated Press",
-        "publishedAt": "2026-10-03T04:02:00Z",
-        "image": "https://dims.apnews.com/dims4/default/c90b94b/2147483647/strip/true/crop/5325x3548+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2Fda%2F782bfa29106ad7de0359d12bf3b4%2F14cdfd5af72a4d5e93a1e6671fb5e7d0"
-      },
-      {
-        "title": "Ozempic Rival Delivers 25% Weight Loss at Highest Dose in Phase 3 Trial - ScienceAlert",
-        "description": "A flight of stairs can become a challenge for aching knees.",
-        "url": "https://www.sciencealert.com/ozempic-rival-delivers-25-weight-loss-at-highest-dose-in-phase-3-trial",
-        "source": "ScienceAlert",
-        "publishedAt": "2026-10-03T01:02:30Z",
-        "image": "https://www.sciencealert.com/images/2026/10/Person-Stepping-onto-a-Weighing-Scale.jpg"
-      },
-      {
-        "title": "Philadelphia City Council becomes 1st city to officially back the Starbucks Workers United boycott - 6abc Philadelphia",
-        "description": "The union says it is no longer possible to be both a Starbucks customer and support workers.",
-        "url": "https://6abc.com/post/philadelphia-city-council-becomes-1st-officially-back-starbucks-workers-united-boycott/19900326/",
-        "source": "WPVI-TV",
-        "publishedAt": "2026-10-03T00:22:30Z",
-        "image": "https://cdn.abcotvs.com/dip/images/19900331_100226-wpvi-phila-starbucks-5avo-video-vid.jpg?w=1600"
-      },
-      {
-        "title": "OpenAI safety leader David Robinson resigns as the team's upheaval mounts - Business Insider",
-        "description": "David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company, a spokesperson told Business Insider.",
-        "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10#article",
-        "source": "Business Insider",
-        "publishedAt": "2026-10-02T23:15:00Z",
-        "image": "https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&format=jpeg"
+        "publishedAt": "2026-10-04T10:00:00Z",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/walgreens-eyedrops-recall.jpg?ve=1&tl=1"
       }
     ],
     "sports": [
       {
-        "title": "South Korean golfer Tom Kim receives a military exemption with a gold medal at the Asian Games - AP News",
-        "description": "South Korean golfer Tom Kim got what he came for by winning men’s singles at the Asian Games: a gold medal and an exemption from military service back home. He shot a 6-under 64 in Saturday’s final round for a four-day total of 18-under 262. Most able-bodied …",
-        "url": "https://apnews.com/article/south-korea-asian-games-golf-tom-tim-b3f6af7cc3d114c88c9941e38d8b003a",
-        "source": "Associated Press",
-        "publishedAt": "2026-10-03T11:23:00Z",
-        "image": "https://dims.apnews.com/dims4/default/b8da5f3/2147483647/strip/true/crop/3168x2111+0+71/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2F15%2Faa4fa6632ed93cec4af0599e1c33%2F385a7d346053459391ab2a25716a9232"
+        "title": "Deion Sanders, Colorado lose third in a row - nbcsports.com",
+        "description": "After a 2-0 start to the 2026 season, Deion Sanders and the Colorado Buffaloes have lost their third game in a row.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-colorado-lose-third-in-a-row",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-10-04T13:13:28Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9a7ff2/2147483647/strip/true/crop/8079x4544+0+422/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2Ff4%2F17e3c229404d8b68661661bfdd5a%2F2297912011.jpg"
       },
       {
-        "title": "F1 Bahrain GP in Malaysia: Verstappen dominates for first pole of 2026 from Hamilton - Autosport",
-        "description": "The Red Bull driver topped all three sessions and is joined on the front row by old rival Lewis Hamilton",
-        "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-qualifying-report/10861364/",
-        "source": "autosport.com",
-        "publishedAt": "2026-10-03T09:18:49Z",
-        "image": "https://cdn-9.motorsport.com/images/amp/6n7bpAo0/s6/max-verstappen-red-bull-racing-3.jpg"
+        "title": "Thirteen goals for Penguins through two wins? Uh, wow! - DK Pittsburgh Sports",
+        "description": "PITTSBURGH -- The Penguins' 60th home opener saw a blown four-goal lead in the third period to the Canadiens, but the home team prevailed in overtime, 6-5, on Tommy Novak's one-timer.",
+        "url": "https://www.dkpittsburghsports.com/team/site-stuff/feed/topic/penguins-canadiens-home-opener-ppg-paints-arena-column-recap-nhl-dk",
+        "source": "DKPittsburghSports.com",
+        "publishedAt": "2026-10-04T12:33:45Z",
+        "image": "https://www.dkpittsburghsports.com/files/Dejan/site-stuff-16x9-37.jpg"
       },
       {
-        "title": "F1 Qualifying Results: Full Starting Grid for the Bahrain Grand Prix in Malaysia - athlonsports.com",
-        "description": null,
-        "url": "https://athlonsports.com/racing/f1/f1-qualifying-results-full-starting-grid-for-the-bahrain-grand-prix-in-malaysia-2026",
-        "source": "Athlon Sports",
-        "publishedAt": "2026-10-03T08:22:15Z",
-        "image": null
+        "title": "How Alex Golesh provided extra motivation for DeSean Bishop’s career day in Tennessee win against Auburn - 247Sports",
+        "description": "DeSean Bishop said Auburn head coach Alex Golesh was the reason he started his Tennessee career as a walkon after ripping the Tigers for a careerhigh 220 yards and three touchdowns",
+        "url": "https://247sports.com/college/tennessee/article/desean-bishop-tennessee-vols-alex-golesh-rb-had-extra-motivation-career-day-against-auburn-290833737/",
+        "source": "247Sports",
+        "publishedAt": "2026-10-04T11:48:45Z",
+        "image": "https://s3media.247sports.com/Uploads/Assets/969/471/14471969.jpg?width=1200&height=628&crop=1.91:1&fit=cover"
       },
       {
-        "title": "What happened to Natalie Nakase? What we know after Valkyries coach falls to court - usatoday.com",
-        "description": "Golden State Valkyries head coach Natalie Nakase fell to the court in a scary moment late in a WNBA playoff game. Here's what we know.",
-        "url": "https://www.usatoday.com/story/sports/wnba/2026/10/02/natalie-nakase-update-collapse-valkyries-wings-wnba-playoffs/92070137007/",
-        "source": "USA Today",
-        "publishedAt": "2026-10-03T05:01:00Z",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/03/USAT/92070749007-20261002-t-231104-z-1062683577-mt-1-usatoday-29977661-rtrmadp-3-wnbaplayoffsdallaswingsatgoldenstatevalkyries.JPG?crop=4898,2755,x0,y255&width=3200&height=1800&format=pjpg&auto=webp"
-      },
-      {
-        "title": "J.J. McCarthy is ready for what’s ahead of him following ‘shock’ Giants trade - New York Post",
-        "description": "“I didn’t anticipate it,” McCarthy said, “but it’s an opportunity to take advantage of.”",
-        "url": "https://nypost.com/2026/10/02/sports/j-j-mccarthy-ready-for-whats-ahead-of-him-after-giants-trade/",
-        "source": "New York Post",
-        "publishedAt": "2026-10-03T04:25:22Z",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41110822.jpg?quality=75&strip=all&w=1200"
+        "title": "Sources - Rams don't intend to limit Puka Nacua's workload - ESPN",
+        "description": "The Rams do not intend to limit Puka Nacua's workload Sunday against the Eagles, sources told ESPN.",
+        "url": "https://www.espn.com/nfl/story/_/id/50098838/sources-rams-intend-limit-puka-nacua-workload",
+        "source": "ESPN",
+        "publishedAt": "2026-10-04T11:40:00Z",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0922%2Fr1720500_1296x729_16%2D9.jpg"
       }
     ]
   }
