@@ -1,130 +1,130 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "categories": {
     "technology": [
       {
-        "title": "Arc Raiders is getting a free trial to celebrate its biggest update yet - Eurogamer.net",
-        "description": "Very soon, anyone who wants to play Arc Raiders without paying for it can do so for four days.",
-        "url": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
+        "title": "Two more Final Cut animations on Warhammer TV this week - Warhammer Community",
+        "description": "Plus, new episodes of Loremasters, Tale of Four Gamers, and How We Roll.",
+        "url": "https://www.warhammer-community.com/articles/usyc2tsw/two-more-final-cut-animations-on-warhammer-tv-this-week",
+        "source": "Warhammer-community.com",
+        "publishedAt": "2026-10-06T12:04:08Z",
+        "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/whplus-oct06-1-feature-w8jouok2hl.jpg"
+      },
+      {
+        "title": "October 2026 PS Plus Essential Games Available to Download Now - Push Square",
+        "description": "You can download until 2nd November",
+        "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
+        "source": "Push Square",
+        "publishedAt": "2026-10-06T09:03:50Z",
+        "image": "https://images.pushsquare.com/86e09f7af6247/1280x720.jpg"
+      },
+      {
+        "title": "\"This is Call of Duty's definitive extraction shooter experience\" - Infinity Ward details the new DMZ mode in Modern Warfare 4 - Eurogamer.net",
+        "description": "Infinity Ward has unveiled ambitious plans for Call of Duty: Modern Warfare 4's extraction mode, DMZ.",
+        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal",
         "source": "Eurogamer.net",
-        "publishedAt": "2026-10-05T08:21:21Z",
-        "image": "https://assetsio.gnwcdn.com/Arc-Raiders-deluxe-set.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        "publishedAt": "2026-10-06T08:57:36Z",
+        "image": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-2-crop.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
       },
       {
-        "title": "Google Pixels could get an all-new way to customize lock screens, for better or for worse - Android Authority",
-        "description": "We've dug into the Wallpaper & Style app in the latest Android 17 beta, and discovered a brand-new way to customize your lock screen.",
-        "url": "https://www.androidauthority.com/google-wallpaper-style-app-lock-screen-customization-teardown-3718877/",
-        "source": "Android Authority",
-        "publishedAt": "2026-10-05T07:30:00Z",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-lock-screen-face-unlock-scaled.jpg"
+        "title": "This remote-controlled wagon is silly but so very useful - The Verge",
+        "description": "BougeRV’s DuneRover wagon is so useful in sand and on hills that you’ll look past the absurdity of the disco lights and remote control.",
+        "url": "https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful",
+        "source": "The Verge",
+        "publishedAt": "2026-10-06T08:00:00Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5043.jpeg?quality=90&strip=all&crop=0%2C25.737652705061%2C100%2C69.808027923211&w=1200"
       },
       {
-        "title": "Registered Players Of Rare Cookie's Bustle Invited To Secret Party - Kotaku",
-        "description": "After being freed from a patent troll earlier this year, the infamous '90s adventure game Cookie's Bustle is renewing the enigma that is itself",
-        "url": "https://kotaku.com/players-who-registered-rare-japanese-pc-game-invited-to-secret-party-over-25-years-later-2000739658",
-        "source": "Kotaku",
-        "publishedAt": "2026-10-05T02:59:23Z",
-        "image": "https://kotaku.com/app/uploads/2026/03/cookie-1200x675.jpg"
-      },
-      {
-        "title": "Honor Magic 9 series global launch scheduled for January 2027 - Huawei Central",
-        "description": null,
-        "url": "https://www.huaweicentral.com/honor-magic-9-series-global-launch-scheduled-for-january-2027/",
-        "source": "Huaweicentral.com",
-        "publishedAt": "2026-10-05T02:40:16Z",
-        "image": null
-      },
-      {
-        "title": "Apple Hiring 'iCup' Specialist - MacRumors",
-        "description": "Apple recently posted a job listing for an \"iCup Supply Specialist\" who would be responsible for ensuring that \"all Apple employees have...",
-        "url": "https://www.macrumors.com/2026/10/04/apple-icup-job-listing/",
-        "source": "MacRumors",
-        "publishedAt": "2026-10-05T02:11:00Z",
-        "image": "https://images.macrumors.com/t/6xrvEOM_TcerNOi3ln5u4hht7Zc=/1800x/article-new/2026/01/wwdc-sans-text-feature.jpg"
+        "title": "NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable - GamesIndustry.biz",
+        "description": "Decision to sunset 2K25 follows 2K's trajectory of delisting NBA games over the course of two years",
+        "url": "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable",
+        "source": "GamesIndustry.biz",
+        "publishedAt": "2026-10-06T07:24:06Z",
+        "image": "https://assetsio.gnwcdn.com/nba-2k25_B4aHYGg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
       }
     ],
     "business": [
       {
-        "title": "Stock Market Today: Dollar Strengthens as Investors Look for Safety — Live Updates - WSJ",
+        "title": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee - Fox News",
+        "description": "OpenAI, Anthropic, Meta and Google representatives stopped short of guaranteeing their AI agents will always obey safeguards during a New York City Council hearing.",
+        "url": "https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06",
+        "source": "Fox News",
+        "publishedAt": "2026-10-06T11:21:00Z",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/882a73524af575625083f2d2ee52394e.jpg"
+      },
+      {
+        "title": "Walmart Deals start now: We're eyeing 25+ discounts that rival October Prime Day - Yahoo",
+        "description": "Major markdowns include a fire pit at the lowest price we've seen in months, over $60 off a Shark vac and a bestselling flannel shirt for just $14.",
+        "url": "https://shopping.yahoo.com/deals/breaking-news/article/walmart-deals-start-now-were-eyeing-25-discounts-that-rival-october-prime-day-150755759.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-10-06T10:59:33Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/99fff8f1a1c418fbede31d5d4ec9ec8492ce346227f62b99821692a913af55a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcopy-of-today-s-best-sales-lead-image-template-9_5076.png"
+      },
+      {
+        "title": "The best October Prime Day tech deals we found - The Verge",
+        "description": "Amazon Prime Big Deal Days is here through October 8th at 3AM ET, and we’ve found nearly 100 tech deals we think Verge readers will love.",
+        "url": "https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech",
+        "source": "The Verge",
+        "publishedAt": "2026-10-06T10:55:05Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268775_October_Prime_Day_DAY_1_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      },
+      {
+        "title": "Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026",
+        "url": "https://www.wsj.com/world/asia/hackers-use-chinese-ai-tool-to-hit-south-korean-banks-exposing-new-risk-5d4d3885",
         "source": "The Wall Street Journal",
-        "publishedAt": "2026-10-05T12:06:00Z",
+        "publishedAt": "2026-10-06T10:09:00Z",
         "image": null
       },
       {
-        "title": "‘Clearly not working’: Sam Altman hits AI industry over political spending - Politico",
-        "description": "In a wide-ranging interview, the OpenAI CEO criticized the flood of AI dollars swamping the midterm elections and suggested a new liability framework is needed for autonomous hacks.",
-        "url": "https://www.politico.com/news/2026/10/05/sam-altman-ai-industry-political-spending-01106527",
-        "source": "Politico",
-        "publishedAt": "2026-10-05T10:56:00Z",
-        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd4%2F3b%2Fe38cd3694177901d63a81aa8ce3b%2Fu-s-congress-88-59.jpg"
-      },
-      {
-        "title": "Wave of affordable electric cars is boosting consumers' choice: sales of sub-€25,000 models set to rise sevenfold - transportenvironment.org",
-        "description": "Electric car choice is expanding rapidly thanks to EU clean car targets, but weakening the 2030-35 targets would put affordable models and Europe’s…",
-        "url": "https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold",
-        "source": "Transportenvironment.org",
-        "publishedAt": "2026-10-05T10:53:46Z",
-        "image": "https://transforms.transportenvironment.org/production/images/michael-fortsch-joiwHqPUv-o-unsplash.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1790941708&s=fd02019fafbc1f4c081838202928d316"
-      },
-      {
-        "title": "How Britain Learned to Love Chinese Cars—Especially a Look-Alike Range Rover - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/business/autos/how-britain-learned-to-love-chinese-carsespecially-a-look-alike-range-rover-9440802d",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-10-05T09:30:00Z",
-        "image": null
-      },
-      {
-        "title": "Bank Stocks Are Haunted by the Ghosts of 2023 - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/finance/banking/bank-stocks-are-haunted-by-the-ghosts-of-2023-a2a64725",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-10-05T09:30:00Z",
-        "image": null
+        "title": "The Costco conundrum: Packed parking lots and a falling stock - Business Insider",
+        "description": "Costco and Walmart are gaining shoppers, but their premium valuations leave little room for anything short of near-perfect growth.",
+        "url": "https://www.businessinsider.com/costco-walmart-stock-price-outlook-earnings-sales-consumer-staples-valuation-2026-10#article",
+        "source": "Business Insider",
+        "publishedAt": "2026-10-06T09:50:00Z",
+        "image": "https://i.insider.com/6ac40dcfd4357587843b996b?width=1200&format=jpeg"
       }
     ],
     "sports": [
       {
-        "title": "Dan Campbell: I’m not talking about firing Kelvin Sheppard - NBC Sports",
-        "description": "The Lions defense was unimpressive in the first three weeks of the 2026 season and things didn't get any better in Sunday night's loss to the Panthers.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-im-not-talking-about-firing-kelvin-sheppard",
-        "source": "NBCSports.com",
-        "publishedAt": "2026-10-05T11:59:48Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/23fb774/2147483647/strip/true/crop/3351x1885+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2Fed%2F9fb9da714eeab3c76d2795e9309c%2F2298618657.jpg"
+        "title": "Detroit Lions stock report: 6 risers, 21 fallers against the Panthers - Pride Of Detroit",
+        "description": "The biggest risers and fallers from the Detroit Lions’ demoralizing loss to the Carolina Panthers",
+        "url": "https://www.prideofdetroit.com/detroit-lions-analysis/175944/detroit-lions-stock-report-6-risers-21-fallers-carolina-panthers",
+        "source": "Prideofdetroit.com",
+        "publishedAt": "2026-10-06T11:00:00Z",
+        "image": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/10/gettyimages-2298616221.jpg?quality=90&strip=all&crop=0%2C10.74299117793%2C100%2C78.514017644139&w=1200"
       },
       {
-        "title": "San Diego Padres vs. Milwaukee Brewers Results, Stats, and Recap - October 4, 2026 Gametracker - CBS Sports",
-        "description": "CBS Sports brings you live coverage, scoring, expert picks and stats for the MLB matchup between San Diego Padres and Milwaukee Brewers on October 4, 2026",
-        "url": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20261004_SD@MIL/",
-        "source": "CBS Sports",
-        "publishedAt": "2026-10-05T09:55:50Z",
-        "image": "https://sportsfly.cbsistatic.com/fly-817/bundles/sportsmediacss/images/fantasy/default-article-image-large.png"
+        "title": "China Open: Daniil Medvedev finally runs out of chances with disqualification against Novak Djokovic - BBC",
+        "description": "Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry - but his China Open disqualification was no surprise.",
+        "url": "https://www.bbc.com/sport/tennis/articles/cxyvr7q207gpo",
+        "source": "BBC News",
+        "publishedAt": "2026-10-06T10:53:11Z",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4cc2/live/a9d0d2e0-c177-11f1-a64c-550be9e3c66b.jpg"
       },
       {
-        "title": "49ers 24-14 Broncos (Oct 4, 2026) Game Recap - espn.com",
-        "description": null,
-        "url": "https://www.espn.com/nfl/recap?gameId\\\\u003d401872975",
+        "title": "Coco Gauff: 'Insane' amount of racist comments after match - ESPN",
+        "description": "After a disputed point in her win over Sun Xinran at the China Open on Monday, Coco Gauff said she received an \"insane\" amount of racist comments.",
+        "url": "https://www.espn.com/tennis/story/_/id/50115760/insane-amount-racist-comments-match",
         "source": "ESPN",
-        "publishedAt": "2026-10-05T09:47:05Z",
-        "image": null
+        "publishedAt": "2026-10-06T10:40:00Z",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1006%2Fr1726747_1296x729_16%2D9.jpg"
       },
       {
-        "title": "NFL Investigating After Refs Yelled at Cardinals' Trey McBride, Vikings' Eric Wilson in Viral Videos - Bleacher Report",
-        "description": "The NFL said it is investigating a couple of exchanges between officials and players on Sunday.",
-        "url": "https://bleacherreport.com/articles/25506663-nfl-investigating-after-refs-yelled-cardinals-trey-mcbride-vikings-eric-wilson-viral-videos",
-        "source": "Bleacher Report",
-        "publishedAt": "2026-10-05T08:48:45Z",
-        "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-10/a6b0d8d4240a4f129f8b200eb0ac6bee/Cardinals_Giants_Football_1_449_7815x4396_(0,66).jpg?w=1120&h=630"
+        "title": "2026 NFL Power Rankings: How all 32 teams stack up for Week 5 - ESPN",
+        "description": "How does every NFL team stack up heading into Week 5? We made our 1-32 list and sized up each franchise's performance so far.",
+        "url": "https://www.espn.com/nfl/story/_/id/50109845/nfl-power-rankings-week-5-teams-first-month-recap",
+        "source": "ESPN",
+        "publishedAt": "2026-10-06T10:20:00Z",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1005%2Fnfl_power_rankings_1296x729.png"
       },
       {
-        "title": "Aaron Glenn faces his first defining moment as Jets fall to 1-3 - SNY",
-        "description": "The Jets fell to 1-3 after a lopsided 23-12 loss to the Bears, raising questions about Aaron Glenn's rebuild.",
-        "url": "https://sny.tv/articles/aaron-glenn-defining-moment-jets",
-        "source": "SNY.tv",
-        "publishedAt": "2026-10-05T07:41:35Z",
-        "image": "https://images.contentstack.io/v3/assets/bltf7a82b39b0908da4/bltf9edbcaecc9eac30/6ac2c8141cd7464e3517c2e5/Aaron_Glenn.JPG?format=jpg&quality=75&fit=bounds&width=1296&height=729"
+        "title": "Jim Harbaugh not happy with reporter for \"more insult than question\" about Justin Herbert - NBC Sports",
+        "description": "Chargers head coach Jim Harbaugh was not happy with a reporter's line of questioning about quarterback Justin Herbert and the Chargers' inability to build a successful offense around him amid the team's 0-4 start.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-not-happy-with-reporter-for-more-insult-than-question-about-justin-herbert",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-10-06T09:33:08Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cf96055/2147483647/strip/true/crop/4500x2531+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2F4b%2Fbadb3e0b43848dc62be3f029d790%2F2298608095.jpg"
       }
     ]
   }
