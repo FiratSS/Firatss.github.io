@@ -1,130 +1,130 @@
 {
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "categories": {
     "technology": [
       {
-        "title": "Margaret Hamilton dies at 90. Her programming helped astronauts reach the moon. - The Washington Post",
-        "description": "Working behind the scenes at MIT, she played a key role in the success of NASA's Apollo missions. She was later awarded the Presidential Medal of Freedom.",
-        "url": "https://www.washingtonpost.com/obituaries/2026/10/08/margaret-hamilton-dies-90-her-programming-helped-astronauts-reach-moon/",
-        "source": "The Washington Post",
-        "publishedAt": "2026-10-09T00:13:49Z",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6O3AVDB4CRCM5K56ATHOIWSECY.jpg&w=1440"
-      },
-      {
-        "title": "I Played 6 Hours of Phantom Blade Zero and Can’t Stop Thinking About It | IGN Preview - IGN",
-        "description": "After half a day playing Phantom Blade Zero, it’s gone from mostly not on my radar to to the top of my wishlist this fall, and I truly cannot wait to dive back in later this month to see if it can deliver beyond those first handful of hours. At least for now,…",
-        "url": "https://www.ign.com/articles/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview",
-        "source": "IGN",
-        "publishedAt": "2026-10-09T00:00:00Z",
-        "image": "https://assets-prd.ignimgs.com/2026/10/08/phantombladezero-finalprev-blogroll-01-1791489524178.jpg?width=1280&format=jpg&auto=webp&quality=80"
-      },
-      {
-        "title": "Dell launches Nvidia RTX Spark laptop with 18-core CPU, 3.2K 120Hz OLED display and 99 Wh battery - Notebookcheck",
-        "description": "Dell has launched its first XPS laptop powered by Nvidia’s RTX Spark platform. The XPS 16 combines an 18-core N1X chip, 5,120 GPU cores, 32 GB of unified memory and a 16-inch 3.2K Tandem OLED touchscreen.",
-        "url": "https://www.notebookcheck.net/Dell-launches-Nvidia-RTX-Spark-laptop-with-18-core-CPU-3-2K-120Hz-OLED-display-and-99-Wh-battery.1418563.0.html",
-        "source": "Notebookcheck.net",
-        "publishedAt": "2026-10-08T23:58:00Z",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/dell-xps-16-creator-edition.png"
-      },
-      {
-        "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink - Ars Technica",
-        "description": "These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
-        "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
-        "source": "Ars Technica",
-        "publishedAt": "2026-10-08T21:37:32Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starshipflight14_deploy-1152x648-1791410362.jpg"
-      },
-      {
-        "title": "AMD will bring FSR 4 to handhelds by the end of 2026 - The Verge",
-        "description": "AMD’s Jack Huynh says both new and existing chips will get FSR 4 upscaling tech, expanding it to AMD’s entire product footprint.",
-        "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+        "title": "My brief romance with an AI bird feeder - The Verge",
+        "description": "Expensive AI-driven smart bird feeders can open your eyes to your local ecosystem. They can also attract pests.",
+        "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
         "source": "The Verge",
-        "publishedAt": "2026-10-08T21:01:18Z",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        "publishedAt": "2026-10-10T07:00:00Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C15.091603314391%2C100%2C69.816793371218&w=1200"
+      },
+      {
+        "title": "5 Cool MagSafe Gadgets That Are Not Mounts, Wallets, Or Power Banks - BGR",
+        "description": "Magnetic accessories can support iPhone or Android, adding camera grips, lights, game controllers, extra storage, and high-end audio.",
+        "url": "https://www.bgr.com/2277813/cool-magsafe-gadgets-not-mounts-wallets-power-banks/",
+        "source": "BGR",
+        "publishedAt": "2026-10-10T04:32:00Z",
+        "image": "https://www.bgr.com/img/gallery/5-cool-magsafe-gadgets-that-are-not-mounts-wallets-or-power-banks/l-intro-1791224509.jpg"
+      },
+      {
+        "title": "How Long Does RAM Last In Your PC? - BGR",
+        "description": "If conditions are ideal and you're mindful, RAM can last for decades, but there are a number of things to consider that could impact its lifespan.",
+        "url": "https://www.bgr.com/2277708/how-long-ram-last-pc/",
+        "source": "BGR",
+        "publishedAt": "2026-10-10T02:47:00Z",
+        "image": "https://www.bgr.com/img/gallery/how-long-does-ram-last-in-your-pc/l-intro-1791222326.jpg"
+      },
+      {
+        "title": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More - Nintendo Life",
+        "description": "Return to the track this November",
+        "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
+        "source": "Nintendo Life",
+        "publishedAt": "2026-10-09T23:55:00Z",
+        "image": "https://images.nintendolife.com/5a88a48cd3c89/1280x720.jpg"
+      },
+      {
+        "title": "Gears of War: E-Day Sold 168,000 Copies on Steam but Xbox Game Pass Players Generated 130% More Revenue - TechPowerUp",
+        "description": "We recently reported that Gears of War: E-Day wasn't having the best launch week over on Steam, but according to Alinea Analytics's Rhys Elliott, Steam doesn't even account for half of the game's revenue or owner base. The analytics firm estimates that Gears …",
+        "url": "https://www.techpowerup.com/353572/gears-of-war-e-day-sold-168-000-copies-on-steam-but-xbox-game-pass-players-generated-130-more-revenue",
+        "source": "Techpowerup.com",
+        "publishedAt": "2026-10-09T23:54:07Z",
+        "image": "https://www.techpowerup.com/img/l8Ef3gcQRoJV9XEX.jpg"
       }
     ],
     "business": [
       {
-        "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong - CNBC",
-        "description": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
-        "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-09T10:31:02Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108251232-1768234850403-gettyimages-2252637555-desisto-adeltaai251222_npUsY.jpeg?v=1768234906&w=1920&h=1080"
+        "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay - TechCrunch",
+        "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+        "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-10-10T03:10:06Z",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815"
       },
       {
-        "title": "PepsiCo raising prices on Doritos, Ruffles, SunChips and some sodas after recent cuts - Fox Business",
-        "description": "PepsiCo is raising prices on Doritos, Ruffles and SunChips by single-digit percentages just months after slashing prices to win back shoppers.",
-        "url": "https://www.foxbusiness.com/retail/pepsico-raising-prices-doritos-ruffles-sunchips-some-sodas-after-recent-cuts",
-        "source": "Fox Business",
-        "publishedAt": "2026-10-09T07:57:00Z",
-        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/doritos-chips-pepsico-price-hikes-2026.jpg?ve=1&tl=1"
+        "title": "UAW leader reviled by Trump declares victory in reelection - The Washington Post",
+        "description": "United Auto Workers President Shawn Fain said Friday that he had easily beat his top challenger.",
+        "url": "https://www.washingtonpost.com/business/2026/10/09/union-leader-reviled-by-trump-wins-reelection-uaw/",
+        "source": "The Washington Post",
+        "publishedAt": "2026-10-10T02:27:08Z",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BE5ODZLGGZWP4NKDZWEGF6KSBU_size-normalized.jpg&w=1440"
       },
       {
-        "title": "Exclusive: Apple cuts iPhone 18 Pro orders due to soft demand - Nikkei Asia",
-        "description": "Suppliers blame premium handsets' price hike for weaker consumer uptake",
-        "url": "https://asia.nikkei.com/business/technology/exclusive-apple-cuts-iphone-18-pro-orders-due-to-soft-demand",
-        "source": "Nikkei.com",
-        "publishedAt": "2026-10-09T05:58:00Z",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F9%2F7%2F13297991-1-eng-GB%2Ff51a927dcb62-GettyImages-2295963788b.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630"
-      },
-      {
-        "title": "Exclusive: Anthropic's new plan to protect critical infrastructure - Axios",
-        "description": "Anthropic is moving beyond just giving defenders access to its models",
-        "url": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity",
+        "title": "The surprising post-pandemic drop in income inequality - Axios",
+        "description": "Low earners saw bigger percentage gains than did high earners, the Federal Reserve's data set on American household finances shows.",
+        "url": "https://www.axios.com/2026/10/09/income-biden-pandemic-inflation",
         "source": "Axios",
-        "publishedAt": "2026-10-09T05:37:54Z",
-        "image": "https://images.axios.com/EWUgYvedP8PL5JZmdWQow2OV9as=/0x0:1920x1080/1366x768/2026/08/11/1786471300071.jpeg"
+        "publishedAt": "2026-10-10T01:59:42Z",
+        "image": "https://images.axios.com/6zPyIvEPA76UMsYHBXksPVhLVu4=/0x0:1600x900/1366x768/2026/10/09/1791561145076.png"
       },
       {
-        "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work? - BBC",
-        "description": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-        "url": "https://www.bbc.com/news/articles/cv2d6x749lwro",
-        "source": "BBC News",
-        "publishedAt": "2026-10-09T04:55:14Z",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2b1a/live/12929650-c32c-11f1-9981-cf94ea240e40.jpg"
+        "title": "Utah-based Crumbl closes dozens of locations as inflationary pressure takes a bite out of sales - KSL News",
+        "description": "Crumbl is closing dozens of stores and laying off employees at the company's headquarters after a bad batch of sales reports.",
+        "url": "https://www.ksl.com/article/51634583/utah-based-crumbl-closes-dozens-of-locations-as-inflationary-pressure-takes-a-bite-out-of-sales",
+        "source": "KSL.com",
+        "publishedAt": "2026-10-10T00:04:54Z",
+        "image": "https://img.ksl.com/slc/2791/279111/27911156.jpeg?filter=kslv2/responsive_story_lg"
+      },
+      {
+        "title": "AI companies plot how to respond if catastrophic hacking incident causes ‘revolt’: report - New York Post",
+        "description": "The preparations are focused on creating contingency plans in the event that one of their AI models causes major public harm – such as a hack targeting the power grid, water supply or banking syste…",
+        "url": "https://nypost.com/2026/10/09/business/ai-companies-plot-how-to-respond-if-catastrophic-hacking-incident-causes-revolt-report/",
+        "source": "New York Post",
+        "publishedAt": "2026-10-09T22:39:00Z",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41260362.jpg?quality=75&strip=all&w=1200"
       }
     ],
     "sports": [
       {
-        "title": "F1 Singapore GP: George Russell on top, Max Verstappen sets impressive lap - Motorsport.com",
-        "description": "Russell may have topped FP1 in Singapore, but Verstappen led the medium-tyre runners by some margin",
-        "url": "https://www.motorsport.com/f1/news/f1-singapore-gp-fp1-report/10863286/",
-        "source": "Motorsport.com",
-        "publishedAt": "2026-10-09T09:43:53Z",
-        "image": "https://cdn-4.motorsport.com/images/amp/0Zq8ybV6/s6/george-russell-mercedes-2.jpg"
+        "title": "Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals - San Francisco Chronicle",
+        "description": "Golden State Valkyries defeat Las Vegas 87-77 in overtime for a three-game sweep of semifinals series with defending champions and berth in the Finals.",
+        "url": "https://www.sfchronicle.com/sports/article/golden-state-valkyries-dethrone-las-vegas-head-22470457.php",
+        "source": "San Francisco Chronicle",
+        "publishedAt": "2026-10-10T06:54:58Z",
+        "image": "https://s.hdnux.com/photos/01/67/45/71/31350367/3/rawImage.jpg"
       },
       {
-        "title": "'Embarrassing': Worker heckles Cowboys QB Dak Prescott after loss - USA Today",
-        "description": "A worker, according to reporters who witnessed the incident, uttered the word \"embarrassing\" as Cowboys QB Dak Prescott passed by.",
-        "url": "https://www.usatoday.com/story/sports/nfl/cowboys/2026/10/09/dak-prescott-cowboys-employee-embarrassing/92165770007/",
+        "title": "Dream, Angel Reese sweep Liberty: How Atlanta reached first WNBA Finals since 2013 - CBS Sports",
+        "description": "Atlanta, powered by Reese and Jordin Canada, pulled off the sweep with a two-point win on the road",
+        "url": "https://www.cbssports.com/wnba/news/dream-liberty-angel-reese-wnba-finals/",
+        "source": "CBS Sports",
+        "publishedAt": "2026-10-10T04:24:00Z",
+        "image": "https://sportshub.cbsistatic.com/i/r/2026/10/10/c3b64df9-76f8-4c3b-8cd7-bf32dffd9b3a/thumbnail/1200x675/fccc85684996d3524f08e063f5cb2374/dream-reese-liberty-getty.png"
+      },
+      {
+        "title": "Rap: Jayden Daniels (elbow) not 100 percent yet - NBC Sports",
+        "description": "NFL Network's Ian Rapoport reports that Jayden Daniels (elbow) is \"not 100 percent\" healthy yet.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-09/rap-jayden-daniels-elbow-not-100-percent-yet",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-10-10T03:02:48Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/910dd89/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F08%2Fe3aea0a7433098c899dafec3294e%2Fimage-5.jpg"
+      },
+      {
+        "title": "Follow along as BYU faces Iowa State - Deseret News",
+        "description": "",
+        "url": "https://www.deseret.com/sports/2026/10/09/byu-cougars-football-iowa-state-live-coverage-2026/",
+        "source": "Deseret News",
+        "publishedAt": "2026-10-10T02:25:00Z",
+        "image": "https://www.deseret.com/resizer/v2/WELXTC454ZHNLOPF6FNSJXJBRA.JPG?focal=1418%2C631&auth=5dc020a8c70df0994797c69e3a734b5f6e19caa5d0eba573b49b55e1e567a4db&width=630&height=331"
+      },
+      {
+        "title": "Texas, Tennessee on upset alert in college football bold predictions for Week 6 schedule - USA Today",
+        "description": "There are surprises every weekend in college football. What could happen in Week 6. Our experts weigh in with their bold predictions.",
+        "url": "https://www.usatoday.com/story/sports/ncaaf/2026/10/09/college-football-bold-predictions-week-6-upset-picks/92135851007/",
         "source": "USA Today",
-        "publishedAt": "2026-10-09T06:17:00Z",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/09/USAT/92165965007-20261008-t-235830-z-1085118922-mt-1-usatoday-30031776-rtrmadp-3-nfltampabaybuccaneersatdallascowboys.JPG?crop=1829,1029,x1302,y140&width=1829&height=1029&format=pjpg&auto=webp"
-      },
-      {
-        "title": "Jerry Jones calls Cowboys' TNF loss to Buccaneers 'extraordinarily disappointing' - Yahoo Sports",
-        "description": "Jerry Jones said the Cowboys' loss to the Buccaneers on \"Thursday Night Football\" was \"extraordinarily disappointing.\"",
-        "url": "https://www.usatoday.com/story/sports/nfl/cowboys/2026/10/09/jerry-jones-reaction-video-cowboys-buccaneers/92165896007/",
-        "source": "USA Today",
-        "publishedAt": "2026-10-09T05:19:00Z",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/09/USAT/92166163007-usp-nfl-tampa-bay-buccaneers-at-dallas-cowboys.jpg?crop=4202,2361,x0,y17&width=3200&height=1799&format=pjpg&auto=webp"
-      },
-      {
-        "title": "LeBron James scores 10 points in 18 minutes in 76ers debut - ESPN",
-        "description": "LeBron James, who joined the 76ers this summer, had 10 points, five assists and four rebounds in the first half of his debut with Philadelphia.",
-        "url": "https://www.espn.com/nba/story/_/id/50137673/lebron-james-scores-10-points-18-minutes-76ers-debut",
-        "source": "ESPN",
-        "publishedAt": "2026-10-09T04:08:48Z",
-        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1009%2Fr1728114_1296x729_16%2D9.jpg"
-      },
-      {
-        "title": "Guardians beat White Sox, 9-5, bring ALDS home for winner-take-all Game 5 - Cleveland.com",
-        "description": null,
-        "url": "https://www.cleveland.com/guardians/2026/10/guardians-beat-white-sox-9-5-bring-alds-home-for-winner-take-all-game-5.html",
-        "source": "cleveland.com",
-        "publishedAt": "2026-10-09T03:49:00Z",
-        "image": null
+        "publishedAt": "2026-10-10T00:56:00Z",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/08/USAT/92160479007-20251004-t-235234-z-1034014644-mt-1-usatoday-27248423-rtrmadp-3-ncaafootballtexasatflorida.JPG?crop=3642,2049,x664,y105&width=3200&height=1801&format=pjpg&auto=webp"
       }
     ]
   }
