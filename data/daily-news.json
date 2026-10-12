@@ -1,130 +1,122 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "categories": {
     "technology": [
       {
-        "title": "My brief romance with an AI bird feeder - The Verge",
-        "description": "Expensive AI-driven smart bird feeders can open your eyes to your local ecosystem. They can also attract pests.",
-        "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+        "title": "T-Mobile plans to limit customer discounts with new phone plans - TheStreet",
+        "description": null,
+        "url": "https://www.thestreet.com/retail/t-mobile-t-mix-plans-limit-customer-discounts-perks",
+        "source": "TheStreet",
+        "publishedAt": "2026-10-11T12:07:00Z",
+        "image": null
+      },
+      {
+        "title": "4 mental tricks to help you remember things you tend to forget - The Washington Post",
+        "description": "The key to remembering mundane moments — like turning off the stove — is to make them feel extraordinary.",
+        "url": "https://www.washingtonpost.com/wellness/2026/10/11/4-mental-tricks-help-you-remember-things-you-tend-forget/",
+        "source": "The Washington Post",
+        "publishedAt": "2026-10-11T12:02:21Z",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NV2BZM4LHOP65UHNFQMHCKJXIQ_size-normalized.jpg&w=1440"
+      },
+      {
+        "title": "23 People Who Accidentally Ruined Their Day By Basically Flushing Hundreds Or Thousands Of Dollars Down The Toilet - BuzzFeed",
+        "description": "Best of luck to these people.",
+        "url": "https://www.buzzfeed.com/ajanibazile/photos-mistakes-expensives",
+        "source": "Buzzfeed",
+        "publishedAt": "2026-10-11T11:31:01Z",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/07/17/thumb/KwmA_ap9Z.jpg?crop=2999:1570;0,2%26downsize=1250:*"
+      },
+      {
+        "title": "Learning to use local AI is exciting, overwhelming, and frustrating - The Verge",
+        "description": "Early days of learning to use Hermes Agent and Qwen local models on Mac and Windows hardware.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
         "source": "The Verge",
-        "publishedAt": "2026-10-10T07:00:00Z",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C15.091603314391%2C100%2C69.816793371218&w=1200"
+        "publishedAt": "2026-10-11T11:00:00Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       },
       {
-        "title": "5 Cool MagSafe Gadgets That Are Not Mounts, Wallets, Or Power Banks - BGR",
-        "description": "Magnetic accessories can support iPhone or Android, adding camera grips, lights, game controllers, extra storage, and high-end audio.",
-        "url": "https://www.bgr.com/2277813/cool-magsafe-gadgets-not-mounts-wallets-power-banks/",
-        "source": "BGR",
-        "publishedAt": "2026-10-10T04:32:00Z",
-        "image": "https://www.bgr.com/img/gallery/5-cool-magsafe-gadgets-that-are-not-mounts-wallets-or-power-banks/l-intro-1791224509.jpg"
-      },
-      {
-        "title": "How Long Does RAM Last In Your PC? - BGR",
-        "description": "If conditions are ideal and you're mindful, RAM can last for decades, but there are a number of things to consider that could impact its lifespan.",
-        "url": "https://www.bgr.com/2277708/how-long-ram-last-pc/",
-        "source": "BGR",
-        "publishedAt": "2026-10-10T02:47:00Z",
-        "image": "https://www.bgr.com/img/gallery/how-long-does-ram-last-in-your-pc/l-intro-1791222326.jpg"
-      },
-      {
-        "title": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More - Nintendo Life",
-        "description": "Return to the track this November",
-        "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
-        "source": "Nintendo Life",
-        "publishedAt": "2026-10-09T23:55:00Z",
-        "image": "https://images.nintendolife.com/5a88a48cd3c89/1280x720.jpg"
-      },
-      {
-        "title": "Gears of War: E-Day Sold 168,000 Copies on Steam but Xbox Game Pass Players Generated 130% More Revenue - TechPowerUp",
-        "description": "We recently reported that Gears of War: E-Day wasn't having the best launch week over on Steam, but according to Alinea Analytics's Rhys Elliott, Steam doesn't even account for half of the game's revenue or owner base. The analytics firm estimates that Gears …",
-        "url": "https://www.techpowerup.com/353572/gears-of-war-e-day-sold-168-000-copies-on-steam-but-xbox-game-pass-players-generated-130-more-revenue",
-        "source": "Techpowerup.com",
-        "publishedAt": "2026-10-09T23:54:07Z",
-        "image": "https://www.techpowerup.com/img/l8Ef3gcQRoJV9XEX.jpg"
+        "title": "GTA 6 Official Rating Revealed - OpenCritic",
+        "description": "The official rating for Grand Theft Auto 6 is now available, revealing interesting details about the upcoming game.",
+        "url": "https://opencritic.com/news/37542/gta-6-official-rating-revealed",
+        "source": "Opencritic.com",
+        "publishedAt": "2026-10-11T10:14:52Z",
+        "image": "https://img.opencritic.com/article/o/FT3wimtUye6JT3Ce6CvSXo1vljhTrYKV.jpg"
       }
     ],
     "business": [
       {
-        "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay - TechCrunch",
-        "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-        "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-        "source": "TechCrunch",
-        "publishedAt": "2026-10-10T03:10:06Z",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815"
+        "title": "Welcome back to earnings season: What to watch this week - Yahoo Finance",
+        "description": "Earnings are back in session this week as the Big Banks open their books. We are also seeing the return of the telecom wars and a key inflation reading that...",
+        "url": "https://finance.yahoo.com/markets/article/welcome-back-to-earnings-season-what-to-watch-this-week-100000102.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-10-11T14:38:28Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/9d98dadc9e69a54459d06f32df9aed37f35ef08fcdc0df4f996f8c00d471248d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F08d43d3d-6ee3-4467-ba0f-f1b6b99b0ce7"
       },
       {
-        "title": "UAW leader reviled by Trump declares victory in reelection - The Washington Post",
-        "description": "United Auto Workers President Shawn Fain said Friday that he had easily beat his top challenger.",
-        "url": "https://www.washingtonpost.com/business/2026/10/09/union-leader-reviled-by-trump-wins-reelection-uaw/",
+        "title": "Thinking of retiring at 65? Here’s what it could cost you. - The Washington Post",
+        "description": "Waiting to retire may make sense on paper, but the mathematics and personal considerations can vary dramatically from household to household.",
+        "url": "https://www.washingtonpost.com/business/2026/10/11/thinking-retiring-65-here-what-it-could-cost-you/",
         "source": "The Washington Post",
-        "publishedAt": "2026-10-10T02:27:08Z",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BE5ODZLGGZWP4NKDZWEGF6KSBU_size-normalized.jpg&w=1440"
+        "publishedAt": "2026-10-11T13:32:36Z",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PTLPNSR3YTY2F27NBG7QO2O7KM_size-normalized.jpg&w=1440"
       },
       {
-        "title": "The surprising post-pandemic drop in income inequality - Axios",
-        "description": "Low earners saw bigger percentage gains than did high earners, the Federal Reserve's data set on American household finances shows.",
-        "url": "https://www.axios.com/2026/10/09/income-biden-pandemic-inflation",
-        "source": "Axios",
-        "publishedAt": "2026-10-10T01:59:42Z",
-        "image": "https://images.axios.com/6zPyIvEPA76UMsYHBXksPVhLVu4=/0x0:1600x900/1366x768/2026/10/09/1791561145076.png"
+        "title": "Cathie Wood sells $15.8 million of popular semiconductor stock - TheStreet",
+        "description": null,
+        "url": "https://www.thestreet.com/investing/stocks/cathie-wood-sells-15-8-million-of-popular-semiconductor-stock-amd-advanced-micro-devices",
+        "source": "TheStreet",
+        "publishedAt": "2026-10-11T13:03:47Z",
+        "image": null
       },
       {
-        "title": "Utah-based Crumbl closes dozens of locations as inflationary pressure takes a bite out of sales - KSL News",
-        "description": "Crumbl is closing dozens of stores and laying off employees at the company's headquarters after a bad batch of sales reports.",
-        "url": "https://www.ksl.com/article/51634583/utah-based-crumbl-closes-dozens-of-locations-as-inflationary-pressure-takes-a-bite-out-of-sales",
-        "source": "KSL.com",
-        "publishedAt": "2026-10-10T00:04:54Z",
-        "image": "https://img.ksl.com/slc/2791/279111/27911156.jpeg?filter=kslv2/responsive_story_lg"
-      },
-      {
-        "title": "AI companies plot how to respond if catastrophic hacking incident causes ‘revolt’: report - New York Post",
-        "description": "The preparations are focused on creating contingency plans in the event that one of their AI models causes major public harm – such as a hack targeting the power grid, water supply or banking syste…",
-        "url": "https://nypost.com/2026/10/09/business/ai-companies-plot-how-to-respond-if-catastrophic-hacking-incident-causes-revolt-report/",
-        "source": "New York Post",
-        "publishedAt": "2026-10-09T22:39:00Z",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41260362.jpg?quality=75&strip=all&w=1200"
+        "title": "Powerball winning numbers, results for Saturday, Oct. 10, 2026: No jackpot winner - Detroit Free Press",
+        "description": "The Powerball winning numbers are in for the Saturday, Oct. 10 drawing. Check out the results.",
+        "url": "https://www.freep.com/story/news/lottery/2026/10/10/powerball-numbers-saturday-october-10-2026-results/91958826007/",
+        "source": "Detroit Free Press",
+        "publishedAt": "2026-10-11T11:51:00Z",
+        "image": "https://www.freep.com/gcdn/authoring/authoring-images/2026/05/20/PDTF/90176538007-powerball-2.jpg?crop=4028,2267,x0,y0&width=3200&height=1801&format=pjpg&auto=webp"
       }
     ],
     "sports": [
       {
-        "title": "Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals - San Francisco Chronicle",
-        "description": "Golden State Valkyries defeat Las Vegas 87-77 in overtime for a three-game sweep of semifinals series with defending champions and berth in the Finals.",
-        "url": "https://www.sfchronicle.com/sports/article/golden-state-valkyries-dethrone-las-vegas-head-22470457.php",
-        "source": "San Francisco Chronicle",
-        "publishedAt": "2026-10-10T06:54:58Z",
-        "image": "https://s.hdnux.com/photos/01/67/45/71/31350367/3/rawImage.jpg"
+        "title": "Eagles vs. Jaguars live updates, inactives, where to watch: Trevor Lawrence makes eighth London start with Jags on a hot streak - Yahoo Sports",
+        "description": "The Jaguars are 16-5 over their last 21 regular-season games.",
+        "url": "https://sports.yahoo.com/nfl/live/eagles-jaguars--score-live-updates-inactives-highlights-stats-where-to-watch-week-5-london-game-120000627.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-10-11T14:33:09Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/d130ee839cd3973ab6850063d7b65ec1e4408536d64d5ff33b20578b492e081e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F43b6c913-10f8-491c-8196-063a0116a7d5"
       },
       {
-        "title": "Dream, Angel Reese sweep Liberty: How Atlanta reached first WNBA Finals since 2013 - CBS Sports",
-        "description": "Atlanta, powered by Reese and Jordin Canada, pulled off the sweep with a two-point win on the road",
-        "url": "https://www.cbssports.com/wnba/news/dream-liberty-angel-reese-wnba-finals/",
-        "source": "CBS Sports",
-        "publishedAt": "2026-10-10T04:24:00Z",
-        "image": "https://sportshub.cbsistatic.com/i/r/2026/10/10/c3b64df9-76f8-4c3b-8cd7-bf32dffd9b3a/thumbnail/1200x675/fccc85684996d3524f08e063f5cb2374/dream-reese-liberty-getty.png"
+        "title": "F1 Singapore GP: Max Verstappen dominates for Marina Bay double - Motorsport.com",
+        "description": "Verstappen triumphed at the Marina Bay Street Circuit to add to his Saturday sprint amid a debatable strategy from Ferrari",
+        "url": "https://www.motorsport.com/f1/news/f1-singapore-gp-report/10864310/",
+        "source": "Motorsport.com",
+        "publishedAt": "2026-10-11T14:00:19Z",
+        "image": "https://cdn-2.motorsport.com/images/amp/0JXRq4AY/s6/max-verstappen-red-bull-racing-2.jpg"
       },
       {
-        "title": "Rap: Jayden Daniels (elbow) not 100 percent yet - NBC Sports",
-        "description": "NFL Network's Ian Rapoport reports that Jayden Daniels (elbow) is \"not 100 percent\" healthy yet.",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-09/rap-jayden-daniels-elbow-not-100-percent-yet",
+        "title": "Eagles’ Jeremiah Trotter, Jaguars’ Bryan Thomas ejected on opening kickoff - NBC Sports",
+        "description": "A crazy start in London saw a kickoff return touchdown called back on a holding penalty.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-jeremiah-trotter-jaguars-bryan-thomas-ejected-on-opening-kickoff",
         "source": "NBCSports.com",
-        "publishedAt": "2026-10-10T03:02:48Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/910dd89/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F08%2Fe3aea0a7433098c899dafec3294e%2Fimage-5.jpg"
+        "publishedAt": "2026-10-11T13:42:55Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8b9b805/2147483647/strip/true/crop/8472x4766+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2F9c%2Fa3a4f66c44b58586fbde0f062e80%2F2026-10-11t110202z-1475640934-mt1usatoday30056149-rtrmadp-3-nfl-philadelphia-eagles-at-jacksonville-jaguars.jpg"
       },
       {
-        "title": "Follow along as BYU faces Iowa State - Deseret News",
-        "description": "",
-        "url": "https://www.deseret.com/sports/2026/10/09/byu-cougars-football-iowa-state-live-coverage-2026/",
-        "source": "Deseret News",
-        "publishedAt": "2026-10-10T02:25:00Z",
-        "image": "https://www.deseret.com/resizer/v2/WELXTC454ZHNLOPF6FNSJXJBRA.JPG?focal=1418%2C631&auth=5dc020a8c70df0994797c69e3a734b5f6e19caa5d0eba573b49b55e1e567a4db&width=630&height=331"
+        "title": "Georgia players, Kirby Smart had a lot to say about Keelon Russell - AL.com",
+        "description": null,
+        "url": "https://www.al.com/alabamafootball/2026/10/georgia-players-kirby-smart-had-a-lot-to-say-about-keelon-russell.html",
+        "source": "AL.com",
+        "publishedAt": "2026-10-11T12:47:00Z",
+        "image": null
       },
       {
-        "title": "Texas, Tennessee on upset alert in college football bold predictions for Week 6 schedule - USA Today",
-        "description": "There are surprises every weekend in college football. What could happen in Week 6. Our experts weigh in with their bold predictions.",
-        "url": "https://www.usatoday.com/story/sports/ncaaf/2026/10/09/college-football-bold-predictions-week-6-upset-picks/92135851007/",
-        "source": "USA Today",
-        "publishedAt": "2026-10-10T00:56:00Z",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/08/USAT/92160479007-20251004-t-235234-z-1034014644-mt-1-usatoday-27248423-rtrmadp-3-ncaafootballtexasatflorida.JPG?crop=3642,2049,x664,y105&width=3200&height=1801&format=pjpg&auto=webp"
+        "title": "Column: Down for the count, but leadership not willing to throw in the towel - 247Sports",
+        "description": "FSU Football hit the road once again and the story played out like it has regularly over the past three years",
+        "url": "https://247sports.com/college/florida-state/article/fsu-football-mike-norvell-athletic-leadership-column-291049631/",
+        "source": "247Sports",
+        "publishedAt": "2026-10-11T12:31:00Z",
+        "image": "https://s3media.247sports.com/Uploads/Assets/751/500/14500751.JPG?width=1200&height=628&crop=1.91:1&fit=cover"
       }
     ]
   }
