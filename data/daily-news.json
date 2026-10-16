@@ -1,130 +1,114 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "categories": {
     "technology": [
       {
-        "title": "Nintendo Switch Online adds three new GBA games in October 2026 update - Nintendo Everything",
-        "description": "Nintendo Switch Online just added three new GBA games as part of a new October 2026 update. The lineup includes Kururin Paradise, Metal Slug Advance, and Monster Rancher. All of these can be found in the Game Boy Advance – Nintendo Classics app right now on S…",
-        "url": "https://nintendoeverything.com/nintendo-switch-online-adds-three-new-gba-games-in-october-2026-update/",
-        "source": "Nintendoeverything.com",
-        "publishedAt": "2026-10-14T01:29:56Z",
-        "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-Online-GBA-October-2026.jpg"
-      },
-      {
-        "title": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes - Nintendo Life",
-        "description": "Following a free Switch 2 update last month",
-        "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
-        "source": "Nintendo Life",
-        "publishedAt": "2026-10-14T00:55:00Z",
-        "image": "https://images.nintendolife.com/d646e803ee572/1280x720.jpg"
-      },
-      {
-        "title": "John Ternus Takes Next Big Swing as Apple CEO With HomeView Tablet - WSJ",
+        "title": "AI Controls IPhone Via ESP32 - Hackaday",
         "description": null,
-        "url": "https://www.wsj.com/tech/john-ternus-takes-next-big-swing-as-apple-ceo-with-homeview-tablet-39206e9e",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-10-14T00:00:00Z",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SN2NUNmhNTnBTWTloU1VmbTZMUEhmcFdJSkxTa3JzblV3NU1VX00wR2pjRTBUSmQwR3pXVmdmcGZoSk1kRko1YVp6d2otVG5TU1BiM21PQnFqNTI2Y3FLS0hIalozOUZDNENndzRB?oc=5",
+        "source": "Google News",
+        "publishedAt": "2026-10-15T02:00:00Z",
         "image": null
       },
       {
-        "title": "Round Up: The Reviews For Castlevania: Belmont's Curse Are In - Nintendo Life",
-        "description": "Here's what the critics think",
-        "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-castlevania-belmonts-curse-are-in",
+        "title": "Fire Emblem: Fortune's Weave Expansion Pass Announced, Wave 1 Launches Today - Nintendo Life",
+        "description": "Three separate waves will be released",
+        "url": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today",
         "source": "Nintendo Life",
-        "publishedAt": "2026-10-13T23:55:00Z",
-        "image": "https://images.nintendolife.com/cad9476688063/1280x720.jpg"
+        "publishedAt": "2026-10-15T01:05:00Z",
+        "image": "https://images.nintendolife.com/fa2d30d6a1d4f/1280x720.jpg"
       },
       {
-        "title": "Everything Apple Still Has Coming in October - MacRumors",
-        "description": "Apple debuted three new home products today, but the October announcements aren't over yet. Rumors suggest there will be another \"event\"...",
-        "url": "https://www.macrumors.com/2026/10/13/apple-october-upcoming-products/",
-        "source": "MacRumors",
-        "publishedAt": "2026-10-13T23:47:00Z",
-        "image": "https://images.macrumors.com/t/8JMTbDQ59zEhM-LcAFM6FYdUCxk=/2100x/article-new/2026/10/MacBook-Pro-Ultra-Feature-1.jpg"
+        "title": "Modelling mouse embryogenesis from chemically induced totipotent stem cells - Nature",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfVDVpaUUyYXQ2UEtJZEZUV2JraDZzTkF5Z0VBYm05SFcxY3REYlJVcDA1X0hocUdOdkhVblFNbWhKTTVHeGpXWC1YWFc5ZFdOYUxaYktNbHUwU3ltRWNN?oc=5",
+        "source": "Google News",
+        "publishedAt": "2026-10-14T22:52:30Z",
+        "image": null
+      },
+      {
+        "title": "Old Google Home and Nest speakers getting big firmware update - 9to5Google",
+        "description": "Google is testing a big firmware update for the Google Home, Home Mini, Nest Mini, and Nest Audio. This release...",
+        "url": "http://9to5google.com/2026/10/14/google-home-nest-speaker-update/",
+        "source": "9to5google.com",
+        "publishedAt": "2026-10-14T22:35:00Z",
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2021/01/Google-Nest-Mini-Charcoal-3.jpg?quality=82&strip=all&resize=1200,628"
+      },
+      {
+        "title": "Apple and Schneider’s new smart thermostat could help cut your electric bill - Electrek",
+        "description": "Apple and Schneider's smart thermostat uses your iPhone to adjust temperatures and can shift energy use to cheaper, cleaner hours.",
+        "url": "http://electrek.co/2026/10/14/apple-and-schneiders-new-smart-thermostat-could-help-cut-your-electric-bill/",
+        "source": "Electrek",
+        "publishedAt": "2026-10-14T22:06:00Z",
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Schneider-Electric-Apple-smart-thermostat.jpg?quality=82&strip=all&resize=1200,628"
       }
     ],
     "business": [
       {
-        "title": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says - CNBC",
-        "description": "IMF chief Kristalina Georgieva said Bessent’s reliance on growth won’t cut the U.S. deficit and $40 trillion debt fast enough, calling for fiscal consolidation.",
-        "url": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html",
+        "title": "S&P 500 futures fall ahead of more U.S. economic data; South Korea's Kospi plunges 7%: Live updates - CNBC",
+        "description": "Nasdaq-100 futures fell sharply Thursday as concerns around tech companies overspending on artificial intelligence grew.",
+        "url": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-14T08:53:35Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108407253-1791959343098-gettyimages-2281410660-AFP_B7CY9MC.jpeg?v=1791959385&w=1920&h=1080"
+        "publishedAt": "2026-10-15T10:41:15Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108300019-1777561837792-gettyimages-2273244045-AFP_A9GM7MF.jpeg?v=1777561948&w=1920&h=1080"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge higher ahead of CPI inflation data, earnings - Yahoo Finance",
-        "description": "Stocks rose as the third quarter earnings season got underway and investors awaited fresh inflation data.",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-10-14T08:11:36Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/66612b0e2c25b17280722a8676a557a47d14b6b2932a7cd31e7a5a86851c3856/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F2e6696e1-f4fd-4ce1-ad32-be55fa45d738"
+        "title": "Stock Market Today: Tech Selloff to Extend Into Second Day — Live Updates - WSJ",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX2pSZmFBRTNfZ0ZmczFBcXBBRlUxV3RNTkV6ZzJiN2s4UGhod3RwVVZLbWY2YVNqejB1ZE9adDVyTDBXUnFsY3VGTHI3clVCUmlHUzBIcVFYTmt4T3FxMkxkdkd2eTgwZDNQbENLUGNnU3JJU0JnNW1odEF5bTgzemd3RGphTjg?oc=5",
+        "source": "Google News",
+        "publishedAt": "2026-10-15T09:50:00Z",
+        "image": null
       },
       {
-        "title": "Amazon Extra Strength Acetaminophen recalled: More than 112,000 bottles affected by discoloration complaints - Fox Business",
-        "description": "The FDA says over 112,000 bottles of Amazon Extra Strength Acetaminophen are being recalled after consumer complaints about discolored tablets.",
-        "url": "https://www.foxbusiness.com/lifestyle/amazon-extra-strength-acetaminophen-recalled-more-than-112000-bottles-affected-discoloration-complaints",
-        "source": "Fox Business",
-        "publishedAt": "2026-10-14T05:27:00Z",
-        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/amazon-acetaminophen-112000-bottles-recalled.jpg?ve=1&tl=1"
+        "title": "TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. - Barron's",
+        "description": "Taiwan Semiconductor Manufacturing reported booming profit but the real intrigue comes in its talks with Elon Musk over his Terafab project.",
+        "url": "https://www.barrons.com/articles/tsmc-earnings-stock-price-e352058b",
+        "source": "Barron's",
+        "publishedAt": "2026-10-15T08:47:00Z",
+        "image": "https://images.barrons.com/im-27823108/social"
       },
       {
-        "title": "ASML Boosts Outlook as Demand for Chip Tools Outpaces Supply - Bloomberg.com",
-        "description": "ASML Holding NV shares rose after the Dutch company said soaring artificial intelligence spending means it’s searching for ways to produce more chip-making machines over the next two years.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-14/asml-raises-full-year-sales-outlook-as-ai-boom-drives-demand",
-        "source": "Bloomberg",
-        "publishedAt": "2026-10-14T05:12:00Z",
-        "image": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.d7363fa9.png"
+        "title": "Morning Bid: CoreWeave at the heart of wipeout as AI rout deepens - Reuters",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rbk90WGc1UEtvTDRhdVRZbWRHaExMOENRdE1ScVZ2MkRodXRSQUdpNjAyVERVelNGVzZZd1djLVk0c2tZMng1Ti1Qeks3UTV6R2tNWERzNlp1cnBLUDR0UUlmZndCY0FaZXRiYmFKbG8zYWRPa3I2WXUwQXJOVTg?oc=5",
+        "source": "Google News",
+        "publishedAt": "2026-10-15T04:38:00Z",
+        "image": null
       },
       {
-        "title": "Social Security’s 2027 COLA: What to know ahead of the announcement - NewsNation",
-        "description": "Retirees will find out Wednesday how much their Social Security checks are going up next year.",
-        "url": "https://www.newsnationnow.com/business/your-money/social-security-2027-cola-announcement/",
-        "source": "Newsnationnow.com",
-        "publishedAt": "2026-10-14T04:03:01Z",
-        "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/10/GettyImages-2175951235.jpg?w=1280"
+        "title": "Unfortunate News for Micron Stock and Sandisk Stock Investors - The Motley Fool",
+        "description": "The developments highlight the weaker competitive advantages boasted by a few of these semiconductor companies.",
+        "url": "https://www.fool.com/investing/2026/10/14/unfortunate-news-for-micron-stock-and-sandisk-stoc/",
+        "source": "Motley Fool",
+        "publishedAt": "2026-10-15T03:45:08Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891102%2Fimywe38txkxlk.png&w=1200&op=resize"
       }
     ],
     "sports": [
       {
-        "title": "Here's the root of Ohtani's slump. Is there time to fix it? - MLB.com",
-        "description": "Shohei Ohtani will be in the Game 3 lineup on Wednesday, according to manager Dave Roberts. That it was ever even a question otherwise tells you a whole lot about how badly things have gone lately for the four-time Most Valuable Player and reigning Greatest P…",
-        "url": "https://www.mlb.com/news/shohei-ohtani-struggles-2026-postseason",
-        "source": "MLB.com",
-        "publishedAt": "2026-10-14T09:48:45Z",
-        "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/gdqgu6ev4t6xngifj7qn.jpg"
-      },
-      {
-        "title": "Sean McVay on Alaric Jackson: \"He has to consistently do a better job\" - NBC Sports",
-        "description": "On Monday, Rams left tackle Alaric Jackson sucker punched Bills linebacker Bradley Chubb.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-on-alaric-jackson-he-has-to-consistently-do-a-better-job",
-        "source": "NBCSports.com",
-        "publishedAt": "2026-10-14T09:35:08Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a5c6297/2147483647/strip/true/crop/4861x2734+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe1%2F2e%2F5f60533f43409f2b96cfbe196d38%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1817405424"
-      },
-      {
-        "title": "Brady Tkachuk Makes NHL History with Hat Trick on 3 Assists From Brother Matthew in Panthers' Win - Bleacher Report",
-        "description": "The Tkachuk brothers made NHL history in a Tuesday night win over the Columbus Blue Jackets.",
-        "url": "https://bleacherreport.com/articles/25510053-brady-tkachuk-makes-nhl-history-hat-trick-3-assists-brother-matthew-panthers-win",
+        "title": "'We're Playing Like S--t,' Dodgers' Max Muncy Reacts to 3-0 NLCS Deficit vs. Brewers - Bleacher Report",
+        "description": "With the Los Angeles Dodgers down 3-0 to the Milwaukee Brewers in the National League Championship Series, Max Muncy kept his assessment of the matchup straightforward.",
+        "url": "https://bleacherreport.com/articles/25510399-were-playing-s-t-dodgers-max-muncy-reacts-3-0-nlcs-deficit-vs-brewers",
         "source": "Bleacher Report",
-        "publishedAt": "2026-10-14T03:30:43Z",
-        "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2299548059_large_cropped.jpg?w=1121&h=630"
+        "publishedAt": "2026-10-15T04:02:17Z",
+        "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-10/image-(42).png?w=1120&h=630"
       },
       {
-        "title": "Tampa Bay Rays win game two over Guardians thanks to terrible error from José Ramírez, even ALCS at 1-1 - Fox News",
-        "description": "Freddy Peralta fired six shutout innings as the Tampa Bay Rays evened the American League Championship Series against the Cleveland Guardians.",
-        "url": "https://www.foxnews.com/outkick-sports/tampa-bay-rays-win-game-two-guardians-terrible-error-jose-ramirez-alcs-1-1",
-        "source": "Fox News",
-        "publishedAt": "2026-10-14T03:17:42Z",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/freddy-peralta-celebrates-last-out-alcs-fox-news_.jpg"
+        "title": "Bauers blast has Brewers on the brink of World Series - Brew Crew Ball",
+        "description": "Epic Bauers at-bat in seventh inning flips script, wins Brewers game three",
+        "url": "https://www.brewcrewball.com/milwaukee-brewers-scores-standings/91521/bauers-blast-has-brewers-on-the-brink-of-world-series",
+        "source": "Brew Crew Ball",
+        "publishedAt": "2026-10-15T03:47:00Z",
+        "image": "https://platform.brewcrewball.com/wp-content/uploads/sites/43/2026/10/gettyimages-2299702982.jpg?quality=90&strip=all&crop=0%2C21.387927815687%2C100%2C78.534031413613&w=1200"
       },
       {
-        "title": "Dana White responds to Sean Strickland’s complaints: ‘When isn’t Sean Strickland upset about something?’ - MMA Fighting",
-        "description": "Dana White reacts to Sean Strickland’s complaints about fighter pay",
-        "url": "https://www.mmafighting.com/ufc/515615/dana-white-responds-to-sean-stricklands-complaints-when-isnt-sean-strickland-upset-about-something",
-        "source": "MMA Fighting",
-        "publishedAt": "2026-10-14T02:53:00Z",
-        "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/04/gettyimages-1858428229.jpg?quality=90&strip=all&crop=0%2C21.461286416745%2C100%2C78.538713583255&w=1200"
+        "title": "How the Small-Market Brewers Put the Dodgers' $500M Dynasty on Life Support - Bleacher Report",
+        "description": "Those who would weep for the Los Angeles Dodgers right now are in the minority. They can spend $500 million on a roster all they want, but money like that doesn't buy sympathy when it's on the verge of failure.",
+        "url": "https://bleacherreport.com/articles/25510251-how-small-market-brewers-put-dodgers-500m-dynasty-life-support",
+        "source": "Bleacher Report",
+        "publishedAt": "2026-10-15T03:19:32Z",
+        "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2300264139_large_cropped.jpg?w=1121&h=630"
       }
     ]
   }
