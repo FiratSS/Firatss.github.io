@@ -1,114 +1,122 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "categories": {
     "technology": [
       {
-        "title": "AI Controls IPhone Via ESP32 - Hackaday",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SN2NUNmhNTnBTWTloU1VmbTZMUEhmcFdJSkxTa3JzblV3NU1VX00wR2pjRTBUSmQwR3pXVmdmcGZoSk1kRko1YVp6d2otVG5TU1BiM21PQnFqNTI2Y3FLS0hIalozOUZDNENndzRB?oc=5",
-        "source": "Google News",
-        "publishedAt": "2026-10-15T02:00:00Z",
-        "image": null
-      },
-      {
-        "title": "Fire Emblem: Fortune's Weave Expansion Pass Announced, Wave 1 Launches Today - Nintendo Life",
-        "description": "Three separate waves will be released",
-        "url": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today",
+        "title": "Zelda: Ocarina Of Time Switch 2 \"Replica N64 Box\" Revealed - Nintendo Life",
+        "description": "A bonus available in France",
+        "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed",
         "source": "Nintendo Life",
-        "publishedAt": "2026-10-15T01:05:00Z",
-        "image": "https://images.nintendolife.com/fa2d30d6a1d4f/1280x720.jpg"
+        "publishedAt": "2026-10-16T03:55:00Z",
+        "image": "https://images.nintendolife.com/fa9beb913faba/1280x720.jpg"
       },
       {
-        "title": "Modelling mouse embryogenesis from chemically induced totipotent stem cells - Nature",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfVDVpaUUyYXQ2UEtJZEZUV2JraDZzTkF5Z0VBYm05SFcxY3REYlJVcDA1X0hocUdOdkhVblFNbWhKTTVHeGpXWC1YWFc5ZFdOYUxaYktNbHUwU3ltRWNN?oc=5",
-        "source": "Google News",
-        "publishedAt": "2026-10-14T22:52:30Z",
-        "image": null
+        "title": "Oops, Apple's Website Just Hinted at iPad Mini 8 - MacRumors",
+        "description": "Apple has an unreleased iPad mini Smart Folio listed on its French regulatory website, hinting that a new iPad mini is coming. The case's A3632...",
+        "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
+        "source": "MacRumors",
+        "publishedAt": "2026-10-16T00:27:00Z",
+        "image": "https://images.macrumors.com/t/2345fVS9Wh16988o2qY5zWvHd6Y=/2500x/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg"
       },
       {
-        "title": "Old Google Home and Nest speakers getting big firmware update - 9to5Google",
-        "description": "Google is testing a big firmware update for the Google Home, Home Mini, Nest Mini, and Nest Audio. This release...",
-        "url": "http://9to5google.com/2026/10/14/google-home-nest-speaker-update/",
-        "source": "9to5google.com",
-        "publishedAt": "2026-10-14T22:35:00Z",
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2021/01/Google-Nest-Mini-Charcoal-3.jpg?quality=82&strip=all&resize=1200,628"
+        "title": "'Consumers Must Have the Right to Own' — A Congressman Is Introducing a Bill to Get Rid of Digital Game Licenses and Give Players Total Ownership - IGN",
+        "description": "Democratic Congressman Ritchie Torres is introducing legislation that aims to ensure you own your digital games, rather than having a license.",
+        "url": "https://www.ign.com/articles/rep-ritchie-torress-introduces-legislation-to-ensure-gamers-own-their-digital-games",
+        "source": "IGN",
+        "publishedAt": "2026-10-15T23:21:09Z",
+        "image": "https://assets-prd.ignimgs.com/2026/07/31/gettyimages-2186493403-1785487186283.jpg?width=1280&format=jpg&auto=webp&quality=80"
       },
       {
-        "title": "Apple and Schneider’s new smart thermostat could help cut your electric bill - Electrek",
-        "description": "Apple and Schneider's smart thermostat uses your iPhone to adjust temperatures and can shift energy use to cheaper, cleaner hours.",
-        "url": "http://electrek.co/2026/10/14/apple-and-schneiders-new-smart-thermostat-could-help-cut-your-electric-bill/",
-        "source": "Electrek",
-        "publishedAt": "2026-10-14T22:06:00Z",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Schneider-Electric-Apple-smart-thermostat.jpg?quality=82&strip=all&resize=1200,628"
+        "title": "ChatGPT can peek at your Chrome tabs now - The Verge",
+        "description": "The ChatGPT Chrome extension has added more features to use information from your open browser tabs, and bring chat or Work to the page you’re viewing in a sidebar.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+        "source": "The Verge",
+        "publishedAt": "2026-10-15T22:43:23Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200"
+      },
+      {
+        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch - The Verge",
+        "description": "Sega is removing Total War: Shogun 2 — Complete Edition from storefronts after users complained about bugs and ugly upscaling seemingly done by AI.",
+        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+        "source": "The Verge",
+        "publishedAt": "2026-10-15T22:35:55Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
       }
     ],
     "business": [
       {
-        "title": "S&P 500 futures fall ahead of more U.S. economic data; South Korea's Kospi plunges 7%: Live updates - CNBC",
-        "description": "Nasdaq-100 futures fell sharply Thursday as concerns around tech companies overspending on artificial intelligence grew.",
-        "url": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
+        "title": "Tesla’s New Roadster Takes Flight After Nearly a Decade of Delays - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-10-16T10:27:00Z",
+        "image": null
+      },
+      {
+        "title": "AI Agents Bring New Headaches to Online Sellers - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/ai-agents-bring-new-headaches-to-online-sellers-d2dc84b4",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-10-16T09:30:00Z",
+        "image": null
+      },
+      {
+        "title": "Inflation has eaten up nearly all the raises of the past two years - Business Insider",
+        "description": "Inflation-adjusted average hourly earnings have declined to about the level they were at when President Donald Trump took office for his second term.",
+        "url": "https://www.businessinsider.com/paycheck-raise-increase-inflation-prices-president-trump-2026-10#article",
+        "source": "Business Insider",
+        "publishedAt": "2026-10-16T09:00:00Z",
+        "image": "https://i.insider.com/6ad1463b2428f6b455812e63?width=1200&format=jpeg"
+      },
+      {
+        "title": "S&P 500 futures are little changed as index heads for losing week: Live updates - CNBC",
+        "description": "The three major averages are coming off of a winning session on Thursday.",
+        "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-15T10:41:15Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108300019-1777561837792-gettyimages-2273244045-AFP_A9GM7MF.jpeg?v=1777561948&w=1920&h=1080"
+        "publishedAt": "2026-10-16T08:46:00Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108408959-1791988869661-gettyimages-2300173647-mms15433_18qmdbo1.jpeg?v=1791992160&w=1920&h=1080"
       },
       {
-        "title": "Stock Market Today: Tech Selloff to Extend Into Second Day — Live Updates - WSJ",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX2pSZmFBRTNfZ0ZmczFBcXBBRlUxV3RNTkV6ZzJiN2s4UGhod3RwVVZLbWY2YVNqejB1ZE9adDVyTDBXUnFsY3VGTHI3clVCUmlHUzBIcVFYTmt4T3FxMkxkdkd2eTgwZDNQbENLUGNnU3JJU0JnNW1odEF5bTgzemd3RGphTjg?oc=5",
-        "source": "Google News",
-        "publishedAt": "2026-10-15T09:50:00Z",
-        "image": null
-      },
-      {
-        "title": "TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. - Barron's",
-        "description": "Taiwan Semiconductor Manufacturing reported booming profit but the real intrigue comes in its talks with Elon Musk over his Terafab project.",
-        "url": "https://www.barrons.com/articles/tsmc-earnings-stock-price-e352058b",
-        "source": "Barron's",
-        "publishedAt": "2026-10-15T08:47:00Z",
-        "image": "https://images.barrons.com/im-27823108/social"
-      },
-      {
-        "title": "Morning Bid: CoreWeave at the heart of wipeout as AI rout deepens - Reuters",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rbk90WGc1UEtvTDRhdVRZbWRHaExMOENRdE1ScVZ2MkRodXRSQUdpNjAyVERVelNGVzZZd1djLVk0c2tZMng1Ti1Qeks3UTV6R2tNWERzNlp1cnBLUDR0UUlmZndCY0FaZXRiYmFKbG8zYWRPa3I2WXUwQXJOVTg?oc=5",
-        "source": "Google News",
-        "publishedAt": "2026-10-15T04:38:00Z",
-        "image": null
-      },
-      {
-        "title": "Unfortunate News for Micron Stock and Sandisk Stock Investors - The Motley Fool",
-        "description": "The developments highlight the weaker competitive advantages boasted by a few of these semiconductor companies.",
-        "url": "https://www.fool.com/investing/2026/10/14/unfortunate-news-for-micron-stock-and-sandisk-stoc/",
+        "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock. - The Motley Fool",
+        "description": "Bond buyers now want almost 15% to lend to a cloud company the AI chip leader has billions invested in. Should its shareholders worry?",
+        "url": "https://www.fool.com/investing/2026/10/15/lenders-are-getting-nervous-about-coreweave-i-d-still-buy-nvidia-stock/",
         "source": "Motley Fool",
-        "publishedAt": "2026-10-15T03:45:08Z",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891102%2Fimywe38txkxlk.png&w=1200&op=resize"
+        "publishedAt": "2026-10-16T04:46:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7766ceb7d7312b2b4cba9b8c84b947066f404457-2000x1200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize"
       }
     ],
     "sports": [
       {
-        "title": "'We're Playing Like S--t,' Dodgers' Max Muncy Reacts to 3-0 NLCS Deficit vs. Brewers - Bleacher Report",
-        "description": "With the Los Angeles Dodgers down 3-0 to the Milwaukee Brewers in the National League Championship Series, Max Muncy kept his assessment of the matchup straightforward.",
-        "url": "https://bleacherreport.com/articles/25510399-were-playing-s-t-dodgers-max-muncy-reacts-3-0-nlcs-deficit-vs-brewers",
-        "source": "Bleacher Report",
-        "publishedAt": "2026-10-15T04:02:17Z",
-        "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-10/image-(42).png?w=1120&h=630"
+        "title": "Dodgers tip cap to Brewers as title reign ends in NLCS sweep - ESPN",
+        "description": "The Dodgers' quest for a three-peat ended Wednesday night in a 6-4 loss to the Brewers, who defeated them so thoroughly in the NLCS that it left L.A. with little to second-guess.",
+        "url": "https://www.espn.com/mlb/story/_/id/50194595/dodgers-tip-cap-brewers-title-reign-ends-nlcs-sweep",
+        "source": "ESPN",
+        "publishedAt": "2026-10-16T06:58:58Z",
+        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1016%2Fr1731496_1296x729_16%2D9.jpg"
       },
       {
-        "title": "Bauers blast has Brewers on the brink of World Series - Brew Crew Ball",
-        "description": "Epic Bauers at-bat in seventh inning flips script, wins Brewers game three",
-        "url": "https://www.brewcrewball.com/milwaukee-brewers-scores-standings/91521/bauers-blast-has-brewers-on-the-brink-of-world-series",
-        "source": "Brew Crew Ball",
-        "publishedAt": "2026-10-15T03:47:00Z",
-        "image": "https://platform.brewcrewball.com/wp-content/uploads/sites/43/2026/10/gettyimages-2299702982.jpg?quality=90&strip=all&crop=0%2C21.387927815687%2C100%2C78.534031413613&w=1200"
+        "title": "Ryan Fitzpatrick on Bo Nix’s night: “That right there is garbage” - NBC Sports",
+        "description": "Quarterback-turned-analyst repeatedly tees off on Denver QB.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ryan-fitzpatrick-on-bo-nixs-night-that-right-there-is-garbage",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-10-16T04:31:05Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/87bf1e8/2147483647/strip/true/crop/5494x3090+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2F4b%2F435c71a244c89da97cdec1db5686%2F2300441894.jpg"
       },
       {
-        "title": "How the Small-Market Brewers Put the Dodgers' $500M Dynasty on Life Support - Bleacher Report",
-        "description": "Those who would weep for the Los Angeles Dodgers right now are in the minority. They can spend $500 million on a roster all they want, but money like that doesn't buy sympathy when it's on the verge of failure.",
-        "url": "https://bleacherreport.com/articles/25510251-how-small-market-brewers-put-dodgers-500m-dynasty-life-support",
-        "source": "Bleacher Report",
-        "publishedAt": "2026-10-15T03:19:32Z",
-        "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2300264139_large_cropped.jpg?w=1121&h=630"
+        "title": "Thursday Night Football: Broncos beat Seahawks 17-14 in overtime - NBC Sports",
+        "description": "Wil Lutz kicked a 53-yard field goal with 4:53 remaining in overtime after Ja'Quan McMillian's pick of Sam Darnold.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-broncos-beat-seahawks-17-14-in-overtime",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-10-16T04:00:28Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cb828d9/2147483647/strip/true/crop/6228x3503+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2F5b%2F92e47e9e403986766882d866237b%2F2300432198.jpg"
+      },
+      {
+        "title": "Midnight Mania! Talbott And Basharat Beefing After Controversial Cut - MMA Mania",
+        "description": "Payton Talbott is suddenly engaged in a war of words with recently cut UFC Bantamweight Farid Basharat.",
+        "url": "https://www.mmamania.com/ufc-news/479328/farid-basharat-beefs-with-payton-talbott-after-controversial-ufc-release-keep-your-mouth-shut-boy",
+        "source": "MMA Mania",
+        "publishedAt": "2026-10-16T03:59:00Z",
+        "image": "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/10/gettyimages-2298461869.jpg?quality=90&strip=all&crop=0%2C10.730471525823%2C100%2C78.539056948355&w=1200"
       }
     ]
   }
