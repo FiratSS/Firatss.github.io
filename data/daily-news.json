@@ -1,122 +1,130 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "categories": {
     "technology": [
       {
-        "title": "Zelda: Ocarina Of Time Switch 2 \"Replica N64 Box\" Revealed - Nintendo Life",
-        "description": "A bonus available in France",
-        "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed",
-        "source": "Nintendo Life",
-        "publishedAt": "2026-10-16T03:55:00Z",
-        "image": "https://images.nintendolife.com/fa9beb913faba/1280x720.jpg"
+        "title": "What To Do With Your Old Nest Gadgets Since Google Ended Support - BGR",
+        "description": "Wondering what's to be done with your Google Nest gadgets that have now reached their end of support? It turns out there's a few options to choose from.",
+        "url": "https://www.bgr.com/2283131/what-to-do-with-old-google-nest/",
+        "source": "BGR",
+        "publishedAt": "2026-10-17T01:36:10Z",
+        "image": "https://www.bgr.com/img/gallery/what-to-do-with-your-old-nest-gadgets-since-google-ended-support/l-intro-1791669710.jpg"
       },
       {
-        "title": "Oops, Apple's Website Just Hinted at iPad Mini 8 - MacRumors",
-        "description": "Apple has an unreleased iPad mini Smart Folio listed on its French regulatory website, hinting that a new iPad mini is coming. The case's A3632...",
-        "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
+        "title": "Verizon Will Charge $10 a Month for iPhone Handoff - MacRumors",
+        "description": "Verizon plans to charge customers $10 per month for the iPhone Handoff feature that Apple added in iOS 27. iPhone Handoff allows one phone number...",
+        "url": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/",
         "source": "MacRumors",
-        "publishedAt": "2026-10-16T00:27:00Z",
-        "image": "https://images.macrumors.com/t/2345fVS9Wh16988o2qY5zWvHd6Y=/2500x/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg"
+        "publishedAt": "2026-10-16T23:37:39Z",
+        "image": "https://images.macrumors.com/t/jG4b-VKd9y8S2sNqme6nXQKRHkY=/1672x/article-new/2026/09/iPhone-Handoff-Feature.jpeg"
       },
       {
-        "title": "'Consumers Must Have the Right to Own' — A Congressman Is Introducing a Bill to Get Rid of Digital Game Licenses and Give Players Total Ownership - IGN",
-        "description": "Democratic Congressman Ritchie Torres is introducing legislation that aims to ensure you own your digital games, rather than having a license.",
-        "url": "https://www.ign.com/articles/rep-ritchie-torress-introduces-legislation-to-ensure-gamers-own-their-digital-games",
+        "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps - The Verge",
+        "description": "Apple’s App Store rules now more explicitly ban so-called “nudify” apps that generate intimate images of people without their consent using AI tools, including “bait-and-switch” apps with “nudification” features.",
+        "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "source": "The Verge",
+        "publishedAt": "2026-10-16T22:51:22Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      },
+      {
+        "title": "Man's Clever Trick After Realizing His Job Interviewer Was AI Sparks Fears For Humanity's Future - Bored Panda",
+        "description": "As more and more companies replace their interviewers with AI, a frustrated comedian went viral by bringing his own “AI representative” to the meeting.",
+        "url": "https://www.boredpanda.com/mans-clever-trick-after-realizing-job-interview-was-ai-goes-viral/",
+        "source": "Boredpanda.com",
+        "publishedAt": "2026-10-16T22:39:24Z",
+        "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/fb_image_6ad2a30822ebe.png"
+      },
+      {
+        "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns - IGN",
+        "description": "Professional Super Smash Bros. player Jason ‘Mew2King’ Zimmerman has been banned from a competitive tournament after posting photos of his concerning skin condition and complaining of a bug infestation in his home.",
+        "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
         "source": "IGN",
-        "publishedAt": "2026-10-15T23:21:09Z",
-        "image": "https://assets-prd.ignimgs.com/2026/07/31/gettyimages-2186493403-1785487186283.jpg?width=1280&format=jpg&auto=webp&quality=80"
-      },
-      {
-        "title": "ChatGPT can peek at your Chrome tabs now - The Verge",
-        "description": "The ChatGPT Chrome extension has added more features to use information from your open browser tabs, and bring chat or Work to the page you’re viewing in a sidebar.",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-        "source": "The Verge",
-        "publishedAt": "2026-10-15T22:43:23Z",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200"
-      },
-      {
-        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch - The Verge",
-        "description": "Sega is removing Total War: Shogun 2 — Complete Edition from storefronts after users complained about bugs and ugly upscaling seemingly done by AI.",
-        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-        "source": "The Verge",
-        "publishedAt": "2026-10-15T22:35:55Z",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+        "publishedAt": "2026-10-16T21:54:10Z",
+        "image": "https://assets-prd.ignimgs.com/2026/10/16/smash-bros-player-banned-from-tournament-bug-bites-1792187389080.jpg?width=1280&format=jpg&auto=webp&quality=80"
       }
     ],
     "business": [
       {
-        "title": "Tesla’s New Roadster Takes Flight After Nearly a Decade of Delays - WSJ",
+        "title": "Trump administration sues San Diego company for alleged massive ticket scalping scheme - San Diego Union-Tribune",
         "description": null,
-        "url": "https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-10-16T10:27:00Z",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU2NmOFlXRjJDcFhVVG5xQ3p1eV9XWVJhTGo4SzNCYlE1RXFiWDhfT1lNSGl5V1pNdGxwZmYtYXJkMVhrRWltQ3FLTzhERVJOS1Y2ZHQyTlJidUR5VjR5cFItWlc3UXltSURCNExBVmVORGpWbm5CMHh0SldGSS1VeldweHB6U0Z0dnFVSlJ3VHU4d3E2SmJ2VDJjXzRFLWs4WGEzM3dmRG1HRktVLUhuVnNCc2FRZG1peFlKdW93MVdleE0xaEhoaFlZdGRVUjNI?oc=5",
+        "source": "Google News",
+        "publishedAt": "2026-10-17T00:31:28Z",
         "image": null
       },
       {
-        "title": "AI Agents Bring New Headaches to Online Sellers - WSJ",
+        "title": "Warren Buffett’s Berkshire invests $330M in Bending Spoons - TheStreet",
         "description": null,
-        "url": "https://www.wsj.com/business/ai-agents-bring-new-headaches-to-online-sellers-d2dc84b4",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-10-16T09:30:00Z",
+        "url": "https://www.thestreet.com/investing/stocks/berkshire-hathaway-invests-330-million-bending-spoons-bsp",
+        "source": "TheStreet",
+        "publishedAt": "2026-10-16T23:33:00Z",
         "image": null
       },
       {
-        "title": "Inflation has eaten up nearly all the raises of the past two years - Business Insider",
-        "description": "Inflation-adjusted average hourly earnings have declined to about the level they were at when President Donald Trump took office for his second term.",
-        "url": "https://www.businessinsider.com/paycheck-raise-increase-inflation-prices-president-trump-2026-10#article",
-        "source": "Business Insider",
-        "publishedAt": "2026-10-16T09:00:00Z",
-        "image": "https://i.insider.com/6ad1463b2428f6b455812e63?width=1200&format=jpeg"
+        "title": "The Hiring of Peter Rice at Netflix Could Set the Stage for a Corporate Culture Clash About the Future of Movies - Variety",
+        "description": "The hiring of Peter Rice at Netflix could set up a corporate culture clash about the future of movies.",
+        "url": "https://variety.com/2026/film/columns/peter-rice-hired-by-netflix-ted-sarandos-1236914367/",
+        "source": "Variety",
+        "publishedAt": "2026-10-16T23:18:00Z",
+        "image": "https://variety.com/wp-content/uploads/2026/10/split-2-split-1000x667-1-9.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563"
       },
       {
-        "title": "S&P 500 futures are little changed as index heads for losing week: Live updates - CNBC",
-        "description": "The three major averages are coming off of a winning session on Thursday.",
-        "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-16T08:46:00Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108408959-1791988869661-gettyimages-2300173647-mms15433_18qmdbo1.jpeg?v=1791992160&w=1920&h=1080"
+        "title": "After Muse Launch, U.S. Banks Are Saying Hell No to AI Agents Moving Money - Gizmodo",
+        "description": "Fortunately, Charles Schwab CEO Rick Wurster says only a relative handful of dummies are trying to.",
+        "url": "https://gizmodo.com/after-muse-launch-u-s-banks-are-saying-hell-no-to-ai-agents-moving-money-2000827221",
+        "source": "Gizmodo.com",
+        "publishedAt": "2026-10-16T23:15:00Z",
+        "image": "https://gizmodo.com/app/uploads/2026/10/FrowningMuse-1200x675.jpg"
       },
       {
-        "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock. - The Motley Fool",
-        "description": "Bond buyers now want almost 15% to lend to a cloud company the AI chip leader has billions invested in. Should its shareholders worry?",
-        "url": "https://www.fool.com/investing/2026/10/15/lenders-are-getting-nervous-about-coreweave-i-d-still-buy-nvidia-stock/",
-        "source": "Motley Fool",
-        "publishedAt": "2026-10-16T04:46:00Z",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7766ceb7d7312b2b4cba9b8c84b947066f404457-2000x1200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize"
+        "title": "China warns EU not to ‘fantasise’ on trade approach after ‘kill switch’ threat - South China Morning Post",
+        "description": "Latest flare-up suggests danger of trade war between two of the world’s three biggest economies has far from de-escalated.",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3371217/china-warns-eu-not-fantasise-trade-approach-brussels-confirms-new-kill-switch",
+        "source": "Post Magazine",
+        "publishedAt": "2026-10-16T22:30:02Z",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/17/c494c041-c75f-4d37-8ff4-60a50db17650_7fc63a2d.jpg?itok=geHflXXu&v=1792192586"
       }
     ],
     "sports": [
       {
-        "title": "Dodgers tip cap to Brewers as title reign ends in NLCS sweep - ESPN",
-        "description": "The Dodgers' quest for a three-peat ended Wednesday night in a 6-4 loss to the Brewers, who defeated them so thoroughly in the NLCS that it left L.A. with little to second-guess.",
-        "url": "https://www.espn.com/mlb/story/_/id/50194595/dodgers-tip-cap-brewers-title-reign-ends-nlcs-sweep",
-        "source": "ESPN",
-        "publishedAt": "2026-10-16T06:58:58Z",
-        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1016%2Fr1731496_1296x729_16%2D9.jpg"
+        "title": "Oregon likely to start Brock Thomas over Dylan Raiola against Nebraska in Dante Moore's absence - 247Sports",
+        "description": "Oregon is expected to make a change at quarterback ahead of a latenight matchup against Nebraska",
+        "url": "https://247sports.com/article/oregon-likely-to-start-brock-thomas-over-dylan-raiola-against-nebraska-in-dante-moores-absence--291335435/",
+        "source": "247Sports",
+        "publishedAt": "2026-10-17T07:30:00Z",
+        "image": "https://s3media.247sports.com/Uploads/Assets/988/529/14529988.jpg?width=1200&height=628&crop=1.91:1&fit=cover"
       },
       {
-        "title": "Ryan Fitzpatrick on Bo Nix’s night: “That right there is garbage” - NBC Sports",
-        "description": "Quarterback-turned-analyst repeatedly tees off on Denver QB.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ryan-fitzpatrick-on-bo-nixs-night-that-right-there-is-garbage",
+        "title": "PFL Chicago Results: Jena Bishop stuns Liz Carmouche to win PFL flyweight championship - MMA Fighting",
+        "description": "",
+        "url": "https://www.mmafighting.com/pfl/516090/pfl-chicago-results-jena-bishop-stuns-liz-carmouche-to-win-pfl-flyweight-championship",
+        "source": "MMA Fighting",
+        "publishedAt": "2026-10-17T05:37:00Z",
+        "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/Screenshot-2026-10-17-at-1.35.26-AM.png?quality=90&strip=all&crop=0,16.297136316425,100,67.405727367149"
+      },
+      {
+        "title": "3 takeaways from BYU’s exhibition win over Nebraska - Deseret News",
+        "description": "",
+        "url": "https://www.deseret.com/sports/2026/10/16/byu-basketball-defeats-nebraska-exhibition-3-takeaways/",
+        "source": "Deseret News",
+        "publishedAt": "2026-10-17T03:38:00Z",
+        "image": "https://www.deseret.com/resizer/v2/XEA3ZUIWSJC6LPML5CIHQFWAIQ.JPG?focal=0%2C0&auth=31ed772c1643f2f45d4b69f6eb3253dcedef6afe4f8deee95e125a0f8a4d2b95&width=630&height=331"
+      },
+      {
+        "title": "Video: Michael Beasley knocks out Delonte West at Brand Risk 16 - MMA Fighting",
+        "description": "Delonte West got knocked out by Michael Beasley at Brand Risk 16",
+        "url": "https://www.mmafighting.com/boxing/516071/video-michael-beasley-knocks-out-delonte-west-at-brand-risk-16",
+        "source": "MMA Fighting",
+        "publishedAt": "2026-10-17T03:16:00Z",
+        "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/Screenshot-2026-10-16-at-11.13.52-PM.png?quality=90&strip=all&crop=0,2.2288283491585,100,95.542343301683"
+      },
+      {
+        "title": "19.8 million watched Bills-Rams on Monday night - NBC Sports",
+        "description": "The Monday night instant classic between the Bills and the Rams nevertheless failed to crack the 20 million viewer threshold on the various Disney networks.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/19-8-million-watched-bills-rams-on-monday-night",
         "source": "NBCSports.com",
-        "publishedAt": "2026-10-16T04:31:05Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/87bf1e8/2147483647/strip/true/crop/5494x3090+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2F4b%2F435c71a244c89da97cdec1db5686%2F2300441894.jpg"
-      },
-      {
-        "title": "Thursday Night Football: Broncos beat Seahawks 17-14 in overtime - NBC Sports",
-        "description": "Wil Lutz kicked a 53-yard field goal with 4:53 remaining in overtime after Ja'Quan McMillian's pick of Sam Darnold.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-broncos-beat-seahawks-17-14-in-overtime",
-        "source": "NBCSports.com",
-        "publishedAt": "2026-10-16T04:00:28Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cb828d9/2147483647/strip/true/crop/6228x3503+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2F5b%2F92e47e9e403986766882d866237b%2F2300432198.jpg"
-      },
-      {
-        "title": "Midnight Mania! Talbott And Basharat Beefing After Controversial Cut - MMA Mania",
-        "description": "Payton Talbott is suddenly engaged in a war of words with recently cut UFC Bantamweight Farid Basharat.",
-        "url": "https://www.mmamania.com/ufc-news/479328/farid-basharat-beefs-with-payton-talbott-after-controversial-ufc-release-keep-your-mouth-shut-boy",
-        "source": "MMA Mania",
-        "publishedAt": "2026-10-16T03:59:00Z",
-        "image": "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/10/gettyimages-2298461869.jpg?quality=90&strip=all&crop=0%2C10.730471525823%2C100%2C78.539056948355&w=1200"
+        "publishedAt": "2026-10-17T03:02:49Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/90b544a/2147483647/strip/true/crop/6427x3615+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2F61%2F6d7806174c6e8f3e30890b293864%2F2300268901.jpg"
       }
     ]
   }
