@@ -1,130 +1,122 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "categories": {
     "technology": [
       {
-        "title": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development - Nintendo Life",
-        "description": "Capcom confirms",
-        "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
-        "source": "Nintendo Life",
-        "publishedAt": "2026-10-18T03:05:00Z",
-        "image": "https://images.nintendolife.com/567b8097e717a/1280x720.jpg"
-      },
-      {
-        "title": "Amazon has a 2-in-1 laptop and tablet for $87 that comes with a 7-piece accessories bundle - TheStreet",
-        "description": null,
-        "url": "https://www.thestreet.com/deals/relndoo-android-16-2-in-1-laptop-and-tablet-amazon-sale-october-2026",
-        "source": "TheStreet",
-        "publishedAt": "2026-10-18T02:30:00Z",
-        "image": null
-      },
-      {
-        "title": "NYT Strands hints, answers for October 17, 2026 - Mashable",
-        "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle.",
-        "url": "https://mashable.com/entertainment/strands-nyt-hint-october-17-2026",
+        "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full - Mashable",
+        "description": "Only about a month until the game is out.",
+        "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-lucia-leaked-gameplay-videos",
         "source": "Mashable",
-        "publishedAt": "2026-10-18T02:07:47Z",
-        "image": "https://helios-i.mashable.com/imagery/articles/02ZD0zMWRadGBqCFVmvXJ6A/hero-image.fill.size_1200x675.v1792098298.jpg"
+        "publishedAt": "2026-10-19T10:12:20Z",
+        "image": "https://helios-i.mashable.com/imagery/articles/03sZ0A4BYrf77U0A6HR6KhF/hero-image.fill.size_1200x675.v1791815910.jpg"
       },
       {
-        "title": "Every Major USB-C Cable Brand Ranked Worst To Best - SlashGear",
-        "description": "All of these USB-C cable brands are worth buying, but because the devil is in the details, some brands have managed to separate themselves from the pack.",
-        "url": "https://www.slashgear.com/2286694/every-major-usb-c-cable-brand-ranked-worst-best/",
-        "source": "SlashGear",
-        "publishedAt": "2026-10-18T01:55:08Z",
-        "image": "https://www.slashgear.com/img/gallery/every-major-usb-c-cable-brand-ranked-worst-to-best/l-intro-1791995351.jpg"
+        "title": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history - Eurogamer.net",
+        "description": "Modern Warfare 4 may signal Call of Duty's return to form, at least judging by player sentiment on Steam so far.",
+        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
+        "source": "Eurogamer.net",
+        "publishedAt": "2026-10-19T08:36:43Z",
+        "image": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-crop-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
       },
       {
-        "title": "Three Important MacBook Pro Touch Release Dates - Forbes",
-        "description": null,
-        "url": "https://www.forbes.com/sites/ewanspence/2026/10/17/apple-macbook-pro-touchscreen-oled-macos-touch-release-date-launch-pre-orders/",
-        "source": "Forbes",
-        "publishedAt": "2026-10-18T00:44:26Z",
-        "image": null
+        "title": "What Is The Most Affordable Gaming Console In 2026? - BGR",
+        "description": "On paper, Nintendo ties Xbox for the cheapest console to date, but it also has the weakest hardware, and owning one of its systems comes with hidden costs.",
+        "url": "https://www.bgr.com/2287528/most-affordable-gaming-console-2026/",
+        "source": "BGR",
+        "publishedAt": "2026-10-19T04:17:00Z",
+        "image": "https://www.bgr.com/img/gallery/what-is-the-most-affordable-gaming-console-in-2026/l-intro-1792072426.jpg"
+      },
+      {
+        "title": "3 Essential Tools Every PC Gamer Should Install - BGR",
+        "description": "You have a lot of tools available to you to maintain and monitor your PC, but these three, in particular, are must-haves for any gamer.",
+        "url": "https://www.bgr.com/2286870/essential-tools-every-pc-gamer-should-install/",
+        "source": "BGR",
+        "publishedAt": "2026-10-19T01:17:00Z",
+        "image": "https://www.bgr.com/img/gallery/3-essential-tools-every-pc-gamer-should-install/l-intro-1792001568.jpg"
+      },
+      {
+        "title": "Epic Games shifts to automation-first development: Tim Sweeney sees a “golden age of gaming” - Softonic",
+        "description": "Epic Games is moving teams toward automation-first development. Tim Sweeney says generative tools could speed up production, lower costs, and open what he calls a “golden age of gaming.” Epic Games Download He says coding assistants now measure up ag",
+        "url": "https://en.softonic.com/articles/epic-games-shifts-to-automation-first-development-tim-sweeney-sees-a-golden-age-of-gaming",
+        "source": "Softonic",
+        "publishedAt": "2026-10-19T00:48:05Z",
+        "image": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2026/10/epic-games-shifts-to-automation-first-development-tim-sweene-20261018.jpg"
       }
     ],
     "business": [
       {
-        "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - AP News",
-        "description": "U.S. consumers are uneasy about the increasingly high-tech ways that restaurant chains and major retailers are setting prices. Digital price tags are replacing paper ones in grocery aisles. Artificial intelligence tools help businesses decide what to charge b…",
-        "url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
-        "source": "Associated Press",
-        "publishedAt": "2026-10-18T07:07:00Z",
-        "image": "https://dims.apnews.com/dims4/default/e71fe4e/2147483647/strip/true/crop/6932x4621+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F1e%2Ff8c7b5894619d953002b48a259e4%2Fc007ed5553a8466fbb584dd75245a313"
+        "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments - CNBC",
+        "description": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+        "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-19T10:00:01Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/106310265-1577120438176gettyimages-488164285.jpeg?v=1765554150&w=1920&h=1080"
       },
       {
-        "title": "The AI bubble is about to burst — and a big market correction is coming - New York Post",
-        "description": "On Jan. 1, 2000, the world got a reprieve from a much-hyped technological Armageddon when it turned out the Y2K crisis wasn’t a crisis after all.",
-        "url": "https://nypost.com/2026/10/17/business/the-ai-bubble-is-about-to-burst-much-like-the-infamous-dot-com-crash/",
-        "source": "New York Post",
-        "publishedAt": "2026-10-18T00:21:00Z",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/EDEOL23.jpg?quality=75&strip=all&w=1200"
-      },
-      {
-        "title": "'France, truly, is on the brink' and days away from a make-or-break moment in its debt crisis - Fortune",
-        "description": "\"France could be forced to seek assistance from the International Monetary Fund and to pray for it from the European Central Bank — a humiliation for the world’s seventh-biggest economy.\"",
-        "url": "https://fortune.com/2026/10/17/france-debt-crisis-budget-deficit-bond-yields-spread-protests-riots/",
-        "source": "Fortune",
-        "publishedAt": "2026-10-17T23:28:00Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300080884-e1792273156275.jpg?resize=1200,600"
-      },
-      {
-        "title": "Twin Cities sports bar, credit union allegedly discriminated against customers by refusing tribal IDs - Bring Me The News",
+        "title": "French Government-Bond Yields Rise on Protests, Budget Concerns; Treasury Yields Fall - WSJ",
         "description": null,
-        "url": "https://bringmethenews.com/minnesota-business/twin-cities-sports-bar-credit-union-allegedly-discriminated-against-customers-by-refusing-tribal-ids",
-        "source": "Bring Me The News",
-        "publishedAt": "2026-10-17T23:01:34Z",
+        "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-in-asian-trade-e5171539",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-10-19T09:21:00Z",
         "image": null
       },
       {
-        "title": "Joe Redner, Tampa’s ‘strip club king,’ dies at 86 - Tampa Bay Times",
-        "description": "A towering figure in Tampa history, Redner was a legal scholar, political provocateur, medical marijuana advocate and so much more.",
-        "url": "https://www.tampabay.com/news/tampa/2026/10/17/joe-redner-dies-obituary-strip-club-king/",
-        "source": "Tampa Bay Times",
-        "publishedAt": "2026-10-17T22:33:48Z",
-        "image": "https://www.tampabay.com/resizer/v2/PNS4WB6EBVBLNIJZ6SSKUNYE4E.JPG?auth=ba86f83e45e848c822a3b6b4295cb36d9801d0f148aceee324da505b8cc29787&height=675&width=1200&smart=true"
+        "title": "AI agents are only as good as the personal information you share. That raises privacy concerns - AP News",
+        "description": "Downloads of new artificial intelligence agents — like Meta's Muse and OpenAI's dots — are booming. Many have quickly welcomed AI agents into much of their online lives, and raved about the ways they can take care of everyday tasks with ease from snagging a d…",
+        "url": "https://apnews.com/article/meta-muse-openai-dot-ai-privacy-449734d41d3750aad7038b761faa49c9",
+        "source": "Associated Press",
+        "publishedAt": "2026-10-19T09:20:58Z",
+        "image": "https://dims.apnews.com/dims4/default/df5bbe2/2147483647/strip/true/crop/5121x3414+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2F88%2F85d226562163e21104ad3d896e44%2F16df45a0d7844b48964e67eb130c4875"
+      },
+      {
+        "title": "Elon Musk says he is going to give SpaceX stock away to kids - Yahoo Finance",
+        "description": "Kids getting a share of the Muskverse.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-says-he-is-going-to-give-spacex-stock-away-to-kids-090305874.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-10-19T09:03:05Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/fa1c5af5a1841e8078e0f6790da271c19e133f54f134f1b0b96d243973e522ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fcb539bcd-2c5e-4306-8d73-5ce28232da39"
       }
     ],
     "sports": [
       {
-        "title": "Match Awards from Bayern Munich’s 6-1 stampede over RB Leipzig - Bavarian Football Works",
-        "description": "FC Bayern steamrolled Leipzig to get back to winning ways.",
-        "url": "https://www.bavarianfootballworks.com/bayern-munich-match-awards/269371/match-awards-player-ratings-bayern-munich-vs-rb-leipzig-kimmich-diaz-kane-upamecano-bundesliga",
-        "source": "Bavarian Football Works",
-        "publishedAt": "2026-10-18T06:30:00Z",
-        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/10/gettyimages-2300680210.jpg?quality=90&strip=all&crop=0%2C12.480126260126%2C100%2C75.039747479748&w=1200"
+        "title": "Arch Manning is a Texas problem, and Steve Sarkisian is last to see it - USA Today",
+        "description": "Steve Sarkisian finally sees it: Texas may need to move on from Arch Manning.",
+        "url": "https://www.usatoday.com/story/sports/ncaaf/2026/10/18/texas-football-bench-arch-manning-steve-sarkisian-hot-seat/92218015007/",
+        "source": "USA Today",
+        "publishedAt": "2026-10-19T10:16:00Z",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/18/USAT/92318462007-20261017-t-160353-z-1989369700-mt-1-usatoday-30109397-rtrmadp-3-ncaafootballfloridaattexas.JPG?crop=6817,3835,x0,y0&width=3200&height=1801&format=pjpg&auto=webp"
       },
       {
-        "title": "College football scores, results: Auburn upsets Georgia, Florida takes down Texas, BYU knocks off Notre Dame during wild Week 7 - Yahoo Sports",
-        "description": "Week 7 looked as though it was the biggest weekend of the 2026 college football season beforehand and, boy, did it deliver.",
-        "url": "https://sports.yahoo.com/college-football/live/college-football-scores-results-auburn-upsets-georgia-florida-topples-texas-byu-knocks-off-notre-dame-during-wild-week-7-061711015.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-10-18T06:14:00Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/322997c9e05fd221c4391fb7b043c18eceaa778d9490ab93349122a93ca94f6d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Ffd9a44b5-fdbf-4ca8-9ce0-3da979d739b2"
+        "title": "Capaccio: Arrow Up/ Arrow Down: Bills at Raiders - Audacy",
+        "description": "| WGR Sports Radio Buffalo",
+        "url": "https://www.audacy.com/wgr550/sports/bills/capaccio-arrow-up-arrow-down-bills-at-raiders",
+        "source": "Audacy.com",
+        "publishedAt": "2026-10-19T05:48:00Z",
+        "image": "https://www.audacy.com/media-library/buffalo-bills-v-las-vegas-raiders.jpg?id=68468187&width=1200&height=600&coordinates=0%2C85%2C0%2C86"
       },
       {
-        "title": "Projecting the College Football Playoff top 12 at midseason - ESPN",
-        "description": "We assess how the selection committee could stack the top teams in the country at midseason.",
-        "url": "https://www.espn.com/college-football/story/_/id/50204253/projecting-2026-playoff-top-12-week-7-cfp",
+        "title": "Gerry Dulac’s 2026 NFL predictions: Week 6 - Pittsburgh Post-Gazette",
+        "description": "False",
+        "url": "https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-picks-week-6/stories/202610150037",
+        "source": "Pittsburgh Post-Gazette",
+        "publishedAt": "2026-10-19T05:43:17Z",
+        "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202610150037/1140x_a10-7_cTC/49ers-Seahawks-Football-16_1792310441.jpg"
+      },
+      {
+        "title": "Thanks to familiar miscues, the Dallas Cowboys are off to their worst start in years - NBC News",
+        "description": "The Dallas Cowboys can’t run the ball or stop opposing offenses. Its resulted in their worst record through six games since 2020.",
+        "url": "https://www.nbcnews.com/sports/nfl/dallas-cowboys-nfl-green-bay-packers-dak-prescott-results-rcna604280",
+        "source": "NBC News",
+        "publishedAt": "2026-10-19T05:22:00Z",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261018-cowboys-813-GWR-76b9e3.jpg"
+      },
+      {
+        "title": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games - ESPN",
+        "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+        "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026",
         "source": "ESPN",
-        "publishedAt": "2026-10-18T06:08:00Z",
-        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1017%2Fr1732189_1296x729_16%2D9.jpg"
-      },
-      {
-        "title": "Watch Sebastian Fundora Get Last-Second KO to Beat Ermal Hadribeaj in Trending Videos - Bleacher Report",
-        "description": "Sebastian Fundora secured a last-second knockout victory over Ermal Hadribeaj in the 12th round of their fight at The Chelsea at The Cosmopolitan of Las Vegas on Saturday night.",
-        "url": "https://bleacherreport.com/articles/25512582-watch-sebastian-fundora-get-last-second-ko-beat-ermal-hadribeaj-trending-videos",
-        "source": "Bleacher Report",
-        "publishedAt": "2026-10-18T04:44:40Z",
-        "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2300747889_large_cropped.jpg?w=1120&h=630"
-      },
-      {
-        "title": "Tomorrow's Top 25 Today: BYU to No. 1? Cougars make strong case after milestone win over Notre Dame - CBS Sports",
-        "description": "A day of ranked-on-ranked games plus some surprise upsets leave AP voters with plenty of changes to make in the college football rankings",
-        "url": "https://www.cbssports.com/college-football/news/college-football-rankings-tomorrows-top-25-ap-poll-byu-no-1/",
-        "source": "CBS Sports",
-        "publishedAt": "2026-10-18T03:56:00Z",
-        "image": "https://sportshub.cbsistatic.com/i/r/2026/10/18/3e62adc5-5365-4f4b-9682-df2ef8ed973d/thumbnail/1200x675/7ac94b74e7ce7b67c8b7179d6651d8f9/byu-rankingw.png"
+        "publishedAt": "2026-10-19T04:46:00Z",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1018%2Fr1732703_1296x729_16%2D9.jpg"
       }
     ]
   }
