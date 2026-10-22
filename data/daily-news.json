@@ -1,114 +1,130 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "categories": {
     "technology": [
       {
-        "title": "5 Cheaper OLED TVs To Buy Instead Of The Samsung S95H - BGR",
-        "description": "While the Samsung S95H is an excellent OLED TV, it can get pricey, depending on the size you pick. Here are some affordable alternatives from other brands.",
-        "url": "https://www.bgr.com/2288568/samsung-s95h-oled-tv-cheaper-alternatives/",
+        "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert - The Hacker News",
+        "description": "PHP2Shell involves two critical PHP RCE flaws rated CVSS 9.2, with emergency fixes scheduled following a disclosure leak.",
+        "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+        "source": "Internet",
+        "publishedAt": "2026-10-21T04:57:00Z",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg"
+      },
+      {
+        "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed - Nintendo Life",
+        "description": "Update: File size spotted on download card",
+        "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
+        "source": "Nintendo Life",
+        "publishedAt": "2026-10-21T04:32:42Z",
+        "image": "https://images.nintendolife.com/3cae3dc49f114/1280x720.jpg"
+      },
+      {
+        "title": "Samsung Galaxy Z Flip 8 Review: Iteration Overshadowed By Innovation - BGR",
+        "description": "Samsung's Galaxy Z Flip 8 might be the best clamshell foldable smartphone on the market for the money, but it's just not much of an upgrade over the Z Flip 7.",
+        "url": "https://www.bgr.com/2292418/galaxy-z-flip-8-review/",
         "source": "BGR",
-        "publishedAt": "2026-10-20T03:28:45Z",
-        "image": "https://www.bgr.com/img/gallery/5-cheaper-oled-tvs-to-buy-instead-of-the-samsung-s95h/l-intro-1792143172.jpg"
+        "publishedAt": "2026-10-21T01:00:00Z",
+        "image": "https://www.bgr.com/img/gallery/samsung-galaxy-z-flip-8-review-iteration-overshadowed-by-innovation/l-intro-1792534467.jpg"
       },
       {
-        "title": "5 Apple TV Features Every Family Should Be Using - BGR",
-        "description": "Apple TV has a number  of surprising features that you may not be aware of, but you should definitely consider using them to make your life easier.",
-        "url": "https://www.bgr.com/2287579/apple-tv-features-every-family-should-be-using/",
-        "source": "BGR",
-        "publishedAt": "2026-10-19T23:47:00Z",
-        "image": "https://www.bgr.com/img/gallery/5-apple-tv-features-every-family-should-be-using/l-intro-1792074749.jpg"
+        "title": "First iPhone Duo Unboxing Video Appears Ahead of Friday Launch - MacRumors",
+        "description": "With just a couple of days to go until the iPhone Duo launches, the first unboxing video has surfaced online from someone who managed to get a device...",
+        "url": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/",
+        "source": "MacRumors",
+        "publishedAt": "2026-10-20T23:31:13Z",
+        "image": "https://images.macrumors.com/t/CyGdNbVv8jZwO-HTOZrHs9IFbWY=/1886x/article-new/2026/10/iPhone-Duo-Hinge-Feature-3.jpg"
       },
       {
-        "title": "Smart TV owners have found a new use for AI: Removing home-screen clutter - Mashable",
-        "description": "Some TV owners are asking Claude Code to clear out the junk so they can just watch their shows.",
-        "url": "https://mashable.com/tech/smart-tv-ads-claude-code-ai-cleanup",
-        "source": "Mashable",
-        "publishedAt": "2026-10-19T23:03:56Z",
-        "image": "https://helios-i.mashable.com/imagery/articles/025cv7tAoEhRR4j8vCxOaLH/hero-image.fill.size_1200x675.v1792435214.jpg"
-      },
-      {
-        "title": "Stupid Never Dies Is Easily the Worst Game of 2026 - Polygon.com",
-        "description": "Stupid Never Dies stumbles through its 30-hour runtime thanks to sluggish action and a rotten story.",
-        "url": "https://www.polygon.com/stupid-never-dies-review/",
-        "source": "Polygon",
-        "publishedAt": "2026-10-19T22:00:17Z",
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/stupid-never-dies-golem-fight.png?w=1600&h=900&fit=crop"
-      },
-      {
-        "title": "Four AI Agents Have Slain Minecraft’s Ender Dragon - Gizmodo",
-        "description": "\"To our knowledge, this is the first end-to-end autonomous completion of Minecraft by AI agents.\"",
-        "url": "https://gizmodo.com/four-ai-agents-have-slain-minecrafts-ender-dragon-2000827679",
-        "source": "Gizmodo.com",
-        "publishedAt": "2026-10-19T21:15:13Z",
-        "image": "https://gizmodo.com/app/uploads/2026/10/ender-dragon-1200x675.jpg"
+        "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami - IGN",
+        "description": "Eagle-eyed Rockstar fans have noticed camera crews recording convoys of flashy GTA-themed cars in Miami, creating speculation over a new live-action trailer.",
+        "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
+        "source": "IGN",
+        "publishedAt": "2026-10-20T22:48:38Z",
+        "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&format=jpg&auto=webp&quality=80"
       }
     ],
     "business": [
       {
-        "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects - CNBC",
-        "description": "GM's 2025 third-quarter results included $48.59 billion in revenue, net income attributable to stockholders of $1.3 billion and adjusted EPS of $2.80.",
-        "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+        "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates - CNBC",
+        "description": "This earnings season could help propel stocks as the year winds down, said Christian Mueller-Glissmann, head of asset allocation for Goldman Sachs Research.",
+        "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-20T04:01:01Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108251655-1768310306409-gettyimages-2255454909-GM_BARRA.jpeg?v=1769119297&w=1920&h=1080"
+        "publishedAt": "2026-10-21T07:55:45Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108437793-1792509114099-Traders-Photo-20261019-KK-016.jpg?v=1792509208&w=1920&h=1080"
       },
       {
-        "title": "Nearly 1.6M pounds of hot dogs, bacon and other meats recalled nationwide - Fox Business",
-        "description": "Kayem Foods recalled nearly 1.6 million pounds of meat items such as hot dogs, bacon, brisket and ham after a warehouse cooler experienced temperature deviations.",
-        "url": "https://www.foxbusiness.com/economy/nearly-1-6m-pounds-hot-dogs-bacon-other-meats-recalled-nationwide",
-        "source": "Fox Business",
-        "publishedAt": "2026-10-20T01:37:00Z",
-        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/hot-dog.jpg?ve=1&tl=1"
+        "title": "UK inflation jumps to 3.5% — cementing rate hike expectations - CNBC",
+        "description": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+        "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-21T06:02:59Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108243682-17660765522025-12-18t164547z_2096923420_rc23jiae5pf5_rtrmadp_0_britain-boe.jpeg?v=1766076616&w=1920&h=1080"
       },
       {
-        "title": "The world’s finance chiefs see new risks — and less China angst - CNBC",
-        "description": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-        "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-20T00:33:00Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108430921-1792381620758-gettyimages-2299896463-AA_16102026_2996185.jpeg?v=1792381800&w=1920&h=1080"
+        "title": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers - Investing.com",
+        "description": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers",
+        "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-spacex-super-micro-results-lift-chipmakers-4961529",
+        "source": "Investing.com",
+        "publishedAt": "2026-10-21T03:50:51Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEA9Q076_L.jpg"
+      },
+      {
+        "title": "PHP warns it plans to release 2 emergency patches imminently - Ars Technica",
+        "description": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+        "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+        "source": "Ars Technica",
+        "publishedAt": "2026-10-21T02:12:18Z",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
+      },
+      {
+        "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-10-21T02:00:00Z",
+        "image": null
       }
     ],
     "sports": [
       {
-        "title": "Fantasy Football Waiver Wire Advice: Players to Add, Stash & Drop (Week 7) - FantasyPros",
-        "description": "Do you know what&#8217;s great about fantasy football? That J.J. McCarthy can be a punchline one week and an intriguing waiver addition the next. We are nothing as a people and a culture if not for redemption stories. Young players &#8230;  read more &raquo;",
-        "url": "https://www.fantasypros.com/2026/10/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-7-2026/",
-        "source": "FantasyPros",
-        "publishedAt": "2026-10-20T03:52:32Z",
-        "image": "https://cdn.fantasypros.com/wp-content/images/roschon_johnson_bears_9-1/1470x650.jpg"
+        "title": "Colts To Contact Peyton Manning About GM Job? - ProFootballRumors.com",
+        "description": "The Colts are reportedly interested in discussing their GM job with franchise icon Peyton Manning. Read more at Pro Football Rumors.",
+        "url": "https://www.profootballrumors.com/2026/10/colts-to-contact-peyton-manning-about-gm-job",
+        "source": "profootballrumors.com",
+        "publishedAt": "2026-10-21T05:05:00Z",
+        "image": "https://cdn.profootballrumors.com/files/2026/10/2026-03-11T191330Z_237491300_MT1USATODAY28463954_RTRMADP_3_NFL-SUPER-BOWL-LX-SEATTLE-SEAHAWKS-AT-NEW-ENGLAND-PATRIOTS-1024x739.jpg"
       },
       {
-        "title": "What’s next for Dan Quinn? - NBC Sports",
-        "description": "At the end of the first half of Monday night's game, with the Commanders down 20-3 and coach Dan Quinn going viral based on a lip-reading clip that was being widely interpreted as him not realizing it was fourth down (after a failed fourth-down play), it look…",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/whats-next-for-dan-quinn",
-        "source": "NBCSports.com",
-        "publishedAt": "2026-10-20T03:35:53Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a803d6/2147483647/strip/true/crop/5924x3332+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2Ffa%2Fd8274c4e40bc97fa9cf02b679ba7%2F2300555315.jpg"
+        "title": "Wemby, Fox Involved in Spurs-Thunder Fight in Video, 4 Technicals and 1 Flagrant Foul Assessed - Bleacher Report",
+        "description": "The San Antonio Spurs and Oklahoma City Thunder have quickly become one of the biggest rivalries in the NBA, and it didn't take long for things to get chippy between the two sides on Tuesday.",
+        "url": "https://bleacherreport.com/articles/25513946-wemby-fox-involved-spurs-thunder-fight-video-4-technicals-and-1-flagrant-foul-assessed",
+        "source": "Bleacher Report",
+        "publishedAt": "2026-10-21T04:10:34Z",
+        "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2300688483_large_cropped.jpg?w=1120&h=630"
       },
       {
-        "title": "49ers hold off furious Commanders' second-half rally to go 6-0 - ESPN",
-        "description": "The 49ers dominated in the first half but had to hold off a second-half Commanders rally.",
-        "url": "https://www.espn.com/nfl/story/_/id/50222471/mnf-49ers-commanders-brock-purdy",
-        "source": "ESPN",
-        "publishedAt": "2026-10-20T03:32:00Z",
-        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1020%2Fr1733223_1296x729_16%2D9.jpg"
+        "title": "Woodruff would love World Series roster spot, but understands why it might not happen - MLB.com",
+        "description": "MILWAUKEE – Brandon Woodruff threw 23 live pitches to the Brewers’ “A” lineup at American Family Field on Tuesday and sat 90-92 mph, right where he’d expect in an empty stadium while facing hitters for the first time in nearly four months.\nHe would love to be…",
+        "url": "https://www.mlb.com/news/brandon-woodruff-world-series-status",
+        "source": "MLB.com",
+        "publishedAt": "2026-10-21T02:10:19Z",
+        "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/sqwerlsccdne3jgbqr8e.jpg"
       },
       {
-        "title": "Commanders star Terry McLaurin carted off after knee injury early in loss to 49ers - Yahoo Sports",
-        "description": "Terry McLaurin was carted off in an air cast after going down early on Monday night.",
-        "url": "https://sports.yahoo.com/nfl/breaking-news/article/commanders-star-terry-mclaurin-carted-off-after-knee-injury-early-in-loss-to-49ers-032814610.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-10-20T03:28:00Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/b242725487e2b3afb6101109dcd3b9c55d7d3d59327a10fef5e76b71b0465c53/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F3b4b80b5-2dd2-4e0e-82ab-a92c190ca1ff"
+        "title": "‘BYU is the best of the bunch’: UCF head coach Scott Frost previews matchup with No. 2 BYU - Deseret News",
+        "description": "The Knights host No. 2 BYU for homecoming after the Cougars' 28-24 upset win over Notre Dame.",
+        "url": "https://www.deseret.com/sports/2026/10/20/ucf-head-coach-scott-frost-previews-byu/",
+        "source": "Deseret News",
+        "publishedAt": "2026-10-21T00:59:00Z",
+        "image": "https://www.deseret.com/resizer/v2/AAG5YDYKGJFUTHUUVPWGH57DY4.jpg?focal=0%2C0&auth=91f2ce3e873440e54a4640dfd5c00842492d77dcac03b50a53b85f8f8cff7322&width=630&height=331"
       },
       {
-        "title": "World Series 2026: Schedule, broadcast and start times for Rays vs. Brewers - Yahoo Sports",
-        "description": "The 2026 Fall Classic begins with Game 1 on Friday in Milwaukee.",
-        "url": "https://sports.yahoo.com/mlb/article/world-series-2026-schedule-broadcast-and-start-times-for-rays-vs-brewers-031027464.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-10-20T03:10:00Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/20b27db4e0e9c78ce8570889aa1caca2d470415427488f910e6bb99b25eba2da/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F5ff384f0-a009-11f0-b1ff-66c162ca215e"
+        "title": "How many people watched BYU-Notre Dame? - Deseret News",
+        "description": "",
+        "url": "https://www.deseret.com/sports/2026/10/20/byu-notre-dame-television-viewership-2026/",
+        "source": "Deseret News",
+        "publishedAt": "2026-10-21T00:28:00Z",
+        "image": "https://www.deseret.com/resizer/v2/EPPFTX7EKRDB5FKKB7H5SVC2OI.JPG?focal=1363%2C870&auth=33d3a221e5b6666b84300635b31f24e68f994640d812b411dc40df8cf873f33c&width=630&height=331"
       }
     ]
   }
