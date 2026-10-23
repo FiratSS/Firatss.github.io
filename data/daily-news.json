@@ -1,130 +1,130 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "categories": {
     "technology": [
       {
-        "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert - The Hacker News",
-        "description": "PHP2Shell involves two critical PHP RCE flaws rated CVSS 9.2, with emergency fixes scheduled following a disclosure leak.",
-        "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-        "source": "Internet",
-        "publishedAt": "2026-10-21T04:57:00Z",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg"
+        "title": "T-Mobile Is Giving Away Free iPad A16s For One Day Only - The Mobile Report",
+        "description": "In an unusual move, T-Mobile appears to be giving out free iPad A16s for one day only next week, with qualifying service plan.",
+        "url": "https://tmo.report/2026/10/t-mobile-is-giving-away-free-ipad-a16s-for-one-day-only/",
+        "source": "Tmo.report",
+        "publishedAt": "2026-10-22T03:44:04Z",
+        "image": "https://i0.wp.com/tmo.report/wp-content/uploads/2026/10/tmobileipada16featured.png?fit=1280%2C720&ssl=1"
       },
       {
-        "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed - Nintendo Life",
-        "description": "Update: File size spotted on download card",
-        "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
-        "source": "Nintendo Life",
-        "publishedAt": "2026-10-21T04:32:42Z",
-        "image": "https://images.nintendolife.com/3cae3dc49f114/1280x720.jpg"
+        "title": "Phantom Blade Zero launch trailer, PS5 physical editions launch in 2027 - Gematsu",
+        "description": "S-GAME has released the launch trailer for Wuxia action RPG Phantom Blade Zero, as well as announced that physical standard, Deluxe, and Ultimate editions will launch for PlayStation 5 in 2027.",
+        "url": "https://www.gematsu.com/2026/10/phantom-blade-zero-launch-trailer-ps5-physical-editions-launch-in-2027",
+        "source": "Gematsu",
+        "publishedAt": "2026-10-22T02:11:33Z",
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Phantom-Blade-Zero-PS5-Physical_10-21-26.jpg"
       },
       {
-        "title": "Samsung Galaxy Z Flip 8 Review: Iteration Overshadowed By Innovation - BGR",
-        "description": "Samsung's Galaxy Z Flip 8 might be the best clamshell foldable smartphone on the market for the money, but it's just not much of an upgrade over the Z Flip 7.",
-        "url": "https://www.bgr.com/2292418/galaxy-z-flip-8-review/",
-        "source": "BGR",
-        "publishedAt": "2026-10-21T01:00:00Z",
-        "image": "https://www.bgr.com/img/gallery/samsung-galaxy-z-flip-8-review-iteration-overshadowed-by-innovation/l-intro-1792534467.jpg"
+        "title": "YouTube says it isn’t testing hiding the dislike button - The Verge",
+        "description": "A YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is “not testing hiding the dislike button on YouTube for users.”",
+        "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+        "source": "The Verge",
+        "publishedAt": "2026-10-21T23:46:45Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       },
       {
-        "title": "First iPhone Duo Unboxing Video Appears Ahead of Friday Launch - MacRumors",
-        "description": "With just a couple of days to go until the iPhone Duo launches, the first unboxing video has surfaced online from someone who managed to get a device...",
-        "url": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/",
-        "source": "MacRumors",
-        "publishedAt": "2026-10-20T23:31:13Z",
-        "image": "https://images.macrumors.com/t/CyGdNbVv8jZwO-HTOZrHs9IFbWY=/1886x/article-new/2026/10/iPhone-Duo-Hinge-Feature-3.jpg"
+        "title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch - 9to5Mac",
+        "description": "While the iPhone Duo doesn’t launch until Friday, preparations are already underway at Apple’s flagship Fifth Avenue store in New York for the big day.",
+        "url": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
+        "source": "9to5Mac",
+        "publishedAt": "2026-10-21T23:16:00Z",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-fifth-avenue-iphone-launch-day.jpg?quality=82&strip=all&resize=1200,628"
       },
       {
-        "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami - IGN",
-        "description": "Eagle-eyed Rockstar fans have noticed camera crews recording convoys of flashy GTA-themed cars in Miami, creating speculation over a new live-action trailer.",
-        "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
-        "source": "IGN",
-        "publishedAt": "2026-10-20T22:48:38Z",
-        "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&format=jpg&auto=webp&quality=80"
+        "title": "SonicFox Reminds Everyone They're Based, Backing Out Of A Gaming Convention Over An AI-Generated Promo - Kotaku",
+        "description": "Ninjutsu Entertainment posted a video asking SonicFox to reconsider their decision",
+        "url": "https://kotaku.com/sonicfox-reminds-everyone-theyre-based-backing-out-of-a-gaming-convention-over-an-ai-generated-promo-2000748466",
+        "source": "Kotaku",
+        "publishedAt": "2026-10-21T23:00:51Z",
+        "image": "https://kotaku.com/app/uploads/2018/12/epcreyfmhu5sx0h73hsu.jpg"
       }
     ],
     "business": [
       {
-        "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates - CNBC",
-        "description": "This earnings season could help propel stocks as the year winds down, said Christian Mueller-Glissmann, head of asset allocation for Goldman Sachs Research.",
-        "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+        "title": "Barclays to Cut 5,000 Jobs in AI-Fueled Push to Lower Costs - Bloomberg.com",
+        "description": "Barclays Plc is cutting 5,000 jobs to reduce costs through the use of artificial intelligence, the latest large lender to slash its workforce as the new technology ripples throughout the banking industry.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-22/barclays-to-cut-5-000-jobs-as-ai-starts-creating-efficiency",
+        "source": "Bloomberg",
+        "publishedAt": "2026-10-22T10:07:46Z",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7LDzQkk.v28/v1/1200x800.jpg"
+      },
+      {
+        "title": "Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking - Yahoo Finance",
+        "description": "Earnings calls are a great tool to mine for investing clues.",
+        "url": "https://finance.yahoo.com/technology/ai/article/tesla-meta-and-ibm-3-earnings-call-shout-outs-that-left-us-thinking-091924234.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-10-22T09:19:24Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/fb883df454a7f0b0f714e2deda9d50130d5cf33be21c01449b7e61a9cae61e09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F17060d20-0669-11ef-afbb-b49c87d8ee17"
+      },
+      {
+        "title": "Nasdaq futures down 1.8% as investors digest earnings from Meta and Tesla: Live updates - CNBC",
+        "description": "The S&P 500 posted a three-day winning streak on Wednesday, and the Nasdaq Composite rose as Tesla and SpaceX rallied.",
+        "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-21T07:55:45Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108437793-1792509114099-Traders-Photo-20261019-KK-016.jpg?v=1792509208&w=1920&h=1080"
+        "publishedAt": "2026-10-22T08:30:54Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108442581-1792601105463-Traders-Photo-20261021-AS-PRESS-1.jpg?v=1792601484&w=1920&h=1080"
       },
       {
-        "title": "UK inflation jumps to 3.5% — cementing rate hike expectations - CNBC",
-        "description": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
-        "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-21T06:02:59Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108243682-17660765522025-12-18t164547z_2096923420_rc23jiae5pf5_rtrmadp_0_britain-boe.jpeg?v=1766076616&w=1920&h=1080"
+        "title": "Amazon Prime customers could get $200 refund following $2.5 billion settlement with Federal Trade Commission: Who qualifies? - ABC7 Los Angeles",
+        "description": "If you're an Amazon Prime customer, you could be getting up to $200. Amazon started sending out its first round of automatic refunds to qualified customers in early October following a $2.5 billion settlement with the Federal Trade Commission.",
+        "url": "https://abc7.com/post/amazon-prime-customers-could-get-200-refund-following-250-billion-settlement-federal-trade-commission-qualifies/19939736/",
+        "source": "KABC-TV",
+        "publishedAt": "2026-10-22T06:51:31Z",
+        "image": "https://cdn.abcotvs.com/dip/images/19963090_101226-kgo-7oys-amazon-ftc-settlement-img.jpg?w=1600"
       },
       {
-        "title": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers - Investing.com",
-        "description": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers",
-        "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-spacex-super-micro-results-lift-chipmakers-4961529",
-        "source": "Investing.com",
-        "publishedAt": "2026-10-21T03:50:51Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEA9Q076_L.jpg"
-      },
-      {
-        "title": "PHP warns it plans to release 2 emergency patches imminently - Ars Technica",
-        "description": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-        "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-        "source": "Ars Technica",
-        "publishedAt": "2026-10-21T02:12:18Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
-      },
-      {
-        "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find - WSJ",
+        "title": "Meta Stock Split Deal Will Keep Mark Zuckerberg In California Amid Billionaire Tax Threat - Forbes",
         "description": null,
-        "url": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-10-21T02:00:00Z",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/10/22/meta-stock-split-deal-will-keep-mark-zuckerberg-in-california-amid-billionaire-tax-threat/",
+        "source": "Forbes",
+        "publishedAt": "2026-10-22T05:20:52Z",
         "image": null
       }
     ],
     "sports": [
       {
-        "title": "Colts To Contact Peyton Manning About GM Job? - ProFootballRumors.com",
-        "description": "The Colts are reportedly interested in discussing their GM job with franchise icon Peyton Manning. Read more at Pro Football Rumors.",
-        "url": "https://www.profootballrumors.com/2026/10/colts-to-contact-peyton-manning-about-gm-job",
-        "source": "profootballrumors.com",
-        "publishedAt": "2026-10-21T05:05:00Z",
-        "image": "https://cdn.profootballrumors.com/files/2026/10/2026-03-11T191330Z_237491300_MT1USATODAY28463954_RTRMADP_3_NFL-SUPER-BOWL-LX-SEATTLE-SEAHAWKS-AT-NEW-ENGLAND-PATRIOTS-1024x739.jpg"
+        "title": "Warriors' Yaxel Lendeborg: 'Lost all respect' for Luka Doncic - ESPN",
+        "description": "Yaxel Lendeborg said it was an \"interesting first game for me\" after defending the Lakers superstar in his professional debut.",
+        "url": "https://www.espn.com/nba/story/_/id/50245902/warriors-yaxel-lendeborg-lost-all-respect-luka-doncic",
+        "source": "ESPN",
+        "publishedAt": "2026-10-22T06:52:00Z",
+        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1022%2Fr1734401_1296x729_16%2D9.jpg"
       },
       {
-        "title": "Wemby, Fox Involved in Spurs-Thunder Fight in Video, 4 Technicals and 1 Flagrant Foul Assessed - Bleacher Report",
-        "description": "The San Antonio Spurs and Oklahoma City Thunder have quickly become one of the biggest rivalries in the NBA, and it didn't take long for things to get chippy between the two sides on Tuesday.",
-        "url": "https://bleacherreport.com/articles/25513946-wemby-fox-involved-spurs-thunder-fight-video-4-technicals-and-1-flagrant-foul-assessed",
+        "title": "Dodgers Notes: Ohtani, Klein, Coaching Staff - MLB Trade Rumors",
+        "description": "MLB Trade Rumors rounds up a few notes from the Dodgers' end of season press conference on Ohtani, a bullpen surgery, and staff continuity.",
+        "url": "https://www.mlbtraderumors.com/2026/10/dodgers-notes-ohtani-klein-coaching-staff.html",
+        "source": "MLB Trade Rumors",
+        "publishedAt": "2026-10-22T04:05:23Z",
+        "image": "https://cdn.mlbtraderumors.com/files/2026/09/ShoheiOhtani-1-1024x683.jpg"
+      },
+      {
+        "title": "Angel Reese Makes History as Dream Beat Valkyries in WNBA Finals Game 3, Box Score Stats, Highlights - Bleacher Report",
+        "description": "The Atlanta Dream are two wins away from a WNBA championship.",
+        "url": "https://bleacherreport.com/articles/25518790-angel-reese-makes-history-dream-beat-valkyries-wnba-finals-game-3-box-score-stats-highlights",
         "source": "Bleacher Report",
-        "publishedAt": "2026-10-21T04:10:34Z",
-        "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2300688483_large_cropped.jpg?w=1120&h=630"
+        "publishedAt": "2026-10-22T02:49:12Z",
+        "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2301395914_large_cropped.jpg?w=1120&h=630"
       },
       {
-        "title": "Woodruff would love World Series roster spot, but understands why it might not happen - MLB.com",
-        "description": "MILWAUKEE – Brandon Woodruff threw 23 live pitches to the Brewers’ “A” lineup at American Family Field on Tuesday and sat 90-92 mph, right where he’d expect in an empty stadium while facing hitters for the first time in nearly four months.\nHe would love to be…",
-        "url": "https://www.mlb.com/news/brandon-woodruff-world-series-status",
-        "source": "MLB.com",
-        "publishedAt": "2026-10-21T02:10:19Z",
-        "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/sqwerlsccdne3jgbqr8e.jpg"
+        "title": "Phoenix Suns vs Portland Trail Blazers Oct 21, 2026 Box Scores - NBA.com",
+        "description": "Phoenix Suns vs Portland Trail Blazers Oct 21, 2026 player box scores including video and shot charts",
+        "url": "https://www.nba.com/game/phx-vs-por-0022600092/box-score",
+        "source": "Heat.com",
+        "publishedAt": "2026-10-22T02:22:48Z",
+        "image": "https://cdn.nba.com/logos/nba/fallback/NBA.Com-National-Basketball-Association.png"
       },
       {
-        "title": "‘BYU is the best of the bunch’: UCF head coach Scott Frost previews matchup with No. 2 BYU - Deseret News",
-        "description": "The Knights host No. 2 BYU for homecoming after the Cougars' 28-24 upset win over Notre Dame.",
-        "url": "https://www.deseret.com/sports/2026/10/20/ucf-head-coach-scott-frost-previews-byu/",
-        "source": "Deseret News",
-        "publishedAt": "2026-10-21T00:59:00Z",
-        "image": "https://www.deseret.com/resizer/v2/AAG5YDYKGJFUTHUUVPWGH57DY4.jpg?focal=0%2C0&auth=91f2ce3e873440e54a4640dfd5c00842492d77dcac03b50a53b85f8f8cff7322&width=630&height=331"
-      },
-      {
-        "title": "How many people watched BYU-Notre Dame? - Deseret News",
-        "description": "",
-        "url": "https://www.deseret.com/sports/2026/10/20/byu-notre-dame-television-viewership-2026/",
-        "source": "Deseret News",
-        "publishedAt": "2026-10-21T00:28:00Z",
-        "image": "https://www.deseret.com/resizer/v2/EPPFTX7EKRDB5FKKB7H5SVC2OI.JPG?focal=1363%2C870&auth=33d3a221e5b6666b84300635b31f24e68f994640d812b411dc40df8cf873f33c&width=630&height=331"
+        "title": "Three Observations from Bayern Munich’s quirky 2-2 draw with Arsenal - Bavarian Football Works",
+        "description": "FC Bayern could have done better, but it was a fine UCL night against the Gunners.",
+        "url": "https://www.bavarianfootballworks.com/bayern-munich-match-observations/271057/bayern-munich-vs-arsenal-three-observations-match-analysis-champions-league-harry-kane-alphonso-davies-kompany",
+        "source": "Bavarian Football Works",
+        "publishedAt": "2026-10-22T02:15:00Z",
+        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/10/gettyimages-2301358718.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       }
     ]
   }
