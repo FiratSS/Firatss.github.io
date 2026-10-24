@@ -1,130 +1,122 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "categories": {
     "technology": [
       {
-        "title": "T-Mobile Is Giving Away Free iPad A16s For One Day Only - The Mobile Report",
-        "description": "In an unusual move, T-Mobile appears to be giving out free iPad A16s for one day only next week, with qualifying service plan.",
-        "url": "https://tmo.report/2026/10/t-mobile-is-giving-away-free-ipad-a16s-for-one-day-only/",
-        "source": "Tmo.report",
-        "publishedAt": "2026-10-22T03:44:04Z",
-        "image": "https://i0.wp.com/tmo.report/wp-content/uploads/2026/10/tmobileipada16featured.png?fit=1280%2C720&ssl=1"
-      },
-      {
-        "title": "Phantom Blade Zero launch trailer, PS5 physical editions launch in 2027 - Gematsu",
-        "description": "S-GAME has released the launch trailer for Wuxia action RPG Phantom Blade Zero, as well as announced that physical standard, Deluxe, and Ultimate editions will launch for PlayStation 5 in 2027.",
-        "url": "https://www.gematsu.com/2026/10/phantom-blade-zero-launch-trailer-ps5-physical-editions-launch-in-2027",
-        "source": "Gematsu",
-        "publishedAt": "2026-10-22T02:11:33Z",
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Phantom-Blade-Zero-PS5-Physical_10-21-26.jpg"
-      },
-      {
-        "title": "YouTube says it isn’t testing hiding the dislike button - The Verge",
-        "description": "A YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is “not testing hiding the dislike button on YouTube for users.”",
-        "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
-        "source": "The Verge",
-        "publishedAt": "2026-10-21T23:46:45Z",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-      },
-      {
-        "title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch - 9to5Mac",
-        "description": "While the iPhone Duo doesn’t launch until Friday, preparations are already underway at Apple’s flagship Fifth Avenue store in New York for the big day.",
-        "url": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
+        "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch - 9to5Mac",
+        "description": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple...",
+        "url": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
         "source": "9to5Mac",
-        "publishedAt": "2026-10-21T23:16:00Z",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-fifth-avenue-iphone-launch-day.jpg?quality=82&strip=all&resize=1200,628"
+        "publishedAt": "2026-10-23T03:15:00Z",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/greg-joz-joswiak-event-sep-2026-1.jpg?quality=82&strip=all&resize=1200,628"
       },
       {
-        "title": "SonicFox Reminds Everyone They're Based, Backing Out Of A Gaming Convention Over An AI-Generated Promo - Kotaku",
-        "description": "Ninjutsu Entertainment posted a video asking SonicFox to reconsider their decision",
-        "url": "https://kotaku.com/sonicfox-reminds-everyone-theyre-based-backing-out-of-a-gaming-convention-over-an-ai-generated-promo-2000748466",
-        "source": "Kotaku",
-        "publishedAt": "2026-10-21T23:00:51Z",
-        "image": "https://kotaku.com/app/uploads/2018/12/epcreyfmhu5sx0h73hsu.jpg"
+        "title": "A Typography Geek Pointed Out Something About The Space Shuttle Discovery And Now I Can't Unsee It - The Autopian",
+        "description": "Even though I was born in the Apollo Era, barely, the spacecraft that I think had the most influence on my childhood had to be the Space Shuttles. I remember poring over diagrams and drawings of the shuttles in National Geographic foldouts, where they even to…",
+        "url": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
+        "source": "Theautopian.com",
+        "publishedAt": "2026-10-23T03:11:14Z",
+        "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/cs_discovery_s_top.jpg"
+      },
+      {
+        "title": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles - Nintendo Life",
+        "description": "Avenging Spirit, Mole Mania & Revenge of the 'Gator are back",
+        "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
+        "source": "Nintendo Life",
+        "publishedAt": "2026-10-23T01:25:00Z",
+        "image": "https://images.nintendolife.com/b5623332e96f3/1280x720.jpg"
+      },
+      {
+        "title": "Microsoft Announces Per-Hour Cost for Xbox Cloud Gaming Service - Gizmodo",
+        "description": "You're on the clock, kids.",
+        "url": "https://gizmodo.com/microsoft-announces-per-hour-cost-for-xbox-cloud-gaming-service-2000829538",
+        "source": "Gizmodo.com",
+        "publishedAt": "2026-10-23T00:46:37Z",
+        "image": "https://gizmodo.com/app/uploads/2026/10/Xbox-Nano-Controller-and-Xbox-Wireless-Controller-1200x675.jpg"
+      },
+      {
+        "title": "Left alone with nothing to do, AI agents started playing - TechCrunch",
+        "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-10-23T00:45:37Z",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590"
       }
     ],
     "business": [
       {
-        "title": "Barclays to Cut 5,000 Jobs in AI-Fueled Push to Lower Costs - Bloomberg.com",
-        "description": "Barclays Plc is cutting 5,000 jobs to reduce costs through the use of artificial intelligence, the latest large lender to slash its workforce as the new technology ripples throughout the banking industry.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-22/barclays-to-cut-5-000-jobs-as-ai-starts-creating-efficiency",
-        "source": "Bloomberg",
-        "publishedAt": "2026-10-22T10:07:46Z",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7LDzQkk.v28/v1/1200x800.jpg"
-      },
-      {
-        "title": "Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking - Yahoo Finance",
-        "description": "Earnings calls are a great tool to mine for investing clues.",
-        "url": "https://finance.yahoo.com/technology/ai/article/tesla-meta-and-ibm-3-earnings-call-shout-outs-that-left-us-thinking-091924234.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-10-22T09:19:24Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/fb883df454a7f0b0f714e2deda9d50130d5cf33be21c01449b7e61a9cae61e09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F17060d20-0669-11ef-afbb-b49c87d8ee17"
-      },
-      {
-        "title": "Nasdaq futures down 1.8% as investors digest earnings from Meta and Tesla: Live updates - CNBC",
-        "description": "The S&P 500 posted a three-day winning streak on Wednesday, and the Nasdaq Composite rose as Tesla and SpaceX rallied.",
-        "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+        "title": "Stock futures trade mixed after tech sector sell-off: Live updates - CNBC",
+        "description": "The Nasdaq Composite posted its worst day since June as the tech sector sold off Thursday.",
+        "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
         "source": "CNBC",
-        "publishedAt": "2026-10-22T08:30:54Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108442581-1792601105463-Traders-Photo-20261021-AS-PRESS-1.jpg?v=1792601484&w=1920&h=1080"
+        "publishedAt": "2026-10-23T07:29:36Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108442584-1792601105464-Traders-Photo-20261021-AS-PRESS-5.jpg?v=1792601484&w=1920&h=1080"
       },
       {
-        "title": "Amazon Prime customers could get $200 refund following $2.5 billion settlement with Federal Trade Commission: Who qualifies? - ABC7 Los Angeles",
-        "description": "If you're an Amazon Prime customer, you could be getting up to $200. Amazon started sending out its first round of automatic refunds to qualified customers in early October following a $2.5 billion settlement with the Federal Trade Commission.",
-        "url": "https://abc7.com/post/amazon-prime-customers-could-get-200-refund-following-250-billion-settlement-federal-trade-commission-qualifies/19939736/",
-        "source": "KABC-TV",
-        "publishedAt": "2026-10-22T06:51:31Z",
-        "image": "https://cdn.abcotvs.com/dip/images/19963090_101226-kgo-7oys-amazon-ftc-settlement-img.jpg?w=1600"
+        "title": "Global tech sell-off sparks flight to safety - Financial Times",
+        "description": "Japanese bonds and yen rally as Asian stock markets follow Wall Street lower",
+        "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6\\\\u003d1",
+        "source": "Financial Times",
+        "publishedAt": "2026-10-23T03:41:23Z",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4fa9cb4a-a856-4324-9383-93aa8b6876fc.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
       },
       {
-        "title": "Meta Stock Split Deal Will Keep Mark Zuckerberg In California Amid Billionaire Tax Threat - Forbes",
-        "description": null,
-        "url": "https://www.forbes.com/sites/siladityaray/2026/10/22/meta-stock-split-deal-will-keep-mark-zuckerberg-in-california-amid-billionaire-tax-threat/",
-        "source": "Forbes",
-        "publishedAt": "2026-10-22T05:20:52Z",
-        "image": null
+        "title": "UnitedHealthcare, Humana Medicare Advantage cancellations to affect 1M - NewsNation",
+        "description": "UnitedHealthcare and Humana are canceling the plans to boost corporate profits.",
+        "url": "https://www.newsnationnow.com/health/unitedhealthcare-humana-medicare-advantage-cancellations/",
+        "source": "Newsnationnow.com",
+        "publishedAt": "2026-10-23T02:48:38Z",
+        "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/06/GettyImages-1047505000-1.jpg?w=1280"
+      },
+      {
+        "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com",
+        "description": "Technology stocks trimmed their losses heading into the European session, offering global investors some respite after renewed pressure on the artificial intelligence trade drove demand for bonds. Crude oil extended its gains.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
+        "source": "Bloomberg",
+        "publishedAt": "2026-10-23T02:35:00Z",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieIFha8628Ow/v0/1200x800.jpg"
       }
     ],
     "sports": [
       {
-        "title": "Warriors' Yaxel Lendeborg: 'Lost all respect' for Luka Doncic - ESPN",
-        "description": "Yaxel Lendeborg said it was an \"interesting first game for me\" after defending the Lakers superstar in his professional debut.",
-        "url": "https://www.espn.com/nba/story/_/id/50245902/warriors-yaxel-lendeborg-lost-all-respect-luka-doncic",
+        "title": "Bears' Santos gets redemption with game-sealing FG after 'annoying' miss vs. Pats - ESPN",
+        "description": "Bears kicker Cairo Santos walked away from Thursday's win over the Patriots a savior despite being haunted by a fourth-quarter miss.",
+        "url": "https://www.espn.com/nfl/story/_/id/50255748/chicago-bears-cairo-santos-58-yard-field-goal-patriots",
         "source": "ESPN",
-        "publishedAt": "2026-10-22T06:52:00Z",
-        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1022%2Fr1734401_1296x729_16%2D9.jpg"
+        "publishedAt": "2026-10-23T06:55:00Z",
+        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1023%2Fr1734918_1296x729_16%2D9.jpg"
       },
       {
-        "title": "Dodgers Notes: Ohtani, Klein, Coaching Staff - MLB Trade Rumors",
-        "description": "MLB Trade Rumors rounds up a few notes from the Dodgers' end of season press conference on Ohtani, a bullpen surgery, and staff continuity.",
-        "url": "https://www.mlbtraderumors.com/2026/10/dodgers-notes-ohtani-klein-coaching-staff.html",
-        "source": "MLB Trade Rumors",
-        "publishedAt": "2026-10-22T04:05:23Z",
-        "image": "https://cdn.mlbtraderumors.com/files/2026/09/ShoheiOhtani-1-1024x683.jpg"
+        "title": "Denver Nuggets vs. Oklahoma City Thunder Live Score and Stats - October 22, 2026 Gametracker - CBS Sports",
+        "description": "Get real-time NBA Basketball coverage and scores as Denver Nuggets takes on Oklahoma City Thunder. We bring you the latest game previews, live stats, expert picks and recaps on CBSSports.com",
+        "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261022_DEN@OKC/",
+        "source": "CBS Sports",
+        "publishedAt": "2026-10-23T05:48:38Z",
+        "image": "https://sportsfly.cbsistatic.com/fly-864/bundles/sportsmediacss/images/fantasy/default-article-image-large.png"
       },
       {
-        "title": "Angel Reese Makes History as Dream Beat Valkyries in WNBA Finals Game 3, Box Score Stats, Highlights - Bleacher Report",
-        "description": "The Atlanta Dream are two wins away from a WNBA championship.",
-        "url": "https://bleacherreport.com/articles/25518790-angel-reese-makes-history-dream-beat-valkyries-wnba-finals-game-3-box-score-stats-highlights",
-        "source": "Bleacher Report",
-        "publishedAt": "2026-10-22T02:49:12Z",
-        "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2301395914_large_cropped.jpg?w=1120&h=630"
+        "title": "Seahawks activate Zach Charbonnet (knee) from PUP - NBC Sports",
+        "description": "Seahawks activated Zach Charbonnet (knee) from the reserve/physically unable to perform list.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-22/seahawks-activate-zach-charbonnet-knee-from-pup",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-10-23T03:04:55Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/472239e/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Feb%2F17%2F671b748b4dc6b08f8a0b213b9de8%2Fcharbonnet-zach.JPG"
       },
       {
-        "title": "Phoenix Suns vs Portland Trail Blazers Oct 21, 2026 Box Scores - NBA.com",
-        "description": "Phoenix Suns vs Portland Trail Blazers Oct 21, 2026 player box scores including video and shot charts",
-        "url": "https://www.nba.com/game/phx-vs-por-0022600092/box-score",
-        "source": "Heat.com",
-        "publishedAt": "2026-10-22T02:22:48Z",
-        "image": "https://cdn.nba.com/logos/nba/fallback/NBA.Com-National-Basketball-Association.png"
+        "title": "Steelers fans, unfazed by French unrest, find Paris to be far from terrible - Pittsburgh Post-Gazette",
+        "description": "False",
+        "url": "https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-game-fans-paris-protests-riots/stories/202610220044",
+        "source": "Pittsburgh Post-Gazette",
+        "publishedAt": "2026-10-23T03:00:21Z",
+        "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202610220044/1140x_a10-7_cTC/img-1968-hiles102226_1792672765.jpg"
       },
       {
-        "title": "Three Observations from Bayern Munich’s quirky 2-2 draw with Arsenal - Bavarian Football Works",
-        "description": "FC Bayern could have done better, but it was a fine UCL night against the Gunners.",
-        "url": "https://www.bavarianfootballworks.com/bayern-munich-match-observations/271057/bayern-munich-vs-arsenal-three-observations-match-analysis-champions-league-harry-kane-alphonso-davies-kompany",
-        "source": "Bavarian Football Works",
-        "publishedAt": "2026-10-22T02:15:00Z",
-        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/10/gettyimages-2301358718.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        "title": "Sixers climb out of 29-point hole in stunning comeback win over Cavs - PHLY Sports",
+        "description": "Behind 32 points from Tyrese Maxey and a hellacious defensive effort in the second half, the Sixers overcame a 29-point Cavs lead to win 114-106 in their opener, opening the season 2-0. If you weren’t ready to jump on board with this team after the ring night…",
+        "url": "https://allphly.com/76ers/sixers-home-opener-29-point-comeback-win-cavs/",
+        "source": "Allphly.com",
+        "publishedAt": "2026-10-23T01:56:04Z",
+        "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/8/2026/10/22215033/2026-10-23T000236Z_1217402447_MT1USATODAY30156475_RTRMADP_3_NBA-CLEVELAND-CAVALIERS-AT-PHILADELPHIA-76ERS-1024x682.jpg"
       }
     ]
   }
