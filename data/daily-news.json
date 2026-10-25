@@ -1,122 +1,130 @@
 {
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "categories": {
     "technology": [
       {
-        "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch - 9to5Mac",
-        "description": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple...",
-        "url": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
+        "title": "Xbox announces 7 new games coming to Game Pass - Notebookcheck",
+        "description": "The ID@Xbox and IGN Showcase was packed with gameplay reveals, new trailers, and more. On top of that, several new titles were also announced for Game Pass members.",
+        "url": "https://www.notebookcheck.net/Xbox-announces-7-new-games-coming-to-Game-Pass.1431152.0.html",
+        "source": "Notebookcheck.net",
+        "publishedAt": "2026-10-24T02:54:00Z",
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Game-Pass-new-lineup.jpg"
+      },
+      {
+        "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display - 9to5Mac",
+        "description": "Apple’s is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details.",
+        "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
         "source": "9to5Mac",
-        "publishedAt": "2026-10-23T03:15:00Z",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/greg-joz-joswiak-event-sep-2026-1.jpg?quality=82&strip=all&resize=1200,628"
+        "publishedAt": "2026-10-23T23:50:00Z",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&strip=all&resize=1200,628"
       },
       {
-        "title": "A Typography Geek Pointed Out Something About The Space Shuttle Discovery And Now I Can't Unsee It - The Autopian",
-        "description": "Even though I was born in the Apollo Era, barely, the spacecraft that I think had the most influence on my childhood had to be the Space Shuttles. I remember poring over diagrams and drawings of the shuttles in National Geographic foldouts, where they even to…",
-        "url": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
-        "source": "Theautopian.com",
-        "publishedAt": "2026-10-23T03:11:14Z",
-        "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/cs_discovery_s_top.jpg"
-      },
-      {
-        "title": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles - Nintendo Life",
-        "description": "Avenging Spirit, Mole Mania & Revenge of the 'Gator are back",
-        "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
+        "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published - Nintendo Life",
+        "description": "Cover up?",
+        "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
         "source": "Nintendo Life",
-        "publishedAt": "2026-10-23T01:25:00Z",
-        "image": "https://images.nintendolife.com/b5623332e96f3/1280x720.jpg"
+        "publishedAt": "2026-10-23T23:30:00Z",
+        "image": "https://images.nintendolife.com/84f3b7c35dd08/1280x720.jpg"
       },
       {
-        "title": "Microsoft Announces Per-Hour Cost for Xbox Cloud Gaming Service - Gizmodo",
-        "description": "You're on the clock, kids.",
-        "url": "https://gizmodo.com/microsoft-announces-per-hour-cost-for-xbox-cloud-gaming-service-2000829538",
-        "source": "Gizmodo.com",
-        "publishedAt": "2026-10-23T00:46:37Z",
-        "image": "https://gizmodo.com/app/uploads/2026/10/Xbox-Nano-Controller-and-Xbox-Wireless-Controller-1200x675.jpg"
+        "title": "The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS - MacRumors",
+        "description": "The iPhone Duo has an all-new form factor with multiple folding and orientation options, and app developers are having some fun with it. You can find...",
+        "url": "https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps/",
+        "source": "MacRumors",
+        "publishedAt": "2026-10-23T23:22:55Z",
+        "image": "https://images.macrumors.com/t/hymIUIn9qThsSXiszB3vmdtVE8I=/1600x/article-new/2026/10/tiny-computer-iphone-duo.jpg"
       },
       {
-        "title": "Left alone with nothing to do, AI agents started playing - TechCrunch",
-        "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-        "source": "TechCrunch",
-        "publishedAt": "2026-10-23T00:45:37Z",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590"
+        "title": "Apple’s official DIY repair guides for the iPhone Duo now available - 9to5Mac",
+        "description": "Apple has published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the device.",
+        "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
+        "source": "9to5Mac",
+        "publishedAt": "2026-10-23T23:12:00Z",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&strip=all&resize=1200,628"
       }
     ],
     "business": [
       {
-        "title": "Stock futures trade mixed after tech sector sell-off: Live updates - CNBC",
-        "description": "The Nasdaq Composite posted its worst day since June as the tech sector sold off Thursday.",
-        "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
-        "source": "CNBC",
-        "publishedAt": "2026-10-23T07:29:36Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108442584-1792601105464-Traders-Photo-20261021-AS-PRESS-5.jpg?v=1792601484&w=1920&h=1080"
+        "title": "October 23, 2026 - Letters from an American | Heather Cox Richardson",
+        "description": "Despite Trump’s statement yesterday that billionaire Elon Musk had removed the restrictions from Starlink and Starshield that are crippling Ukraine’s ability to protect itself from Russia, Ukraine president Volodymyr Zelensky said today the restrictions conti…",
+        "url": "https://heathercoxrichardson.substack.com/p/october-23-2026",
+        "source": "Substack.com",
+        "publishedAt": "2026-10-24T07:22:03Z",
+        "image": "https://substackcdn.com/image/fetch/$s_!9Zq0!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fheathercoxrichardson.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1871472435%26version%3D9"
       },
       {
-        "title": "Global tech sell-off sparks flight to safety - Financial Times",
-        "description": "Japanese bonds and yen rally as Asian stock markets follow Wall Street lower",
-        "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6\\\\u003d1",
-        "source": "Financial Times",
-        "publishedAt": "2026-10-23T03:41:23Z",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4fa9cb4a-a856-4324-9383-93aa8b6876fc.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
+        "title": "Exclusive | JetBlue Creditors Hire Advisers as Airline’s Shares, Bonds Sink - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/pro/bankruptcy/jetblue-creditors-huddle-with-restructuring-adviser-as-bonds-shares-sink-43866c42",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-10-24T02:35:00Z",
+        "image": null
       },
       {
-        "title": "UnitedHealthcare, Humana Medicare Advantage cancellations to affect 1M - NewsNation",
-        "description": "UnitedHealthcare and Humana are canceling the plans to boost corporate profits.",
-        "url": "https://www.newsnationnow.com/health/unitedhealthcare-humana-medicare-advantage-cancellations/",
-        "source": "Newsnationnow.com",
-        "publishedAt": "2026-10-23T02:48:38Z",
-        "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/06/GettyImages-1047505000-1.jpg?w=1280"
+        "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal - Al Jazeera",
+        "description": "President Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says.",
+        "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-10-24T01:32:15Z",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adbf52f2605-1792800047.jpg?resize=1920%2C1440"
       },
       {
-        "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com",
-        "description": "Technology stocks trimmed their losses heading into the European session, offering global investors some respite after renewed pressure on the artificial intelligence trade drove demand for bonds. Crude oil extended its gains.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
-        "source": "Bloomberg",
-        "publishedAt": "2026-10-23T02:35:00Z",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieIFha8628Ow/v0/1200x800.jpg"
+        "title": "Patient dies in Bristol Myers Squibb autoimmune CAR-T trial - STAT",
+        "description": "Where should the safety bar be for studies investigating CAR-T therapies for autoimmune conditions?",
+        "url": "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/",
+        "source": "STAT",
+        "publishedAt": "2026-10-23T23:49:48Z",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_1846705681_Editorial_Use_Only-1024x576.jpeg"
+      },
+      {
+        "title": "MTA suspending bus fare enforcement teams after altercations emerge - Gothamist",
+        "description": "MTA Chair Janno Lieber said he needed to confirm protocols are being followed.",
+        "url": "https://gothamist.com/news/mta-suspending-bus-fare-enforcement-teams-after-altercations-emerge",
+        "source": "Gothamist",
+        "publishedAt": "2026-10-23T23:49:00Z",
+        "image": "https://api-prod.gothamist.com/images/362096/fill-1200x650|format-webp|webpquality-85/"
       }
     ],
     "sports": [
       {
-        "title": "Bears' Santos gets redemption with game-sealing FG after 'annoying' miss vs. Pats - ESPN",
-        "description": "Bears kicker Cairo Santos walked away from Thursday's win over the Patriots a savior despite being haunted by a fourth-quarter miss.",
-        "url": "https://www.espn.com/nfl/story/_/id/50255748/chicago-bears-cairo-santos-58-yard-field-goal-patriots",
+        "title": "Arman Tsarukyan steps on Dillon Danis after shutout victory in RAF 14 main event - MMA Fighting",
+        "description": "Arman Tsarukyan made quick work of Dillon Danis before stepping on him to cap off RAF 14 on Friday from Las Vegas.",
+        "url": "https://www.mmafighting.com/raf-wrestling/517241/arman-tsarukyan-steps-on-dillon-danis-after-shutout-victory-in-raf-14-main-event",
+        "source": "MMA Fighting",
+        "publishedAt": "2026-10-24T04:18:00Z",
+        "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/IMG_5724.jpg?quality=90&strip=all&crop=0%2C16.254908376963%2C100%2C67.490183246073&w=1200"
+      },
+      {
+        "title": "RAF 14 results: Khamzat Chimaev smashes Robbie Lawler, promises to break Colby Covington’s neck - MMA Fighting",
+        "description": "Khamzat Chimaev scored a win over Robbie Lawler setting up his match against Colby Covington in Abu Dhabi.",
+        "url": "https://www.mmafighting.com/raf-wrestling/517295/raf-14-results-khamzat-chimaev-smashes-robbie-lawler-promises-to-break-colby-covingtons-neck",
+        "source": "MMA Fighting",
+        "publishedAt": "2026-10-24T03:55:00Z",
+        "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/Screenshot-2026-10-23-at-11.54.29-PM.png?quality=90&strip=all&crop=0,12.440245845664,100,75.119508308673"
+      },
+      {
+        "title": "Texas AD Del Conte clarifies AI use on key play that failed in loss to Florida - ESPN",
+        "description": "Texas AD Chris Del Conte on Friday sought to clarify a report that the team used a new AI-driven platform on a crucial play that failed in last week's loss to Florida.",
+        "url": "https://www.espn.com/college-football/story/_/id/50262750/texas-ad-clarifies-use-ai-key-play-loss-florida",
         "source": "ESPN",
-        "publishedAt": "2026-10-23T06:55:00Z",
-        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1023%2Fr1734918_1296x729_16%2D9.jpg"
+        "publishedAt": "2026-10-24T02:48:00Z",
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1021%2Fr1734125_1296x729_16%2D9.jpg"
       },
       {
-        "title": "Denver Nuggets vs. Oklahoma City Thunder Live Score and Stats - October 22, 2026 Gametracker - CBS Sports",
-        "description": "Get real-time NBA Basketball coverage and scores as Denver Nuggets takes on Oklahoma City Thunder. We bring you the latest game previews, live stats, expert picks and recaps on CBSSports.com",
-        "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261022_DEN@OKC/",
-        "source": "CBS Sports",
-        "publishedAt": "2026-10-23T05:48:38Z",
-        "image": "https://sportsfly.cbsistatic.com/fly-864/bundles/sportsmediacss/images/fantasy/default-article-image-large.png"
+        "title": "Rays vs. Brewers live updates, lineups, where to watch: Nick Martinez, Jacob Misiorowski open World Series as both teams chase first title - Yahoo Sports",
+        "description": "The Brewers won their first World Series game in 44 years.",
+        "url": "https://sports.yahoo.com/mlb/live/brewers-rays-box-score-live-updates-world-series-game-1-lineups-starting-pitchers-news-highlights-where-to-watch-230130858.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-10-24T02:32:00Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/76cd72f1991a75214e62e39adc3772eaf01cf711038746ee2bd73db6517259dd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc6f070bb-a049-4d6e-802e-31933358191c"
       },
       {
-        "title": "Seahawks activate Zach Charbonnet (knee) from PUP - NBC Sports",
-        "description": "Seahawks activated Zach Charbonnet (knee) from the reserve/physically unable to perform list.",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-22/seahawks-activate-zach-charbonnet-knee-from-pup",
+        "title": "Kenneth Walker III, who had blood clots in high school, says Jalen Hurts flying is \"crazy\" - NBC Sports",
+        "description": "Chiefs running back Kenneth Walker III dealt with blood clots in his lungs in high school.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenneth-walker-iii-who-had-blood-clots-in-high-school-says-jalen-hurts-flying-is-crazy",
         "source": "NBCSports.com",
-        "publishedAt": "2026-10-23T03:04:55Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/472239e/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Feb%2F17%2F671b748b4dc6b08f8a0b213b9de8%2Fcharbonnet-zach.JPG"
-      },
-      {
-        "title": "Steelers fans, unfazed by French unrest, find Paris to be far from terrible - Pittsburgh Post-Gazette",
-        "description": "False",
-        "url": "https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-game-fans-paris-protests-riots/stories/202610220044",
-        "source": "Pittsburgh Post-Gazette",
-        "publishedAt": "2026-10-23T03:00:21Z",
-        "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202610220044/1140x_a10-7_cTC/img-1968-hiles102226_1792672765.jpg"
-      },
-      {
-        "title": "Sixers climb out of 29-point hole in stunning comeback win over Cavs - PHLY Sports",
-        "description": "Behind 32 points from Tyrese Maxey and a hellacious defensive effort in the second half, the Sixers overcame a 29-point Cavs lead to win 114-106 in their opener, opening the season 2-0. If you weren’t ready to jump on board with this team after the ring night…",
-        "url": "https://allphly.com/76ers/sixers-home-opener-29-point-comeback-win-cavs/",
-        "source": "Allphly.com",
-        "publishedAt": "2026-10-23T01:56:04Z",
-        "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/8/2026/10/22215033/2026-10-23T000236Z_1217402447_MT1USATODAY30156475_RTRMADP_3_NBA-CLEVELAND-CAVALIERS-AT-PHILADELPHIA-76ERS-1024x682.jpg"
+        "publishedAt": "2026-10-24T01:56:58Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/30b3037/2147483647/strip/true/crop/5741x3229+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2Fad%2F4112946a47ab985da1d448358bb1%2F2301198501.jpg"
       }
     ]
   }
