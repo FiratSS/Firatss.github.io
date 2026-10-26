@@ -1,130 +1,130 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "categories": {
     "technology": [
       {
-        "title": "Xbox announces 7 new games coming to Game Pass - Notebookcheck",
-        "description": "The ID@Xbox and IGN Showcase was packed with gameplay reveals, new trailers, and more. On top of that, several new titles were also announced for Game Pass members.",
-        "url": "https://www.notebookcheck.net/Xbox-announces-7-new-games-coming-to-Game-Pass.1431152.0.html",
-        "source": "Notebookcheck.net",
-        "publishedAt": "2026-10-24T02:54:00Z",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Game-Pass-new-lineup.jpg"
-      },
-      {
-        "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display - 9to5Mac",
-        "description": "Apple’s is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details.",
-        "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
-        "source": "9to5Mac",
-        "publishedAt": "2026-10-23T23:50:00Z",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&strip=all&resize=1200,628"
-      },
-      {
-        "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published - Nintendo Life",
-        "description": "Cover up?",
-        "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
-        "source": "Nintendo Life",
-        "publishedAt": "2026-10-23T23:30:00Z",
-        "image": "https://images.nintendolife.com/84f3b7c35dd08/1280x720.jpg"
-      },
-      {
-        "title": "The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS - MacRumors",
-        "description": "The iPhone Duo has an all-new form factor with multiple folding and orientation options, and app developers are having some fun with it. You can find...",
-        "url": "https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps/",
+        "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo - MacRumors",
+        "description": "Apple is considering changes to Safari on the iPhone Duo that would give websites access to more of the outer display, although the company has yet...",
+        "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
         "source": "MacRumors",
-        "publishedAt": "2026-10-23T23:22:55Z",
-        "image": "https://images.macrumors.com/t/hymIUIn9qThsSXiszB3vmdtVE8I=/1600x/article-new/2026/10/tiny-computer-iphone-duo.jpg"
+        "publishedAt": "2026-10-25T04:58:00Z",
+        "image": "https://images.macrumors.com/t/-gds-j9ogv7t6Gyzs0keTRaBBug=/1600x/article-new/2026/10/safari-iphone-duo-webkit.jpg"
       },
       {
-        "title": "Apple’s official DIY repair guides for the iPhone Duo now available - 9to5Mac",
-        "description": "Apple has published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the device.",
-        "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
-        "source": "9to5Mac",
-        "publishedAt": "2026-10-23T23:12:00Z",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&strip=all&resize=1200,628"
+        "title": "“Marvel’s Wolverine” Topped Game Sales Chart - Dark Horizons",
+        "description": "PlayStation and Insomniac Games’ “Marvel’s Wolverine” debuted as the best-selling game of September in the United States, according to analytics firm Circana. Using the full game sales data of both physical and digital copies, the PlayStation 5 exclusive deli…",
+        "url": "https://www.darkhorizons.com/marvels-wolverine-topped-game-sales-chart/",
+        "source": "Dark Horizons",
+        "publishedAt": "2026-10-25T03:26:31Z",
+        "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/10/marvels-wolverine-topped-game-sales-chart.jpg"
+      },
+      {
+        "title": "Xbox Reportedly Bungled $500 Million Netflix Exclusivity Deal To Develop Movies, Shows Based On Games - Kotaku",
+        "description": "According to industry insiders, newly appointed Xbox CEO Asha Sharma overplayed cross-media potential with recent Netflix exec Peter Rice to the tune of $800 million",
+        "url": "https://kotaku.com/xbox-reportedly-bungled-500-million-netflix-exclusivity-deal-to-develop-movies-shows-based-on-games-2000749336",
+        "source": "Kotaku",
+        "publishedAt": "2026-10-24T22:07:07Z",
+        "image": "https://kotaku.com/app/uploads/2026/10/halotvshow-1200x675.jpg"
+      },
+      {
+        "title": "Google gives Fitbit a major health upgrade with one catch - TheStreet",
+        "description": null,
+        "url": "https://www.thestreet.com/investing/google-gives-fitbit-a-major-health-upgrade-with-one-catch",
+        "source": "TheStreet",
+        "publishedAt": "2026-10-24T21:23:03Z",
+        "image": null
+      },
+      {
+        "title": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component - Rock Paper Shotgun",
+        "description": "Look, I've had a lot going on, alright?",
+        "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
+        "source": "Rock Paper Shotgun",
+        "publishedAt": "2026-10-24T15:57:33Z",
+        "image": "https://assetsio.gnwcdn.com/steam-personal-calendar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
       }
     ],
     "business": [
       {
-        "title": "October 23, 2026 - Letters from an American | Heather Cox Richardson",
-        "description": "Despite Trump’s statement yesterday that billionaire Elon Musk had removed the restrictions from Starlink and Starshield that are crippling Ukraine’s ability to protect itself from Russia, Ukraine president Volodymyr Zelensky said today the restrictions conti…",
-        "url": "https://heathercoxrichardson.substack.com/p/october-23-2026",
-        "source": "Substack.com",
-        "publishedAt": "2026-10-24T07:22:03Z",
-        "image": "https://substackcdn.com/image/fetch/$s_!9Zq0!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fheathercoxrichardson.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1871472435%26version%3D9"
-      },
-      {
-        "title": "Exclusive | JetBlue Creditors Hire Advisers as Airline’s Shares, Bonds Sink - WSJ",
+        "title": "A Veteran of the Telecom Bust Navigates the AI Boom - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/pro/bankruptcy/jetblue-creditors-huddle-with-restructuring-adviser-as-bonds-shares-sink-43866c42",
+        "url": "https://www.wsj.com/cio-journal/a-veteran-of-the-telecom-bust-navigates-the-ai-boom-b063fa63",
         "source": "The Wall Street Journal",
-        "publishedAt": "2026-10-24T02:35:00Z",
+        "publishedAt": "2026-10-25T10:24:06Z",
         "image": null
       },
       {
-        "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal - Al Jazeera",
-        "description": "President Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says.",
-        "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal",
-        "source": "Al Jazeera English",
-        "publishedAt": "2026-10-24T01:32:15Z",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adbf52f2605-1792800047.jpg?resize=1920%2C1440"
+        "title": "Column | Asking Eric: Am I ‘abandoning’ myself if I don’t leave my wife? - The Washington Post",
+        "description": "Wife’s treatment-resistant depression makes her dependent on the letter writer.",
+        "url": "https://www.washingtonpost.com/advice/2026/10/25/asking-eric-friends-counselors-tell-husband-leave-he-wont/",
+        "source": "The Washington Post",
+        "publishedAt": "2026-10-25T10:04:16Z",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5MQ3UZKPPNC47EOER4GGCXUB7U.jpg&w=1440"
       },
       {
-        "title": "Patient dies in Bristol Myers Squibb autoimmune CAR-T trial - STAT",
-        "description": "Where should the safety bar be for studies investigating CAR-T therapies for autoimmune conditions?",
-        "url": "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/",
-        "source": "STAT",
-        "publishedAt": "2026-10-23T23:49:48Z",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_1846705681_Editorial_Use_Only-1024x576.jpeg"
+        "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades - Financial Times",
+        "description": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
+        "url": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6\\\\u003d1",
+        "source": "Financial Times",
+        "publishedAt": "2026-10-25T05:01:30Z",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F36910998-36b2-4b8d-89cc-c4d47a6b2a27.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
       },
       {
-        "title": "MTA suspending bus fare enforcement teams after altercations emerge - Gothamist",
-        "description": "MTA Chair Janno Lieber said he needed to confirm protocols are being followed.",
-        "url": "https://gothamist.com/news/mta-suspending-bus-fare-enforcement-teams-after-altercations-emerge",
-        "source": "Gothamist",
-        "publishedAt": "2026-10-23T23:49:00Z",
-        "image": "https://api-prod.gothamist.com/images/362096/fill-1200x650|format-webp|webpquality-85/"
+        "title": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state - AP News",
+        "description": "President Donald Trump has announced that Audi will build a new auto factory in Georgia. The Republican president's announcement Saturday at a campaign rally comes as he tries to deliver on his promise to bolster American manufacturing in the final days befor…",
+        "url": "https://apnews.com/article/audi-georgia-trump-manufacturing-auto-plant-c1d49f2437c1d9cf349af399b8abe3a3",
+        "source": "Associated Press",
+        "publishedAt": "2026-10-25T02:22:00Z",
+        "image": "https://dims.apnews.com/dims4/default/ac53fb0/2147483647/strip/true/crop/2031x1354+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2Fd0%2F506955b78633c5057db0e44638cc%2F554f169cdd7d48f4b9078903cc608f8a"
+      },
+      {
+        "title": "Sinking Profits Turn China’s $3.5 Trillion Stock Rout Into Trap - Bloomberg.com",
+        "description": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-25/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-trap",
+        "source": "Bloomberg",
+        "publishedAt": "2026-10-25T00:00:00Z",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ir2lSogmkIAE/v0/1200x800.jpg"
       }
     ],
     "sports": [
       {
-        "title": "Arman Tsarukyan steps on Dillon Danis after shutout victory in RAF 14 main event - MMA Fighting",
-        "description": "Arman Tsarukyan made quick work of Dillon Danis before stepping on him to cap off RAF 14 on Friday from Las Vegas.",
-        "url": "https://www.mmafighting.com/raf-wrestling/517241/arman-tsarukyan-steps-on-dillon-danis-after-shutout-victory-in-raf-14-main-event",
-        "source": "MMA Fighting",
-        "publishedAt": "2026-10-24T04:18:00Z",
-        "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/IMG_5724.jpg?quality=90&strip=all&crop=0%2C16.254908376963%2C100%2C67.490183246073&w=1200"
-      },
-      {
-        "title": "RAF 14 results: Khamzat Chimaev smashes Robbie Lawler, promises to break Colby Covington’s neck - MMA Fighting",
-        "description": "Khamzat Chimaev scored a win over Robbie Lawler setting up his match against Colby Covington in Abu Dhabi.",
-        "url": "https://www.mmafighting.com/raf-wrestling/517295/raf-14-results-khamzat-chimaev-smashes-robbie-lawler-promises-to-break-colby-covingtons-neck",
-        "source": "MMA Fighting",
-        "publishedAt": "2026-10-24T03:55:00Z",
-        "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/Screenshot-2026-10-23-at-11.54.29-PM.png?quality=90&strip=all&crop=0,12.440245845664,100,75.119508308673"
-      },
-      {
-        "title": "Texas AD Del Conte clarifies AI use on key play that failed in loss to Florida - ESPN",
-        "description": "Texas AD Chris Del Conte on Friday sought to clarify a report that the team used a new AI-driven platform on a crucial play that failed in last week's loss to Florida.",
-        "url": "https://www.espn.com/college-football/story/_/id/50262750/texas-ad-clarifies-use-ai-key-play-loss-florida",
-        "source": "ESPN",
-        "publishedAt": "2026-10-24T02:48:00Z",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1021%2Fr1734125_1296x729_16%2D9.jpg"
-      },
-      {
-        "title": "Rays vs. Brewers live updates, lineups, where to watch: Nick Martinez, Jacob Misiorowski open World Series as both teams chase first title - Yahoo Sports",
-        "description": "The Brewers won their first World Series game in 44 years.",
-        "url": "https://sports.yahoo.com/mlb/live/brewers-rays-box-score-live-updates-world-series-game-1-lineups-starting-pitchers-news-highlights-where-to-watch-230130858.html",
+        "title": "World Series 2026: The Rays are learning the hard way what the Padres and Dodgers already know — these Brewers are relentless - Yahoo Sports",
+        "description": "As the series flips to Tampa for Game 3, it's difficult to envision this Milwaukee freight train being derailed by a Rays club currently playing below its ow...",
+        "url": "https://sports.yahoo.com/mlb/article/world-series-2026-the-rays-are-learning-the-hard-way-what-the-padres-and-dodgers-already-know--these-brewers-are-relentless-072329199.html",
         "source": "Yahoo Entertainment",
-        "publishedAt": "2026-10-24T02:32:00Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/76cd72f1991a75214e62e39adc3772eaf01cf711038746ee2bd73db6517259dd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc6f070bb-a049-4d6e-802e-31933358191c"
+        "publishedAt": "2026-10-25T07:23:29Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/aa37ae2d010674f9c7c2ee77bd63e006ef51beb8091c6346e7cf788c73fabc13/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F9d857d2a-c2a6-49c0-87c5-b6dc47bb1f21"
       },
       {
-        "title": "Kenneth Walker III, who had blood clots in high school, says Jalen Hurts flying is \"crazy\" - NBC Sports",
-        "description": "Chiefs running back Kenneth Walker III dealt with blood clots in his lungs in high school.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenneth-walker-iii-who-had-blood-clots-in-high-school-says-jalen-hurts-flying-is-crazy",
-        "source": "NBCSports.com",
-        "publishedAt": "2026-10-24T01:56:58Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/30b3037/2147483647/strip/true/crop/5741x3229+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2Fad%2F4112946a47ab985da1d448358bb1%2F2301198501.jpg"
+        "title": "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead - AP News",
+        "description": "Sal Frelick tied the score with his first home run in three months, Cooper Pratt hit a go-ahead single in the seventh inning and the Milwaukee Brewers stunned the Tampa Bay Rays 5-4 for a 2-0 World Series lead by overcoming a four-run deficit for the second t…",
+        "url": "https://apnews.com/article/brewers-rays-world-series-game-2-f67c22051a74370846c32b98fea39fa0",
+        "source": "Associated Press",
+        "publishedAt": "2026-10-25T06:39:00Z",
+        "image": "https://dims.apnews.com/dims4/default/4bb28d2/2147483647/strip/true/crop/2219x1480+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2F6f%2Fea751a05c8858133c0196dd36109%2F37a45af7f1154310854f2c13a558eeb7"
+      },
+      {
+        "title": "MotoGP's final Phillip Island race cancelled, replaced with parade lap - The Race",
+        "description": "The 2026 Australian Grand Prix MotoGP race at Phillip Island has been cancelled due to adverse weather conditions",
+        "url": "https://www.the-race.com/motogp/motogps-final-phillip-island-race-cancelled-replaced-with-parade-lap/",
+        "source": "The-race.com",
+        "publishedAt": "2026-10-25T05:02:05Z",
+        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/10/GnG_1357382_HiRes.jpg"
+      },
+      {
+        "title": "Jaylen Brown Addresses Jayson Tatum 'Beef,' Warns Celtics Star Playfully After 76ers Trade - Bleacher Report",
+        "description": "Jaylen Brown commented on his relationship with former teammate Jayson Tatum after the Boston Celtics traded Brown to the Philadelphia 76ers during the offseason.",
+        "url": "https://bleacherreport.com/articles/25519969-jaylen-brown-addresses-jayson-tatum-beef-warns-celtics-star-playfully-after-76ers-trade",
+        "source": "Bleacher Report",
+        "publishedAt": "2026-10-25T04:39:57Z",
+        "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2301573964_large_cropped.jpg?w=1120&h=630"
+      },
+      {
+        "title": "Arch Manning, Texas survive Ole Miss after another second-half meltdown creates Austin anxiety - Fox News",
+        "description": "Steve Sarkisian's Texas Longhorns blew another massive lead before flipping a switch in the fourth quarter to hold off Trinidad Chambliss and Ole Miss.",
+        "url": "https://www.foxnews.com/outkick-sports/arch-manning-texas-survive-ole-miss-second-half-meltdown-creates-austin-anxiety",
+        "source": "Fox News",
+        "publishedAt": "2026-10-25T04:25:43Z",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/arch-manning-texas-longhorns-ole-miss_002.jpg"
       }
     ]
   }
