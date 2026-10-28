@@ -1,114 +1,130 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "categories": {
     "technology": [
       {
-        "title": "From impulse purchase to pocket studio: The M-Vave FM-1 - Ars Technica",
-        "description": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
-        "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
-        "source": "Ars Technica",
-        "publishedAt": "2026-10-26T11:00:15Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261020_212659503.PORTRAIT-1152x648.jpg"
+        "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One - WIRED",
+        "description": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+        "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+        "source": "Wired",
+        "publishedAt": "2026-10-27T09:30:00Z",
+        "image": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/191:100/w_1280,c_limit/gear-ai-agent-best.jpg"
       },
       {
-        "title": "50+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale (North America/Europe) - Push Square",
-        "description": "Recommended games going cheap",
-        "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale-north-americaeurope",
-        "source": "Push Square",
-        "publishedAt": "2026-10-26T10:00:00Z",
-        "image": "https://images.pushsquare.com/b73e27df787ab/1280x720.jpg"
+        "title": "Pokémon Unite Ending Service For Switch In March 2027 - Nintendo Life",
+        "description": "\"Thank you for playing\"",
+        "url": "https://www.nintendolife.com/news/2026/10/pokemon-unite-ending-service-for-switch-in-march-2027",
+        "source": "Nintendo Life",
+        "publishedAt": "2026-10-27T07:18:01Z",
+        "image": "https://images.nintendolife.com/944dfec3ff50b/1280x720.jpg"
       },
       {
-        "title": "Google Changed Gmail On October 16—Check Your Account Now - Forbes",
-        "description": null,
-        "url": "https://www.forbes.com/sites/zakdoffman/2026/10/26/google-changed-gmail-on-october-16-check-your-account-now/",
-        "source": "Forbes",
-        "publishedAt": "2026-10-26T09:23:31Z",
-        "image": null
+        "title": "X is nudging users to promote their posts with a pointing hand, and people are confused - TechCrunch",
+        "description": "Whose hand is behind this travesty?",
+        "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-10-27T06:34:44Z",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675"
       },
       {
-        "title": "Apple Will Reportedly Stop Making You Feel Like a Thief When You Return an Unopened iPhone - Gizmodo",
-        "description": "Opening your unopened box just felt aggressive.",
-        "url": "https://gizmodo.com/apple-will-reportedly-stop-making-you-feel-like-a-thief-when-you-return-an-unopened-iphone-2000830392",
-        "source": "Gizmodo.com",
-        "publishedAt": "2026-10-26T09:01:59Z",
-        "image": "https://gizmodo.com/app/uploads/2026/10/iphone-duo-in-box-1200x675.jpg"
+        "title": "Phantom Blade Zero PC Performance Benchmarks – Fast-Paced Wuxia That Looks Phenomenal In Path Tracing & Boosted By NVIDIA RTX Tech - Wccftech",
+        "description": "Phantom Blade Zero is out now on PC, offering increased graphics fidelity through NVIDIA's DLSS 4.5 technology, Path Tracing, and much more.",
+        "url": "https://wccftech.com/phantom-blade-zero-pc-performance-benchmarks/",
+        "source": "Wccftech",
+        "publishedAt": "2026-10-27T06:10:23Z",
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/5d7af6b1-79a9-410a-a5d1-57e60127b4f9.jpg"
+      },
+      {
+        "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow - MacRumors",
+        "description": "After announcing a new iPad mini today, Apple is expected to introduce updated iMac and 14-inch MacBook Pro models on Tuesday, both with the M6 chip...",
+        "url": "https://www.macrumors.com/2026/10/26/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
+        "source": "MacRumors",
+        "publishedAt": "2026-10-27T02:30:00Z",
+        "image": "https://images.macrumors.com/t/MRLDVW2ExRH6dmGKL6UzdwluIig=/3840x/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg"
       }
     ],
     "business": [
       {
-        "title": "Why the Fed may hold off on another rate hike despite high inflation - USA Today",
-        "description": "The Fed raised its benchmark for interest rates to fight inflation last month. With it still high, officials may hold off on another hike. Here's why.",
-        "url": "https://www.usatoday.com/story/money/economy/2026/10/26/federal-reserve-october-2026-interest-rate-decision-preview/92362597007/",
-        "source": "USA Today",
-        "publishedAt": "2026-10-26T12:11:30Z",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/21/USAT/92362743007-20261014-t-182801-z-1506485384-rc-2-unmaxtdzx-rtrmadp-3-bankstrading.JPG?crop=5219,2936,x0,y272&width=3200&height=1801&format=pjpg&auto=webp"
+        "title": "SoFi Reports Third Quarter 2026 with Record Net Revenue of $1.4 Billion, Net Income of $241 Million and Raises Full-Year Guidance - SoFi Investor Relations",
+        "description": "Adjusted Net Revenue up 44% to a record $1.4 billion Adjusted EBITDA up 70% to a record $470 million Adjusted Net income of $243 million, with $0.18 EPS Member growth up 35% to a record 17.1 million members Product growth up 44% to a record 26.7 million produ…",
+        "url": "https://investors.sofi.com/news/news-details/2026/SoFi-Reports-Third-Quarter-2026-with-Record-Net-Revenue-of-1-4-Billion-Net-Income-of-241-Million-and-Raises-Full-Year-Guidance/default.aspx",
+        "source": "Sofi.com",
+        "publishedAt": "2026-10-27T11:02:22Z",
+        "image": "https://mms.businesswire.com/media/20261027171879/en/2947595/4/Screenshot_2026-10-26_164112.jpg"
       },
       {
-        "title": "It took just 12 hours for an AI start-up founded by ex-DOGE staffers to break into Anthropic - The Washington Post",
-        "description": "The start-up firm Cathedral’s ability to penetrate sensitive programs at one of the nation's leading AI companies comes amid mounting concerns about security in the global AI race.",
-        "url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
+        "title": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production - CNBC",
+        "description": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+        "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-27T11:00:01Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108448328-1792700899335-gettyimages-2284942318-AFP_B9W49EE.jpeg?v=1792700980&w=1920&h=1080"
+      },
+      {
+        "title": "Column | I saw the future of driving in Mexico. It’s off-limits to Americans. - The Washington Post",
+        "description": "Mexico is a showroom for electric cars you can’t buy in the United States, with a growing fleet of sleek new vehicles from Chinese brands unknown to Americans.",
+        "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
         "source": "The Washington Post",
-        "publishedAt": "2026-10-26T12:00:16Z",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/AU5DFV7TFPUXR2LK7HVIQ6IQLE.JPG&w=1440"
+        "publishedAt": "2026-10-27T10:32:22Z",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LKUJHJRCMT5OGZJEUNR6XUQ4ZI.jpg&w=1440"
       },
       {
-        "title": "Stock Market Today: AI Jitters Grip CoreWeave, Other Tech Stocks Again — Live Updates - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-10-26T11:59:39Z",
-        "image": null
+        "title": "GM will switch to Nasdaq from the NYSE on Nov. 17 - CNBC",
+        "description": "GM expects to keep its “GM” ticker symbol, and the company says shareholders do not need to take action because of the transfer.",
+        "url": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
+        "source": "CNBC",
+        "publishedAt": "2026-10-27T10:32:04Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108296231-1776955258520-GMInvestors82-Jacobson.jpg?v=1777057335&w=1920&h=1080"
       },
       {
-        "title": "Anthropic Is Said to Plan Public Filing for Mega-IPO Monday - Yahoo Finance",
-        "description": "Anthropic PBC is planning to file publicly for an initial public offering Monday at around 9 a.m. in New York, according to people familiar with the matter,...",
-        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-said-plan-public-filing-115338000.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-10-26T11:53:38Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/799f1ec7f24b10c5c4f404eb16f1c8c51bb8870aeabb44ad495752c5dcc7352c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Ff751ac6e4f457b80b2e8c53e44697687.jpg"
+        "title": "How Aldi is pushing down grocery prices : Planet Money - NPR",
+        "description": "The German-owned chain's low prices are winning over shoppers — and pushing competitors to respond.",
+        "url": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
+        "source": "NPR",
+        "publishedAt": "2026-10-27T10:30:00Z",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F80%2F35%2F55de67984408812488e043793a67%2Fgettyimages-2213107774.jpg"
       }
     ],
     "sports": [
       {
-        "title": "Packers S Xavier McKinney: I see what’s going on with officiating and it’s killing us - NBC Sports",
-        "description": "Packers head coach Matt LaFleur got heated with officials several times during Sunday's 20-17 loss to the Lions, but he didn't want to make them the focus of his postgame comments.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-s-xavier-mckinney-i-see-whats-going-on-with-officiating-and-its-killing-us",
+        "title": "Michael Carrick to stay in charge of Man Utd for Chelsea game - BBC",
+        "description": "Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend.",
+        "url": "https://www.bbc.com/sport/football/articles/crlykgeqzypyo",
+        "source": "BBC News",
+        "publishedAt": "2026-10-27T12:10:21Z",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6a02/live/af396ea0-d1f7-11f1-8c9f-8d21fef6ffad.jpg"
+      },
+      {
+        "title": "Oregon QB Dante Moore won’t return this season from his concussion - NBC Sports",
+        "description": "Oregon quarterback Dante Moore, who entered the season as one of the top prospects in the 2027 draft, will not play again during the 2026 season.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/oregon-qb-dante-moore-wont-return-this-season-from-his-concussion",
         "source": "NBCSports.com",
-        "publishedAt": "2026-10-26T11:08:29Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/309c3b1/2147483647/strip/true/crop/5568x3132+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F01%2F7d%2F8042b97643ed802b17103c39545f%2F2301583307.jpg"
+        "publishedAt": "2026-10-27T10:51:43Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9cf4b62/2147483647/strip/true/crop/6086x3423+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2Fe5%2Fd0bea5fa4607b78547e7bea5df31%2F2301600400.jpg"
       },
       {
-        "title": "NFL Week 7 winners, losers led by Jets' Aaron Glenn running out of chances - USA Today",
-        "description": "Aaron Glenn insists the Jets are on the right track, but a stunning loss to the previously winless Dolphins suggests otherwise.",
-        "url": "https://www.usatoday.com/story/sports/nfl/2026/10/26/aaron-glenn-jets-coach-nfl-week-7-winners-losers/92431816007/",
-        "source": "USA Today",
-        "publishedAt": "2026-10-26T11:08:00Z",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/26/USAT/92439214007-20261025-t-215128-z-1758599879-mt-1-usatoday-30186440-rtrmadp-3-newyorkjetsheadcoachaaronglennsufferedanotherloss.JPG?crop=4863,2735,x0,y250&width=3200&height=1800&format=pjpg&auto=webp"
+        "title": "Chinese brands cut ties with French soccer star Mbappé over ‘Chinese dictator’ remark - AP News",
+        "description": "Kylian Mbappé has apologized for comments referring to Mao Zedong as a dictator. He said his remarks were ill-judged and hurt many people in China and Chinese communities worldwide. On Tuesday, at least three companies, including Dongpeng and Mengniu, cut tie…",
+        "url": "https://apnews.com/article/china-mbappe-companies-mao-zedong-837fee251df278d5657894ec226fa069",
+        "source": "Associated Press",
+        "publishedAt": "2026-10-27T08:03:00Z",
+        "image": "https://dims.apnews.com/dims4/default/8ba3daf/2147483647/strip/true/crop/7184x4790+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9f%2F34%2F503f5fc9c42776d0507a3580a912%2Faab857a9e53043f09f0b6223aabf71d4"
       },
       {
-        "title": "The Third-String Castoff Quarterback Sparking a Giant Turnaround - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/sports/football/jj-mccarthy-giants-0c041275",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-10-26T11:00:00Z",
-        "image": null
+        "title": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or - NPR",
+        "description": "Kane was followed in the voting by Kylian Mbappé. Spain star Alexia Putellas won her third women's Ballon d'Or. Outside, fans packed the streets and climbed light poles near the London Palladium.",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor",
+        "source": "NPR",
+        "publishedAt": "2026-10-27T06:30:54Z",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8287x4661+0+432/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2Fe3%2Fb5a8cc5f42d9b7be982457f52bda%2Fap26299809937762.jpg"
       },
       {
-        "title": "NFL Week 7: A divisional duel in Detroit, and Aaron Rodgers keeps winning - NBC News",
-        "description": "Week 7 of the NFL season featured a Super Bowl contender getting back on track and a thrilling divisional showdown in the NFC North, plus another comeback win for one of the NFL’s most surprising teams.",
-        "url": "https://www.nbcnews.com/sports/nfl/nfl-week-7-detroit-lions-green-bay-packers-aaron-rodgers-rcna605618",
-        "source": "NBC News",
-        "publishedAt": "2026-10-26T10:04:00Z",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-Jared-Goff-lions-nfl-ww-1919-4d721c.jpg"
-      },
-      {
-        "title": "NFL Week 7 Lessons: Don’t Be Fooled by the Steelers’ Three-Game Winning Streak - Sports Illustrated",
-        "description": "There aren't enough signs to indicate they will end their playoff losing streak. Plus, the 49ers are battling injuries and a simple approach leads Rams to a win.",
-        "url": "https://www.si.com/nfl/nfl-week-7-lessons-don-t-be-fooled-by-steelers",
-        "source": "Sports Illustrated",
-        "publishedAt": "2026-10-26T10:00:00Z",
-        "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_148,w_6618,h_3722/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01m5tza8kcgz79t16zne.jpg"
+        "title": "World Series 2026: Jackson Chourio, still just 22, continues his incredible postseason run with 4-hit game in Brewers' Game 3 victory - Yahoo Sports",
+        "description": "In Milwaukee's 10-1 rout, Chourio became the youngest player in 80 years to record four hits in a World Series game.",
+        "url": "https://sports.yahoo.com/mlb/article/world-series-2026-jackson-chourio-still-just-22-continues-his-incredible-postseason-run-with-4-hit-game-in-brewers-game-3-victory-062703135.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-10-27T06:27:00Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/ab57f8aed70b8558276d98e1b56be022cfc79e13b4e78f3cd18087a130e5b2b7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F85abaabc-6502-4e8c-ae56-68bad17604d5"
       }
     ]
   }
