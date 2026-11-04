@@ -7,7 +7,7 @@
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Robotics, machine learning, blockchain, and IoT — personal interests and curated resources from Firat Selcuk.">
-        <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="assets/css/main.css?v=6">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <style>
                 .section-header {
@@ -18,12 +18,12 @@
                 .section-header h2 {
                         font-size: 2.5rem;
                         margin-bottom: 1rem;
-                        color: #333;
+                        color: #e6e9ef;
                 }
 
                 .section-header p {
                         font-size: 1.2rem;
-                        color: #666;
+                        color: #a3adbf;
                         max-width: 600px;
                         margin: 0 auto;
                 }
@@ -36,8 +36,8 @@
                 }
 
                 .interest-card {
-                        background: #fff;
-                        border: 1px solid #e9ecef;
+                        background: #121826;
+                        border: 1px solid #263046;
                         border-radius: 12px;
                         padding: 2rem;
                         transition: all 0.3s ease;
@@ -56,18 +56,18 @@
                         left: 0;
                         right: 0;
                         height: 4px;
-                        background: linear-gradient(90deg, #B9852B, #96691C);
+                        background: linear-gradient(90deg, #5d6da3, #414f80);
                 }
 
                 .interest-card:hover {
                         transform: translateY(-8px);
                         box-shadow: 0 20px 40px rgba(0,0,0,0.15);
-                        border-color: #B9852B;
+                        border-color: #9fb0e0;
                 }
 
                 .interest-card h3 {
                         margin-top: 0;
-                        color: #333;
+                        color: #e6e9ef;
                         display: flex;
                         align-items: center;
                         gap: 0.75rem;
@@ -75,7 +75,7 @@
                 }
 
                 .interest-intro {
-                        color: #555;
+                        color: #a3adbf;
                         line-height: 1.6;
                         margin: 1rem 0;
                         flex: 1;
@@ -86,7 +86,7 @@
                 }
 
                 .learn-more-btn {
-                        background: linear-gradient(135deg, #B9852B, #96691C);
+                        background: transparent; border: 1px solid rgba(255,255,255,0.4);
                         color: white;
                         padding: 0.75rem 1.5rem;
                         border-radius: 25px;
@@ -101,14 +101,14 @@
                 .loading {
                         text-align: center;
                         padding: 3rem;
-                        color: #666;
+                        color: #a3adbf;
                         grid-column: 1 / -1;
                 }
 
                 .no-results {
                         text-align: center;
                         padding: 3rem;
-                        color: #888;
+                        color: #a3adbf;
                         grid-column: 1 / -1;
                 }
 
@@ -134,7 +134,7 @@
                 }
 
                 .interest-detail-content {
-                        background: white;
+                        background: #121826;
                         border-radius: 16px;
                         max-width: 700px;
                         width: 100%;
@@ -150,8 +150,8 @@
                         position: absolute;
                         top: 1.5rem;
                         right: 1.5rem;
-                        background: #f8f9fa;
-                        border: 2px solid #e9ecef;
+                        background: #161d2c;
+                        border: 2px solid #263046;
                         width: 42px;
                         height: 42px;
                         border-radius: 50%;
@@ -161,23 +161,23 @@
                         align-items: center;
                         justify-content: center;
                         transition: all 0.3s ease;
-                        color: #495057;
+                        color: #a3adbf;
                         z-index: 10;
                 }
 
                 .close-btn:hover {
-                        background: #e9ecef;
+                        background: #263046;
                         transform: rotate(90deg);
-                        border-color: #B9852B;
+                        border-color: #9fb0e0;
                 }
 
                 .interest-detail-content h1 {
                         margin-top: 0;
-                        color: #333;
+                        color: #e6e9ef;
                 }
 
                 .interest-detail-content h2 {
-                        color: #B9852B;
+                        color: #9fb0e0;
                         margin-top: 2rem;
                         margin-bottom: 1rem;
                         font-size: 1.4rem;
@@ -195,7 +195,7 @@
                 }
 
                 .interest-links a {
-                        color: #B9852B;
+                        color: #9fb0e0;
                         text-decoration: none;
                         display: inline-flex;
                         align-items: center;
@@ -211,7 +211,7 @@
                         margin: 1.5rem auto;
                         padding-left: 1.5rem;
                         line-height: 1.8;
-                        color: #555;
+                        color: #a3adbf;
                 }
 
                 .evolve-list li {
@@ -222,7 +222,7 @@
                         max-width: 700px;
                         margin: 1.5rem auto 0;
                         text-align: center;
-                        color: #666;
+                        color: #a3adbf;
                 }
 
                 .interest-detail-content p {
@@ -231,7 +231,7 @@
                 }
 
                 .interest-detail-content h3 {
-                        color: #495057;
+                        color: #a3adbf;
                         text-transform: uppercase;
                         letter-spacing: 0.5px;
                         font-size: 0.9rem;
@@ -244,7 +244,7 @@
                 }
 
                 .link-description {
-                        color: #777;
+                        color: #a3adbf;
                         font-size: 0.9rem;
                         margin: 0.25rem 0 0 !important;
                         line-height: 1.5;
@@ -286,6 +286,7 @@
 
         <!-- Banner -->
         <section id="banner">
+                <div id="particles-js"></div>
                 <div class="inner">
                         <header>
                                 <h1>Interests & Ongoing Learning</h1>
@@ -493,6 +494,10 @@
                 document.addEventListener('DOMContentLoaded', loadFields);
         </script>
 
+        <script src="assets/js/particles.min.js"></script>
+        <script>
+                particlesJS.load('particles-js', 'assets/js/particles.json');
+        </script>
 </body>
 
 </html>

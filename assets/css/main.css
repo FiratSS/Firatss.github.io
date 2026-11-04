@@ -107,8 +107,8 @@ section {
 
 body {
 	line-height: 1;
-	background-color: #fff;
-	color: #999999;
+	background-color: #0b0f17;
+	color: #a3adbf;
 	font-family: "Scope One", serif;
 	font-size: 13pt;
 	font-weight: 300;
@@ -216,7 +216,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #000;
+	color: #f1f3f8;
 	font-weight: 700;
 	line-height: 1.5;
 	margin: 0 0 1em 0;
@@ -263,11 +263,11 @@ i {
 a {
 	transition: color 0.2s ease-in-out;
 	text-decoration: none;
-	color: #999999;
+	color: #9fb0e0;
 }
 
 a:hover {
-	color: rgba(153, 153, 153, 0.5);
+	color: #fff;
 }
 
 /* Button */
@@ -275,7 +275,7 @@ button,
 .button {
 	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 	border-radius: 4px;
-	border: 0;
+	border: 1px solid rgba(255, 255, 255, 0.4);
 	cursor: pointer;
 	display: inline-block;
 	font-weight: 700;
@@ -284,18 +284,18 @@ button,
 	padding: 0 1.5em;
 	text-align: center;
 	white-space: nowrap;
-	background-color: #3498db;
+	background-color: transparent;
 	color: #fff;
 }
 
 button:hover,
 .button:hover {
-	background-color: #4aa3df;
+	background-color: rgba(255, 255, 255, 0.12);
 }
 
 button:active,
 .button:active {
-	background-color: #258cd1;
+	background-color: rgba(255, 255, 255, 0.2);
 }
 
 /* Centering the section content */
@@ -309,9 +309,8 @@ button:active,
 	/* Full viewport height */
 	padding: 2em;
 	/* Adds some padding */
-	background: rgba(255, 255, 255, 0.9);
-	/* Slight background to make text readable */
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	background: #161d2c;
+	box-shadow: none;
 	/* Optional: Adds a slight shadow */
 }
 
@@ -350,7 +349,7 @@ button:active,
 
 #header>.logo a {
 	font-size: 1.25em;
-	color: #3498db;
+	color: #9fb0e0;
 }
 
 #header>.logo span {
@@ -367,7 +366,7 @@ button:active,
 }
 
 #header a:hover {
-	color: #3498db;
+	color: #9fb0e0;
 }
 
 /* Menu */
@@ -404,7 +403,7 @@ button:active,
 }
 
 #menu .close:hover {
-	color: #3498db;
+	color: #9fb0e0;
 }
 
 #menu.visible {
@@ -426,11 +425,10 @@ button:active,
 	align-items: center;
 	justify-content: center;
 	padding: 8em 0 6em 0;
-	background: #f0f0f0;
-	/* Set a light background color */
+	background: #0b1220;
+	/* Night sky */
 	color: #fff;
 	/* Retain the original color if needed */
-	/* background-image: url("../../images/Background.png"); */
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -450,7 +448,7 @@ button:active,
 	left: 0;
 	right: 0;
 	height: 160px;
-	background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #fff 100%);
+	background: linear-gradient(180deg, rgba(11, 15, 23, 0) 0%, #0b0f17 100%);
 	z-index: 2;
 	pointer-events: none;
 }
@@ -544,7 +542,7 @@ button:active,
 }
 
 .copyright {
-	color: #bfbfbf;
+	color: #7d8799;
 	font-size: 0.9em;
 	margin: 0 0 2em 0;
 	padding: 0;
@@ -553,7 +551,7 @@ button:active,
 
 .copyright a {
 	text-decoration: none !important;
-	color: black !important;
+	color: #e6e9ef !important;
 	font-weight: 900 !important;
 }
 
@@ -620,12 +618,9 @@ button:active,
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background-color: #1a1a1a;
-	/* Darker background for better visibility of particles */
-	background-image: url("../../images/Background.png");
-	/* Ensure this is either removed or set to a valid image */
-	background-size: cover;
-	background-position: 50% 50%;
+	/* Night sky: deep navy fading to near-black */
+	background-color: #070b14;
+	background-image: radial-gradient(ellipse at 50% 100%, #1c2c4f 0%, #0b1220 55%, #05080f 100%);
 	z-index: 1;
 }
 
@@ -636,4 +631,28 @@ button:active,
 	/* Ensure text is visible on dark background */
 	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
 	/* Add a slight shadow for readability */
+}
+/* Banner buttons: outlined to match the night-sky hero */
+#banner .button,
+#banner .button.big {
+	background: rgba(255, 255, 255, 0.04) !important;
+	background-color: rgba(255, 255, 255, 0.04) !important;
+	box-shadow: none !important;
+	border: 1px solid rgba(255, 255, 255, 0.45);
+	border-radius: 4px;
+	color: #fff !important;
+	font-weight: 600;
+	text-decoration: none;
+	transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+#banner .button:hover,
+#banner .button.big:hover {
+	background: rgba(255, 255, 255, 0.14) !important;
+	border-color: #fff;
+}
+
+/* Alternating dark sections */
+.wrapper.style2 {
+	background: #0b0f17;
 }

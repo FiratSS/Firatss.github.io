@@ -7,7 +7,7 @@
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Stay updated with the latest technology, business, and sports news - automatically curated daily.">
-        <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="assets/css/main.css?v=6">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <style>
                 .news-container {
@@ -24,11 +24,11 @@
                 .news-header h2 {
                         font-size: 2.5em;
                         margin-bottom: 0.5em;
-                        color: #333;
+                        color: #e6e9ef;
                 }
 
                 .news-updated {
-                        color: #888;
+                        color: #a3adbf;
                         font-style: italic;
                         font-size: 1.1em;
                 }
@@ -41,9 +41,9 @@
                         font-size: 2em;
                         margin-bottom: 1.5em;
                         padding-bottom: 0.5em;
-                        border-bottom: 3px solid #B9852B;
+                        border-bottom: 3px solid #9fb0e0;
                         text-transform: capitalize;
-                        color: #333;
+                        color: #e6e9ef;
                 }
 
                 .news-grid {
@@ -54,20 +54,20 @@
                 }
 
                 .news-card {
-                        background: #fff;
+                        background: #121826;
                         border-radius: 12px;
                         overflow: hidden;
                         box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
                         transition: transform 0.3s ease, box-shadow 0.3s ease;
                         display: flex;
                         flex-direction: column;
-                        border: 1px solid #e9ecef;
+                        border: 1px solid #263046;
                 }
 
                 .news-card:hover {
                         transform: translateY(-8px);
                         box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
-                        border-color: #B9852B;
+                        border-color: #9fb0e0;
                 }
 
                 .news-image-container {
@@ -75,7 +75,7 @@
                         height: 220px;
                         overflow: hidden;
                         position: relative;
-                        background: linear-gradient(135deg, #B9852B 0%, #96691C 100%);
+                        background: linear-gradient(135deg, #5d6da3 0%, #414f80 100%);
                 }
 
                 .news-image {
@@ -110,23 +110,23 @@
                         font-size: 1.2em;
                         font-weight: bold;
                         margin-bottom: 0.75em;
-                        color: #333;
+                        color: #e6e9ef;
                         line-height: 1.4;
                 }
 
                 .news-title a {
-                        color: #333;
+                        color: #e6e9ef;
                         text-decoration: none;
                         border-bottom: none;
                         transition: color 0.3s ease;
                 }
 
                 .news-title a:hover {
-                        color: #B9852B;
+                        color: #9fb0e0;
                 }
 
                 .news-description {
-                        color: #666;
+                        color: #a3adbf;
                         margin-bottom: 1.25em;
                         line-height: 1.6;
                         flex: 1;
@@ -137,14 +137,14 @@
                         justify-content: space-between;
                         align-items: center;
                         font-size: 0.9em;
-                        color: #888;
+                        color: #a3adbf;
                         padding-top: 1em;
-                        border-top: 1px solid #eee;
+                        border-top: 1px solid #263046;
                 }
 
                 .news-source {
                         font-weight: bold;
-                        color: #B9852B;
+                        color: #9fb0e0;
                         display: flex;
                         align-items: center;
                         gap: 0.5rem;
@@ -160,9 +160,9 @@
                 .no-news {
                         text-align: center;
                         padding: 3em;
-                        color: #888;
+                        color: #a3adbf;
                         font-style: italic;
-                        background: #f8f9fa;
+                        background: #161d2c;
                         border-radius: 12px;
                 }
 
@@ -170,7 +170,7 @@
                         text-align: center;
                         padding: 3em;
                         font-size: 1.2em;
-                        color: #666;
+                        color: #a3adbf;
                 }
 
                 .loading i {
@@ -178,7 +178,7 @@
                         animation: spin 1s linear infinite;
                         margin-bottom: 1rem;
                         display: block;
-                        color: #B9852B;
+                        color: #9fb0e0;
                 }
 
                 @keyframes spin {
@@ -226,6 +226,7 @@
 
         <!-- Banner -->
         <section id="banner">
+                <div id="particles-js"></div>
                 <div class="inner">
                         <header>
                                 <h1><i class="fas fa-newspaper"></i> Daily News</h1>
@@ -388,6 +389,10 @@
 
                 // Load news when page loads
                 document.addEventListener('DOMContentLoaded', loadNews);
+        </script>
+        <script src="assets/js/particles.min.js"></script>
+        <script>
+                particlesJS.load('particles-js', 'assets/js/particles.json');
         </script>
 </body>
 

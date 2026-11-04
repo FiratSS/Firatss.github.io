@@ -7,7 +7,7 @@
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Explore Firat Selcuk's software development and testing projects, including API testing, web applications, and automation frameworks.">
-        <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="assets/css/main.css?v=6">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <style>
                 .projects-grid {
@@ -18,8 +18,8 @@
                 }
                 
                 .project-card {
-                        background: #fff;
-                        border: 1px solid #e9ecef;
+                        background: #121826;
+                        border: 1px solid #263046;
                         border-radius: 12px;
                         padding: 2rem;
                         transition: all 0.3s ease;
@@ -35,18 +35,18 @@
                         left: 0;
                         right: 0;
                         height: 4px;
-                        background: linear-gradient(90deg, #B9852B, #96691C);
+                        background: linear-gradient(90deg, #5d6da3, #414f80);
                 }
                 
                 .project-card:hover {
                         transform: translateY(-8px);
                         box-shadow: 0 20px 40px rgba(0,0,0,0.15);
-                        border-color: #B9852B;
+                        border-color: #9fb0e0;
                 }
                 
                 .project-card h3 {
                         margin-top: 0;
-                        color: #333;
+                        color: #e6e9ef;
                         display: flex;
                         align-items: center;
                         gap: 0.75rem;
@@ -54,7 +54,7 @@
                     }
                 
                 .project-tech {
-                        background: linear-gradient(135deg, #B9852B, #96691C);
+                        background: linear-gradient(135deg, #5d6da3, #414f80);
                         color: white;
                         padding: 0.4rem 0.8rem;
                         border-radius: 20px;
@@ -64,8 +64,10 @@
                         font-weight: 500;
                     }
                 
+                .project-card { display: flex; flex-direction: column; }
+                .project-card .project-footer { margin-top: auto; }
                 .project-description {
-                        color: #666;
+                        color: #a3adbf;
                         line-height: 1.6;
                         margin: 1rem 0;
                     }
@@ -85,12 +87,12 @@
                 .section-header h2 {
                         font-size: 2.5rem;
                         margin-bottom: 1rem;
-                        color: #333;
+                        color: #e6e9ef;
                     }
                 
                 .section-header p {
                         font-size: 1.2rem;
-                        color: #666;
+                        color: #a3adbf;
                         max-width: 600px;
                         margin: 0 auto;
                     }
@@ -103,15 +105,15 @@
                     }
                 
                 .tech-category {
-                        background: #f8f9fa;
+                        background: #161d2c;
                         padding: 2rem;
                         border-radius: 12px;
-                        border: 1px solid #E1E4EA;
+                        border: 1px solid #263046;
                     }
                 
                 .tech-category h4 {
                         margin-top: 0;
-                        color: #333;
+                        color: #e6e9ef;
                         display: flex;
                         align-items: center;
                         gap: 0.5rem;
@@ -124,7 +126,7 @@
                 
                 .tech-category li {
                         padding: 0.5rem 0;
-                        border-bottom: 1px solid #e9ecef;
+                        border-bottom: 1px solid #263046;
                     }
                 
                 .tech-category li:last-child {
@@ -132,7 +134,7 @@
                     }
                 
                 .cta-section {
-                        background: linear-gradient(135deg, #B9852B 0%, #96691C 100%);
+                        background: linear-gradient(135deg, #5d6da3 0%, #414f80 100%);
                         color: white;
                         padding: 3rem 0;
                         margin: 3rem 0;
@@ -210,11 +212,12 @@
 
         <!-- Banner -->
         <section id="banner">
+                <div id="particles-js"></div>
                 <div class="inner">
                         <header>
                                 <h1>My Projects</h1>
                                 <p>Explore my software development and testing projects<br>
-                                From API testing frameworks to web applications, discover the solutions I've built</p>
+                                From AI-assisted test generation to full-stack web apps</p>
                         </header>
                         <a href="#main" class="button big scrolly">View Projects</a>
                 </div>
@@ -231,63 +234,41 @@
                                 
                                 <div class="projects-grid">
                                         <div class="project-card">
+                                                <h3><i class="fas fa-robot"></i> AI Test Automation Generator</h3>
+                                                <div class="project-description">
+                                                        <p>A VS Code extension that turns manual test cases into Playwright tests. Engineers review the Claude-generated code, regenerate with feedback, and commit it to GitHub. It reads the target repo's existing fixtures and page objects so output follows the suite's conventions.</p>
+                                                        <p><strong>Architecture:</strong> TypeScript/React extension, FastAPI backend, async Redis (RQ) worker jobs calling the Claude API, PostgreSQL, GitHub OAuth, deployed on Railway.</p>
+                                                        <p><strong>My role:</strong> built the whole stack solo. The generate, regenerate, connect and commit loop is verified end-to-end on the live deployment. No external users yet.</p>
+                                                </div>
+                                                <div class="project-footer">
+                                                <div>
+                                                        <span class="project-tech">Playwright</span>
+                                                        <span class="project-tech">Claude API</span>
+                                                        <span class="project-tech">TypeScript</span>
+                                                        <span class="project-tech">FastAPI</span>
+                                                        <span class="project-tech">Redis / RQ</span>
+                                                        <span class="project-tech">PostgreSQL</span>
+                                                </div>
+                                                <p style="color: #a3adbf; margin: 1rem 0 0;"><em>Source is in a private repository.</em></p>
+                                                </div>
+                                        </div>
+                                        <div class="project-card">
                                                 <h3><i class="fas fa-utensils"></i> RecipeApp</h3>
                                                 <div class="project-description">
-                                                        <p>A comprehensive recipe management application built with JavaScript. Features include recipe search, categorization, and user-friendly interface for discovering and managing favorite recipes.</p>
+                                                        <p>A full-stack recipe app: search for recipes, submit your own, and sign in with Firebase Authentication. React frontend and a Node/Express API backed by MongoDB (Mongoose), with request validation and rate limiting. Containerized with Docker, with GitHub Actions CI running Jest tests for both frontend and backend.</p>
                                                 </div>
+                                                <div class="project-footer">
                                                 <div>
-                                                        <span class="project-tech">JavaScript</span>
-                                                        <span class="project-tech">HTML</span>
-                                                        <span class="project-tech">CSS</span>
+                                                        <span class="project-tech">React</span>
+                                                        <span class="project-tech">Node.js / Express</span>
+                                                        <span class="project-tech">MongoDB</span>
+                                                        <span class="project-tech">Firebase Auth</span>
+                                                        <span class="project-tech">Docker</span>
+                                                        <span class="project-tech">GitHub Actions</span>
                                                 </div>
                                                 <div class="project-actions">
                                                         <a href="https://github.com/FiratSS/RecipeApp" class="button" target="_blank">View on GitHub</a>
                                                 </div>
-                                        </div>
-                                        <div class="project-card">
-                                                <h3><i class="fas fa-plug"></i> API Testing Suite</h3>
-                                                <div class="project-description">
-                                                        <p>Comprehensive API testing framework using RestAssured. Includes automated testing for REST APIs, data validation, integration testing, and comprehensive test reporting.</p>
-                                                </div>
-                                                <div>
-                                                        <span class="project-tech">Java</span>
-                                                        <span class="project-tech">RestAssured</span>
-                                                        <span class="project-tech">TestNG</span>
-                                                        <span class="project-tech">Maven</span>
-                                                </div>
-                                                <div class="project-actions">
-                                                        <a href="https://github.com/FiratSS/API-RestAssured-Java" class="button" target="_blank">View on GitHub</a>
-                                                </div>
-                                        </div>
-                                </div>
-                        </div>
-                </section>
-
-                <hr class="major">
-
-                <!-- All Projects -->
-                <section class="wrapper style2">
-                        <div class="inner">
-                                <div class="section-header">
-                                        <h2>All Projects</h2>
-                                        <p>Complete portfolio of my development work</p>
-                                </div>
-
-                                <div class="projects-grid">
-                                        <div class="project-card">
-                                                <h3><i class="fas fa-globe"></i> Personal Website</h3>
-                                                <div class="project-description">
-                                                        <p>My personal portfolio website showcasing my work and skills. Built with HTML, CSS, and JavaScript with particle animations and responsive design.</p>
-                                                </div>
-                                                <div>
-                                                        <span class="project-tech">HTML</span>
-                                                        <span class="project-tech">CSS</span>
-                                                        <span class="project-tech">JavaScript</span>
-                                                        <span class="project-tech">Particles.js</span>
-                                                </div>
-                                                <div class="project-actions">
-                                                        <a href="https://github.com/FiratSS/Firatss.github.io" class="button small" target="_blank">GitHub</a>
-                                                        <a href="https://www.firatselcuk.dev" class="button small" target="_blank">Live Site</a>
                                                 </div>
                                         </div>
                                 </div>
@@ -387,6 +368,10 @@
         <script src="assets/js/util.js"></script>
         <script src="assets/js/main.js"></script>
 
+        <script src="assets/js/particles.min.js"></script>
+        <script>
+                particlesJS.load('particles-js', 'assets/js/particles.json');
+        </script>
 </body>
 
 </html>

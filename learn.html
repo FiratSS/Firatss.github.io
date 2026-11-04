@@ -7,7 +7,7 @@
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Short, searchable technical learning capsules. Learn web, APIs, databases, and more in 3-8 minutes.">
-        <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="assets/css/main.css?v=6">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css">
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -18,11 +18,11 @@
                 body {
                         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
                         line-height: 1.6;
-                        color: #333;
+                        color: #e6e9ef;
                 }
                 
                 a {
-                        color: #B9852B;
+                        color: #9fb0e0;
                         text-decoration: none;
                 }
                 
@@ -31,19 +31,19 @@
                 }
                 
                 .search-filters {
-                        background: #f8f9fa;
+                        background: #161d2c;
                         padding: 2rem;
                         border-radius: 12px;
                         margin: 2rem 0;
                         box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-                        border: 1px solid #e9ecef;
+                        border: 1px solid #263046;
                 }
 
                 .search-bar {
                         width: 100%;
                         padding: 1rem 1.5rem;
                         font-size: 1rem;
-                        border: 2px solid #e9ecef;
+                        border: 2px solid #263046;
                         border-radius: 8px;
                         margin-bottom: 1.5rem;
                         transition: all 0.3s ease;
@@ -52,8 +52,8 @@
 
                 .search-bar:focus {
                         outline: none;
-                        border-color: #B9852B;
-                        box-shadow: 0 0 0 3px rgba(185, 133, 43, 0.1);
+                        border-color: #9fb0e0;
+                        box-shadow: 0 0 0 3px rgba(159, 176, 224, 0.15);
                 }
 
                 .filters {
@@ -72,19 +72,19 @@
 
                 .filter-group label {
                         font-weight: 600;
-                        color: #333;
+                        color: #e6e9ef;
                         font-size: 0.95rem;
                 }
 
                 .filter-btn {
                         padding: 0.5rem 1.25rem;
-                        border: 2px solid #e9ecef;
-                        background: white;
+                        border: 2px solid #263046;
+                        background: #161d2c;
                         border-radius: 25px;
                         cursor: pointer;
                         transition: all 0.3s ease;
                         font-size: 0.9rem;
-                        color: #495057;
+                        color: #a3adbf;
                         font-weight: 500;
                         display: inline-flex;
                         align-items: center;
@@ -94,15 +94,15 @@
                 }
 
                 .filter-btn:hover {
-                        border-color: #B9852B;
-                        background: #f0f7ff;
-                        color: #B9852B;
+                        border-color: #9fb0e0;
+                        background: #161d2c;
+                        color: #9fb0e0;
                 }
 
                 .filter-btn.active {
-                        background: linear-gradient(135deg, #B9852B, #96691C);
+                        background: linear-gradient(135deg, #5d6da3, #414f80);
                         color: white;
-                        border-color: #B9852B;
+                        border-color: #9fb0e0;
                 }
 
                 .capsules-grid {
@@ -113,8 +113,8 @@
                 }
 
                 .capsule-card {
-                        background: #fff;
-                        border: 1px solid #e9ecef;
+                        background: #121826;
+                        border: 1px solid #263046;
                         border-radius: 12px;
                         padding: 2rem;
                         transition: all 0.3s ease;
@@ -135,13 +135,13 @@
                         left: 0;
                         right: 0;
                         height: 4px;
-                        background: linear-gradient(90deg, #B9852B, #96691C);
+                        background: linear-gradient(90deg, #5d6da3, #414f80);
                 }
 
                 .capsule-card:hover {
                         transform: translateY(-8px);
                         box-shadow: 0 20px 40px rgba(0,0,0,0.15);
-                        border-color: #B9852B;
+                        border-color: #9fb0e0;
                 }
 
                 .capsule-header {
@@ -155,7 +155,7 @@
                 .capsule-title {
                         font-size: 1.3rem;
                         font-weight: bold;
-                        color: #333;
+                        color: #e6e9ef;
                         margin: 0;
                         flex: 1;
                         line-height: 1.4;
@@ -171,18 +171,18 @@
                 }
 
                 .level-badge.beginner {
-                        background: #d4edda;
-                        color: #155724;
+                        background: #16382a;
+                        color: #7ee2a8;
                 }
 
                 .level-badge.intermediate {
-                        background: #fff3cd;
-                        color: #856404;
+                        background: #2a3350;
+                        color: #b4c2f0;
                 }
 
                 .level-badge.advanced {
-                        background: #f8d7da;
-                        color: #721c24;
+                        background: #3d1f28;
+                        color: #f0a3b3;
                 }
 
                 .capsule-meta {
@@ -190,12 +190,12 @@
                         gap: 1.5rem;
                         margin: 1rem 0;
                         font-size: 0.9rem;
-                        color: #666;
+                        color: #a3adbf;
                         flex-wrap: wrap;
                 }
 
                 .capsule-description {
-                        color: #555;
+                        color: #a3adbf;
                         line-height: 1.6;
                         margin: 1rem 0;
                         flex: 1;
@@ -211,12 +211,12 @@
                 }
 
                 .tag {
-                        background: #f8f9fa;
+                        background: #161d2c;
                         padding: 0.35rem 0.85rem;
                         border-radius: 15px;
                         font-size: 0.8rem;
-                        color: #495057;
-                        border: 1px solid #e9ecef;
+                        color: #a3adbf;
+                        border: 1px solid #263046;
                 }
 
                 .read-time {
@@ -247,7 +247,7 @@
                 }
 
                 .capsule-detail-content {
-                        background: white;
+                        background: #121826;
                         border-radius: 16px;
                         max-width: 900px;
                         width: 100%;
@@ -263,8 +263,8 @@
                         position: absolute;
                         top: 1.5rem;
                         right: 1.5rem;
-                        background: #f8f9fa;
-                        border: 2px solid #e9ecef;
+                        background: #161d2c;
+                        border: 2px solid #263046;
                         width: 42px;
                         height: 42px;
                         border-radius: 50%;
@@ -274,35 +274,35 @@
                         align-items: center;
                         justify-content: center;
                         transition: all 0.3s ease;
-                        color: #495057;
+                        color: #a3adbf;
                         z-index: 10;
                 }
 
                 .close-btn:hover {
-                        background: #e9ecef;
+                        background: #263046;
                         transform: rotate(90deg);
-                        border-color: #B9852B;
+                        border-color: #9fb0e0;
                 }
 
                 .capsule-content {
                         line-height: 1.8;
-                        color: #333;
+                        color: #e6e9ef;
                 }
 
                 .capsule-content h2 {
-                        color: #B9852B;
+                        color: #9fb0e0;
                         margin-top: 2rem;
                         margin-bottom: 1rem;
                 }
 
                 .capsule-content h3 {
-                        color: #495057;
+                        color: #a3adbf;
                         margin-top: 1.5rem;
                         margin-bottom: 0.75rem;
                 }
 
                 .capsule-content code {
-                        background: #f8f9fa;
+                        background: #161d2c;
                         padding: 0.2rem 0.4rem;
                         border-radius: 4px;
                         font-family: 'Courier New', monospace;
@@ -310,11 +310,11 @@
                 }
 
                 .capsule-content pre {
-                        background: #f8f9fa;
+                        background: #161d2c;
                         padding: 1rem;
                         border-radius: 8px;
                         overflow-x: auto;
-                        border: 1px solid #E1E4EA;
+                        border: 1px solid #263046;
                 }
 
                 .capsule-content ul, .capsule-content ol {
@@ -327,30 +327,30 @@
                 }
 
                 .quiz-section {
-                        background: #f8f9fa;
+                        background: #161d2c;
                         padding: 1.5rem;
                         border-radius: 8px;
                         margin: 2rem 0;
-                        border: 1px solid #E1E4EA;
+                        border: 1px solid #263046;
                 }
 
                 .quiz-question {
                         margin: 1.5rem 0;
                         padding: 1rem;
-                        background: white;
+                        background: #161d2c;
                         border-radius: 8px;
                 }
 
                 .quiz-question h4 {
                         margin-bottom: 0.75rem;
-                        color: #333;
+                        color: #e6e9ef;
                 }
 
                 .quiz-answer {
                         margin-top: 1rem;
                         padding: 0.75rem;
-                        background: #FBF3E3;
-                        border: 1px solid #E1E4EA;
+                        background: #161d2c;
+                        border: 1px solid #263046;
                         border-radius: 4px;
                         display: none;
                 }
@@ -360,7 +360,7 @@
                 }
 
                 .reveal-btn {
-                        background: linear-gradient(135deg, #B9852B 0%, #96691C 100%);
+                        background: linear-gradient(135deg, #5d6da3 0%, #414f80 100%);
                         color: white;
                         border: none;
                         padding: 0.5rem 1rem;
@@ -381,7 +381,7 @@
                 }
 
                 .pdf-download-btn {
-                        background: linear-gradient(135deg, #B9852B, #96691C);
+                        background: transparent; border: 1px solid rgba(255,255,255,0.4);
                         color: white;
                         border: none;
                         padding: 0.75rem 1.5rem;
@@ -397,9 +397,8 @@
                 }
 
                 .pdf-download-btn:hover {
-                        background: linear-gradient(135deg, #218838, #1ea085);
+                        background: rgba(255,255,255,0.12);
                         transform: translateY(-2px);
-                        box-shadow: 0 6px 20px rgba(40, 167, 69, 0.4);
                 }
 
                 @media print {
@@ -490,14 +489,14 @@
                 .no-results {
                         text-align: center;
                         padding: 3rem;
-                        color: #888;
+                        color: #a3adbf;
                         grid-column: 1 / -1;
                 }
 
                 .loading {
                         text-align: center;
                         padding: 3rem;
-                        color: #666;
+                        color: #a3adbf;
                         grid-column: 1 / -1;
                 }
 
@@ -509,12 +508,12 @@
                 .section-header h2 {
                         font-size: 2.5rem;
                         margin-bottom: 1rem;
-                        color: #333;
+                        color: #e6e9ef;
                 }
 
                 .section-header p {
                         font-size: 1.2rem;
-                        color: #666;
+                        color: #a3adbf;
                         max-width: 600px;
                         margin: 0 auto;
                 }
@@ -560,6 +559,7 @@
 
         <!-- Banner -->
         <section id="banner">
+                <div id="particles-js"></div>
                 <div class="inner">
                         <header>
                                 <h1>Learning Snacks</h1>
@@ -827,8 +827,8 @@
                                                 <i class="fas fa-exclamation-circle" style="font-size: 3rem; margin-bottom: 1rem; display: block;"></i>
                                                 <h2>Error Loading Capsule</h2>
                                                 <p>Unable to load capsule content. Please try again later.</p>
-                                                <p style="font-size: 0.9rem; color: #888; margin-top: 1rem;">Error: ${error.message}</p>
-                                                <button onclick="closeCapsuleModal()" style="margin-top: 2rem; padding: 0.75rem 2rem; background: #B9852B; color: white; border: none; border-radius: 8px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; height: auto; line-height: normal;">Close</button>
+                                                <p style="font-size: 0.9rem; color: #a3adbf; margin-top: 1rem;">Error: ${error.message}</p>
+                                                <button onclick="closeCapsuleModal()" style="margin-top: 2rem; padding: 0.75rem 2rem; background: transparent; color: white; border: 1px solid rgba(255,255,255,0.4); border-radius: 8px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; height: auto; line-height: normal;">Close</button>
                                         </div>
                                 `;
                         }
@@ -981,6 +981,10 @@
 
                 // Load capsules on page load
                 document.addEventListener('DOMContentLoaded', loadCapsules);
+        </script>
+        <script src="assets/js/particles.min.js"></script>
+        <script>
+                particlesJS.load('particles-js', 'assets/js/particles.json');
         </script>
 </body>
 
