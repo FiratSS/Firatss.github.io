@@ -1,122 +1,130 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "categories": {
     "technology": [
       {
-        "title": "Xbox Debuts the Series X-BITE: A Working Console Swallowed by an Alligator - Hypebeast",
+        "title": "Motorola is going ultra premium with its $1,600 ‘Signature’ phone - The Verge",
+        "description": "The Motorola Signature 27 comes with true flagship specs — and a sky-high price.",
+        "url": "https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability",
+        "source": "The Verge",
+        "publishedAt": "2026-11-05T13:00:00Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/signature27_lifestyle12.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
+      },
+      {
+        "title": "She thought her Hinge match’s photo looked off. Then she realized why - USA Today",
+        "description": "Dating apps have an AI problem. More users say they’re seeing increasingly hard-to-detect fake photos.",
+        "url": "https://www.usatoday.com/story/life/health-wellness/2026/11/05/dating-apps-ai-photos/92385695007/",
+        "source": "USA Today",
+        "publishedAt": "2026-11-05T12:56:00Z",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/05/USAT/92622705007-getty-images-915398034.jpg?crop=5179,2915,x0,y265&width=3200&height=1802&format=pjpg&auto=webp"
+      },
+      {
+        "title": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare - Eurogamer.net",
         "description": null,
-        "url": "https://hypebeast.com/2026/11/xbox-debuts-series-x-bite-working-console-inside-alligator-release-info",
-        "source": "HYPEBEAST",
-        "publishedAt": "2026-11-04T03:50:26Z",
+        "url": "https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
+        "source": "Eurogamer.net",
+        "publishedAt": "2026-11-05T12:48:40Z",
         "image": null
       },
       {
-        "title": "Exclusive: YouTube is cooking up something new called 'Tamba,' and it looks pretty social - Android Authority",
-        "description": "YouTube's latest Android app reveals a mysterious 'Tamba' project with followers, DMs, group chats, and other social features.",
-        "url": "https://www.androidauthority.com/youtube-tamba-sandbox-social-app-apk-teardown-3731409/",
-        "source": "Android Authority",
-        "publishedAt": "2026-11-04T03:37:00Z",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/YouTube-TV-logo-on-smartphone-stock-photo-5.jpg"
+        "title": "2026 iPad mini review: Maximizing the mini - Ars Technica",
+        "description": "It's more compelling than ever, but also more expensive.",
+        "url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
+        "source": "Ars Technica",
+        "publishedAt": "2026-11-05T12:00:01Z",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261104_095710-1152x648.jpg"
       },
       {
-        "title": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Now Live - New Additions, Changes & Improvements - Nintendo Life",
-        "description": "Including paid and free updates",
-        "url": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-year-two-2-0-0-patch-now-live-new-additions-changes-and-improvements",
-        "source": "Nintendo Life",
-        "publishedAt": "2026-11-04T01:15:00Z",
-        "image": "https://images.nintendolife.com/18e28c0a27fab/1280x720.jpg"
-      },
-      {
-        "title": "PS Store Black Friday Sale Live Now with 2,200+ PS5 Discounts - Push Square",
-        "description": "Here are some of the best PS5 deals",
-        "url": "https://www.pushsquare.com/news/2026/11/ps-store-black-friday-sale-live-now-with-2200plus-ps5-discounts",
-        "source": "Push Square",
-        "publishedAt": "2026-11-04T00:18:51Z",
-        "image": "https://images.pushsquare.com/58b02a8eb91ab/1280x720.jpg"
-      },
-      {
-        "title": "Devs Are Being Forced To Delay Their Games On Steam Thanks To AI Slop - Kotaku",
-        "description": "'Oh no, we are not releasing on the same day as Zelda'",
-        "url": "https://kotaku.com/devs-are-being-forced-to-delay-their-games-on-steam-and-they-think-its-because-of-the-ai-slop-flood-2000752839",
-        "source": "Kotaku",
-        "publishedAt": "2026-11-03T23:05:14Z",
-        "image": "https://kotaku.com/app/uploads/2025/08/valve.jpg"
+        "title": "Discord is ditching Electron and its new app uses less RAM - The Verge",
+        "description": "Discord is moving its apps fully over to the Rust programming language.",
+        "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+        "source": "The Verge",
+        "publishedAt": "2026-11-05T11:39:42Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       }
     ],
     "business": [
       {
-        "title": "Democrats’ Victory to Add Volatility to AI Trade - WSJ",
+        "title": "Novo Nordisk Lifts Guidance as Rollout of Wegovy Weight-Loss Pill Continues - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-financial-airline-stocks-87443383",
+        "url": "https://www.wsj.com/health/pharma/novo-nordisk-lifts-guidance-as-rollout-of-wegovy-weight-loss-pill-continues-1f748068",
         "source": "The Wall Street Journal",
-        "publishedAt": "2026-11-04T10:27:00Z",
+        "publishedAt": "2026-11-05T14:39:10Z",
         "image": null
       },
       {
-        "title": "Oil Prices Fall as U.S. Midterm Results Unfold - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-as-u-s-midterm-results-unfold-0e45fbe8",
+        "title": "Qualcomm, Micron, and Arm Holdings stocks sink, leading chip sector lower - Yahoo Finance",
+        "description": "Qualcomm, Micron, and Arm Holdings were all trading lower on Thursday as chip stocks continued to slide.",
+        "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-11-05T13:31:00Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/f58ad96b63d5c7c595c9e1fa76b5ad51cf6d6c4e0579044bf4488879c8e8be8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F3808064e-df48-4137-b0f1-fb45f910445d"
+      },
+      {
+        "title": "Wendy’s Rejects Trian’s $1.4 Billion Takeover Offer - WSJ",
+        "description": "Company backs its own turnaround bid instead of being taken private by Nelson Peltz’s hedge fund",
+        "url": "https://www.wsj.com/business/deals/wendys-rejects-trians-1-4-billion-takeover-offer-984b1892",
         "source": "The Wall Street Journal",
-        "publishedAt": "2026-11-04T09:49:00Z",
-        "image": null
+        "publishedAt": "2026-11-05T13:20:00Z",
+        "image": "https://images.wsj.net/im-19787036/social"
       },
       {
-        "title": "SpaceX, Tesla fall around 4% on Democrats' big win; AI stocks mixed - CNBC",
-        "description": "AI fortunes were mixed as premarket trading opened on Wednesday.",
-        "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-04T05:16:01Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108511091-1793714895762-gettyimages-2302880756-US_MIDTERMS.jpeg?v=1793714928&w=1920&h=1080"
+        "title": "Powerball player wins $847M jackpot. See where winning ticket was sold - USA Today",
+        "description": "The lucky player won the ninth largest jackpot in the game's history.",
+        "url": "https://www.usatoday.com/story/money/lottery/2026/11/05/powerball-jackpot-winner-new-jersey/92622332007/",
+        "source": "USA Today",
+        "publishedAt": "2026-11-05T12:23:00Z",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/05/USAT/92622459007-20261019-t-224115-z-838582534-mt-1-usatoday-30132186-rtrmadp-3-adisplayfornewjerseylotterypowerballat-7-elevenon.JPG?crop=6290,3539,x0,y327&width=3200&height=1801&format=pjpg&auto=webp"
       },
       {
-        "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off - CNBC",
-        "description": "Treasury yields moved lower on Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
-        "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-04T03:24:00Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108353328-1787582498969-gettyimages-2291320542-AFP_C6DP8QL.jpeg?v=1787582612&w=1920&h=1080"
+        "title": "European Stocks Hit Fresh Record as AI Unwind Boosts Region - Bloomberg.com",
+        "description": "European stocks surpassed their prior closing record high as the region extended an outperformance driven by a rotation out of the artificial intelligence trade and a strong earnings season.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
+        "source": "Bloomberg",
+        "publishedAt": "2026-11-05T12:16:44Z",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRsUHvPx1Bic/v0/1200x800.jpg"
       }
     ],
     "sports": [
       {
-        "title": "Three Observations from the way Bayern Munich dismantled Atlético Madrid - Bavarian Football Works",
-        "description": "FC Bayern went to the Metropolitano and came away with an important Champions League win.",
-        "url": "https://www.bavarianfootballworks.com/bayern-munich-match-observations/277037/atletico-madrid-vs-bayern-munich-match-observations-analysis-champions-league-harry-kane-michael-olise-simeone",
-        "source": "Bavarian Football Works",
-        "publishedAt": "2026-11-04T10:37:00Z",
-        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/11/gettyimages-2303378532.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-      },
-      {
-        "title": "Former MLB star Mark Teixeira wins U.S. House seat in Texas - ESPN",
-        "description": "Republican Mark Teixeira, a three-time Major League Baseball All-Star, has won election to the U.S. House in Texas' 21st Congressional District. Also Tuesday, former college football coach Tommy Tuberville won the Alabama gubernatorial race.",
-        "url": "https://www.espn.com/mlb/story/_/id/50376245/former-mlb-star-mark-teixeira-wins-us-house-seat-texas",
+        "title": "Robert Kraft recovering from back surgery, will miss Rob Gronkowski ceremony - ESPN",
+        "description": "Patriots owner Robert Kraft is recovering from back surgery, which he said will force him to miss Rob Gronkowski's team Hall of Fame induction.",
+        "url": "https://www.espn.com/nfl/story/_/id/50388263/patriots-owner-robert-kraft-recovering-back-surgery",
         "source": "ESPN",
-        "publishedAt": "2026-11-04T06:03:00Z",
-        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1104%2Fr1740875_1296x729_16%2D9.jpg"
+        "publishedAt": "2026-11-05T13:48:00Z",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1105%2Fr1741459_1296x729_16%2D9.jpg"
       },
       {
-        "title": "Lakers' Luka Doncic has 2nd tech of season rescinded by NBA - ESPN",
-        "description": "The technical foul assessed to Los Angeles Lakers star Luka Doncic late in the second quarter of Monday's 138-117 win over the Miami Heat was rescinded, the NBA announced.",
-        "url": "https://www.espn.com/nba/story/_/id/50374485/lakers-luka-doncic-2nd-technical-season-rescinded-nba",
-        "source": "ESPN",
-        "publishedAt": "2026-11-04T02:02:00Z",
-        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1104%2Fr1740826_1296x729_16%2D9.jpg"
+        "title": "Victor Wembanyama makes NBA history with 52-point, 24-rebound, 8-block game in Spurs win - Yahoo Sports",
+        "description": "No player in NBA history has posted a game with those numbers.",
+        "url": "https://sports.yahoo.com/nba/article/victor-wembanyama-makes-nba-history-with-52-point-24-rebound-8-block-game-in-spurs-win-053159800.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-11-05T13:39:24Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/285f5020c5e4287dc214fdbb29e78f8e92d44fc2749166b9cc915c791036d068/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F55fdc293-603e-4e81-928f-94df427c36db"
       },
       {
-        "title": "Notre Dame to host elite flip target on campus for Miami game - 247Sports",
-        "description": "Notre Dame is set to host a major recruiting target for its matchup against Miami as the Fighting Irish look to make a late push in his recruitment",
-        "url": "https://247sports.com/article/notre-dame-elite-flip-target-miami-game-292140755/",
+        "title": "Football: Japan's Kozo Tashima to stand against Gianni Infantino for Fifa presidency - BBC",
+        "description": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.",
+        "url": "https://www.bbc.com/sport/football/articles/cwvgdyd80g9do",
+        "source": "BBC News",
+        "publishedAt": "2026-11-05T12:55:13Z",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e88/live/38577680-d916-11f1-a81d-35e942472442.jpg"
+      },
+      {
+        "title": "Soccer star Cristiano Ronaldo announces his international retirement from Portugal - NBC News",
+        "description": "Soccer star Cristiano Ronaldo won’t play for Portugal anymore, ending on Thursday a career that spanned six World Cups and included a European title and the men’s all-time international scoring record.",
+        "url": "https://www.nbcnews.com/sports/soccer/cristiano-ronaldo-announces-international-retirement-portugal-rcna607602",
+        "source": "NBC News",
+        "publishedAt": "2026-11-05T12:37:37Z",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-ronaldo-rs-bc79d9.jpg"
+      },
+      {
+        "title": "Ohio State's ranking explanation doesn't make sense, but the path to the Playoff is clear - 247Sports",
+        "description": "The Buckeyes know what they have to do for the rest of the regular season",
+        "url": "https://247sports.com/college/ohio-state/article/ohio-state-football-ranking-explanation-doesnt-make-sense-but-the-path-to-the-playoff-is-clear-292171438/",
         "source": "247Sports",
-        "publishedAt": "2026-11-04T01:54:43Z",
-        "image": "https://s3media.247sports.com/Uploads/Assets/812/616/14616812.jpg?width=1200&height=628&crop=1.91:1&fit=cover"
-      },
-      {
-        "title": "Alabama's CFP ranking stuns college football world: 'JOKE from the CFP committee' - USA Today",
-        "description": "Alabama's No. 5 seed in the initial CFP rankings has caused some head-scratching. Here's some reactions, along with an explanation from the CFP chair.",
-        "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/11/03/alabama-football-cfp-rankings-reveal-social-reactions/92597504007/",
-        "source": "USA Today",
-        "publishedAt": "2026-11-04T01:53:00Z",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/11/USAT/92201460007-20261011-t-020130-z-1592641101-mt-1-usatoday-30053311-rtrmadp-3-ncaafootballgeorgiaatalabama.JPG?crop=2576,1449,x233,y78&width=2576&height=1449&format=pjpg&auto=webp"
+        "publishedAt": "2026-11-05T12:36:31Z",
+        "image": "https://s3media.247sports.com/Uploads/Assets/245/428/14428245.JPG?width=1200&height=628&crop=1.91:1&fit=cover"
       }
     ]
   }
