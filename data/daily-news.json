@@ -1,122 +1,130 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "categories": {
     "technology": [
       {
-        "title": "Samsung Galaxy S27 and S27 Ultra camera specs reportedly leaked - Mashable",
-        "description": null,
-        "url": "https://mashable.com/tech/samsung-galaxy-s27-camera-specs-leak",
+        "title": "Microsoft confirms Windows security updates installation issues - BleepingComputer",
+        "description": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update.",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+        "source": "BleepingComputer",
+        "publishedAt": "2026-11-12T10:24:07Z",
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/11/12/Windows-11.jpg"
+      },
+      {
+        "title": "GTA 6 preorders top $1 billion as Hollywood eyes record launch weekend - Mashable",
+        "description": "Sony and Microsoft say it's already the most preordered game in the history of their digital stores.",
+        "url": "https://mashable.com/tech/gta-6-preorders-1-billion-hollywood",
         "source": "Mashable",
-        "publishedAt": "2026-11-11T13:07:31Z",
+        "publishedAt": "2026-11-12T10:16:05Z",
+        "image": "https://helios-i.mashable.com/imagery/articles/04ksT9yZqVyXuoXxUeAUrsO/hero-image.fill.size_1200x675.v1794432763.jpg"
+      },
+      {
+        "title": "Humble Bundle Undergoes A Vibe-Coded Redesign, Forgets To Implement Full Account Security - Kotaku",
+        "description": null,
+        "url": "https://kotaku.com/humble-bundle-vibe-coded-ai-redesign-account-security-password-email-2000756085",
+        "source": "Kotaku",
+        "publishedAt": "2026-11-12T09:00:39Z",
         "image": null
       },
       {
-        "title": "Are your TVs spying on you? We asked their makers - The Verge",
-        "description": "After LG was accused of spying through its TVs, I wanted to see how other TV companies were collecting and protecting our data.﻿",
-        "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-        "source": "The Verge",
-        "publishedAt": "2026-11-11T13:00:00Z",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        "title": "The ‘Zelda: Ocarina Of Time’ Remake Sold Over 5 Million Copies In 4 Days - Forbes",
+        "description": "The recently released and thoroughly excellent remake of 'Zelda: Ocarina of Time' has managed to sell over 5 million units in its first 4 days on sale.",
+        "url": "https://www.forbes.com/sites/olliebarder/2026/11/11/the-zelda-ocarina-of-time-remake-sold-over-5-million-copies-in-4-days/",
+        "source": "Forbes",
+        "publishedAt": "2026-11-12T03:38:18Z",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6aea856746bd6f7f3553987e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
       },
       {
-        "title": "Not everyone is loving their new iPhone Duo - The Verge",
-        "description": "The iPhone Duo went on sale just over two weeks ago, but some early adopters have seen enough.",
-        "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
-        "source": "The Verge",
-        "publishedAt": "2026-11-11T13:00:00Z",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-      },
-      {
-        "title": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs - VideoCardz.com",
-        "description": "NVIDIA reportedly informed board partners that the RTX 5080 24GB will not launch in January. The existing 16GB model is now expected to remain in production.",
-        "url": "https://videocardz.com/newz/nvidia-reportedly-cancels-geforce-rtx-5080-24gb-launch-brings-back-16gb-model-over-gddr7-costs",
-        "source": "Videocardz.com",
-        "publishedAt": "2026-11-11T09:15:01Z",
-        "image": "https://cdn.videocardz.com/1/2025/01/MSI-RTX-5080-24GB.jpg"
+        "title": "45 \"Boomer\" Life Hacks That Every Young Person Should Keep In Their Notes App - BuzzFeed",
+        "description": "\"I keep one in the closet and soccer it around the main level as needed.\"",
+        "url": "https://www.buzzfeed.com/kristenharris1/boomer-life-hacks",
+        "source": "Buzzfeed",
+        "publishedAt": "2026-11-12T02:31:02Z",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/09/19/thumb/rh2EuAs1r.jpg?crop=1250:654;0,41%26downsize=1250:*"
       }
     ],
     "business": [
       {
-        "title": "Nvidia Gets a Downgrade on First Call for Huang to Go. The Stock Is Rising. - Barron's",
-        "description": "Nvidia stock was rising Wednesday as Wall Street digests the pressure on CEO Jensen Huang.",
-        "url": "https://www.barrons.com/articles/nvidia-stock-price-ceo-huang-3293a075",
-        "source": "Barron's",
-        "publishedAt": "2026-11-11T14:26:00Z",
-        "image": "https://images.barrons.com/im-69025974/social"
-      },
-      {
-        "title": "Veterans Day 2026 brings free meals at popular restaurants — and some deals don't end Nov. 11 - Fox News",
-        "description": "About 30 restaurants are offering Veterans Day deals on Nov. 11, from Outback Steakhouse's free Bloomin' Onion to Buffalo Wild Wings' boneless wings.",
-        "url": "https://www.foxnews.com/food-drink/veterans-day-2026-brings-free-meals-popular-restaurants-some-deals-dont-end-nov-11",
-        "source": "Fox News",
-        "publishedAt": "2026-11-11T13:58:25Z",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/older-man-eating-brunch-with-friends.jpg"
-      },
-      {
-        "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes - CNBC",
-        "description": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
-        "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+        "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion - CNBC",
+        "description": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
+        "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
         "source": "CNBC",
-        "publishedAt": "2026-11-11T13:16:31Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108269129-1771945561128-gettyimages-2262826598-nabe_022426_johnson_004.jpeg?v=1771945592&w=1920&h=1080"
+        "publishedAt": "2026-11-12T11:30:01Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108230917-1763994390176-gettyimages-2248015646-jl1_6581_sjozszkb.jpeg?v=1763994431&w=1920&h=1080"
       },
       {
-        "title": "'Icarus' rise and fall': Analyst downgrades Nvidia stock amid Jensen Huang woes, highlights risks - Yahoo Finance",
-        "description": "Wall Street gets more cautious on Nvidia.",
-        "url": "https://finance.yahoo.com/markets/article/icarus-rise-and-fall-analyst-downgrades-nvidia-stock-amid-jensen-huang-woes-highlights-risks-131204555.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-11-11T13:12:04Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/37608319abb9cc6b2137e44aaf8d60b8e434ea71dcfb48ea0b989398d27aa67d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F73397122-32c5-4d11-921d-65ed01004467"
+        "title": "Who could replace Jensen Huang as Nvidia's chief executive? - BBC",
+        "description": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+        "url": "https://www.bbc.com/news/articles/cqgm37dv20e8o",
+        "source": "BBC News",
+        "publishedAt": "2026-11-12T11:21:25Z",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/086c/live/13145560-de47-11f1-93e1-3b657b665bcf.jpg"
       },
       {
-        "title": "Scoop: Commerce Department received national security warning on Nvidia CEO affair - Axios",
-        "description": "The agency cleared advanced AI chip sales in May.",
-        "url": "https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo",
-        "source": "Axios",
-        "publishedAt": "2026-11-11T11:47:35Z",
-        "image": "https://images.axios.com/QdGvTen2GCBvveTn-c0W9R2D7XY=/0x0:4000x2250/1366x768/2026/11/10/1794352029848.jpeg"
+        "title": "Your Dog Is Too Fat: Why Everyone at the Vet’s Office Is at Each Other’s Throats - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/lifestyle/your-dog-is-too-fat-why-everyone-at-the-vets-office-is-at-each-others-throats-83038c09",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-11-12T10:30:00Z",
+        "image": null
+      },
+      {
+        "title": "Winning Powerball numbers for the $45 million jackpot on Wednesday, Nov. 11: See all the prizes hit in Ohio - WKYC",
+        "description": null,
+        "url": "https://www.wkyc.com/article/news/lottery/winning-powerball-numbers-45-million-jackpot-wednesday-november-11-results-ohio-lottery-winners/95-dbcdc661-2e28-469a-9839-4326f3ffc65d",
+        "source": "WKYC.com",
+        "publishedAt": "2026-11-12T10:04:00Z",
+        "image": null
+      },
+      {
+        "title": "Romanov sapphire worn by Russian empress fetches $4.9M at auction - NBC News",
+        "description": "A Romanov sapphire weighing nearly 198 carats on a diamond-covered bracelet sold for more than 4.1 million Swiss francs ($4.9 million) at auction.",
+        "url": "https://www.nbcnews.com/world/europe/romanov-sapphire-bracelet-russia-empress-mughal-empire-auction-rcna608936",
+        "source": "NBC News",
+        "publishedAt": "2026-11-12T09:22:32Z",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261112-sapphire-rs-9764bf.jpg"
       }
     ],
     "sports": [
       {
-        "title": "Man Utd manager: Mauricio Pochettino appointment a decade in the making - BBC",
-        "description": "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
-        "url": "https://www.bbc.com/sport/football/articles/cwzd9pvjy426o",
-        "source": "BBC News",
-        "publishedAt": "2026-11-11T12:58:17Z",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7299/live/2b5bc490-ddcb-11f1-9053-236ccb99630c.jpg"
+        "title": "Racing Bulls commits to Lawson and Lindblad as 2027 F1 line-up - The Race",
+        "description": "Liam Lawson will remain at Racing Bulls next season after the squad announced an unchanged Formula 1 line-up for 2027",
+        "url": "https://www.the-race.com/formula-1/racing-bulls-commits-to-lawson-and-lindblad-as-2027-f1-line-up/",
+        "source": "The-race.com",
+        "publishedAt": "2026-11-12T11:22:47Z",
+        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/11/XPB_1453177_HiRes.jpg"
       },
       {
-        "title": "CFP reaction: Alabama feels the love, Indiana gets the shaft and Big 12 gets relief as committee confuses us - Fox News",
-        "description": "Georgia claims the No. 1 spot in the CFP rankings as the SEC dominates with five teams in the top 12, raising serious Big Ten and Big 12 concerns.",
-        "url": "https://www.foxnews.com/outkick-sports/cfp-reaction-alabama-feels-love-indiana-gets-shaft-big-12-gets-relief-committee-confuses-us",
-        "source": "Fox News",
-        "publishedAt": "2026-11-11T11:55:25Z",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/alabama-keon-sabb-111126-1.jpg"
+        "title": "2026 NFL midseason award rankings: MVP picks, top rookies, OPOY, DPOY, coaches - ESPN",
+        "description": "Joe Burrow for MVP? Arvell Reese as the DROY? Hardware for Jaxon Smith-Njigba and Will Anderson Jr.? We ranked the top contenders to win eight NFL awards through Week 9.",
+        "url": "https://www.espn.com/nfl/story/_/id/50452792/2026-midseason-awards-ranking-mvp-rookies-coaches-barnwell",
+        "source": "ESPN",
+        "publishedAt": "2026-11-12T11:20:00Z",
+        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1111%2Fnfl_barnwell_midseason_awards_cr_16x9.jpg"
       },
       {
-        "title": "South Africa’s most successful Olympian Tatjana Smith reveals she’s switching to the Netherlands - New York Post",
-        "description": "Four-time Olympic medalist Tatjana Smith has announced she will switch nations to swim for the Netherlands at the 2028 Los Angeles Games.",
-        "url": "https://nypost.com/2026/11/11/sports/south-africa-olympian-tatjana-smith-reveals-shes-switching-to-the-netherlands/",
-        "source": "New York Post",
-        "publishedAt": "2026-11-11T08:52:00Z",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148315521.jpg?quality=75&strip=all&w=1200"
+        "title": "Broncos, Chargers announce Daiyan Henley will not be traded after all - NBC Sports",
+        "description": "More than 24 hours after the NFL trade deadline, the trade of Henley from the Charges to the Broncos was canceled.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-chargers-announce-daiyan-henley-will-not-be-traded-after-all",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-11-12T09:25:18Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d4d0771/2147483647/strip/true/crop/4916x2765+0+256/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbd%2Fde%2F707be99f462692c89e3f2ee577aa%2F2178279646.jpg"
       },
       {
-        "title": "Why Queens’ head coach wore a Latter-day Saint-themed sweater against BYU - Deseret News",
-        "description": "",
-        "url": "https://www.deseret.com/sports/2026/11/11/queens-coach-grant-leonard-sweater-latter-day-saints-byu-basketball/",
-        "source": "Deseret News",
-        "publishedAt": "2026-11-11T07:45:07Z",
-        "image": "https://www.deseret.com/resizer/v2/AZ6UKZK4WBCZNH5ZHDIDAQ7POM.jpg?focal=0%2C0&auth=058b03d54a36ae93edf5902b6081324fa709d339e38126d16b8f38eb35ad830d&width=630&height=331"
+        "title": "Austin Reaves exits with heel injury as banged-up Lakers win 7th straight - ESPN",
+        "description": "Lakers guard Austin Reaves exited Wednesday's win because of a left heel injury. Initial X-rays came back negative and he will undergo further evaluation.",
+        "url": "https://www.espn.com/nba/story/_/id/50459249/reaves-exits-heel-injury-banged-lakers-win-again",
+        "source": "ESPN",
+        "publishedAt": "2026-11-12T05:31:00Z",
+        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1112%2Fr1744703_1024x576_16%2D9.jpg"
       },
       {
-        "title": "CRAWFORD | Kansas 89, Kentucky 69: Different players, same problems for Mark Pope - WDRB",
-        "description": "A frustrating blowout loss to Kansas raises red flags for Kentucky basketball.",
-        "url": "https://www.wdrbwave.com/2026/11/11/crawford-kansas-89-kentucky-69-different-players-same-problems-mark-pope/",
-        "source": "Wdrbwave.com",
-        "publishedAt": "2026-11-11T07:27:00Z",
-        "image": "https://gray-wave-prod.gtv-cdn.com/resizer/v2/RIWUHJRXMZBTHA6TX3ZXXHNMVA.jpg?auth=8545a554f7d60cc2269620b7decd272c834b13cf7905cca2819ccd1d63f232dd&width=1200&height=600&smart=true"
+        "title": "Player Grades: Lakers vs. Bucks - Silver Screen and Roll",
+        "description": "Grading every Lakers player’s performance from the team’s 123-112 win over the Bucks.",
+        "url": "https://www.silverscreenandroll.com/lakers-analysis/128814/player-grades-lakers-bucks-stats-box-score-recap-luka-doncic-austin-reaves",
+        "source": "Silver Screen and Roll ",
+        "publishedAt": "2026-11-12T04:17:00Z",
+        "image": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/11/gettyimages-2304183388.jpg?quality=90&strip=all&crop=0.4%2C33.484492254175%2C99.6%2C34.764348824984&w=1200"
       }
     ]
   }
