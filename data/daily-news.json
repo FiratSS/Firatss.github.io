@@ -1,122 +1,130 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "categories": {
     "technology": [
       {
-        "title": "The Nintendo Switch 2 gets a rare deal way ahead of Black Friday - Mashable",
-        "description": "The $30-off deal has been restocked.",
-        "url": "https://mashable.com/tech/nov-13-nintendo-switch-2-deal",
-        "source": "Mashable",
-        "publishedAt": "2026-11-15T12:09:31Z",
-        "image": "https://helios-i.mashable.com/imagery/articles/0306Ml0I5nNRPPHURC5QtuE/hero-image.fill.size_1200x675.v1794585807.jpg"
+        "title": "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX - XBOX Wire",
+        "description": "Some may know me as DJ Khaled. Some may know me as a hitmaker, a major key provider. But today, I want you to call me Dr. XBOX. Why? Because I’ve been",
+        "url": "https://news.xbox.com/en-us/2026/11/16/dr-xbox-its-time-to-take-the-day-off-and-play-xbox/",
+        "source": "Xbox.com",
+        "publishedAt": "2026-11-16T14:02:02Z",
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/DrXBOX_Hero-ff346cf4ed4093811e3f.jpg"
       },
       {
-        "title": "Google's Gemini 4 Hydrogen is free — here are 5 impressive things you can do with it - Tom's Guide",
-        "description": "Google's new model beats its pricier one and is just as impressive",
-        "url": "https://www.tomsguide.com/ai/google-gemini/googles-gemini-4-hydrogen-is-free-here-are-5-impressive-things-you-can-do-with-it",
-        "source": "Tom's Guide",
-        "publishedAt": "2026-11-15T05:56:27Z",
-        "image": "https://cdn.mos.cms.futurecdn.net/X6dTrYPSS9g6VcZkyqRAhX-2560-80.jpg"
+        "title": "Google warns that fully-automated AI attacks are coming soon - BleepingComputer",
+        "description": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed.",
+        "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+        "source": "BleepingComputer",
+        "publishedAt": "2026-11-16T14:00:00Z",
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/10/09/robot-hacker.jpg"
       },
       {
-        "title": "NYT Strands hints, answers for November 14, 2026 - Mashable",
-        "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle.",
-        "url": "https://mashable.com/entertainment/strands-nyt-hint-november-14-2026",
-        "source": "Mashable",
-        "publishedAt": "2026-11-15T03:35:07Z",
-        "image": "https://helios-i.mashable.com/imagery/articles/00APqaCmfLEeEhhXAhAc9lO/hero-image.fill.size_1200x675.v1794412843.jpg"
+        "title": "Stocks making the biggest moves premarket: L3Harris, Nvidia, Take-Two Interactive, Yeti, American Airlines & more - CNBC",
+        "description": "Follow along as CNBC highlights the biggest stock market moves of the day.",
+        "url": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-16T13:47:00Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108549918-1794488015209-gettyimages-2304689714-vcg111681604086.jpeg?v=1794488032&w=1920&h=1080"
       },
       {
-        "title": "12 Niche USB-C Gadgets That Are Surprisingly Useful - SlashGear",
-        "description": "USB-C is the wired charging standard for your phones, earbuds, and more, but a lot of devices that use it fall well outside the typical categories.",
-        "url": "https://www.slashgear.com/2314039/niche-usb-c-gadgets-that-are-useful/",
-        "source": "SlashGear",
-        "publishedAt": "2026-11-15T02:30:00Z",
-        "image": "https://www.slashgear.com/img/gallery/12-niche-usb-c-gadgets-that-are-surprisingly-useful/l-intro-1794424838.jpg"
+        "title": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air - MacRumors",
+        "description": "Next year's \"iPhone 20 Pro\" models will use the same glass design as the iPhone Air, but with more pronounced curvature along all four...",
+        "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-to-be-based-on-iphone-air/",
+        "source": "MacRumors",
+        "publishedAt": "2026-11-16T13:40:33Z",
+        "image": "https://images.macrumors.com/t/4rBJhPkChNilujrAMHX2a_YNqqE=/1801x/article-new/2025/02/iphone-air-camera.jpg"
+      },
+      {
+        "title": "GTA 6 hacker pleads guilty after release from secure hospital - BBC",
+        "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+        "url": "https://www.bbc.com/news/articles/cq99exy89dngo",
+        "source": "BBC News",
+        "publishedAt": "2026-11-16T13:34:22Z",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7b17/live/41c7a2f0-e1a2-11f1-b0a4-450a350911f4.png"
       }
     ],
     "business": [
       {
-        "title": "As US credit card debt hits $1.29T, bank algorithms are rejecting debt-free, six-figure earners - Fox Business",
-        "description": "Across the country, debt-free Americans earning six figures face credit card denials as bank algorithms flag thin credit files as high-risk behavior.",
-        "url": "https://www.foxbusiness.com/personal-finance/us-credit-card-debt-hits-1-29t-bank-algorithms-rejecting-debt-free-six-figure-earners",
-        "source": "Fox Business",
-        "publishedAt": "2026-11-15T12:00:00Z",
-        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/us-man-credit-card-stress.jpg?ve=1&tl=1"
-      },
-      {
-        "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week - Yahoo Finance",
-        "description": "Anthropic's IPO and continued fallout at Nvidia will lead the news cycle on Wall Street this week.",
-        "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-11-15T11:00:00Z",
-        "image": "https://s.yimg.com/lo/mysterio/api/3200fae7d1eec9a0d21e57fe7578da5f87cd591c4f65b8d83b87eadf389ee729/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbaa4a52b-0526-45af-8f7f-c55ee4a6f0f2_307d968542fdb6348cd5f675c2161791f8cfab046ce919cd7ca0ab9e4f8ceb20.jpg"
-      },
-      {
-        "title": "Ground Stop Ripples Into Third Day of Scrapped Flights - WSJ",
+        "title": "Stocks slide as Nvidia leads AI names lower: Live updates - CNBC",
         "description": null,
-        "url": "https://www.wsj.com/business/airlines/groundstop-ripples-into-third-day-of-scrapped-flights-003cba99",
-        "source": "The Wall Street Journal",
-        "publishedAt": "2026-11-15T10:38:00Z",
+        "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-16T15:46:11Z",
         "image": null
       },
       {
-        "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business - CNBC",
-        "description": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
-        "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
-        "source": "CNBC",
-        "publishedAt": "2026-11-15T08:20:51Z",
-        "image": "https://image.cnbcfm.com/api/v1/image/108547469-1794318020972-gettyimages-2303987004-AFP_D6ZC9G8.jpeg?v=1794318066&w=1920&h=1080"
+        "title": "Nvidia live updates: Interim CEO Kress prepares for Q3 earnings, with Huang reportedly planning comeback - Yahoo Finance",
+        "description": "Nvidia will report its Q3 earnings after the bell Tuesday.",
+        "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-11-16T15:38:22Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/cc9ad1a3ec34ad4475f4f702b47a628bf29c64151d2763df1224ef89ec534f94/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F78cde9e3-767f-4ed2-a2b3-7a122d0d2792"
       },
       {
-        "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels - Financial Times",
+        "title": "Chip stocks fall on US semiconductor restrictions: AlphaCheck - Yahoo Finance",
+        "description": "Stocks declined on Monday as the semiconductor sector came under pressure.",
+        "url": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150019770.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-11-16T15:00:19Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/67312772d842d4e63e2c96cad111ae8f05e5b818232056374de0d99c68d6d5f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fd69ee08d-1efa-4e34-a1b9-2b9f3496a60c"
+      },
+      {
+        "title": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial - CNBC",
+        "description": "Wegovy is already approved to treat obesity in children ages 12 and older, but there are currently no approved medications for those under 12.",
+        "url": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html",
+        "source": "CNBC",
+        "publishedAt": "2026-11-16T15:00:01Z",
+        "image": "https://image.cnbcfm.com/api/v1/image/108226741-1763385742323-gettyimages-2212016189-NOVO_WEGOVY.jpeg?v=1763385821&w=1920&h=1080"
+      },
+      {
+        "title": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback - Forbes",
         "description": null,
-        "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6\\\\u003d1",
-        "source": "Financial Times",
-        "publishedAt": "2026-11-15T08:08:13Z",
+        "url": "https://www.forbes.com/sites/alisondurkee/2026/11/16/jensen-huang-ousted-timeline-of-the-nvidia-scandal-as-he-reportedly-plots-comeback/",
+        "source": "Forbes",
+        "publishedAt": "2026-11-16T14:57:00Z",
         "image": null
       }
     ],
     "sports": [
       {
-        "title": "DP World Tour Championship: Rory McIlroy claims Race To Dubai as Tyrell Hatton wins tournament - BBC",
-        "description": "Rory McIlroy pips Eugenio Chacarra in a thrilling battle to win a record-equalling eighth season-long European tour title, and his fifth in a row.",
-        "url": "https://www.bbc.com/sport/golf/articles/c6kg7rwmz1g8o",
-        "source": "BBC News",
-        "publishedAt": "2026-11-15T12:14:04Z",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ac2e/live/af1f1b20-e0e5-11f1-a701-fddedf244c16.jpg"
-      },
-      {
-        "title": "Australia vs England: Tom Banton, Gus Atkinson and Sonny Baker impress as tourists level series - BBC",
-        "description": "Tom Banton scores a century and Sonny Baker and Gus Atkinson impress with the ball as England's wildly inconsistent one-day team hammer Australia.",
-        "url": "https://www.bbc.com/sport/cricket/articles/c8n50wgr6vd4o",
-        "source": "BBC News",
-        "publishedAt": "2026-11-15T11:27:56Z",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/51c6/live/ecf25f10-e0dc-11f1-93e1-3b657b665bcf.jpg"
-      },
-      {
-        "title": "Arch Manning shakes off 3 interceptions, throws game-winning TD pass as Texas beats LSU - NBC Sports",
-        "description": "As he has been throughout his college football career, Texas quarterback Arch Manning was a mixed bag on Saturday.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arch-manning-shakes-off-3-interceptions-throws-game-winning-td-pass-as-texas-beats-lsu",
+        "title": "Report: Aidan Hutchinson is out for the season with torn ACL, likely additional damage - NBC Sports",
+        "description": "Hutchinson suffered the season-ending injury while celebrating a sack of Drake Maye, who was also injured.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aidan-hutchinson-is-out-for-the-season-with-torn-acl-likely-additional-damage",
         "source": "NBCSports.com",
-        "publishedAt": "2026-11-15T09:19:54Z",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a353793/2147483647/strip/true/crop/5148x2896+0+268/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdb%2F1d%2F3934b21a45c2b4381f75e8c28132%2F2304679961.jpg"
+        "publishedAt": "2026-11-16T14:56:59Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/83c90e4/2147483647/strip/true/crop/4257x2395+0+213/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2Faa%2F0b296c124d4780f9de03dc83da75%2F2305227635.jpg"
       },
       {
-        "title": "Patience starting to run thin for head coaches in Week 11 - ESPN",
-        "description": "Saturday didn't offer much to change the season's complexion, but some coaches are coming under pressure.",
-        "url": "https://www.espn.com/college-football/story/_/page/gamedayfinal111426/week-11-top-games-highlights-takeaways",
-        "source": "ESPN",
-        "publishedAt": "2026-11-15T07:32:00Z",
-        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1745975_1296x729_16%2D9.jpg"
+        "title": "College Football Playoff projections: Here's what the picture looks like after a Week 11 devoid of upsets - Yahoo Sports",
+        "description": "The 12 teams in our first set of projections are the 12 teams in our second set of projections.",
+        "url": "https://sports.yahoo.com/college-football/article/college-football-playoff-projections-heres-what-the-picture-looks-like-after-a-week-11-devoid-of-upsets-143738190.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-11-16T14:37:38Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/0f71b41828848a56007d20192518747371f3e193a284ea59d9af983b9214450a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F8f16b2c4-049e-4b82-b269-8f8747346087"
       },
       {
-        "title": "Predicting the College Football Playoff: Who's most likely to make the field? - ESPN",
-        "description": "Find out which teams our experts think will make this season's CFP.",
-        "url": "https://www.espn.com/college-football/story/_/page/playoffpredictions111426/cfp-predictions-week-11",
+        "title": "Brock Bowers \"should be good to go next week\" - NBC Sports",
+        "description": "Raiders tight end Brock Bowers was limited to 11 snaps on Sunday, due to an ankle injury that knocked him out of the game against the Seahawks.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-bowers-should-be-good-to-go-next-week",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-11-16T14:27:47Z",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cb25796/2147483647/strip/true/crop/4014x2258+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2Fd1%2Fc6e39fbc42ce8146b70fbe06a6eb%2F2026-11-15t183923z-532597516-mt1usatoday30360529-rtrmadp-3-nfl-seattle-seahawks-at-las-vegas-raiders.jpg"
+      },
+      {
+        "title": "Ronaldinho: Ravenna chiefs leave door open for Brazil icon to play again - ESPN",
+        "description": "Brazil great Ronaldinho could return to play for Ravenna again following his comeback to professional football, club executives have said.",
+        "url": "https://www.espn.com/soccer/story/_/id/50501062/ronaldinho-comeback-ravenna-italy-serie-c",
         "source": "ESPN",
-        "publishedAt": "2026-11-15T07:30:00Z",
-        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1745983_1296x729_16%2D9.jpg"
+        "publishedAt": "2026-11-16T13:43:00Z",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2Fr1746590_1296x729_16%2D9.jpg"
+      },
+      {
+        "title": "Drake Maye reportedly could miss remainder of season with 'significant lower leg injury,' Pats fear ankle fracture - Yahoo Sports",
+        "description": "Drake Maye was injured after an Aidan Hutchinson sack.",
+        "url": "https://sports.yahoo.com/nfl/breaking-news/article/drake-maye-reportedly-could-miss-remainder-of-season-with-significant-lower-leg-injury-pats-fear-ankle-fracture-132048155.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-11-16T13:20:48Z",
+        "image": "https://s.yimg.com/lo/mysterio/api/ec357f67be12cf97aa733f6a603acc7b286f811c7f3bcd6f07e0229f4660c0d3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4749dfe0-d6d7-4941-a872-6ce08fcf5222"
       }
     ]
   }
